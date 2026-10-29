@@ -127,7 +127,7 @@ onBeforeUnmount(() => {
           aria-controls="reader-settings-panel"
           :aria-expanded="readerPanel === 'settings'"
           @click="readerPanel = readerPanel === 'settings' ? null : 'settings'"
-        >字体设置</button>
+        >阅读设置</button>
       </nav>
     </template>
     <template #doc-after>
