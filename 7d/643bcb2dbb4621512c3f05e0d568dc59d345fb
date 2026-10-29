@@ -1,0 +1,29 @@
+chapter-map.md
+  s_8d5f6c7196938c::t_92f6679575d507 11-42,48
+docs/标注.md
+  s_3b5301af6586fb::t_b34d2b136c1040 16,35,41,44-60,69,76,83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "7d643bcb2dbb4621512c3f05e0d568dc59d345fb",
+  "prompts": {},
+  "sessions": {
+    "s_3b5301af6586fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1880c-351d-7bd3-bbdd-1e23a883eab8",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    },
+    "s_8d5f6c7196938c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a187ed-5133-7270-b5e2-39c50504d28c",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
