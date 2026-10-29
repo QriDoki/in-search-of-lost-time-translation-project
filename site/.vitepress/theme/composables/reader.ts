@@ -1,4 +1,5 @@
 import { computed, reactive, watch } from 'vue'
+import { defaultAnnotationTypes, sanitizeAnnotationTypes } from '../../../../scripts/lib/annotation-types.mjs'
 import {
   book,
   pageAt,
@@ -20,6 +21,7 @@ export interface ReaderPrefs {
   fontFamily: ReaderFont
   theme: ReaderTheme
   width: number
+  annotationTypes: string[]
 }
 
 export interface ReadingPosition {
@@ -46,6 +48,7 @@ const DEFAULT_PREFS: ReaderPrefs = {
   fontFamily: 'sans',
   theme: 'paper',
   width: 720,
+  annotationTypes: [...defaultAnnotationTypes],
 }
 
 const THEME_COLORS: Record<ReaderTheme, string> = {
@@ -98,6 +101,7 @@ function sanitizePrefs(input: Partial<ReaderPrefs> | null): ReaderPrefs {
     next.theme = input.theme as ReaderTheme
   }
   if (Number.isFinite(input.width)) next.width = clamp(Number(input.width), 580, 960)
+  next.annotationTypes = sanitizeAnnotationTypes(input.annotationTypes)
   return next
 }
 
@@ -234,7 +238,7 @@ export function setActiveProgress(value: number) {
 }
 
 export function resetPreferences() {
-  Object.assign(prefs, { ...DEFAULT_PREFS })
+  Object.assign(prefs, { ...DEFAULT_PREFS, annotationTypes: [...DEFAULT_PREFS.annotationTypes] })
 }
 
 export function clearReadingProgress() {

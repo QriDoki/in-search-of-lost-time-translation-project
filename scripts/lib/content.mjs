@@ -23,6 +23,7 @@ import path from 'node:path'
 import MarkdownIt from 'markdown-it'
 import { bookConfig } from '../../book.config.mjs'
 import { resolveContentVersion } from './content-version.mjs'
+import { annotationIsVisible, defaultAnnotationTypes, splitAnnotationTypes } from './annotation-types.mjs'
 
 const noteMarkdown = new MarkdownIt({ html: true })
 
@@ -208,12 +209,14 @@ function formatInline(text, ctx, label) {
     parts.push(prose(text.slice(cursor, match.index)))
     if (ctx.annotationStyle === 'popover') {
       const anchored = match[3] === undefined
-      const note = noteMarkdown.renderInline(emphasisToHtml((anchored ? match[2] : match[3]).trim()))
+      const parsed = splitAnnotationTypes(anchored ? match[2] : match[3])
+      const note = noteMarkdown.renderInline(emphasisToHtml(parsed.note))
+      const hidden = annotationIsVisible(parsed.types, defaultAnnotationTypes) ? '' : ' is-note-hidden'
       const anchor = anchored
         ? `<span class="reader-annotation__anchor">${prose(match[1])}</span>`
         : ''
       parts.push(
-        `<span class="reader-annotation">${anchor}` +
+        `<span class="reader-annotation${hidden}" data-reader-note-types="${escapeHtml(parsed.types.join(' '))}">${anchor}` +
         `<button type="button" class="reader-annotation__trigger" data-reader-note="${escapeHtml(note)}" ` +
         'aria-label="查看注解" aria-haspopup="dialog" aria-expanded="false"></button></span>',
       )
