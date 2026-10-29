@@ -1,0 +1,19 @@
+DEVELOPMENT.md
+  s_8d5f6c7196938c::t_4c47577c1ee887 23-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "c9c3f79f0d74d16f5063b52abac538e8924bbc01",
+  "prompts": {},
+  "sessions": {
+    "s_8d5f6c7196938c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a187ed-5133-7270-b5e2-39c50504d28c",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
