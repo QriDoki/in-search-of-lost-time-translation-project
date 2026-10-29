@@ -483,8 +483,26 @@ onBeforeUnmount(() => {
           <ReaderAnnotationTypes />
 
           <div class="reader-progress-summary">
-            <span v-if="currentPage">本页 {{ percent(reading.pageProgress) }}</span>
-            <span>全书 {{ percent(overallProgress) }}</span>
+            <div v-if="currentPage" class="reader-progress-summary__row">
+              <span>本页</span>
+              <span class="reader-progress-summary__percent">{{ percent(reading.pageProgress) }}</span>
+              <progress
+                class="reader-progress-summary__bar"
+                :value="reading.pageProgress"
+                max="1"
+                aria-label="本页阅读进度"
+              >{{ percent(reading.pageProgress) }}</progress>
+            </div>
+            <div class="reader-progress-summary__row">
+              <span>全书</span>
+              <span class="reader-progress-summary__percent">{{ percent(overallProgress) }}</span>
+              <progress
+                class="reader-progress-summary__bar"
+                :value="overallProgress"
+                max="1"
+                aria-label="全书阅读进度"
+              >{{ percent(overallProgress) }}</progress>
+            </div>
           </div>
 
           <div class="reader-panel__actions">

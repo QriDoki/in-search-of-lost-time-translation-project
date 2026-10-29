@@ -270,7 +270,7 @@ export function pagePercent(pageId: string): number {
 }
 
 export function percent(value: number): string {
-  return `${Math.round(clamp(value, 0, 1) * 100)}%`
+  return `${(clamp(value, 0, 1) * 100).toFixed(2)}%`
 }
 
 export { book, pageById, pages }
