@@ -1,0 +1,39 @@
+# Chunk 27 输入包（第 001 章）
+
+## chunk 术语表（本 chunk 出现的全部术语；note 为权威）
+
+| EN | ZH | note |
+|---|---|---|
+| Norpois | 诺尔普瓦 | 德·诺尔普瓦侯爵（marquis de Norpois），前驻外使节、驻埃及财政监督，法兰西道德与政治科学院院士；说话用旧式外交辞令。带爵位时作「诺尔普瓦侯爵」。禁用译法: 诺尔普瓦兹、诺普瓦。[person] |
+| Cottard | 戈达尔 | 戈达尔大夫（le docteur Cottard），维尔迪兰小集团成员、名医；其妻为戈达尔夫人。禁用译法: 科塔尔、戈达。[person] |
+| Faffenheim-Munsterburg-Weinigen | 法芬海姆-蒙斯特堡-魏尼根 | 德国亲王、前驻外使节与外交大臣，为当选法兰西学会道德与政治科学院院士而求诺尔普瓦引荐；单称「法芬海姆亲王」。 |
+| apaches | 街头恶棍 | 十九世纪末巴黎对街头流氓、歹徒的俗称；不译「阿帕奇人」（那是北美原住民）。 |
+| Livre jaune | 黄皮书 | 各国外交部公布的官方文书汇编；原文说民众读不到其中的真实算计。 |
+| Académie française | 法兰西学院 | 法兰西学会五院之一，即通常所说的「法兰西学院」；父亲有意竞选其自由院士。 |
+| Kurgarten | 疗养花园 | 德语「疗养花园」，温泉疗养地的散步园；诺尔普瓦与德国亲王在此谈「和平」或「战争」。 |
+| cocotte | 交际花 | 贬义，家人对斯万妻子的评价（presque une cocotte）。首现第1章。[concept] |
+| Institut | 法兰西学会 | Institut（de France），五院联合体；「进法兰西学会」指当选其院士，不作「研究所」。[org] |
+| Académie | 法兰西学院 | 第003章；“il est de l’Académie”指法兰西学院院士身份。 |
+| Mme de Villeparisis | 维尔巴里西斯侯爵夫人 | 外祖母之友 |
+
+## 全书前文信息
+
+本卷为《追忆似水年华》第三部《盖尔芒特家那边》第二部（vol7 第 001 章）。叙述者一家已迁入盖尔芒特府侧翼；外祖母健康日坏；叙述者每日清晨在街上守候盖尔芒特公爵夫人，却始终未能亲近；他刚从严寒的唐西埃尔军营探访圣卢归来，圣卢正与女演员拉谢尔苦恋。父亲有意竞选法兰西学院自由院士，诺尔普瓦表面相助、实则劝阻。维尔巴里西斯侯爵夫人的沙龙是叙述者新近进入的社交场：她是盖尔芒特公爵夫人的姑母（实为姻亲长辈），沙龙成分混杂，贵族亲戚、外交官、资产者、文人、犹太青年布洛克并坐。德雷福斯事件正在撕裂法国社交界。叙述者仍未能开始写作。
+
+## 本章前文信息
+
+前文：法芬海姆亲王的冗长封号在叙述者心里化作一片童年的德国山水；他来是为了当选院士。本 chunk：亲王并非天真之辈，他懂得外交辞令的暗示；圣安德烈勋章送错了；诺尔普瓦一味恭维；外交家的算计与外婆式的不解世事；「恶棍」的比喻。
+
+## 原文
+
+Mais le prince de Faffenheim n'était pas un naïf ; il était ce que le docteur Cottard eût appelé « un fin diplomate » et il savait que M. de Norpois n'en était pas un moins fin, ni un homme qui ne se fût pas avisé de lui-même qu'il pourrait être agréable à un candidat en votant pour lui. Le prince, dans ses ambassades et comme ministre des Affaires Étrangères, avait tenu, pour son pays au lieu que ce fût comme maintenant pour lui-même, de ces conversations où on sait d'avance jusqu'où on veut aller et ce qu'on ne vous fera pas dire. Il n'ignorait pas que dans le langage diplomatique causer signifie offrir. Et c'est pour cela qu'il avait fait avoir à M. de Norpois le cordon de Saint-André. Mais s'il eût dû rendre compte à son gouvernement de l'entretien qu'il avait eu après cela avec M. de Norpois, il eût pu énoncer dans sa dépêche :
+
+« J'ai compris que j'avais fait fausse route. » Car dès qu'il avait recommencé à parler Institut, M. de Norpois lui avait redit :
+
+-- J'aimerais cela beaucoup, beaucoup pour mes collègues. Ils doivent, je pense, se sentir vraiment honorés que vous ayez pensé à eux. C'est une candidature tout à fait intéressante, un peu en dehors de nos habitudes. Vous savez, l'Académie est très routinière, elle s'effraye de tout ce qui rend un son un peu nouveau. Personnellement je l'en blâme. Que de fois il m'est arrivé de le laisser entendre à mes collègues. Je ne sais même pas, Dieu me pardonne, si le mot d'encroûtés n'est pas sorti une fois de mes lèvres, avait-il ajouté avec un sourire scandalisé, à mi-voix, presque *a parte*, comme dans un effet de théâtre et en jetant sur le prince un coup d'œil rapide et oblique de son œil bleu, comme un vieil acteur qui veut juger de son effet. Vous comprenez, prince, que je ne voudrais pas laisser une personnalité aussi éminente que la vôtre s'embarquer dans une partie perdue d'avance. Tant que les idées de mes collègues resteront aussi arriérées, j'estime que la sagesse est de s'abstenir. Croyez bien d'ailleurs que si je voyais jamais un esprit un peu plus nouveau, un peu plus vivant, se dessiner dans ce collège qui tend à devenir une nécropole, si j'escomptais une chance possible pour vous, je serais le premier à vous en avertir.
+
+« Le cordon de Saint-André est une erreur, pensa le prince ; les négociations n'ont pas fait un pas ; ce n'est pas cela qu'il voulait. Je n'ai pas mis la main sur la bonne clef. »
+
+C'était un genre de raisonnement dont M. de Norpois, formé à la même école que le prince, eût été capable. On peut railler la pédantesque niaiserie avec laquelle les diplomates à la Norpois s'extasient devant une parole officielle à peu près insignifiante. Mais leur enfantillage a sa contre-partie : les diplomates savent que, dans la balance qui assure cet équilibre, européen ou autre, qu'on appelle la paix, les bons sentiments, les beaux discours, les supplications pèsent fort peu ; et que le poids lourd, le vrai, les déterminations, consiste en autre chose, en la possibilité que l'adversaire a, s'il est assez fort, ou n'a pas, de contenter, par moyen d'échange, un désir. Cet ordre de vérités, qu'une personne entièrement désintéressée comme ma grand'mère, par exemple, n'eût pas compris, M. de Norpois, le prince von \*\*\* avaient souvent été aux prises avec lui. Chargé d'affaires dans les pays avec lesquels nous avions été à deux doigts d'avoir la guerre, M. de Norpois, anxieux de la tournure que les événements allaient prendre, savait très bien que ce n'était pas par le mot « Paix », ou par le mot « Guerre », qu'ils lui seraient signifiés, mais par un autre, banal en apparence, terrible ou béni, et que le diplomate, à l'aide de son chiffre, saurait immédiatement lire, et auquel, pour sauvegarder la dignité de la France, il répondrait par un autre mot tout aussi banal mais sous lequel le ministre de la nation ennemie verrait aussitôt : Guerre. Et même, selon une coutume ancienne, analogue à celle qui donnait au premier rapprochement de deux êtres promis l'un à l'autre la forme d'une entrevue fortuite à une représentation du théâtre du Gymnase, le dialogue où le destin dicterait le mot « Guerre » ou le mot « Paix » n'avait généralement pas eu lieu dans le cabinet du ministre, mais sur le banc d'un « Kurgarten » où le ministre et M. de Norpois allaient l'un et l'autre à des fontaines thermales boire à la source de petits verres d'une eau curative. Par une sorte de convention tacite, ils se rencontraient à l'heure de la cure, faisaient d'abord ensemble quelques pas d'une promenade que, sous son apparence bénigne, les deux interlocuteurs savaient aussi tragique qu'un ordre de mobilisation. Or, dans une affaire privée comme cette présentation à l'Institut, le prince avait usé du même système d'induction qu'il avait fait dans sa carrière, de la même méthode de lecture à travers les symboles superposés.
+
+Et certes on ne peut prétendre que ma grand'mère et ses rares pareils eussent été seuls à ignorer ce genre de calculs. En partie la moyenne de l'humanité, exerçant des professions tracées d'avance, rejoint par son manque d'intuition l'ignorance que ma grand'mère devait à son haut désintéressement. Il faut souvent descendre jusqu'aux êtres entretenus, hommes ou femmes, pour avoir à chercher le mobile de l'action ou des paroles en apparence les plus innocentes dans l'intérêt, dans la nécessité de vivre. Quel homme ne sait que, quand une femme qu'il va payer lui dit : « Ne parlons pas d'argent », cette parole doit être comptée, ainsi qu'on dit en musique, comme « une mesure pour rien », et que si plus tard elle lui déclare : « Tu m'as fait trop de peine, tu m'as souvent caché la vérité, je suis à bout », il doit interpréter : « un autre protecteur lui offre davantage » ? Encore n'est-ce là que le langage d'une cocotte assez rapprochée des femmes du monde. Les apaches fournissent des exemples plus frappants. Mais M. de Norpois et le prince allemand, si les apaches leur étaient inconnus, avaient accoutumé de vivre sur le même plan que les nations, lesquelles sont aussi, malgré leur grandeur, des êtres d'égoïsme et de ruse, qu'on ne dompte que par la force, par la considération de leur intérêt, qui peut les pousser jusqu'au meurtre, un meurtre symbolique souvent lui aussi, la simple hésitation à se battre ou le refus de se battre pouvant signifier pour une nation : « périr ». Mais comme tout cela n'est pas dit dans les Livres Jaunes et autres, le peuple est volontiers pacifiste ; s'il est guerrier, c'est instinctivement, par haine, par rancune, non par les raisons qui ont décidé les chefs d'État avertis par les Norpois.

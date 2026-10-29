@@ -1,0 +1,13 @@
+# 第001章 chunk 13 术语表（仅列本 chunk 出现的术语）
+
+| EN | ZH | note |
+|---|---|---|
+| Altesse | 殿下 | 对亲王、亲王夫人的尊称；「Monseigneur」用于直接称呼（大人），「Son Altesse」（S.A. 殿下）用于提及。 |
+| baron de Charlus | 夏吕斯男爵 | 属于斯万的上流社会交游背景。 原文别名: Charlus [类别 person] [依据译林版参考术语表 003_swann_context/glossary.json] |
+| Charlie | 夏利 | 莫雷尔的昵称（Charlie Morel），夏吕斯与维尔迪兰家都这样叫他；与「夏尔·莫雷尔」同指一人。第002章高频。禁用：查理（指莫雷尔时）。 |
+| Guermantes | 盖尔芒特 | 家族名与地名；le côté de Guermantes→盖尔芒特家那边（散步路线，贡布雷II）；hôtel de Guermantes→盖尔芒特府（巴黎府邸，叙述者一家租住其侧翼）；les Guermantes→盖尔芒特一家。[place_family] |
+| Jupien | 朱皮安 | 盖尔芒特府庭院里的背心裁缝（giletier），后谋得部里职位；与弗朗索瓦丝结为知己，被她称作「过渡的药物」。为人厚道、眼光悲悯而谈吐机敏，叙述者认为他有一种天然文学才智。首现 vol6 第 001 章。禁用译法: 朱皮耶、儒皮安、朱比安。 |
+| la nièce de Jupien | 朱皮安的外甥女 | 朱皮安的甥女，先做背心裁缝的帮手，后专做女裙（jupière），在庭院里开店，雇一两个女工。外祖母当年曾把她当作朱皮安的女儿。 |
+| M. de Charlus | 夏吕斯先生 | 即盖尔芒特家夏吕斯男爵 |
+| Morel | 莫雷尔 | 阿道夫叔公旧日贴身男仆之子夏尔·莫雷尔；巴黎音乐学院一等奖，后成小提琴手，野心勃勃。禁用译法: 莫雷耳 |
+| Verdurin | 维尔迪兰 | 复数指维尔迪兰夫妇或维尔迪兰一家，依句法。 禁用译法: 韦尔迪兰、维乐迪兰 原文别名: les Verdurin [类别 surname] [依据译林版参考术语表 003_swann_context/glossary.json] |

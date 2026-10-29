@@ -1,0 +1,124 @@
+/* EPUB 阅读样式：面向中文长文的排版。 */
+
+body {
+  font-family: "Noto Serif CJK SC", "Source Han Serif SC", "Songti SC", "SimSun", serif;
+  line-height: 1.8;
+  text-align: justify;
+}
+
+p {
+  margin: 0 0 0.35em;
+  text-indent: 2em;
+}
+
+li p,
+.title-fr,
+.chapter-subtitle,
+.scene-break {
+  text-indent: 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 600;
+  line-height: 1.4;
+  text-align: center;
+  text-indent: 0;
+}
+
+h1 {
+  font-size: 1.6em;
+  margin: 3em 0 1.5em;
+}
+
+h2 {
+  font-size: 1.25em;
+  margin: 2.4em 0 1em;
+}
+
+h3 {
+  font-size: 1.1em;
+  margin: 2em 0 0.8em;
+}
+
+h4 {
+  font-size: 1em;
+  margin: 1.6em 0 0.6em;
+  color: #444;
+}
+
+/* 原书概要式副题：标题级排版，但不是可导航条目。 */
+.chapter-subtitle {
+  margin: 1.2em 0 1.4em;
+  font-size: 0.9em;
+  line-height: 1.8;
+  text-align: justify;
+  text-indent: 2em;
+  color: #555;
+}
+
+.chapter-subtitle p {
+  margin: 0;
+  text-indent: 2em;
+}
+
+/* 卷首页上的法文书名。 */
+.title-fr {
+  margin: -0.6em 0 2em;
+  font-size: 0.95em;
+  font-style: italic;
+  text-align: center;
+  color: #666;
+}
+
+/* 段间分隔（原作的 * * *）。 */
+.scene-break {
+  margin: 1.6em 0;
+  text-align: center;
+  letter-spacing: 0.6em;
+  color: #777;
+}
+
+em {
+  font-style: italic;
+}
+
+/* 编号保持在原处，不撑大正文行距。弹窗交由阅读器处理。 */
+a.footnote-ref {
+  vertical-align: super;
+  font-size: 0.75em;
+  line-height: 0;
+  text-decoration: none;
+}
+
+/* 不隐藏脚注：不支持弹窗的阅读器仍可跳到章末查看。 */
+.footnotes {
+  font-size: 0.82em;
+  line-height: 1.7;
+  color: #444;
+}
+
+.footnotes hr {
+  width: 4em;
+  margin: 2.5em auto 1em;
+  border: 0;
+  border-top: 1px solid #bbb;
+}
+
+.footnotes ol {
+  padding-left: 1.2em;
+}
+
+.footnotes p {
+  text-indent: 0;
+}
+
+.footnotes aside {
+  margin: 0 0 1em;
+}
+
+.footnotes a[role~="doc-backlink"] {
+  font-size: 0.9em;
+}

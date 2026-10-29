@@ -1,0 +1,11 @@
+{
+  "book": "La prisonnière (À la recherche du temps perdu XI) - Marcel Proust",
+  "volume": "vol11",
+  "prev_volume": "vol10",
+  "source_dir": "/home/qri/lost-time/raw-md/vol11",
+  "last_completed_chapter": 2,
+  "current_chapter": null,
+  "current_chapter_chunks_total": 0,
+  "completed_chunks": [],
+  "glossary_version": 17
+}

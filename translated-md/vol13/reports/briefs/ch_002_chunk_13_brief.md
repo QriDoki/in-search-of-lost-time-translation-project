@@ -1,0 +1,54 @@
+# chunk 13 资料袋（vol13 第002章《福什维尔小姐》）
+
+## 一、本 chunk 术语表（唯一权威，按 note 执行）
+| 原文 | 译文 | note |
+|---|---|---|
+| Mme Verdurin | 维尔迪兰夫人 | 沙龙女主人；安德蕾说她为侄子的婚事奔走。 |
+| Corliville | 科尔利维尔 | 虚构地名；莫雷尔带姑娘们去的妓院所在。 |
+| Françoise | 弗朗索瓦丝 | 叙述者的老女仆；本章有她赌气与告密（把维尔迪兰夫人的便条放在阿尔贝蒂娜物件上）的情节。 |
+| Albertine | 阿尔贝蒂娜 | 叙述者已故的情人；本章只以回忆、调查与遗忘的对象出现。禁用：艾伯丁。 |
+| Verdurin | 维尔迪兰 | 维尔迪兰夫妇；「信徒」们的沙龙。禁用：韦尔迪兰。 |
+| Andrée | 安德蕾 | 少女小团体成员，阿尔贝蒂娜最亲密的女伴；本章两次来访，先否认、后详述阿尔贝蒂娜的旧事。禁用：安德雷、安德里。 |
+| Morel | 莫雷尔 | 夏吕斯宠信的小提琴手；安德蕾说他替阿尔贝蒂娜物色姑娘。 |
+
+## 二、全书前文信息
+《追忆似水年华》以叙述者「我」的回忆展开：贡布雷的童年、斯万之恋、巴尔贝克的少女小团体、盖尔芒特家的沙龙、外祖母之死、与阿尔贝蒂娜的同居与幽禁。**vol12 末**：春日清晨，阿尔贝蒂娜出走后死于骑马事故。**本章（vol13 第 002 章）紧接第 001 章《悲伤与遗忘》**：经过两次调查与安德蕾的来访，「我」已进入遗忘的第一阶段——痛苦仍在，但已开始「像退潮一样」消退；他明白遗忘是唯一能战胜爱情的敌人。
+
+## 三、本章前文信息
+前文（P57–P62）：他承认自己正在喜欢上新的活人（盖尔芒特家的普通朋友），新的「我」已经出现，能安然谈论阿尔贝蒂娜；母亲接待日那天，安德蕾来访，说她要去找吉赛尔吃饭。
+
+## 四、本 chunk 位置与段落结构
+- chunk 序号：13 / 共 22 个 chunk
+- **源文段落块数：3** —— 译文必须正好 3 个段落块（空行分隔），不得合并或拆分
+- 源文范围：P63 — P65（约 1379 词）
+- 首段开头（核对用）：Le souvenir d'Albertine était devenu chez moi si fragmentaire qu'il ne me causait plus de 
+- 末段结尾（核对用）：che parfois d'éprouver le réel, immunise contre lui, le fait paraître de la pensée encore.
+- 本 chunk 起止都在整段边界上。
+
+## 五、格式与体例（全章统一，硬性）
+
+1. **段落数**：见第四节。源文一个空行分隔的块 = 译文一个段落块。不得合并、不得拆分、不得增删；不得添加「（续）」「……」「以下是译文」之类。
+2. **引号**：法文 « » → 中文“ ”。引语之内再引一层用‘ ’。**全文禁止「」『』**；**禁止整段用引号包裹**。
+3. **对话**：源文以 « 开头、整段是人物话语的段落，译文以「——」起首（破折号），**该段不再加引号**。叙述中夹引语时，引语用“”。源文一段之内的话轮以 `--` 分隔，译文同样用「——」，不加引号。
+4. **跨段引语**（源文一段以 « 开、下一段以 » 收，如信件、长引文）：**每段自成收支**——上一段末尾补收引号”，下一段开头重新开引号“。不得让引号跨段悬空。
+5. **破折号与省略号**：源文 `--` 一律作「——」；源文 `\...` 或 `...` 一律作「……」。
+6. **斜体**：源文带 `*…*` 的词句（如 *Figaro*、*Suave mari magno*、*five o'clock*、*english*、*très bien*、*contre*、*mon amour lui-même*、*pour cela*、*de*／*orge*／*ville*、*je suis dans les choux*）译文保留 `*…*` 斜体标记；源文没有斜体的，**不要自行添加**。报刊名用《》（如《费加罗报》），同时保留原文斜体标记时按「*《费加罗报》*」处理；剧名、曲名、书名用《》。
+7. **零容忍清单**：反引号 ` 0 个；图片（`![...]`、`<img>`、图注）0 个；`[待定]` 0 个；HTML 注释 0 个；ASCII 引号 " ' 0 个（中文引号内层用‘’可以）；NBSP 0 个；脚注标记（`^(1)^`、`(1)`）0 个；`^` 0 个；`M^` 残留 0 个。
+8. **禁用译名**（见术语表 note；另统一）：史万→斯万、黛奥特→奥黛特、科塔尔→戈达尔、韦尔迪兰→维尔迪兰、拉结→拉谢尔、外婆→外祖母、亲王夫人→亲王妃、**盖尔芒特夫人→盖尔芒特公爵夫人**、诺布瓦→诺尔普瓦、所多玛→索多玛、七叶树→栗树、克娄巴特拉→克莉奥帕特拉、狄安娜→迪亚娜、曼纳维尔→曼维尔、斯泰尔玛利亚→斯泰尔马里亚、布洛赫→布洛克、圣马尔斯勒韦图→圣马尔斯勒韦蒂、拉斯普利埃→拉斯佩利埃、福尔图尼→福图尼、蒙茹万→蒙舒凡、货栈、老鸨、鸡奸者→索多玛人。
+9. **本卷禁项**：不得出现任何出版机构、版权页、电子书来源信息；不得出现任何图片或图注。
+
+## 六、本章体例要点
+- 本章标题：`# Chapitre II — Mademoiselle de Forcheville` → `# 第二章 — 福什维尔小姐`（与 index.md 一致，不改）。
+- 源文斜体的 `Figaro` 译《费加罗报》并保留 `*`；`Lundis` 译《月曜日丛谈》；`Constitutionnel` 译《立宪报》。
+- 源文 `M^me^`→「夫人」、`M^lle^`→「小姐」、`I^er^`→「一世」、`^(1)^` 为脚注标记，直接删除，不译出。
+- 引语跨段处（如 P33 公爵夫人的长引语、P36 段首残引号）见术语报告「文本校勘」：P33 段末补收引号；P36 段首的 « 视为排印残迹，按叙述处理，不译出引号。
+
+## 七、本 chunk 内容提示
+他承认自己正在喜欢新的活人，新的「我」已出现，能安然谈论阿尔贝蒂娜；母亲接待日，安德蕾来访，说要去找吉赛尔吃饭。
+
+## 八、本 chunk 源文（只译此部分；空行即段落分隔）
+Le souvenir d'Albertine était devenu chez moi si fragmentaire qu'il ne me causait plus de tristesse et n'était plus qu'une transition à de nouveaux désirs, comme un accord qui prépare des changements d'harmonie. Et même cette idée de caprice sensuel et passager étant écartée en tant que j'étais encore fidèle au souvenir d'Albertine, j'étais plus heureux d'avoir auprès de moi Andrée que je ne l'aurais été d'avoir Albertine miraculeusement retrouvée. Car Andrée pouvait me dire plus de choses sur Albertine que ne m'en aurait dit Albertine elle-même. Or les problèmes relatifs à Albertine restaient encore dans mon esprit alors que ma tendresse pour elle, tant physique que morale, avait déjà disparu. Et mon désir de connaître sa vie, parce qu'il avait moins diminué, était maintenant comparativement plus grand que le besoin de sa présence. D'autre part, l'idée qu'une femme avait peut-être eu des relations avec Albertine ne me causait plus que le désir d'en avoir moi aussi avec cette femme. Je le dis à Andrée tout en la caressant. Alors sans chercher le moins du monde à mettre ses paroles d'accord avec celles d'il y avait quelques mois, Andrée me dit en souriant à demi : « Ah ! oui, mais vous êtes un homme. Aussi nous ne pouvons pas faire ensemble tout à fait les mêmes choses que je faisais avec Albertine. » Et soit qu'elle pensât que cela accroissait mon désir (dans l'espoir de confidences je lui avais dit que j'aimerais avoir des relations avec une femme en ayant eu avec Albertine) ou mon chagrin, ou peut-être détruisait un sentiment de supériorité sur elle qu'elle pouvait croire que j'éprouvais d'avoir été le seul à entretenir des relations avec Albertine : « Ah ! nous avons passé toutes les deux de bonnes heures, elle était si caressante, si passionnée. Du reste ce n'était pas seulement avec moi qu'elle aimait prendre du plaisir. Elle avait rencontré chez M^me^ Verdurin un joli garçon, Morel. Tout de suite ils s'étaient compris. Il se chargeait, ayant d'elle la permission d'y prendre aussi son plaisir, car il aimait les petites novices, de lui en procurer. Sitôt qu'il les avait mises sur le mauvais chemin, il les laissait. Il se chargeait ainsi de plaire à de petites pêcheuses d'une plage éloignée, à de petites blanchisseuses, qui s'amourachaient d'un garçon mais n'eussent pas répondu aux avances d'une jeune fille. Aussitôt que la petite était bien sous sa domination, il la faisait venir dans un endroit tout à fait sûr, où il la livrait à Albertine. Par peur de perdre Morel, qui s'y mêlait du reste, la petite obéissait toujours, et d'ailleurs elle le perdait tout de même, car, par peur des conséquences et aussi parce qu'une ou deux fois lui suffisaient, il filait en laissant une fausse adresse. Il eut une fois l'audace d'en mener une, ainsi qu'Albertine, dans une maison de femmes à Corliville, où quatre ou cinq la prirent ensemble ou successivement. C'était sa passion, comme c'était aussi celle d'Albertine. Mais Albertine avait après d'affreux remords. Je crois que chez vous elle avait dompté sa passion et remettait de jour en jour de s'y livrer. Puis son amitié pour vous était si grande, qu'elle avait des scrupules. Mais il était bien certain que si jamais elle vous quittait elle recommencerait. Elle espérait que vous la sauveriez, que vous l'épouseriez. Au fond, elle sentait que c'était une espèce de folie criminelle, et je me suis souvent demandé si ce n'était pas après une chose comme cela, ayant amené un suicide dans une famille, qu'elle s'était elle-même tuée. Je dois avouer que, tout à fait au début de son séjour chez vous, elle n'avait pas entièrement renoncé à ses jeux avec moi. Il y avait des jours où elle semblait en avoir besoin, tellement qu'une fois, alors que c'eût été si facile dehors, elle ne se résigna pas à me dire au revoir avant de m'avoir mise auprès d'elle, chez vous. Nous n'eûmes pas de chance, nous avons failli être prises. Elle avait profité de ce que Françoise était descendue faire une course, et que vous n'étiez pas rentré. Alors elle avait tout éteint pour que quand vous ouvririez avec votre clef vous perdiez un peu de temps avant de trouver le bouton, et elle n'avait pas fermé la porte de sa chambre. Nous vous avons entendu monter, je n'eus que le temps de m'arranger, de descendre. Précipitation bien inutile, car par un hasard incroyable vous aviez oublié votre clef et avez été obligé de sonner. Mais nous avons tout de même perdu la tête de sorte que, pour cacher notre gêne, toutes les deux, sans avoir pu nous consulter, nous avions eu la même idée : faire semblant de craindre l'odeur du seringa, que nous adorions au contraire. Vous rapportiez avec vous une longue branche de cet arbuste, ce qui me permit de détourner la tête et de cacher mon trouble. Cela ne m'empêcha pas de vous dire avec une maladresse absurde que peut-être Françoise était remontée et pourrait vous ouvrir, alors qu'une seconde avant, je venais de vous faire le mensonge que nous venions seulement de rentrer de promenade et qu'à notre arrivée Françoise n'était pas encore descendue et allait partir faire une course. Mais le malheur fut -- croyant que vous aviez votre clef -- d'éteindre la lumière, car nous eûmes peur qu'en remontant vous ne la vissiez se rallumer, ou du moins nous hésitâmes trop. Et pendant trois nuits Albertine ne put fermer l'œil parce qu'elle avait tout le temps peur que vous n'ayez de la méfiance et ne demandiez à Françoise pourquoi elle n'avait pas allumé avant de partir. Car Albertine vous craignait beaucoup, et par moments assurait que vous étiez fourbe, méchant, la détestant au fond. Au bout de trois jours elle comprit à votre calme que vous n'aviez rien demandé à Françoise et elle put retrouver le sommeil. Mais elle ne reprit plus ses relations avec moi, soit par peur, soit par remords, car elle prétendait vous aimer beaucoup, ou bien aimait-elle quelqu'un d'autre. En tous cas on n'a plus pu jamais parler de seringa devant elle sans qu'elle devînt écarlate et passât la main sur sa figure en pensant cacher sa rougeur. »
+
+Comme certains bonheurs, il y a certains malheurs qui viennent trop tard, ils ne prennent pas en nous toute la grandeur qu'ils auraient eue quelque temps plus tôt. Tel le malheur qu'était pour moi la terrible révélation d'Andrée. Sans doute, même quand de mauvaises nouvelles doivent nous attrister, il arrive que dans le divertissement, le jeu équilibré de la conversation, elles passent devant nous sans s'arrêter, et que nous, préoccupés de mille choses à répondre, transformés, par le désir de plaire aux personnes présentes, en quelqu'un d'autre protégé pour quelques instants dans ce cycle nouveau contre les affections, les souffrances qu'il a quittées pour y entrer et qu'il retrouvera quand le court enchantement sera brisé, nous n'ayons pas le temps de les accueillir. Pourtant, si ces affections, ces souffrances sont trop prédominantes, nous n'entrons que distraits dans la zone d'un monde nouveau et momentané, où, trop fidèles à la souffrance, nous ne pouvons devenir autres, et alors les paroles se mettent immédiatement en rapport avec notre cœur qui n'est pas resté hors de jeu. Mais depuis quelque temps les paroles concernant Albertine, comme un poison évaporé, n'avaient plus leur pouvoir toxique. Elle m'était déjà trop lointaine.
+
+Comme un promeneur voyant, l'après-midi, un croissant nuageux dans le ciel se dit : « C'est cela, l'immense lune », je me disais : « Comment ! cette vérité que j'ai tant cherchée, tant redoutée, c'est seulement ces quelques mots dits dans une conversation, auxquels on ne peut même pas penser complètement parce qu'on n'est pas seul ! » Puis elle me prenait vraiment au dépourvu, je m'étais beaucoup fatigué avec Andrée. Vraiment, une pareille vérité, j'aurais voulu avoir plus de force à lui consacrer ; elle me restait extérieure, mais c'est que je ne lui avais pas encore trouvé une place dans mon cœur. On voudrait que la vérité nous fût révélée par des signes nouveaux, non par une phrase pareille à celles qu'on s'était dites tant de fois. L'habitude de penser empêche parfois d'éprouver le réel, immunise contre lui, le fait paraître de la pensée encore.

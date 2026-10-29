@@ -1,0 +1,919 @@
+{
+  "source": "polish/261027/chapters",
+  "output": "polish/261028/chapters",
+  "summary": {
+    "files_copied": 32,
+    "annotations_reviewed": 1312,
+    "anchored_annotations": 1209,
+    "unanchored_annotations": 103,
+    "annotations_rewritten": 67,
+    "annotations_deleted": 1,
+    "files_changed": 24,
+    "source_files_unchanged": true,
+    "non_annotation_bytes_identical": true
+  },
+  "changes": [
+    {
+      "file": "polished-vol1-1.md",
+      "review_id": "15",
+      "anchored_annotation_index": 15,
+      "anchor": "圣心修道院学校",
+      "before": "指圣心会所办的女子寄宿学校，不是蒙马特的圣心堂",
+      "after": "指圣心会所办的女子寄宿学校",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol1-2.md",
+      "review_id": "38",
+      "anchored_annotation_index": 14,
+      "anchor": "甘草清凉饮",
+      "before": "十九世纪法国以甘草、柠檬和水调制的消暑饮料，并非椰子水。",
+      "after": "十九世纪法国以甘草、柠檬和水调制的消暑饮料。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol1-3.md",
+      "review_id": "62",
+      "anchored_annotation_index": 6,
+      "anchor": "猜词游戏",
+      "before": "原文 charades，一种由动作表演来猜词句的聚会游戏，并非纸上的字谜。",
+      "after": "原文 charades，一种由动作表演来猜词句的聚会游戏。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol1-3.md",
+      "review_id": "70",
+      "anchored_annotation_index": 14,
+      "anchor": "站在雅典最高法庭诸公面前的一只青蛙",
+      "before": "aréopage，原为雅典战神山法庭，后指一群威严的权威；并非现代的最高法院。奥黛特故意说得滑稽。",
+      "after": "aréopage，原为雅典战神山法庭，后指一群威严的权威。奥黛特故意说得滑稽。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol1-3.md",
+      "review_id": "76",
+      "anchored_annotation_index": 20,
+      "anchor": "普吕多姆式的腔调",
+      "before": "指亨利·莫尼埃笔下的约瑟夫·普吕多姆：自命庄严、满口资产阶级套话的典型，并非诗人苏利·普吕多姆。",
+      "after": "指亨利·莫尼埃笔下的约瑟夫·普吕多姆：自命庄严、满口资产阶级套话的典型。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol1-3.md",
+      "review_id": "77",
+      "anchored_annotation_index": 21,
+      "anchor": "小饼干",
+      "before": "旧时喂笼鸟的极轻薄小饼干，不是首饰。",
+      "after": "旧时喂笼鸟的极轻薄小饼干。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol1-3.md",
+      "review_id": "85",
+      "anchored_annotation_index": 29,
+      "anchor": "学术院的院士",
+      "before": "原文只说属于“学院”；博丹是医学科学院院士，并非法兰西文学院院士。",
+      "after": "博丹是医学科学院院士，此处的“学院”指这一学术机构。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol1-3.md",
+      "review_id": "87",
+      "anchored_annotation_index": 31,
+      "anchor": "持续的震音",
+      "before": "原文 trémolos，弦乐器急速反复同一音，形成颤动的音响背景；不是通常所说的“颤音”。",
+      "after": "原文 trémolos，弦乐器急速反复同一音，形成颤动的音响背景。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol1-3.md",
+      "review_id": "E7",
+      "source_annotation_index": 26,
+      "anchor": null,
+      "before": "原文 Un bonheur pour la France ! 是夸张的恭维套话，并非“为了法兰西”之意；医生正是拿它来挖苦斯万的“幸福”二字。",
+      "after": "原文 Un bonheur pour la France ! 是夸张的恭维套话；医生正是拿它来挖苦斯万的“幸福”二字。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol1-3.md",
+      "review_id": "E8",
+      "source_annotation_index": 28,
+      "anchor": null,
+      "before": "法语习语“八天”常泛指一星期，此处照字面译出，以存其夸张。",
+      "after": "法语习语“八天”常泛指一星期。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol10-1.md",
+      "review_id": "116",
+      "anchored_annotation_index": 28,
+      "anchor": "头发",
+      "before": "法语通常用复数 cheveux；说 le cheveu（单数）是当时文人圈子里流行的一种做作，中文无从显示，故此处补出",
+      "after": "法语通常用复数 cheveux；说 le cheveu（单数）是当时文人圈子里流行的一种做作",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol10-2.md",
+      "review_id": "167",
+      "anchored_annotation_index": 15,
+      "anchor": "首席院长",
+      "before": "法国高等法院的首席院长（premier président），不是学校校长",
+      "after": "法国高等法院的首席院长（premier président）",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol10-2.md",
+      "review_id": "E15",
+      "source_annotation_index": 1,
+      "anchor": null,
+      "before": "Transatlantique 是这条海滨小火车线路的绰号，与轮船无关",
+      "after": "Transatlantique 是这条海滨小火车线路的绰号",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol10-3.md",
+      "review_id": "204",
+      "anchored_annotation_index": 13,
+      "anchor": "这位朋友就是凡德伊小姐",
+      "before": "原文如此：阿尔贝蒂娜先前说的是凡德伊小姐最要好的那位女友，叙述者此处径直说成“凡德伊小姐”，指称上的这一滑动是原文所有。",
+      "after": "阿尔贝蒂娜先前说的是凡德伊小姐最要好的那位女友，叙述者此处却径直说成“凡德伊小姐”；原文的指称在这里发生了滑动。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol11-2.md",
+      "review_id": "264",
+      "anchored_annotation_index": 12,
+      "anchor": "朗泰里克美发店",
+      "before": "朗泰里克（Lenthéric）是当时巴黎有名的美发店兼化妆品商号，并非某位理发师。",
+      "after": "朗泰里克（Lenthéric）是当时巴黎有名的美发店兼化妆品商号。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol11-2.md",
+      "review_id": "266",
+      "anchored_annotation_index": 14,
+      "anchor": "通常随着照片越旧而越显老",
+      "before": "此处把时间的先后颠倒过来，是叙述者有意为之的反讽，并非笔误。",
+      "after": "此处把时间的先后颠倒过来，是叙述者有意为之的反讽。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol12-1.md",
+      "review_id": "285",
+      "anchored_annotation_index": 16,
+      "anchor": "他那把低音提琴",
+      "before": "原文此处先称“大提琴手”，随即又写作 «contrebasse»（低音提琴），前后乐器不一；法文底本即如此，译本照录。",
+      "after": "原文此处先称“大提琴手”，随即又写作 «contrebasse»（低音提琴），两处提到的乐器不同。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol13-1.md",
+      "review_id": "367",
+      "anchored_annotation_index": 14,
+      "anchor": "我的小阿尔贝蒂娜",
+      "before": "书信中的亲昵称呼，并非指她年幼。",
+      "after": "书信中的亲昵称呼。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol13-1.md",
+      "review_id": "379",
+      "anchored_annotation_index": 26,
+      "anchor": "谈圣西门",
+      "before": "指圣西门公爵的《回忆录》，记述路易十四宫廷；与空想社会主义者圣西门无关。",
+      "after": "指圣西门公爵的《回忆录》，记述路易十四宫廷。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol13-2.md",
+      "review_id": "407",
+      "anchored_annotation_index": 19,
+      "anchor": "单性繁殖",
+      "before": "原文fécondation unisexuée，是十九世纪生物学的一种假说，今日已不成立；此处保留原说",
+      "after": "原文fécondation unisexuée，是十九世纪生物学的一种假说，今日已不成立",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol13-2.md",
+      "review_id": "417",
+      "anchored_annotation_index": 29,
+      "anchor": "山梅花",
+      "before": "原文seringa，即山梅花，又称假茉莉，并非山中梅花；花香浓烈，两人便以此作借口",
+      "after": "原文seringa，即山梅花，又称假茉莉；花香浓烈，两人便以此作借口",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol13-3.md",
+      "review_id": "435",
+      "anchored_annotation_index": 6,
+      "anchor": "（意大利语：我不知道该不该给他们留桌子）",
+      "before": "原文在此插入侍者的意大利语原话 non so se bisogna conservar loro la tavola，随即又用“留桌子”重说一遍；这重复是原文所有。",
+      "after": "原文在此插入侍者的意大利语原话 non so se bisogna conservar loro la tavola，随即又用“留桌子”重说一遍。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol13-3.md",
+      "review_id": "436",
+      "anchored_annotation_index": 7,
+      "anchor": "这帮人可不是这里的体面客人",
+      "before": "原文 C'est pas le monde d'ici，字面是“这不是我们这儿的人”，比“不是本地人”更带鄙薄。",
+      "after": "原文 C'est pas le monde d'ici，字面是“这不是我们这儿的人”，在此带有对客人身份的鄙薄。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol13-3.md",
+      "review_id": "457",
+      "anchored_annotation_index": 28,
+      "anchor": "圣乔治·德利·斯基亚沃尼会馆",
+      "before": "威尼斯达尔马提亚侨民兄弟会的会馆（Scuola di San Giorgio degli Schiavoni），内有卡尔帕乔的圣乔治组画；是会馆而非教堂。",
+      "after": "威尼斯达尔马提亚侨民兄弟会的会馆（Scuola di San Giorgio degli Schiavoni），内有卡尔帕乔的圣乔治组画。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol13-4.md",
+      "review_id": "467",
+      "anchored_annotation_index": 3,
+      "anchor": "‘蓬舒尔，梅齐厄’",
+      "before": "原文如此拼写，是莫泽尔大娘把“Bonjour, Messieurs”（先生们好）念成的乡音，并非笔误",
+      "after": "原文如此拼写，是莫泽尔大娘把“Bonjour, Messieurs”（先生们好）念成的乡音",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol13-4.md",
+      "review_id": "479",
+      "anchored_annotation_index": 15,
+      "anchor": "普瓦亲王妃",
+      "before": "原文此处只作 Mme de Poix（普瓦夫人），未冠“亲王妃”",
+      "after": null,
+      "action": "delete"
+    },
+    {
+      "file": "polished-vol13-4.md",
+      "review_id": "E17",
+      "source_annotation_index": 8,
+      "anchor": null,
+      "before": "圣日耳曼区是巴黎塞纳河左岸旧贵族聚居的街区，此处代指整个旧贵族社会，而非街区本身消失",
+      "after": "圣日耳曼区是巴黎塞纳河左岸旧贵族聚居的街区，此处代指整个旧贵族社会",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol14-1.md",
+      "review_id": "513",
+      "anchored_annotation_index": 25,
+      "anchor": "法国高中一年级教师式的笑话",
+      "before": "原文 professeur de seconde，seconde 为法国中学的高中第一年，故译“高中一年级”；法国教师惯于在圣查理曼节与班里优等生套近乎，此喻布里肖的俯就腔",
+      "after": "原文 professeur de seconde，seconde 为法国中学的高中第一年；法国教师惯于在圣查理曼节与班里优等生套近乎，此喻布里肖的俯就腔",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol14-1.md",
+      "review_id": "516",
+      "anchored_annotation_index": 28,
+      "anchor": "Tching-Hon",
+      "before": "当时巴黎鉴赏圈对中国瓷器的称名，拼写沿用旧译，所指朝代已难确考；与上文“雍正瓷盘”并见",
+      "after": "当时巴黎鉴赏圈对中国瓷器的称名，所指朝代已难确考；与上文“雍正瓷盘”并见",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol14-1.md",
+      "review_id": "517",
+      "anchored_annotation_index": 29,
+      "anchor": "劳伦斯",
+      "before": "托马斯·劳伦斯（1769—1830），英国肖像画家，笔下园林树丛浓密华美；此处是画境而非植物学类比",
+      "after": "托马斯·劳伦斯（1769—1830），英国肖像画家，笔下园林树丛浓密华美；此处以他的画境作比",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol14-1.md",
+      "review_id": "525",
+      "anchored_annotation_index": 37,
+      "anchor": "‘伦敦式雪茄’",
+      "before": "原文 londrès，一种英国式细长雪茄，并非“伦敦产的雪茄”",
+      "after": "原文 londrès，一种英国式细长雪茄",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol14-2.md",
+      "review_id": "537",
+      "anchored_annotation_index": 10,
+      "anchor": "俨然像提前看了一场服装彩排",
+      "before": "原文 répétition des couturières，剧院行话，指着装齐备的最后一次彩排，与裁缝的工作无涉",
+      "after": "原文 répétition des couturières，剧院行话，指着装齐备的最后一次彩排",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol14-2.md",
+      "review_id": "551",
+      "anchored_annotation_index": 24,
+      "anchor": "一支德军参谋部带着一个团开到坦松维尔家门口",
+      "before": "原文 état-major 指一支参谋班子，而非最高统帅部",
+      "after": "原文 état-major，此处指一支参谋班子",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol14-2.md",
+      "review_id": "560",
+      "anchored_annotation_index": 33,
+      "anchor": "被困在某种囚禁营中的军队",
+      "before": "原文 camp d'emprisonnement 直译“囚禁营”，指被封锁围困、失去机动的一支军队，并非战俘营",
+      "after": "原文 camp d'emprisonnement 字面为“囚禁营”，此处形容军队被封锁围困、失去机动的处境",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol14-2.md",
+      "review_id": "578",
+      "anchored_annotation_index": 51,
+      "anchor": "人对*姐妹*总是百般纵容的",
+      "before": "原文 sœurs，是当时同性恋圈子里的互称，并非同胞姐妹",
+      "after": "原文 sœurs，是当时同性恋圈子里的互称",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol14-2.md",
+      "review_id": "595",
+      "anchored_annotation_index": 68,
+      "anchor": "又索要刑罚用的横杠",
+      "before": "原文 barre de justice，是旧制度行刑用的横木，非现代法庭器具",
+      "after": "原文 barre de justice，是旧制度行刑用的横木",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol14-2.md",
+      "review_id": "596",
+      "anchored_annotation_index": 69,
+      "anchor": "规摸比以往哪一次都大",
+      "before": "原文此处，膳食总管把 envergure（规模）念成 enverjure；译文以“规摸”代“规模”，志其误读，并非错字",
+      "after": "膳食总管把 envergure（规模）念成 enverjure；译文以“规摸”模拟这一口误",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol3-1.md",
+      "review_id": "725",
+      "anchored_annotation_index": 10,
+      "anchor": "白白替普鲁士国王卖力",
+      "before": "法语成语，意为白费力气，并非当真受雇于普鲁士国王",
+      "after": "法语成语，意为白费力气",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol3-1.md",
+      "review_id": "732",
+      "anchored_annotation_index": 17,
+      "anchor": "拿海绵把这几行擦掉",
+      "before": "习语，意为把那几行一笔勾销、既往不咎，并非真用海绵擦字",
+      "after": "习语，意为把那几行一笔勾销、既往不咎",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol3-1.md",
+      "review_id": "734",
+      "anchored_annotation_index": 19,
+      "anchor": "中斋节",
+      "before": "法国四旬斋期过半的狂欢节，即 Mi-Carême，并非佛教的中斋",
+      "after": "法国四旬斋期过半的狂欢节，即 Mi-Carême",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol3-1.md",
+      "review_id": "735",
+      "anchored_annotation_index": 20,
+      "anchor": "water-closets",
+      "before": "英语，指厕所；故意保留英词，以见崇英风气的滑稽",
+      "after": "英语，指厕所；句中夹用英语，表现崇英风气的滑稽",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol3-1.md",
+      "review_id": "741",
+      "anchored_annotation_index": 26,
+      "anchor": "小教堂",
+      "before": "宗教用语，此处喻小圈子、小派系，并非实指建筑",
+      "after": "宗教用语，此处喻小圈子、小派系",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol3-1.md",
+      "review_id": "742",
+      "anchored_annotation_index": 27,
+      "anchor": "外乡人，去告诉斯巴达吧",
+      "before": "戏引古希腊温泉关铭文“过路的人啊，请去告诉斯巴达人”；母亲借来称呼这类客人，并非寻常招呼语",
+      "after": "戏引古希腊温泉关铭文“过路的人啊，请去告诉斯巴达人”；母亲借来称呼这类客人",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol3-1.md",
+      "review_id": "743",
+      "anchored_annotation_index": 28,
+      "anchor": "德雷福斯事件尚未爆发",
+      "before": "指小说中的叙事年代，早于一八九四年，勿与作者后来的写作年代相混",
+      "after": "此处小说的叙事年代早于一八九四年德雷福斯事件爆发之时",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol3-1.md",
+      "review_id": "751",
+      "anchored_annotation_index": 36,
+      "anchor": "handsome cab",
+      "before": "原文拼写如此，通常作 hansom cab，指英国双轮出租马车；此处不径改通行拼法",
+      "after": "原文作 handsome cab，通行拼法为 hansom cab，指英国双轮出租马车",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol3-1.md",
+      "review_id": "752",
+      "anchored_annotation_index": 37,
+      "anchor": "偷叉子绅士",
+      "before": "顺手偷窃餐叉的人；比喻虽能成就伟大艺术，仍摆脱不了琐碎恶习，荒诞处宜保留",
+      "after": "顺手偷窃餐叉的人；比喻虽能成就伟大艺术，仍摆脱不了琐碎恶习",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol3-1.md",
+      "review_id": "753",
+      "anchored_annotation_index": 38,
+      "anchor": "排档间饰",
+      "before": "古典神庙檐间的方形浮雕，即 métope，并非排档之物",
+      "after": "古典神庙檐间的方形浮雕，即 métope",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol3-1.md",
+      "review_id": "760",
+      "anchored_annotation_index": 45,
+      "anchor": "志愿兵",
+      "before": "拿下级军阶对照上校，讥讽以关系论前程，并非现代征兵话题",
+      "after": "拿下级军阶对照上校，讥讽以关系论前程",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol3-1.md",
+      "review_id": "762",
+      "anchored_annotation_index": 47,
+      "anchor": "波士顿圆舞",
+      "before": "Boston，当时流行的一种舞，并非波士顿地名加普通的舞",
+      "after": "Boston，当时流行的一种舞",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol4-1.md",
+      "review_id": "775",
+      "anchored_annotation_index": 7,
+      "anchor": "“它脱胶了”",
+      "before": "原文作“A s'est décollée”，是弗朗索瓦丝乡下口音的拼法（应作 elle），指罐上的镶嵌饰件脱落。",
+      "after": "原文作“A s'est décollée”，以 A 模拟弗朗索瓦丝乡下口音中的代词 elle，指罐上的镶嵌饰件脱落。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol5-1.md",
+      "review_id": "835",
+      "anchored_annotation_index": 20,
+      "anchor": "B.C.B. 的班次中断",
+      "before": "B.C.B. 是当地铁路客运公司的缩写，原文只给缩写，未加说明。",
+      "after": "B.C.B. 是当地铁路客运公司的缩写。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol6-1.md",
+      "review_id": "844",
+      "anchored_annotation_index": 9,
+      "anchor": "“有得钱”“拿得水来”",
+      "before": "模仿法语误用部分冠词的语法错误，中文不存在完全对应的语法现象。",
+      "after": "原文中弗朗索瓦丝误用法语部分冠词；译文以这些不合常规的说法模拟她的口语。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol7-1.md",
+      "review_id": "882",
+      "anchored_annotation_index": 8,
+      "anchor": "女贵族参事会的院长",
+      "before": "chapitre 在此指由贵族妇女组成的参事会，其院长称“abbesse”，与修道院无关。",
+      "after": "chapitre 在此指由贵族妇女组成的参事会，其院长称“abbesse”。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol7-1.md",
+      "review_id": "900",
+      "anchored_annotation_index": 26,
+      "anchor": "真是附庸风雅",
+      "before": "原文 quel snobisme，指追捧时髦文艺的做派，非通常所谓嫌贫爱富。",
+      "after": "原文 quel snobisme，在此指追捧时髦文艺的做派。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol7-1.md",
+      "review_id": "902",
+      "anchored_annotation_index": 28,
+      "anchor": "您就来扮小姑娘吧",
+      "before": "沙龙旧习：点心由年轻姑娘传递；这是招呼男士递盘的玩笑，并非让他变装。",
+      "after": "沙龙旧习：点心由年轻姑娘传递；这是招呼男士递盘的玩笑。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol7-1.md",
+      "review_id": "917",
+      "anchored_annotation_index": 43,
+      "anchor": "“辛迪加”",
+      "before": "反德雷福斯派所谓的犹太密谋集团，并非工会。",
+      "after": "反德雷福斯派所谓的犹太密谋集团。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol7-2.md",
+      "review_id": "940",
+      "anchored_annotation_index": 4,
+      "anchor": "面向东方布防",
+      "before": "原文 Faites face à l'Est，是军事部署用语，意为防守东线，并非队列操练的“向东转”。",
+      "after": "原文 Faites face à l'Est，是军事部署用语，意为防守东线。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol7-2.md",
+      "review_id": "948",
+      "anchored_annotation_index": 12,
+      "anchor": "十八世纪的大画家",
+      "before": "雷诺阿（1841—1919）实为十九世纪画家；此处写的是当时人的鉴赏趣味，并非作者弄错年代。",
+      "after": "雷诺阿（1841—1919）是十九世纪画家；此处的“十八世纪”关联当时人的鉴赏趣味。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol8-1.md",
+      "review_id": "991",
+      "anchored_annotation_index": 1,
+      "anchor": "加莱的玻璃器",
+      "before": "指玻璃艺术家埃米尔·加莱（Émile Gallé）的作品，不是地名加莱",
+      "after": "指玻璃艺术家埃米尔·加莱（Émile Gallé）的作品",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol8-1.md",
+      "review_id": "1001",
+      "anchored_annotation_index": 11,
+      "anchor": "smoking",
+      "before": "法语对男士晚礼服的称呼（英文作 dinner jacket），并非“吸烟”",
+      "after": "法语对男士晚礼服的称呼（英文作 dinner jacket）",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol8-1.md",
+      "review_id": "E58",
+      "source_annotation_index": 13,
+      "anchor": null,
+      "before": "法语中 persévérance（锲而不舍）与 espérance（期望）押韵，中文无从重现",
+      "after": "法语中 persévérance（锲而不舍）与 espérance（期望）押韵",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol8-1.md",
+      "review_id": "E68",
+      "source_annotation_index": 37,
+      "anchor": null,
+      "before": "原文以 arshéologue 模拟亲王自以为高雅的德语口音，中文只能音译其走样",
+      "after": "原文以 arshéologue 模拟亲王自以为高雅的德语口音",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol9-1.md",
+      "review_id": "1070",
+      "anchored_annotation_index": 51,
+      "anchor": "千屈菜 Lythrum salicoria",
+      "before": "千屈菜有三型花柱，须由异型花授粉方能结实；学名今作 Lythrum salicaria，此处依原文拼写。",
+      "after": "千屈菜有三型花柱，须由异型花授粉方能结实；学名今作 Lythrum salicaria，原文拼作 Lythrum salicoria。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol9-3.md",
+      "review_id": "1109",
+      "anchored_annotation_index": 4,
+      "anchor": "头上还戴着头盔",
+      "before": "这是化装舞会装束的残余，并非打仗归来。",
+      "after": "这是化装舞会装束的残余。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol9-3.md",
+      "review_id": "1110",
+      "anchored_annotation_index": 5,
+      "anchor": "在神话中的大洋之河畔",
+      "before": "“大洋之河”指希腊神话中环绕大地的俄刻阿诺斯，不是现代地理的海洋。",
+      "after": "“大洋之河”指希腊神话中环绕大地的俄刻阿诺斯。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol9-3.md",
+      "review_id": "1119",
+      "anchored_annotation_index": 14,
+      "anchor": "“乔尔乔内”",
+      "before": "威尼斯画家乔尔乔内；此处借他的名字形容那位贴身女仆的美貌，并非另有一位画家登场。",
+      "after": "威尼斯画家乔尔乔内；此处借他的名字形容那位贴身女仆的美貌。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol9-3.md",
+      "review_id": "1138",
+      "anchored_annotation_index": 33,
+      "anchor": "圣经式悲剧",
+      "before": "原文作 tragédie judéo-chrétienne，指以圣经人物为题材的宗教剧气氛，并非犹太教与基督教之争。",
+      "after": "原文作 tragédie judéo-chrétienne，指以圣经人物为题材的宗教剧气氛。",
+      "action": "rewrite"
+    },
+    {
+      "file": "polished-vol9-4.md",
+      "review_id": "1144",
+      "anchored_annotation_index": 3,
+      "anchor": "首席院长",
+      "before": "原文 premier président，指上诉法院首席院长，非学校校长",
+      "after": "原文 premier président，指上诉法院首席院长",
+      "action": "rewrite"
+    }
+  ],
+  "files": [
+    {
+      "file": "polished-vol1-1.md",
+      "source_sha256": "6aa64aff7a8daef9c8691e012889f0f5e634ffda698458d0cc577af663f479d2",
+      "output_sha256": "f833e979356196dddd95ba4da2d8da4c6bc2755018b5e1405d966264cc76314e",
+      "source_notes": 24,
+      "output_notes": 24,
+      "changes": 1,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol1-2.md",
+      "source_sha256": "896f2684d3ae9ed46148772ba39cf046937f5d5b9c108b6ac48351c24c1a93f0",
+      "output_sha256": "5e15903d0830067088ff3a2047fa142f1955334dc8f512753744e008c8ee5ac4",
+      "source_notes": 33,
+      "output_notes": 33,
+      "changes": 1,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol1-3.md",
+      "source_sha256": "d0f7ad244032d7d1273c7e0456d1674e2decd8b368ad31bc616ab241b29f51ba",
+      "output_sha256": "8eb27b8e78e174928590d69d84aabe4f365a5645e165b7f998ceb79b6b0a66ae",
+      "source_notes": 41,
+      "output_notes": 41,
+      "changes": 8,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol10-1.md",
+      "source_sha256": "42c26c7db0c2137d0a4806836e87c6ab0cb7f9f15ca18719def9827e1e7066cf",
+      "output_sha256": "bf5b205a78e416a8d2fb552ff740fa37a926d223703b31a057cb226d2c1d6ad1",
+      "source_notes": 68,
+      "output_notes": 68,
+      "changes": 1,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol10-2.md",
+      "source_sha256": "badf83ad7860349978e71fa967052f65c643c5f55e108d0b3ab81df50be05864",
+      "output_sha256": "af5cd2c8aeaa357f0b70b47f5574eaad2088972d34beb9e7f2ce73ec0cd16965",
+      "source_notes": 40,
+      "output_notes": 40,
+      "changes": 2,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol10-3.md",
+      "source_sha256": "04df59d05acaa862ce6e2385b2c510b54e841b4cb288222503e5e3f0b88275b8",
+      "output_sha256": "bbd4eecfcb10dc5fb517f10b8199632f99a2acdaa7565fa42542ca8710fe4ee4",
+      "source_notes": 17,
+      "output_notes": 17,
+      "changes": 1,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol11-1.md",
+      "source_sha256": "b81737f1a37db81c066af42ea16ac4874e0f8b4eff301b22dc20d6ef7ef230c4",
+      "output_sha256": "b81737f1a37db81c066af42ea16ac4874e0f8b4eff301b22dc20d6ef7ef230c4",
+      "source_notes": 44,
+      "output_notes": 44,
+      "changes": 0,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol11-2.md",
+      "source_sha256": "f49c3342577087f0c220e7f3d17be034d7346b10945c248d0a31b5825e86fd31",
+      "output_sha256": "7071bd53e75be6e4532bf2f6638f6a4cbf813a20da6a923bef20a2ef91752268",
+      "source_notes": 17,
+      "output_notes": 17,
+      "changes": 2,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol12-1.md",
+      "source_sha256": "c3461f792589a2dcdd29b8b243301ac1e05a69fab3251708104ea04ef63aa68f",
+      "output_sha256": "5f5a8316d947b87eb625048bbfc52003acb191102315882a7093daec542b8d2b",
+      "source_notes": 46,
+      "output_notes": 46,
+      "changes": 1,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol12-2.md",
+      "source_sha256": "fc8dc4d0fa0f1d76e3ef0cc8e3bd61f1064cb7e968c632e5c37b7ab71df2fe4f",
+      "output_sha256": "fc8dc4d0fa0f1d76e3ef0cc8e3bd61f1064cb7e968c632e5c37b7ab71df2fe4f",
+      "source_notes": 38,
+      "output_notes": 38,
+      "changes": 0,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol13-1.md",
+      "source_sha256": "952b92a6e97aa63fc028f5f0693d7d1fa19003324bda99f44230f1dce0ab8dfe",
+      "output_sha256": "ced0cadd224a68127383572bc86a029c0625342532fba82b7cb8ebeb9997ec85",
+      "source_notes": 35,
+      "output_notes": 35,
+      "changes": 2,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol13-2.md",
+      "source_sha256": "96ef84d0322e1686cfcf5b26cdab2e458d2e1f1794aa11a88c5404c94cf7fb38",
+      "output_sha256": "6463745a245b6e5d49f456418ad6ce8063e090e195826888ec10761f49857cfd",
+      "source_notes": 42,
+      "output_notes": 42,
+      "changes": 2,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol13-3.md",
+      "source_sha256": "800c83539d08afd922d96ca68c94262fdab6cc6716e1d40889b617f09739a58a",
+      "output_sha256": "dc2d59881801c07675d3f0d8f229092034e0ba7837d72fa8e6ae83faf284e3a3",
+      "source_notes": 35,
+      "output_notes": 35,
+      "changes": 3,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol13-4.md",
+      "source_sha256": "a01605e02750223a1ffaa08d4b7bc8aa0360462c42a27bcad4106c5179fd9854",
+      "output_sha256": "0aaa5545eb921b643f986d6b73487bf77bb5245ef38dfee6ce20ff211acfa14d",
+      "source_notes": 26,
+      "output_notes": 25,
+      "changes": 3,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol14-1.md",
+      "source_sha256": "2bd9d7af922733eee92d240d951f0fa0e59930d5a8d71b842a5f189206725070",
+      "output_sha256": "fd2f23a05313d296a9169a7b14457f19a75bf7daa6c35da640390afd11948ae4",
+      "source_notes": 39,
+      "output_notes": 39,
+      "changes": 4,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol14-2.md",
+      "source_sha256": "9c26550be2b3f6a1c6d217e3b3bbe78e8ca0055b004c9ec927accdfbb2e05d64",
+      "output_sha256": "421992bd1ee013e0a583d7c215d1dda747002abc8f4a47538c877b631a290aaf",
+      "source_notes": 75,
+      "output_notes": 75,
+      "changes": 6,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol14-3.md",
+      "source_sha256": "ed3303a07e7488bd363bf481e128464628c1eb20848c3daad8aa6118de6fca8b",
+      "output_sha256": "ed3303a07e7488bd363bf481e128464628c1eb20848c3daad8aa6118de6fca8b",
+      "source_notes": 26,
+      "output_notes": 26,
+      "changes": 0,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol15-1.md",
+      "source_sha256": "b381cc19e2a4c2d60126f3d7a3b6854b2a02224f4048f180ea38089e82d68b4a",
+      "output_sha256": "b381cc19e2a4c2d60126f3d7a3b6854b2a02224f4048f180ea38089e82d68b4a",
+      "source_notes": 38,
+      "output_notes": 38,
+      "changes": 0,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol2-1.md",
+      "source_sha256": "a38dbffa3a01e0ca39b72a717598f4d10231a60f2dc9428d7489892cd40d5db5",
+      "output_sha256": "a38dbffa3a01e0ca39b72a717598f4d10231a60f2dc9428d7489892cd40d5db5",
+      "source_notes": 28,
+      "output_notes": 28,
+      "changes": 0,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol2-2.md",
+      "source_sha256": "c2490818cf4a41d09129137245542417ac0653ab08e5bb8047b95241ffe009a2",
+      "output_sha256": "c2490818cf4a41d09129137245542417ac0653ab08e5bb8047b95241ffe009a2",
+      "source_notes": 38,
+      "output_notes": 38,
+      "changes": 0,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol3-1.md",
+      "source_sha256": "c46fd497993647867e2234603931c514bfb222ea32fe85ed1aacfea96e43ff47",
+      "output_sha256": "7144bbb70fd73c973f269f2d4580eef0748df0c0c65a9e875e0dd0d002651c76",
+      "source_notes": 53,
+      "output_notes": 53,
+      "changes": 12,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol4-1.md",
+      "source_sha256": "c43d530394f2760fbf4a4b5637d00c77c97a10ce7a5a83d02dbc695cd318ba6b",
+      "output_sha256": "80b95c4956837b91ef3f6afa5b1ea08d96f6bfdd5562e0771e65493c18e7523a",
+      "source_notes": 47,
+      "output_notes": 47,
+      "changes": 1,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol5-1.md",
+      "source_sha256": "0ceed32a4821d89b694a07b338db28269aa16e0b259765aa1d467fb01c9504cd",
+      "output_sha256": "351244c89fc544febf153e1864f33484015a67bd450fcfa7a653f539f508a29c",
+      "source_notes": 37,
+      "output_notes": 37,
+      "changes": 1,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol6-1.md",
+      "source_sha256": "964a580deb155880fd13a6448ffbbdf68378ab5fdf70199ebc62e6dd9d928624",
+      "output_sha256": "048a160fdd57b233ffc3c7e66e03a459b71e968063169b112964a61315801617",
+      "source_notes": 40,
+      "output_notes": 40,
+      "changes": 1,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol7-1.md",
+      "source_sha256": "cdba48eeb6954039fa914c6535140db9e5cd373a6696477040386245bc7ff738",
+      "output_sha256": "52e9c5df6f594504141784abc5c1160b98849a33b2312e8dacf21ece1286fdff",
+      "source_notes": 62,
+      "output_notes": 62,
+      "changes": 4,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol7-2.md",
+      "source_sha256": "30f32739b41eded47f8ea1f5a912e84fc227743b792306b97ef2a5470460f420",
+      "output_sha256": "dd11af9364aa6235553d7b85c7ed0a1040ed328a924c35c05dbe56200cb09b83",
+      "source_notes": 30,
+      "output_notes": 30,
+      "changes": 2,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol7-3.md",
+      "source_sha256": "3bf432ac114f55e40badc4f3c3da2dbbfcbef6441150c19bfd11592c91d9e223",
+      "output_sha256": "3bf432ac114f55e40badc4f3c3da2dbbfcbef6441150c19bfd11592c91d9e223",
+      "source_notes": 24,
+      "output_notes": 24,
+      "changes": 0,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol8-1.md",
+      "source_sha256": "b9b4991fc295ab3eea52d3dd5caa5e4f2c96cde7804054c0bb4611c732132ff9",
+      "output_sha256": "7c4b415cc5d6d4f0ee8a94383cd05a1b0747fef5a1e522ddbf74b4bbf7e0b49e",
+      "source_notes": 48,
+      "output_notes": 48,
+      "changes": 4,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol9-1.md",
+      "source_sha256": "0262a9d36fb17ea3ff3fb1f0b3833dfd5cf4d012c3013ed5c38d8e0386730b74",
+      "output_sha256": "40d33e61a758de3b91c67a91ab06c5d5797dd106708aa99cab958f41daec731d",
+      "source_notes": 61,
+      "output_notes": 61,
+      "changes": 1,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol9-2.md",
+      "source_sha256": "39f229ce3f2b75faeeaea29b9399068ef801096b740e29d48cadd32a4f7d51dc",
+      "output_sha256": "39f229ce3f2b75faeeaea29b9399068ef801096b740e29d48cadd32a4f7d51dc",
+      "source_notes": 49,
+      "output_notes": 49,
+      "changes": 0,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol9-3.md",
+      "source_sha256": "243fa0a041e5eb03708867d0e2d10d72e6b590431e4851662800c4296ad37871",
+      "output_sha256": "380d484eac2424b980cb36dd7f9f8d49e84ba74407f9a279a79ea810c9d587e5",
+      "source_notes": 43,
+      "output_notes": 43,
+      "changes": 4,
+      "non_annotation_bytes_identical": true
+    },
+    {
+      "file": "polished-vol9-4.md",
+      "source_sha256": "d17580a15a0989eec8e646609ef2711c2bce45d94f5b2c25f498c91a5c4b7017",
+      "output_sha256": "c90f50e9db59c945c2f6cf42fb38cb709ac911b15fdf718a883a978c4107ec7f",
+      "source_notes": 68,
+      "output_notes": 68,
+      "changes": 1,
+      "non_annotation_bytes_identical": true
+    }
+  ]
+}

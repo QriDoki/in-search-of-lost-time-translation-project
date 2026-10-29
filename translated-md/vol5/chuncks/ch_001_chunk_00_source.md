@@ -1,0 +1,39 @@
+# À l'ombre des jeunes filles en fleurs — Troisième partie
+
+Une fois M. de Charlus parti, nous pûmes enfin, Robert et moi, aller dîner chez Bloch. Or je compris pendant cette petite fête que les histoires trop facilement trouvées drôles par notre camarade étaient des histoires de M. Bloch père, et que l'homme « tout à fait curieux » était toujours un de ses amis qu'il jugeait de cette façon. Il y a un certain nombre de gens qu'on admire dans son enfance, un père plus spirituel que le reste de la famille, un professeur qui bénéficie à nos yeux de la métaphysique qu'il nous révèle, un camarade plus avancé que nous (ce que Bloch avait été pour moi) qui méprise le Musset de l'Espoir en Dieu quand nous l'aimons encore, et quand nous en serons venus au père Leconte ou à Claudel ne s'extasiera plus que sur
+
+*À Saint-Blaise, à la Zuecca*
+
+*Vous étiez, vous étiez bien aise.*
+
+en y ajoutant :
+
+*Padoue est un fort bel endroit*
+
+*Où de très grands docteurs en droit*
+
+*\... Mais j'aime mieux la polenta*
+
+*\... Passe dans son domino noir*
+
+*La Toppatelle.*
+
+et de toutes les « Nuits » ne retient que :
+
+*Au Havre, devant l'Atlantique,*
+
+*À Venise, à l'affreux Lido,*
+
+*Où vient sur l'herbe d'un tombeau*
+
+*Mourir la pâle Adriatique.*
+
+Or, de quelqu'un qu'on admire de confiance, on recueille, on cite avec admiration, des choses très inférieures à celles que livré à son propre génie on refuserait avec sévérité, de même qu'un écrivain utilise dans un roman, sous prétexte qu'ils sont vrais, des « mots », des personnages, qui dans l'ensemble vivant font au contraire poids mort, partie médiocre. Les portraits de Saint Simon écrits par lui sans qu'il s'admire sans doute, sont admirables, les traits qu'il cite comme charmants de gens d'esprit qu'il a connus sont restés médiocres ou devenus incompréhensibles. Il eût dédaigné d'inventer ce qu'il rapporte comme si fin ou si coloré de M^me^ Cornuel ou de Louis XIV, fait qui du reste est à noter chez bien d'autres et comporte diverses interprétations dont il suffit en ce moment de retenir celle-ci : c'est que dans l'état d'esprit où l'on « observe », on est très au-dessous du niveau où l'on se trouve quand on crée.
+
+Il y avait donc, enclavé en mon camarade Bloch, un père Bloch, qui retardait de quarante ans sur son fils, débitait des anecdotes saugrenues, et en riait autant au fond de mon ami que ne faisait le père Bloch extérieur et véritable, puisque au rire que ce dernier lâchait non sans répéter deux ou trois fois le dernier mot, pour que son public goûtât bien l'histoire, s'ajoutait le rire bruyant par lequel le fils ne manquait pas à table de saluer les histoires de son père. C'est ainsi qu'après avoir dit les choses les plus intelligentes, Bloch jeune, manifestant l'apport qu'il avait reçu de sa famille, nous racontait pour la trentième fois quelques-uns des mots que le père Bloch sortait seulement (en même temps que sa redingote) les jours solennels où Bloch jeune amenait quelqu'un qu'il valait la peine d'éblouir : un de ses professeurs, un « copain » qui avait tous les prix, ou, ce soir-là, Saint-Loup et moi. Par exemple : « Un critique militaire très fort, qui avait savamment déduit avec preuves à l'appui pour quelles raisons infaillibles dans la guerre russo-japonaise, les Japonais seraient battus et les Russes vainqueurs », ou bien : « C'est un homme éminent qui passe pour un grand financier dans les milieux politiques et pour un grand politique dans les milieux financiers. » Ces histoires étaient interchangeables avec une du baron de Rothschild et une de sir Rufus Israël, personnages mis en scène d'une manière équivoque qui pouvait donner à entendre que M. Bloch les avait personnellement connus.
+
+J'y fus moi-même pris et à la manière dont M. Bloch père parla de Bergotte, je crus aussi que c'était un de ses vieux amis. Or, tous les gens célèbres, M. Bloch ne les connaissait que « sans les connaître », pour les avoir vus de loin au théâtre, sur les boulevards. Il s'imaginait du reste que sa propre figure, son nom, sa personnalité ne leur étaient pas inconnus et qu'en l'apercevant, ils étaient souvent obligés de retenir une furtive envie de le saluer. Les gens du monde, parce qu'ils connaissent les gens de talent original, qu'ils les reçoivent à dîner, ne les comprennent pas mieux pour cela. Mais quand on a un peu vécu dans le monde, la sottise de ses habitants vous fait trop souhaiter de vivre, trop supposer d'intelligence, dans les milieux obscurs où l'on ne connaît que « sans connaître ». J'allais m'en rendre compte en parlant de Bergotte. M. Bloch n'était pas le seul qui eût des succès chez lui. Mon camarade en avait davantage encore auprès de ses sœurs qu'il ne cessait d'interpeller sur un ton bougon, en enfonçant sa tête dans son assiette ; il les faisait ainsi rire aux larmes. Elles avaient d'ailleurs adopté la langue de leur frère qu'elles parlaient couramment, comme si elle eût été obligatoire et la seule dont pussent user des personnes intelligentes. Quand nous arrivâmes, l'aînée dit à une de ses cadettes : « Va prévenir notre père prudent et notre mère vénérable. -- Chiennes, leur dit Bloch, je vous présente le cavalier Saint-Loup, aux javelots rapides, qui est venu pour quelques jours de Doncières aux demeures de pierre polie, féconde en chevaux. » Comme il était aussi vulgaire que lettré, le discours se terminait d'habitude par quelque plaisanterie moins homérique : « Voyons, fermez un peu vos peplos aux belles agrafes, qu'est-ce que c'est que ce chichi-là ? Après tout c'est pas mon père ! » Et les demoiselles Bloch s'écroulaient dans une tempête de rires. Je dis à leur frère combien de joies il m'avait données en me recommandant la lecture de Bergotte dont j'avais adoré les livres.
+
+M. Bloch père qui ne connaissait Bergotte que de loin, et la vie de Bergotte que par les racontars du parterre, avait une manière tout aussi indirecte de prendre connaissance de ses œuvres, à l'aide de jugements d'apparence littéraire. Il vivait dans le monde des à peu près, où l'on salue dans le vide, où l'on juge dans le faux. L'inexactitude, l'incompétence, n'y diminuent pas l'assurance, au contraire. C'est le miracle bienfaisant de l'amour-propre que peu de gens pouvant avoir les relations brillantes et les connaissances profondes, ceux auxquels elles font défaut se croient encore les mieux partagés parce que l'optique des gradins sociaux fait que tout rang semble le meilleur à celui qui l'occupe et qui voit moins favorisés que lui, mal lotis, à plaindre, les plus grands qu'il nomme et calomnie sans les connaître, juge et dédaigne sans les comprendre. Même dans les cas où la multiplication des faibles avantages personnels par l'amour-propre ne suffirait pas à assurer à chacun la dose de bonheur, supérieure à celle accordée aux autres, qui lui est nécessaire, l'envie est là pour combler la différence. Il est vrai que si l'envie s'exprime en phrases dédaigneuses, il faut traduire : « Je ne veux pas le connaître » par « je ne peux pas le connaître ». C'est le sens intellectuel. Mais le sens passionné est bien : « Je ne veux pas le connaître. » On sait que cela n'est pas vrai mais on ne le dit pas cependant par simple artifice, on le dit parce qu'on éprouve ainsi, et cela suffit pour supprimer la distance, c'est-à-dire pour le bonheur.
+
+L'égocentrisme permettant de la sorte à chaque humain de voir l'univers étagé au-dessous de lui qui est roi, M. Bloch se donnait le luxe d'en être un impitoyable quand le matin en prenant son chocolat, voyant la signature de Bergotte au bas d'un article dans le journal à peine entr'ouvert, il lui accordait dédaigneusement une audience écourtée, prononçait sa sentence, et s'octroyait le confortable plaisir de répéter entre chaque gorgée du breuvage bouillant : « Ce Bergotte est devenu illisible. Ce que cet animal-là peut être embêtant. C'est à se désabonner. Comme c'est emberlificoté, quelle tartine ! » Et il reprenait une beurrée.

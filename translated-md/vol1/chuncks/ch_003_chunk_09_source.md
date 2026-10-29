@@ -1,0 +1,38 @@
+-- Ça vous prend souvent ?
+
+Généralement, une fois l'explication donnée, Cottard disait : « Ah ! bon, bon, ça va bien » et ne montrait plus trace d'émotion.
+
+Mais cette fois-ci, les derniers mots de Swann, au lieu de lui procurer l'apaisement habituel, portèrent au comble son étonnement qu'un homme avec qui il dînait, qui n'avait ni fonctions officielles, ni illustration d'aucune sorte, frayât avec le Chef de l'État.
+
+-- Comment ça, M. Grévy ? vous connaissez M. Grévy ? dit-il à Swann de l'air stupide et incrédule d'un municipal à qui un inconnu demande à voir le Président de la République et qui, comprenant par ces mots « à qui il a affaire », comme disent les journaux, assure au pauvre dément qu'il va être reçu à l'instant et le dirige sur l'infirmerie spéciale du dépôt.
+
+-- Je le connais un peu, nous avons des amis communs (il n'osa pas dire que c'était le prince de Galles), du reste il invite très facilement et je vous assure que ces déjeuners n'ont rien d'amusant, ils sont d'ailleurs très simples, on n'est jamais plus de huit à table, répondit Swann qui tâchait d'effacer ce que semblaient avoir de trop éclatant, aux yeux de son interlocuteur, des relations avec le Président de la République.
+
+Aussitôt Cottard, s'en rapportant aux paroles de Swann, adopta cette opinion, au sujet de la valeur d'une invitation chez M. Grévy, que c'était chose fort peu recherchée et qui courait les rues. Dès lors, il ne s'étonna plus que Swann, aussi bien qu'un autre, fréquentât l'Élysée, et même il le plaignait un peu d'aller à des déjeuners que l'invité avouait lui-même être ennuyeux.
+
+-- Ah ! bien, bien, ça va bien, dit-il sur le ton d'un douanier, méfiant tout à l'heure, mais qui, après vos explications, vous donne son visa et vous laisse passer sans ouvrir vos malles.
+
+-- Ah ! je vous crois qu'ils ne doivent pas être amusants ces déjeuners, vous avez de la vertu d'y aller, dit M^me^ Verdurin, à qui le Président de la République apparaissait comme un ennuyeux particulièrement redoutable parce qu'il disposait de moyens de séduction et de contrainte qui, employés à l'égard des fidèles, eussent été capables de les faire lâcher. Il paraît qu'il est sourd comme un pot et qu'il mange avec ses doigts.
+
+-- En effet, alors cela ne doit pas beaucoup vous amuser d'y aller, dit le docteur avec une nuance de commisération ; et, se rappelant le chiffre de huit convives : « Sont-ce des déjeuners intimes ? » demanda-t-il vivement avec un zèle de linguiste plus encore qu'une curiosité de badaud.
+
+Mais le prestige qu'avait à ses yeux le Président de la République finit pourtant par triompher et de l'humilité de Swann et de la malveillance de M^me^ Verdurin, et à chaque dîner, Cottard demandait avec intérêt : « Verrons-nous ce soir M. Swann ? Il a des relations personnelles avec M. Grévy. C'est bien ce qu'on appelle un gentleman ? » Il alla même jusqu'à lui offrir une carte d'invitation pour l'exposition dentaire.
+
+-- Vous serez admis avec les personnes qui seront avec vous, mais on ne laisse pas entrer les chiens. Vous comprenez, je vous dis cela parce que j'ai eu des amis qui ne le savaient pas et qui s'en sont mordu les doigts.
+
+Quant à M. Verdurin, il remarqua le mauvais effet qu'avait produit sur sa femme cette découverte que Swann avait des amitiés puissantes dont il n'avait jamais parlé.
+
+Si l'on n'avait pas arrangé une partie au dehors, c'est chez les Verdurin que Swann retrouvait le petit noyau, mais il ne venait que le soir, et n'acceptait presque jamais à dîner malgré les instances d'Odette.
+
+-- Je pourrais même dîner seule avec vous, si vous aimiez mieux cela, lui disait-elle.
+
+-- Et M^me^ Verdurin ?
+
+-- Oh ! ce serait bien simple. Je n'aurais qu'à dire que ma robe n'a pas été prête, que mon cab est venu en retard. Il y a toujours moyen de s'arranger.
+
+-- Vous êtes gentille.
+
+Mais Swann se disait que s'il montrait à Odette (en consentant seulement à la retrouver après dîner), qu'il y avait des plaisirs qu'il préférait à celui d'être avec elle, le goût qu'elle ressentait pour lui ne connaîtrait pas de longtemps la satiété. Et, d'autre part, préférant infiniment à celle d'Odette la beauté d'une petite ouvrière fraîche et bouffie comme une rose et dont il était épris, il aimait mieux passer le commencement de la soirée avec elle, étant sûr de voir Odette ensuite. C'est pour les mêmes raisons qu'il n'acceptait jamais qu'Odette vînt le chercher pour aller chez les Verdurin. La petite ouvrière l'attendait près de chez lui à un coin de rue que son cocher Rémi connaissait, elle montait à côté de Swann et restait dans ses bras jusqu'au moment où la voiture l'arrêtait devant chez les Verdurin. À son entrée, tandis que M^me^ Verdurin montrant des roses qu'il avait envoyées le matin lui disait : « Je vous gronde » et lui indiquait une place à côté d'Odette, le pianiste jouait, pour eux deux, la petite phrase de Vinteuil qui était comme l'air national de leur amour. Il commençait par la tenue des trémolos de violon que pendant quelques mesures on entend seuls, occupant tout le premier plan, puis tout d'un coup ils semblaient s'écarter et comme dans ces tableaux de Pieter de Hooch, qu'approfondit le cadre étroit d'une porte entr'ouverte, tout au loin, d'une couleur autre, dans le velouté d'une lumière interposée, la petite phrase apparaissait, dansante, pastorale, intercalée, épisodique, appartenant à un autre monde. Elle passait à plis simples et immortels, distribuant çà et là les dons de sa grâce, avec le même ineffable sourire ; mais Swann y croyait distinguer maintenant du désenchantement. Elle semblait connaître la vanité de ce bonheur dont elle montrait la voie. Dans sa grâce légère, elle avait quelque chose d'accompli, comme le détachement qui succède au regret. Mais peu lui importait, il la considérait moins en elle-même -- en ce qu'elle pouvait exprimer pour un musicien qui ignorait l'existence et de lui et d'Odette quand il l'avait composée, et pour tous ceux qui l'entendraient dans des siècles -- que comme un gage, un souvenir de son amour qui, même pour les Verdurin ou pour le petit pianiste, faisait penser à Odette en même temps qu'à lui, les unissait ; c'était au point que, comme Odette, par caprice, l'en avait prié, il avait renoncé à son projet de se faire jouer par un artiste la sonate entière, dont il continua à ne connaître que ce passage. « Qu'avez-vous besoin du reste ? lui avait-elle dit. C'est ça *notre* morceau. » Et même, souffrant de songer, au moment où elle passait si proche et pourtant à l'infini, que tandis qu'elle s'adressait à eux, elle ne les connaissait pas, il regrettait presque qu'elle eût une signification, une beauté intrinsèque et fixe, étrangère à eux, comme en des bijoux donnés, ou même en des lettres écrites par une femme aimée, nous en voulons à l'eau de la gemme et aux mots du langage, de ne pas être faits uniquement de l'essence d'une liaison passagère et d'un être particulier.
+
+Souvent il se trouvait qu'il s'était tant attardé avec la jeune ouvrière avant d'aller chez les Verdurin, qu'une fois la petite phrase jouée par le pianiste, Swann s'apercevait qu'il était bientôt l'heure qu'Odette rentrât. Il la reconduisait jusqu'à la porte de son petit hôtel, rue La Pérouse, derrière l'Arc de Triomphe. Et c'était peut-être à cause de cela, pour ne pas lui demander toutes les faveurs, qu'il sacrifiait le plaisir moins nécessaire pour lui de la voir plus tôt, d'arriver chez les Verdurin avec elle, à l'exercice de ce droit qu'elle lui reconnaissait de partir ensemble et auquel il attachait plus de prix, parce que, grâce à cela, il avait l'impression que personne ne la voyait, ne se mettait entre eux, ne l'empêchait d'être encore avec lui, après qu'il l'avait quittée.
+

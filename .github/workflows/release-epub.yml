@@ -1,0 +1,98 @@
+name: Release EPUB
+
+on:
+  workflow_call:
+    inputs:
+      polish_version:
+        description: Selected polish folder name, shared with the reader build
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: epub-release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    if: github.ref == 'refs/heads/release'
+    runs-on: ubuntu-latest
+    env:
+      POLISH_VERSION: ${{ inputs.polish_version }}
+      PANDOC_VERSION: '3.10'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Pandoc
+        run: |
+          # 使用已验证的官方版本，避免 Ubuntu 软件源中的旧版改变注解结构。
+          curl --fail --silent --show-error --location --retry 3 \
+            "https://github.com/jgm/pandoc/releases/download/${PANDOC_VERSION}/pandoc-${PANDOC_VERSION}-1-amd64.deb" \
+            --output "${RUNNER_TEMP}/pandoc.deb"
+          sudo dpkg --install "${RUNNER_TEMP}/pandoc.deb"
+          pandoc --version
+          test "$(pandoc --version | sed -n '1p')" = "pandoc ${PANDOC_VERSION}"
+
+      - name: Test EPUB annotations
+        run: python3 -m unittest discover -s scripts/tests -p 'test_epub_*.py'
+
+      # 产出七本单卷与全七卷合集，文件名中的版本号直接使用 polish 文件夹名。
+      - name: Build EPUB
+        run: npm run build:epub
+
+      - name: Verify EPUB annotations
+        run: python3 scripts/check_epub_notes.py dist/epub --expect-books 8
+
+      - name: Create GitHub Release
+        id: release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ inputs.polish_version }}
+          name: ${{ inputs.polish_version }}
+          target_commitish: ${{ github.sha }}
+          body_path: dist/epub/release-notes.md
+          generate_release_notes: true
+          files: dist/epub/release-assets/*.epub
+          preserve_order: true
+          fail_on_unmatched_files: true
+
+      - name: Verify uploaded EPUB assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_ID: ${{ steps.release.outputs.id }}
+        run: |
+          gh api "repos/${GITHUB_REPOSITORY}/releases/${RELEASE_ID}/assets?per_page=100" \
+            > "${RUNNER_TEMP}/epub-release-assets.json"
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs'
+          import path from 'node:path'
+          import assert from 'node:assert/strict'
+
+          const dir = 'dist/epub/release-assets'
+          const files = fs.readdirSync(dir).filter((file) => file.endsWith('.epub'))
+          const assets = JSON.parse(fs.readFileSync(path.join(process.env.RUNNER_TEMP, 'epub-release-assets.json'), 'utf8'))
+          const epubs = assets.filter((asset) => asset.name.endsWith('.epub'))
+          assert.equal(files.length, 8, 'Expected eight local EPUBs')
+          assert.equal(epubs.length, files.length, 'Release EPUB count does not match')
+          for (const file of files) {
+            const asset = epubs.find((item) => item.name === file)
+            assert.ok(asset, `Missing release asset: ${file}`)
+            assert.equal(asset.state, 'uploaded', `Incomplete release asset: ${file}`)
+            assert.equal(asset.size, fs.statSync(path.join(dir, file)).size, `Release asset size mismatch: ${file}`)
+          }
+          console.log('Verified all eight uploaded EPUB assets')
+          NODE

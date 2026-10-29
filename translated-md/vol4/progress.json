@@ -1,0 +1,11 @@
+{
+  "book": "A l'ombre des jeunes filles en fleurs (A la recherche du temps perdu IV) - Marcel Proust",
+  "volume": "vol4",
+  "prev_volume": "vol3",
+  "source_dir": "/home/qri/lost-time/raw-md/vol4",
+  "last_completed_chapter": 1,
+  "current_chapter": null,
+  "current_chapter_chunks_total": 0,
+  "completed_chunks": [],
+  "glossary_version": 32
+}

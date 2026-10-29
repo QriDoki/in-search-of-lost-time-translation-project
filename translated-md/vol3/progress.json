@@ -1,0 +1,11 @@
+{
+  "book": "A l'ombre des jeunes filles en fleurs (A la recherche du temps perdu III) - Marcel Proust",
+  "volume": "vol3",
+  "prev_volume": "vol2",
+  "source_dir": "/home/qri/lost-time/raw-md/vol3",
+  "last_completed_chapter": 1,
+  "current_chapter": null,
+  "current_chapter_chunks_total": 0,
+  "completed_chunks": [],
+  "glossary_version": 22
+}

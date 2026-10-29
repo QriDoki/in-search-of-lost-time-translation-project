@@ -1,0 +1,6690 @@
+{
+ "Marcel Proust": {
+  "zh": "马塞尔·普鲁斯特",
+  "note": "作者名。首次出现于第 0 章（封面与书名页）。法国作家，《追忆似水年华》的作者。"
+ },
+ "À la recherche du temps perdu": {
+  "zh": "追忆似水年华",
+  "note": "全书总书名。首次出现于第 0 章。中文通行译名（译林出版社版），亦译作《追寻逝去的时光》，本书统一采用《追忆似水年华》。"
+ },
+ "Du côté de chez Swann": {
+  "zh": "在斯万家那边",
+  "note": "《追忆似水年华》第一部小说名，中文通行译名。分两部刊行：第一部为 vol1（《贡布雷》与《斯万之恋》前半），第二部为 vol2（书名页标注 *Deuxième partie*，含《斯万之恋（续）》与《地名：名字》）。全书各卷标题统一沿用此译法。"
+ },
+ "Swann": {
+  "zh": "斯万",
+  "note": "核心人物姓氏（Charles Swann，夏尔·斯万）。首次出现于第 0 章（书名及题献页）。贯穿全书的重要角色，巴黎上流社会艺术品鉴赏家。 需要称谓时用斯万先生；不擅加源文未出现的名字。 禁用译法: 史万 原文别名: M. Swann [类别 person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Gaston Calmette": {
+  "zh": "加斯东·卡尔梅特",
+  "note": "人名。首次出现于第 0 章（本卷题献对象）。《费加罗报》总编辑，普鲁斯特将《在斯万家那边》题献给他。"
+ },
+ "Gallimard": {
+  "zh": "伽利玛",
+  "note": "出版社名（Éditions ，出版社）。见 vol1、vol2、vol3、vol4、vol5 书名页版本说明句。按 AGENTS.md 与各卷先例，出版机构名一律不入正文，版本说明句只保留「1946—1947 年巴黎出版的十五卷本」这一事实。"
+ },
+ "BeQ": {
+  "zh": "BeQ",
+  "note": "Bibliothèque électronique du Québec 的缩写。vol1 卷首与 vol2 第 0 章书名页出现；按项目约定，出版方信息不译入正文。"
+ },
+ "Odette": {
+  "zh": "奥黛特",
+  "note": "与德·克雷西夫人、斯万夫人是同一人；黛奥特为转录中的疑误写法，不采纳。本章为背景人物。 禁用译法: 黛奥特 [类别 person]"
+ },
+ "Odette de Crécy": {
+  "zh": "奥黛特·德·克雷西",
+  "note": "与奥黛特同一人。 [类别 person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Mme de Crécy": {
+  "zh": "德·克雷西夫人",
+  "note": "不是另一个角色；按源文称呼保留。 原文别名: Madame de Crécy [类别 person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "M. Verdurin": {
+  "zh": "维尔迪兰先生",
+  "note": "夫妇合称维尔迪兰夫妇。 禁用译法: 韦尔迪兰先生、维乐迪兰先生 [类别 person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Mme Verdurin": {
+  "zh": "维尔迪兰夫人",
+  "note": "与其丈夫分开建角色；不把她的判断直接当作叙述事实。 禁用译法: 韦尔迪兰夫人、维乐迪兰夫人 原文别名: Madame Verdurin [类别 person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Verdurin": {
+  "zh": "维尔迪兰",
+  "note": "复数指维尔迪兰夫妇或维尔迪兰一家，依句法。 禁用译法: 韦尔迪兰、维乐迪兰 原文别名: les Verdurin [类别 surname] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Cottard": {
+  "zh": "戈达尔",
+  "note": "戈达尔大夫（le docteur Cottard），维尔迪兰小集团成员、名医；其妻为戈达尔夫人。禁用译法: 科塔尔、戈达。[person]"
+ },
+ "Mme Cottard": {
+  "zh": "戈达尔夫人",
+  "note": "大夫的妻子；不可合并为维尔迪兰夫人。 禁用译法: 科塔尔夫人 [类别 person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Saniette": {
+  "zh": "萨尼埃特",
+  "note": "腼腆善良、富有而有文献学识的老朋友；不可写成穷困仆人。 [类别 person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Biche": {
+  "zh": "比施",
+  "note": "画家的称呼；正文说画家时保持画家；不揭示后续身份。 原文别名: M. Biche; monsieur Biche [类别 person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Vinteuil": {
+  "zh": "凡德伊",
+  "note": "保持人物在此时的认知差距，不替斯万提前确认作者身份。 禁用译法: 凡特伊、万特伊 [类别 person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Rémi": {
+  "zh": "雷米",
+  "note": "斯万的马车夫；不是年轻钢琴家。 [类别 person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "baron de Charlus": {
+  "zh": "夏吕斯男爵",
+  "note": "属于斯万的上流社会交游背景。 原文别名: Charlus [类别 person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "princesse de Sagan": {
+  "zh": "萨冈亲王妃",
+  "note": "法语 princesse 在此指亲王的妻子，不是「公主」，也不宜称「亲王夫人」；萨冈为法国显赫贵族世家。原从译林版作「萨冈亲王夫人」，2026-10 按爵位文化语境修订。 禁用译法: 萨冈公主、萨冈亲王夫人 [类别 person_title]"
+ },
+ "duchesse de Guermantes": {
+  "zh": "盖尔芒特公爵夫人",
+  "note": "谈及她不等于她在沙龙现场。 [类别 person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Wagner": {
+  "zh": "瓦格纳",
+  "note": "作曲家。 [类别 real_person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Planté": {
+  "zh": "普朗岱",
+  "note": "被用作青年钢琴家的比较对象。 禁用译法: 普朗泰 [类别 real_person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Rubinstein": {
+  "zh": "鲁宾斯坦",
+  "note": "按原文保留姓氏，不自行补全名。 [类别 real_person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Potain": {
+  "zh": "博丹",
+  "note": "医生；与小说人物戈达尔不同。 禁用译法: 波坦 [类别 real_person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Ver Meer de Delft": {
+  "zh": "维米尔",
+  "note": "约翰内斯·维米尔（Johannes Vermeer，1632—1675），荷兰黄金时代画家，代尔夫特人；大陆艺术史通行译名「维米尔」。原文 Ver Meer de Delft 即「代尔夫特的维米尔」。2026-10 按通行译名修订，不再沿用旧译「弗美尔」。 原文别名: Ver Meer; Vermeer [类别 real_person]"
+ },
+ "Sarah Bernhardt": {
+  "zh": "萨拉·贝尔纳",
+  "note": "该章转录采用此字形；同卷其他位置若有异形，显式记录，不静默替换。 禁用译法: 萨拉·贝恩纳特、莎拉·伯恩哈特 [类别 real_person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Gambetta": {
+  "zh": "甘必大",
+  "note": "作为葬礼与社交往事被提到。 [类别 real_person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Grévy": {
+  "zh": "格雷维",
+  "note": "当时的法国共和国总统；不添加当代人物信息。 原文别名: M. Grévy [类别 real_person] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "prince de Galles": {
+  "zh": "威尔士亲王",
+  "note": "英国王储封号 Prince of Wales，大陆标准译名「威尔士亲王」。原从译林版作「威尔斯亲王」，2026-10 按通行译名修订。 禁用译法: 威尔斯亲王 [类别 person_title]"
+ },
+ "Pieter de Hooch": {
+  "zh": "皮特·德·霍赫",
+  "note": "荷兰黄金时代画家（1629—1684），以代尔夫特室内景与半开门框造成的景深著称；文中以此比喻乐句在远处的显现。大陆通行译名「彼得·德·霍赫」，「皮特·德·霍赫」亦通行；译文第一次出现用全名，之后可简称「德·霍赫」。 原文别名: 彼得·德·霍赫 [类别 real_person]"
+ },
+ "Paris": {
+  "zh": "巴黎",
+  "note": "[类别 place] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "faubourg Saint-Germain": {
+  "zh": "圣日耳曼区",
+  "note": "此处具有贵族社交圈的转喻义，不仅是地理位置。 原文别名: Saint-Germain [类别 place] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Auvergne": {
+  "zh": "奥维涅",
+  "note": "复活节出行目的地。 [类别 place] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Châtelet": {
+  "zh": "夏特莱剧院",
+  "note": "此处指剧院。 [类别 place] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Élysée": {
+  "zh": "爱丽舍宫",
+  "note": "不是香榭丽舍大街。 原文别名: l’Élysée [类别 place] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Fontainebleau": {
+  "zh": "枫丹白露",
+  "note": "此处与葡萄疗养的比喻有关。 [类别 place] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Beauvais": {
+  "zh": "博韦",
+  "note": "博韦：本章指有著名教堂的法国城市（斯万想带人去看建筑），非仅指挂毯产地；作地名时译「博韦」。 [place]"
+ },
+ "Arc de Triomphe": {
+  "zh": "凯旋门",
+  "note": "[类别 place] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Walkyrie": {
+  "zh": "《女武神》",
+  "note": "斜体位置以实际003.md为准；勿把引用名扩写成新标题。 [类别 work] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Tristan": {
+  "zh": "《特里斯坦》",
+  "note": "严格保持参考译本的简称，不扩写为全剧名。 [类别 work] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Danicheff": {
+  "zh": "《达尼谢夫》",
+  "note": "剧目。 原文别名: les Danicheff [类别 work] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Neuvième": {
+  "zh": "《第九交响曲》",
+  "note": "la Neuvième 专指贝多芬《第九交响曲》（合唱）。原文是沙龙口语中的简称；中文补足为《第九交响曲》，否则读者难以对应，但不扩写为全称曲名。 [类别 work]"
+ },
+ "Maîtres": {
+  "zh": "《名歌手》",
+  "note": "les Maîtres 是瓦格纳歌剧《纽伦堡的名歌手》（Die Meistersinger von Nürnberg）的口语简称。用《名歌手》保留简称口吻；不用《大师》（易误解为泛称），也不必每次写全名。 [类别 work]"
+ },
+ "sonate pour piano et violon de Vinteuil": {
+  "zh": "凡德伊的《钢琴小提琴奏鸣曲》",
+  "note": "确有曲名式指称时采用；泛称sonate时用奏鸣曲，不每次扩写。 [类别 fictional_work] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "Françoise": {
+  "zh": "弗朗索瓦丝",
+  "note": "贡布雷宅邸女仆（厨娘），照看叙述者；全书高频人物。译林版（上游指示）。首现第1章。禁用: 弗朗索瓦斯 [person]"
+ },
+ "tante Léonie": {
+  "zh": "莱奥妮姑妈",
+  "note": "莱奥妮姑妈；贡布雷宅邸主人、久病闭居；其母即 grand'tante 姑外祖母（两人，勿混）。本章仅以「莱奥妮姑妈去世后」一句提及，弗朗索瓦丝因此进入叙述者家。禁用: 莱奥妮姨妈 [person]"
+ },
+ "grand'tante": {
+  "zh": "姑外祖母",
+  "note": "叙述者的姑外祖母＝外祖父的堂姐妹、莱奥妮姑妈之母，两人勿混（第2章正文明示 «était la mère de cette tante Léonie»）；第1章旧注「与莱奥妮同一人」有误，以本注为准。译「姑外祖母」。"
+ },
+ "grand-oncle": {
+  "zh": "外叔外祖父",
+  "note": "童年恐惧记忆中拉发卷的叔公；或与「阿道夫外叔外祖父」为同一人，本章未指名，勿加名字。首现第1章。[person]"
+ },
+ "Céline": {
+  "zh": "赛莉纳",
+  "note": "外祖母的妹妹之一（老小姐），ma tante Céline。译林版（003上下文包）。首现第1章。[person]"
+ },
+ "Flora": {
+  "zh": "弗洛拉",
+  "note": "外祖母的妹妹之一（老小姐），ma tante Flora。译林版（003上下文包）。首现第1章。[person]"
+ },
+ "Bathilde": {
+  "zh": "巴蒂尔德",
+  "note": "外祖母的名字，对话中直呼一次。首现第1章。[person]"
+ },
+ "Amédée": {
+  "zh": "阿梅代",
+  "note": "外祖父的名字，斯万老父对话中直呼一次。首现第1章。[person]"
+ },
+ "grand'mère": {
+  "zh": "外祖母",
+  "note": "叙述者的外祖母（巴蒂尔德）；爱雨中散步、重品味轻等级。全书统一译「外祖母」（第1章译文已用；book_context_001 中「外婆」为笔误）。首现第1章。"
+ },
+ "grand-père": {
+  "zh": "外祖父",
+  "note": "叙述者的外祖父（阿梅代），斯万老父挚友，爱读报。全书统一译「外祖父」（第1章译文已用）。首现第1章。"
+ },
+ "maman": {
+  "zh": "妈妈",
+  "note": "叙述者的母亲；睡前吻为本章情感核心。ma mère 依语境译母亲/妈妈。首现第1章。[person]"
+ },
+ "papa": {
+  "zh": "爸爸",
+  "note": "儿语称谓；mon père 依语境译父亲/爸爸。首现第1章。[person]"
+ },
+ "Mme de Saint-Loup": {
+  "zh": "圣卢夫人",
+  "note": "半梦半醒间忆起的宅邸女主人（坦松维尔）；后文人物成年身份之伏笔，保持神秘勿点破、勿加注。别名 M^me^ de Saint-Loup。首现第1章。[person]"
+ },
+ "Golo": {
+  "zh": "戈洛",
+  "note": "幻灯片中迫害热纳维耶芙的奸角（中世纪传说）。首现第1章。[person_legend]"
+ },
+ "Geneviève de Brabant": {
+  "zh": "布拉邦的热纳维耶芙",
+  "note": "幻灯片故事女主人公（中世纪传说）。首现第1章。[person_legend]"
+ },
+ "Barbe-Bleue": {
+  "zh": "蓝胡子",
+  "note": "童话人物，幻灯场景并提。首现第1章。[person_legend]"
+ },
+ "monsieur de Charlus": {
+  "zh": "夏吕斯先生",
+  "note": "本章仅闲话「un certain monsieur de Charlus」（传为斯万妻子情夫）；与 baron de Charlus 夏吕斯男爵同一人。首现第1章。[person]"
+ },
+ "Charles Swann": {
+  "zh": "夏尔·斯万",
+  "note": "斯万全名，见于《费加罗报》藏品启事。首现第1章。[person]"
+ },
+ "M. Swann le père": {
+  "zh": "老斯万先生",
+  "note": "斯万之父（已故），证券经纪人；le père Swann 译老斯万。首现第1章。[person]"
+ },
+ "marquise de Villeparisis": {
+  "zh": "维尔巴里西斯侯爵夫人",
+  "note": "布永家族贵妇、外祖母旧识，盖尔芒特家族的亲戚（叙述者起初不知）；vol4 第 1 章在巴尔贝克重逢，带叙述者出游、介绍夏吕斯。别名 M^me^ de Villeparisis。首现第1章。[person]"
+ },
+ "giletier": {
+  "zh": "背心裁缝",
+  "note": "侯爵夫人府院内工匠，外祖母赞其「最有风度」；风度与等级无关主题。首现第1章。[person_generic]"
+ },
+ "comte de Paris": {
+  "zh": "巴黎伯爵",
+  "note": "奥尔良派王位觊觎者，斯万密友之一。首现第1章。[person_real]"
+ },
+ "Saint-Simon": {
+  "zh": "圣西门",
+  "note": "路易十四时代回忆录作家；斯万引其《西班牙大使任上》卷轶事。首现第1章。[real_person]"
+ },
+ "Maulevrier": {
+  "zh": "莫勒夫里耶",
+  "note": "圣西门回忆录中被讥讽的廷臣。首现第1章。[real_person]"
+ },
+ "Molé": {
+  "zh": "莫莱",
+  "note": "七月王朝时期政治家。首现第1章。[real_person]"
+ },
+ "duc Pasquier": {
+  "zh": "帕斯基耶公爵",
+  "note": "七月王朝时期政治家。首现第1章。[real_person]"
+ },
+ "duc de Broglie": {
+  "zh": "布罗伊公爵",
+  "note": "七月王朝时期政治家。首现第1章。[real_person]"
+ },
+ "duc d'Audiffret-Pasquier": {
+  "zh": "奥迪弗雷-帕斯基耶公爵",
+  "note": "第三共和国政治家、演说家。首现第1章。[real_person]"
+ },
+ "Louis-Philippe": {
+  "zh": "路易-菲利普",
+  "note": "法国国王（七月王朝）。首现第1章。[real_person]"
+ },
+ "maréchal de Mac-Mahon": {
+  "zh": "麦克马洪元帅",
+  "note": "法国前总统；维尔巴里西斯家传为其亲戚。首现第1章。[real_person]"
+ },
+ "Sévigné": {
+  "zh": "塞维涅",
+  "note": "即塞维涅侯爵夫人，17世纪书简作家；外祖母以其品评谈吐。首现第1章。[real_person]"
+ },
+ "Maubant": {
+  "zh": "莫邦",
+  "note": "当时著名演员。首现第1章。[real_person]"
+ },
+ "Mme Materna": {
+  "zh": "马特纳夫人",
+  "note": "当时著名女歌唱家。别名 M^me^ Materna。首现第1章。[real_person]"
+ },
+ "Bressant": {
+  "zh": "布雷桑",
+  "note": "当时著名演员；coiffés à la Bressant＝布雷桑式发型。首现第1章。[real_person]"
+ },
+ "Molière": {
+  "zh": "莫里哀",
+  "note": "剧作家（牙痛比喻中提及）。首现第1章。[real_person]"
+ },
+ "Pascal": {
+  "zh": "帕斯卡",
+  "note": "哲学家；les Pensées de Pascal→帕斯卡《思想录》。首现第1章。[real_person]"
+ },
+ "Corot": {
+  "zh": "柯罗",
+  "note": "画家；斯万藏品有其画（《费加罗报》提及）。首现第1章。[real_person]"
+ },
+ "Hubert Robert": {
+  "zh": "于贝尔·罗贝尔",
+  "note": "画家（圣克卢大喷泉艺术照片）。首现第1章。[real_person]"
+ },
+ "Turner": {
+  "zh": "特纳",
+  "note": "英国画家（维苏威火山艺术照片）。首现第1章。[real_person]"
+ },
+ "Titien": {
+  "zh": "提香",
+  "note": "提香，意大利威尼斯画派画家；vol4 第 1 章：维尔巴里西斯侯爵夫人藏有提香所绘先祖肖像，项链即画中物（她以此证明是真迹）。[real_person]"
+ },
+ "Léonard": {
+  "zh": "莱奥纳多",
+  "note": "即达·芬奇；la Cène de Léonard→莱奥纳多的《最后的晚餐》。首现第1章。[real_person]"
+ },
+ "Morgan": {
+  "zh": "摩根",
+  "note": "版画家（《最后的晚餐》毁坏前的版画）。首现第1章。[real_person]"
+ },
+ "Musset": {
+  "zh": "缪塞",
+  "note": "诗人（外祖母原拟赠诗集）。首现第1章。[real_person]"
+ },
+ "Rousseau": {
+  "zh": "卢梭",
+  "note": "作家（原拟赠一卷）。首现第1章。[real_person]"
+ },
+ "George Sand": {
+  "zh": "乔治·桑",
+  "note": "作家，外祖母所赠四部田园小说的作者、「小说家的典型」。首现第1章。[real_person]"
+ },
+ "Benozzo Gozzoli": {
+  "zh": "贝诺佐·戈佐利",
+  "note": "意大利画家；父亲在其版画中如亚伯拉罕。首现第1章。[real_person]"
+ },
+ "Abraham": {
+  "zh": "亚伯拉罕",
+  "note": "圣经人物（版画场景）。首现第1章。[person_biblical]"
+ },
+ "Sarah": {
+  "zh": "撒拉",
+  "note": "圣经人物，亚伯拉罕之妻。首现第1章。[person_biblical]"
+ },
+ "Isaac": {
+  "zh": "以撒",
+  "note": "圣经人物，亚伯拉罕之子。首现第1章。[person_biblical]"
+ },
+ "Aristée": {
+  "zh": "阿里斯泰俄斯",
+  "note": "维吉尔《农事诗》中的养蜂神人（喻斯万隐匿的社交生活）。首现第1章。[person_myth]"
+ },
+ "Thétis": {
+  "zh": "忒提斯",
+  "note": "希腊海神；les royaumes de Thétis＝海底王国。首现第1章。[person_myth]"
+ },
+ "Virgile": {
+  "zh": "维吉尔",
+  "note": "罗马诗人。首现第1章。[real_person]"
+ },
+ "Ali-Baba": {
+  "zh": "阿里巴巴",
+  "note": "《一千零一夜》人物（家中小点心盘图案，喻斯万的隐秘宝藏）。首现第1章。[person_fiction]"
+ },
+ "saint Théophile": {
+  "zh": "圣泰奥菲尔",
+  "note": "中世纪传说「圣泰奥菲尔的奇迹」（厂房雕刻题材）。首现第1章。[person_legend]"
+ },
+ "les quatre fils Aymon": {
+  "zh": "埃蒙四子",
+  "note": "中世纪骑士传说人物（厂房雕刻题材）。首现第1章。[person_legend]"
+ },
+ "Ève": {
+  "zh": "夏娃",
+  "note": "圣经人物（「如同夏娃生于亚当的一根肋骨」）。首现第1章。[person_biblical]"
+ },
+ "Adam": {
+  "zh": "亚当",
+  "note": "圣经人物。首现第1章。[person_biblical]"
+ },
+ "princesse de Léon": {
+  "zh": "莱昂亲王妃",
+  "note": "巴黎上流社会举例（化装舞会）。princesse 指亲王的妻子，中文作「亲王妃」，不作「亲王夫人」「公主」。2026-10 由「莱昂亲王夫人」修订；第1章正文尚存旧译三处，本卷后续统一用新译。 禁用译法: 莱昂亲王夫人 [类别 person_title]"
+ },
+ "François Ier": {
+  "zh": "弗朗索瓦一世",
+  "note": "法国国王（梦中所读书题材）；原文作 François I^er^。首现第1章。[real_person]"
+ },
+ "Charles-Quint": {
+  "zh": "查理五世",
+  "note": "神圣罗马帝国皇帝（梦中所读书题材）。首现第1章。[real_person]"
+ },
+ "mérovingien": {
+  "zh": "墨洛温王朝的",
+  "note": "«un passé mérovingien»→墨洛温王朝时代的往昔（幻灯投影联想）。首现第1章。[concept]"
+ },
+ "Eulalie": {
+  "zh": "欧拉莉",
+  "note": "预收：周日探望莱奥妮姑妈的穷妇人，贡布雷II（第2章）登场；第1章I部正文未出现。译林版（上游指示）。[person]"
+ },
+ "église Saint-Hilaire": {
+  "zh": "圣伊莱尔教堂",
+  "note": "预收：贡布雷的教堂；I部正文只作 l'église 未带专名，贡布雷II出现专名。译林版（上游指示）。[place]"
+ },
+ "Guermantes": {
+  "zh": "盖尔芒特",
+  "note": "家族名与地名；le côté de Guermantes→盖尔芒特家那边（散步路线，贡布雷II）；hôtel de Guermantes→盖尔芒特府（巴黎府邸，叙述者一家租住其侧翼）；les Guermantes→盖尔芒特一家。[place_family]"
+ },
+ "Méséglise": {
+  "zh": "梅塞格利丝",
+  "note": "预收：le côté de Méséglise→梅塞格利丝那边（斯万家那边的散步路线，贡布雷II）。[place]"
+ },
+ "Gilberte": {
+  "zh": "希尔贝特",
+  "note": "斯万与奥黛特之女；本章香榭丽舍游戏的中心人物，叙述者少年之恋的对象。全名 Gilberte Swann→希尔贝特·斯万。禁用译法沿用全书。[person]"
+ },
+ "Bergotte": {
+  "zh": "贝戈特",
+  "note": "作家，叙述者的文学偶像；本章（vol3 第 1 章）首次实际登场，在斯万家谈论贝尔玛与《费德尔》，并评点叙述者的习作。其谈吐与文体不同，译时保留这一落差。[person]"
+ },
+ "Legrandin": {
+  "zh": "勒格朗丹",
+  "note": "预收：贡布雷的工程师、攀附风气人物（贡布雷II）。译林版（003上下文包）。[person]"
+ },
+ "docteur Percepied": {
+  "zh": "贝斯比埃大夫",
+  "note": "预收：贡布雷医生（贡布雷II）。译林版（003上下文包）。[person]"
+ },
+ "Théodore": {
+  "zh": "戴奥多尔",
+  "note": "预收：跑腿伙计（贡布雷II）。译林版（003上下文包）。[person]"
+ },
+ "Mme Sazerat": {
+  "zh": "萨士拉夫人",
+  "note": "预收：贡布雷居民（贡布雷II）。译林版（003上下文包）。[person]"
+ },
+ "Mme Goupil": {
+  "zh": "古比尔夫人",
+  "note": "预收：贡布雷居民（贡布雷II）。译林版（003上下文包）。[person]"
+ },
+ "la Mare au Diable": {
+  "zh": "《魔沼》",
+  "note": "乔治·桑小说（外祖母所赠四部田园小说之一）。原文斜体；强调内用《》。首现第1章。[work]"
+ },
+ "François le Champi": {
+  "zh": "《弃儿弗朗索瓦》",
+  "note": "乔治·桑小说；母亲为叙述者朗读之书、本章节核心意象。译林通行译名，François 与弗朗索瓦丝统一。原文斜体。首现第1章。[work]"
+ },
+ "la Petite Fadette": {
+  "zh": "《小法岱特》",
+  "note": "乔治·桑小说。原文斜体。首现第1章。[work]"
+ },
+ "les Maîtres Sonneurs": {
+  "zh": "《风笛大师们》",
+  "note": "乔治·桑小说（四部田园小说之一）。原文斜体。首现第1章。[work]"
+ },
+ "Indiana": {
+  "zh": "《印第安娜》",
+  "note": "乔治·桑小说（原拟赠书被父亲否决）。原文斜体。首现第1章。[work]"
+ },
+ "Débats roses": {
+  "zh": "粉红版《辩论报》",
+  "note": "Journal des Débats 因以粉红色纸张印刷而被称为 Débats roses，即「粉红版《辩论报》」。第1章专称；第2章老太太只说 les Débats（《辩论报》），不套用此称。原文斜体，强调内用《》。[类别 work_press]"
+ },
+ "Figaro": {
+  "zh": "《费加罗报》",
+  "note": "报纸（第0章题献背景即该报总编辑）；本章载斯万藏品启事。原文斜体；强调内用《》。首现第1章正文。[work_press]"
+ },
+ "Pensées": {
+  "zh": "《思想录》",
+  "note": "帕斯卡著作；les Pensées de Pascal→帕斯卡《思想录》。首现第1章。[work]"
+ },
+ "la Cène": {
+  "zh": "《最后的晚餐》",
+  "note": "莱奥纳多（达·芬奇）名画。原文斜体；强调内用《》。首现第1章。[work_art]"
+ },
+ "Première partie : Combray": {
+  "zh": "第一部：贡布雷",
+  "note": "本章一级标题译法；二级标题 I→一。首现第1章。[heading]"
+ },
+ "Combray": {
+  "zh": "贡布雷",
+  "note": "叙述者童年度假小镇、全书核心场景（原型伊利耶 Illiers）。译林版（上游指示）。首现第1章。[place]"
+ },
+ "Tansonville": {
+  "zh": "坦松维尔",
+  "note": "斯万在贡布雷附近的乡间宅邸；圣卢夫人记忆中住所。首现第1章。[place]"
+ },
+ "Balbec": {
+  "zh": "巴尔贝克",
+  "note": "诺曼底海滨胜地（原型卡堡）。前三卷只在想象与谈论中出现；vol4 第 1 章叙述者与外祖母真正抵达，住海滨大酒店，教堂在内陆的巴尔贝克镇。首现第1章。[place]"
+ },
+ "Doncières": {
+  "zh": "唐西埃尔",
+  "note": "小镇（失眠夜忆起；后为圣卢驻防地）。首现第1章。[place]"
+ },
+ "Venise": {
+  "zh": "威尼斯",
+  "note": "水城（失眠夜忆起；后为旅行目的地）。首现第1章。[place]"
+ },
+ "Roussainville-le-Pin": {
+  "zh": "鲁森维尔-勒潘",
+  "note": "小阁楼房间可望见其城堡主塔的邻镇；简称 Roussainville 鲁森维尔。首现第1章。[place]"
+ },
+ "la Vivonne": {
+  "zh": "维沃纳河",
+  "note": "流经贡布雷的河；les nymphéas de la Vivonne＝维沃纳河上的睡莲。首现第1章。[place_river]"
+ },
+ "quai d'Orléans": {
+  "zh": "奥尔良码头",
+  "note": "斯万巴黎寓所所在（圣路易岛）；姑外祖母视为不宜居住的地段。首现第1章。[place]"
+ },
+ "boulevard Haussmann": {
+  "zh": "奥斯曼大街",
+  "note": "巴黎体面地段举例。首现第1章。[place]"
+ },
+ "avenue de l'Opéra": {
+  "zh": "歌剧院大街",
+  "note": "巴黎体面地段举例。首现第1章。[place]"
+ },
+ "Entrepôt des vins": {
+  "zh": "葡萄酒市场",
+  "note": "巴黎的葡萄酒仓储市场（Entrepôt des vins，又称 Halle aux vins，在今第五区植物园一带）；姑祖母以此打趣斯万住得离里昂车站近。不按字面译作「货栈」。 [类别 place]"
+ },
+ "Twickenham": {
+  "zh": "特威克纳姆",
+  "note": "巴黎伯爵流亡英国居所；une lettre de Twickenham 暗示斯万与王室交往。首现第1章。[place]"
+ },
+ "Sacré-Cœur": {
+  "zh": "圣心修道院学校",
+  "note": "此处的 Sacré-Cœur 指巴黎圣心会（Sacré-Cœur）办的女子寄宿学校，外祖母在此结识维尔巴里西斯侯爵夫人；不是蒙马特的圣心大教堂。 [类别 institution]"
+ },
+ "Jouy-le-Vicomte": {
+  "zh": "茹伊-勒维孔特",
+  "note": "贡布雷附近市镇（外祖母换书之行）。首现第1章。[place]"
+ },
+ "rue de Trévise": {
+  "zh": "特雷维兹街",
+  "note": "巴黎街道（音乐学院旁；喻远处军乐声）。首现第1章。[place]"
+ },
+ "Chartres": {
+  "zh": "沙特尔",
+  "note": "Cathédrale de Chartres→沙特尔大教堂（艺术照片举例）。首现第1章。[place]"
+ },
+ "Saint-Cloud": {
+  "zh": "圣克卢",
+  "note": "Grandes Eaux de Saint-Cloud→圣克卢大喷泉（艺术照片举例）。首现第1章。[place]"
+ },
+ "Vésuve": {
+  "zh": "维苏威",
+  "note": "火山（艺术照片举例）。首现第1章。[place]"
+ },
+ "Cannes": {
+  "zh": "戛纳",
+  "note": "蔚蓝海岸度假地（仅指地名时）。**同形异义**：bataille de Cannes／un Cannes（与 Ulm、Lodi、Leipzig、Austerlitz 并列）指公元前 216 年的坎尼会战，必译「坎尼」，见 Cannes (bataille) 条。"
+ },
+ "Brabant": {
+  "zh": "布拉邦",
+  "note": "热纳维耶芙传说中的地名；其名字的金色音响唤起幻灯的黄色。首现第1章。[place_legend]"
+ },
+ "Bohême": {
+  "zh": "波希米亚",
+  "note": "verre de Bohême→波希米亚玻璃（夜灯）。首现第1章。[place]"
+ },
+ "Sienne": {
+  "zh": "锡耶纳",
+  "note": "marbre de Sienne→锡耶纳大理石（壁炉）。首现第1章。[place]"
+ },
+ "Asti": {
+  "zh": "阿斯蒂",
+  "note": "意大利地名；vin d'Asti→阿斯蒂起泡白葡萄酒（斯万赠礼）。首现第1章。[place_product]"
+ },
+ "Maison de France": {
+  "zh": "法兰西王室",
+  "note": "les princes de la Maison de France→法兰西王室的亲王们。首现第1章。[org]"
+ },
+ "Jockey-Club": {
+  "zh": "赛马俱乐部",
+  "note": "巴黎最高级绅士俱乐部（斯万所属圈子）。首现第1章。[org]"
+ },
+ "Conservatoire": {
+  "zh": "巴黎音乐学院",
+  "note": "l'orchestre du Conservatoire→巴黎音乐学院管弦乐团。首现第1章。[org]"
+ },
+ "madeleine": {
+  "zh": "玛德莱娜小蛋糕",
+  "note": "贝壳形小蛋糕；非自主记忆的触发物、全书核心意象。大写 Petites Madeleines 译小玛德莱娜蛋糕。首现第1章。[object]"
+ },
+ "tilleul": {
+  "zh": "椴花茶",
+  "note": "椴树花泡的草药茶；infusion de thé ou de tilleul→茶或椴花茶。首现第1章。[object]"
+ },
+ "coquille de Saint-Jacques": {
+  "zh": "圣雅各扇贝",
+  "note": "即扇贝（coquille Saint-Jacques），得名于赴西班牙圣地亚哥-德孔波斯特拉朝圣的雅各（Saint-Jacques）信徒所佩的扇贝壳；玛德莱娜蛋糕即以这种带凹槽的壳瓣为模。译文中指贝壳本身，可作「圣雅各扇贝带凹槽的壳瓣」。不用字面音译「圣雅克贝壳」。 [类别 object]"
+ },
+ "lanterne magique": {
+  "zh": "幻灯机",
+  "note": "魔幻灯；童年睡前恐惧的意象来源（戈洛幻灯片）。首现第1章。[object]"
+ },
+ "caste": {
+  "zh": "种姓",
+  "note": "caste 本义为印度种姓制度。原文明确以「une idée un peu hindoue」（带点印度色彩的观念）框定这一比喻，故保留「种姓」的比喻语，不泛化为「阶层／阶级」；指19世纪末法国资产阶级眼中封闭而不可逾越的社交等级。vol4 第 1 章多处沿用。[类别 concept]"
+ },
+ "demi-monde": {
+  "zh": "半上流社会",
+  "note": "princesse du demi-monde→半上流社会里的亲王夫人（风月场）。首现第1章。[concept]"
+ },
+ "mémoire volontaire": {
+  "zh": "有意的记忆",
+  "note": "即理智的记忆（la mémoire de l'intelligence），与非自主记忆相对；玛德莱娜段核心概念。首现第1章。[concept]"
+ },
+ "métempsycose": {
+  "zh": "灵魂转世",
+  "note": "«comme après la métempsycose»→如同灵魂转世之后。首现第1章。[concept]"
+ },
+ "kinétoscope": {
+  "zh": "活动视镜",
+  "note": "早期活动影像装置；喻苏醒瞬间的连续画面。首现第1章。[concept_object]"
+ },
+ "feu de bengale": {
+  "zh": "孟加拉焰火",
+  "note": "彩色信号焰火；喻记忆中照亮贡布雷的光片。首现第1章。[object]"
+ },
+ "aubépine": {
+  "zh": "山楂树",
+  "note": "常作复数 aubépines；全书核心花卉意象（斯万家那边）。首现第1章。[plant]"
+ },
+ "nymphéa": {
+  "zh": "睡莲",
+  "note": "les nymphéas de la Vivonne；全书核心意象（本卷末章再现）。首现第1章。[plant]"
+ },
+ "marronnier": {
+  "zh": "栗树",
+  "note": "花园里 le grand marronnier→大栗树，家人常聚处；全书统一「栗树」（第1章译文先例，zh列旧值「七叶树」废弃）。首现第1章。"
+ },
+ "vétiver": {
+  "zh": "香根草",
+  "note": "金字塔形房间的气味（痛苦记忆）。首现第1章。[plant]"
+ },
+ "agent de change": {
+  "zh": "证券经纪人",
+  "note": "斯万父亲的职业；家庭据此判定斯万所属社会层级。首现第1章。[concept]"
+ },
+ "cocotte": {
+  "zh": "交际花",
+  "note": "贬义，家人对斯万妻子的评价（presque une cocotte）。首现第1章。[concept]"
+ },
+ "belle bourgeoisie": {
+  "zh": "上流资产阶级",
+  "note": "原文引号内（toute la «belle bourgeoisie»）。首现第1章。[concept]"
+ },
+ "toquade": {
+  "zh": "癖好",
+  "note": "口语词，原文引号内；une «toquade» d'objets anciens→对古玩的「癖好」。首现第1章。[concept]"
+ },
+ "hostie": {
+  "zh": "圣体",
+  "note": "天主教圣饼；喻母亲的晚安吻（comme une hostie）。首现第1章。[concept]"
+ },
+ "viatique": {
+  "zh": "临终圣体",
+  "note": "喻精神依凭；partir sans viatique→没有得到安慰就离开。首现第1章。[concept]"
+ },
+ "grelot": {
+  "zh": "铃铛",
+  "note": "花园大门上家人出入触发的响铃（le grelot profus et criard）；与 clochette 相对。首现第1章。[object]"
+ },
+ "clochette": {
+  "zh": "小铃铛",
+  "note": "门上访客用的铃（两声怯生生的轻响＝来客，多指斯万）。首现第1章。[object]"
+ },
+ "office": {
+  "zh": "配膳间",
+  "note": "仆人工作间（配膳间），弗朗索瓦丝的领地（第1章义）；第2章起亦作「日课/礼拜仪式」义（les offices、office divin），依语境择义。首现第1章。"
+ },
+ "véranda": {
+  "zh": "凉廊",
+  "note": "宅前安置铁桌的廊下（sous la véranda）。首现第1章。[place_room]"
+ },
+ "Droit des gens": {
+  "zh": "万国公法",
+  "note": "父亲不讲「原则」，家里对他没有「万国公法」；原文大写带引号。首现第1章。[concept]"
+ },
+ "granité": {
+  "zh": "冰沙",
+  "note": "一种碎冰甜食；原文引号内（la glace elle-même -- le «granité»）。首现第1章。[object]"
+ },
+ "rince-bouche": {
+  "zh": "漱口盅",
+  "note": "宴末漱口用具；quand on serait aux rince-bouche→等到上漱口盅的时候。首现第1章。[object]"
+ },
+ "tisane": {
+  "zh": "草药汤饮",
+  "note": "弗朗索瓦丝提出为叙述者煮的安神汤饮。首现第1章。[object]"
+ },
+ "sauce gribiche": {
+  "zh": "格里比什调味汁",
+  "note": "une recette de sauce gribiche（向斯万讨教的食谱）。首现第1章。[object]"
+ },
+ "marrons glacés": {
+  "zh": "糖渍栗子",
+  "note": "斯万新年赠礼（un sac de marrons glacés）。首现第1章。[object]"
+ },
+ "Louis XVI": {
+  "zh": "路易十六",
+  "note": "la chambre Louis XVI→路易十六式房间。首现第1章。[style]"
+ },
+ "Bouillon": {
+  "zh": "布永",
+  "note": "la célèbre famille de Bouillon→著名的布永家族（维尔巴里西斯侯爵夫人的门第）。首现第1章。[family]"
+ },
+ "Laumes": {
+  "zh": "洛姆",
+  "note": "洛姆：盖尔芒特家族的封号名。princesse des Laumes→洛姆亲王妃（非「公主」）；M. des Laumes→洛姆亲王；勿点破其与盖尔芒特公爵夫妇的关联。首现第1章。[person_title]"
+ },
+ "Champi": {
+  "zh": "尚皮",
+  "note": "《弃儿弗朗索瓦》中男孩的姓，源出方言「弃儿」；正文单用 «Champi» 时译「尚皮」。首现第1章。[person_fiction]"
+ },
+ "Bloch": {
+  "zh": "布洛克",
+  "note": "我年长的同学，引介贝戈特；爱用矫揉语体（mon très cher maître）"
+ },
+ "curé": {
+  "zh": "本堂神甫",
+  "note": "贡布雷无名本堂神甫；M. le Curé→本堂神甫先生"
+ },
+ "Mme Octave": {
+  "zh": "奥克塔夫夫人",
+  "note": "仆人与镇民对莱奥妮姑妈的称呼"
+ },
+ "madame Octave": {
+  "zh": "奥克塔夫夫人",
+  "note": "同 Mme Octave（对话中口语称呼）"
+ },
+ "Octave": {
+  "zh": "奥克塔夫",
+  "note": "注意：全书有两个「奥克塔夫」。① 莱奥妮姑妈的亡夫（mon oncle Octave，我的姑父奥克塔夫）；② vol5 第 001 章巴尔贝克玩巴卡拉的年轻人奥克塔夫（富有的实业家之子、安德蕾的高尔夫球友）。两处同名不同人，均作「奥克塔夫」，依上下文区分。"
+ },
+ "Adolphe": {
+  "zh": "阿道夫",
+  "note": "叔公辈亲戚；mon oncle Adolphe→我的阿道夫舅舅（儿语称谓，沿第1章先例）；其巴黎书房即穿玫瑰色衣裙的夫人事件发生地"
+ },
+ "ma tante": {
+  "zh": "姑妈",
+  "note": "本章通指莱奥妮姑妈"
+ },
+ "Léonie": {
+  "zh": "莱奥妮",
+  "note": "tante Léonie→莱奥妮姑妈（禁用：莱奥妮姨妈）"
+ },
+ "Mme Amédée": {
+  "zh": "阿梅代夫人",
+  "note": "仆人对外祖母（巴蒂尔德）的称呼，原文括注 ma grand'mère"
+ },
+ "Mlle Swann": {
+  "zh": "斯万小姐",
+  "note": "即希尔贝特（Gilberte）"
+ },
+ "Mme Swann": {
+  "zh": "斯万夫人",
+  "note": "即奥黛特；本章她在布洛涅树林散步，路人低语其旧名 Odette de Crécy。叙述者只称斯万夫人，不点破。[person]"
+ },
+ "M. de Charlus": {
+  "zh": "夏吕斯先生",
+  "note": "即盖尔芒特家夏吕斯男爵"
+ },
+ "Mme de Guermantes": {
+  "zh": "盖尔芒特夫人",
+  "note": "即公爵夫人（duchesse de Guermantes）之别称"
+ },
+ "Mme de Villeparisis": {
+  "zh": "维尔巴里西斯侯爵夫人",
+  "note": "外祖母之友"
+ },
+ "Mme Percepied": {
+  "zh": "贝斯比埃夫人",
+  "note": "贝斯比埃大夫之妻"
+ },
+ "Mlle Vinteuil": {
+  "zh": "凡德伊小姐",
+  "note": "其无名女友（son amie）不立名、不点破"
+ },
+ "dame en rose": {
+  "zh": "穿玫瑰色衣裙的夫人",
+  "note": "阿道夫叔公巴黎书房中的女客，即奥黛特，正文不点破；致父子决裂"
+ },
+ "dame en blanc": {
+  "zh": "穿白衣裙的夫人",
+  "note": "坦松维尔呼唤希尔贝特的妇人，即斯万夫人，不点破"
+ },
+ "fille de cuisine": {
+  "zh": "厨房女工",
+  "note": "弗朗索瓦丝欺虐的对象；绰号「乔托的仁爱」（la Charité de Giotto）"
+ },
+ "Camus": {
+  "zh": "加缪",
+  "note": "食品杂货店主，戴奥多尔的雇主"
+ },
+ "Pupin": {
+  "zh": "皮潘",
+  "note": "M. Pupin 及其女儿，在茹伊寄宿"
+ },
+ "Galopin": {
+  "zh": "加洛潘",
+  "note": "从利雪带回新狗的人家；le petit de chez Galopin→加洛潘家的小子"
+ },
+ "Borange": {
+  "zh": "博朗日",
+  "note": "另一家食品杂货店主"
+ },
+ "Rapin": {
+  "zh": "拉潘",
+  "note": "药剂师"
+ },
+ "Loiseau": {
+  "zh": "卢瓦佐",
+  "note": "M^me^ Loiseau→卢瓦佐夫人，教堂邻居，窗前倒挂金钟"
+ },
+ "Sauton": {
+  "zh": "索东",
+  "note": "M^me^ Sauton→索东夫人，其子退伍；与神甫预告「旅行者」"
+ },
+ "Perdreau": {
+  "zh": "佩尔德罗",
+  "note": "abbé Perdreau→佩尔德罗神父，其侄女出修道院"
+ },
+ "Piperaud": {
+  "zh": "皮佩罗",
+  "note": "docteur Piperaud→皮佩罗大夫"
+ },
+ "Maguelone": {
+  "zh": "马格洛娜",
+  "note": "来请皮佩罗大夫的邻人"
+ },
+ "Bouillebœuf": {
+  "zh": "布耶伯夫",
+  "note": "M^me^ Bouillebœuf→布耶伯夫夫人；其园丁之兄普罗斯佩"
+ },
+ "Prosper": {
+  "zh": "普罗斯佩",
+  "note": "布耶伯夫夫人园丁之兄"
+ },
+ "Imbert": {
+  "zh": "安贝尔",
+  "note": "M^me^ Imbert→安贝尔夫人，种巨型芦笋"
+ },
+ "Callot": {
+  "zh": "加洛",
+  "note": "la mère Callot→加洛大娘"
+ },
+ "Mme Rousseau": {
+  "zh": "卢梭夫人",
+  "note": "新丧；与作家卢梭无关"
+ },
+ "Sazerin": {
+  "zh": "萨士林",
+  "note": "M^me^ Sazerin→萨士林夫人，欧拉莉的顽固误记（原文玩笑），与萨士拉夫人（Sazerat）一字之差，勿混"
+ },
+ "Julien": {
+  "zh": "朱利安",
+  "note": "弗朗索瓦丝几里外探访的亲人"
+ },
+ "Marguerite": {
+  "zh": "玛格丽特",
+  "note": "仅指瓦卢瓦的玛格丽特王后（allée de la Reine-Marguerite 玛格丽特王后道）；第1章另有弗朗索瓦丝探访的亲人玛格丽特，属同名不同人。原文 Reine-Marguerite 中的连字符形式不作为本条的匹配目标。[person]"
+ },
+ "Dumont": {
+  "zh": "杜蒙",
+  "note": "当晚来晚餐的同学；外祖父拿名字打趣唱《阿塔莉》词句"
+ },
+ "Lecomte": {
+  "zh": "勒孔特",
+  "note": "père Lecomte／père Leconte 是布洛克对诗人勒孔特·德·李勒（Leconte de Lisle）的口语称呼，同指一人；本章与「克洛岱尔」并举，说明布洛克的趣味已从缪塞转到勒孔特与克洛岱尔。译名仍作「勒孔特」。"
+ },
+ "Berma": {
+  "zh": "贝尔玛",
+  "note": "悲剧女演员 la Berma；vol3 叙述者首次看其演《费德尔》，先失望而后重建崇拜；vol6 第 001 章在歌剧院重看同一场「表白」，转而从「朗诵的智性」理解她，并意识到她的天才也许只是拉辛的天才。[person]"
+ },
+ "Bartet": {
+  "zh": "巴尔泰",
+  "note": "女演员（名家排序段）"
+ },
+ "Madeleine Brohan": {
+  "zh": "马德莱娜·布罗昂",
+  "note": "女演员（排序段）"
+ },
+ "Jeanne Samary": {
+  "zh": "让娜·萨马里",
+  "note": "女演员（排序段）"
+ },
+ "Got": {
+  "zh": "戈",
+  "note": "演员（排序段）"
+ },
+ "Febvre": {
+  "zh": "费夫尔",
+  "note": "演员（排序段）"
+ },
+ "Thiron": {
+  "zh": "蒂隆",
+  "note": "演员（排序段）"
+ },
+ "Delaunay": {
+  "zh": "德洛奈",
+  "note": "演员（排序段）"
+ },
+ "Coquelin": {
+  "zh": "科克兰",
+  "note": "演员（排序段）"
+ },
+ "Vaulabelle": {
+  "zh": "沃拉贝勒",
+  "note": "提及人物"
+ },
+ "Paul Desjardins": {
+  "zh": "保尔·德雅尔丹",
+  "note": "诗句「Les bois sont déjà noirs…」作者"
+ },
+ "Saintine": {
+  "zh": "圣蒂纳",
+  "note": "提及作家"
+ },
+ "Gleyre": {
+  "zh": "格莱尔",
+  "note": "画家（提及）"
+ },
+ "Fabre": {
+  "zh": "法布尔",
+  "note": "观察泥蜂的昆虫学家"
+ },
+ "Aristote": {
+  "zh": "亚里士多德",
+  "note": ""
+ },
+ "Dante": {
+  "zh": "但丁",
+  "note": ""
+ },
+ "Viollet-le-Duc": {
+  "zh": "维奥莱-勒-杜克",
+  "note": ""
+ },
+ "Bellini": {
+  "zh": "贝利尼",
+  "note": "Gentile Bellini→真蒂莱·贝利尼（穆罕默德二世肖像画家）"
+ },
+ "Mahomet II": {
+  "zh": "穆罕默德二世",
+  "note": "贝利尼肖像画主角"
+ },
+ "Vinci": {
+  "zh": "芬奇",
+  "note": "le chef-d'œuvre de Vinci→芬奇的杰作，即《最后的晚餐》"
+ },
+ "Piranesi": {
+  "zh": "皮拉内西",
+  "note": ""
+ },
+ "Shakespeare": {
+  "zh": "莎士比亚",
+  "note": ""
+ },
+ "Anatole France": {
+  "zh": "阿纳托尔·法朗士",
+  "note": ""
+ },
+ "Baudelaire": {
+  "zh": "波德莱尔",
+  "note": "波德莱尔，法国诗人；叙述者想在巴尔贝克的海上寻找他写过的效果，外祖母则举他与爱伦·坡、魏尔伦、兰波为例，说明这种精致带来的痛苦。首现第1章。[person]"
+ },
+ "Carpaccio": {
+  "zh": "卡尔帕乔",
+  "note": ""
+ },
+ "Giotto": {
+  "zh": "乔托",
+  "note": "la Charité de Giotto→乔托的仁爱；帕多瓦诸德诸恶寓言画作者"
+ },
+ "Versailles": {
+  "zh": "凡尔赛",
+  "note": ""
+ },
+ "suisse": {
+  "zh": "教堂侍卫",
+  "note": "教堂执杖侍卫，非瑞士人"
+ },
+ "enfant de chœur": {
+  "zh": "辅祭童子",
+  "note": ""
+ },
+ "chantre": {
+  "zh": "唱诗班员",
+  "note": "戴奥多尔兼任"
+ },
+ "abbé": {
+  "zh": "神父",
+  "note": "天主教头衔；abbé Perdreau→佩尔德罗神父；中世纪语境(如abbés de Martinville，与sires de Guermantes并列)译「修道院长」，现代天主教头衔译「神父」"
+ },
+ "Monseigneur": {
+  "zh": "主教大人",
+  "note": "对亲王、王族、主教的尊称：直接称呼时作「大人」（如公爵夫人对奥马勒公爵「请大人允许我……」，下属对博罗季诺亲王「大人」）；提及时的 Son Altesse（S.A.）作「殿下」。宗教语境（主教）才作「主教大人」，按语境判断。[title]"
+ },
+ "coulissier": {
+  "zh": "场外证券经纪人",
+  "note": "场外证券经纪人（coulissier，在正式交易所之外撮合证券交易）；奥黛特举其为「时髦人物」埃尔班热的身份背景。"
+ },
+ "castel": {
+  "zh": "小城堡",
+  "note": "勒格朗丹的古语用法（巴尔贝克「castels」）"
+ },
+ "grand-duc": {
+  "zh": "大公",
+  "note": "给穿玫瑰色衣裙的夫人寄烟者"
+ },
+ "Habitude": {
+  "zh": "习惯",
+  "note": "拟人化（l'Habitude）"
+ },
+ "Gilbert le Mauvais": {
+  "zh": "恶人吉尔贝",
+  "note": "盖尔芒特领主，热纳维耶芙·德·布拉邦后裔；彩窗恶人即他"
+ },
+ "Charles le Bègue": {
+  "zh": "口吃者查理",
+  "note": "神甫地名词源段"
+ },
+ "Pépin l'Insensé": {
+  "zh": "疯子丕平",
+  "note": "神甫地名词源段"
+ },
+ "Théodebert": {
+  "zh": "泰奥德贝尔",
+  "note": "词源 *Theodeberciacus*→蒂贝尔齐"
+ },
+ "Dagobert": {
+  "zh": "达戈贝尔",
+  "note": "神甫地名词源段"
+ },
+ "Sigebert": {
+  "zh": "西吉贝尔",
+  "note": "其小孙女墓石上的贝壳压痕（signe）"
+ },
+ "Louis le Germanique": {
+  "zh": "日耳曼人路易",
+  "note": ""
+ },
+ "saint Éloi": {
+  "zh": "圣埃卢瓦",
+  "note": "金十字架；神甫玩笑：欧拉莉在勃艮第讹变为圣埃卢瓦"
+ },
+ "saint Hilaire": {
+  "zh": "圣伊莱尔",
+  "note": "圣人本身；黄衣女士即他！"
+ },
+ "Illiers": {
+  "zh": "伊利耶",
+  "note": "圣伊莱尔地名各省讹变之一"
+ },
+ "Hélier": {
+  "zh": "埃利耶",
+  "note": "圣伊莱尔地名讹变之二"
+ },
+ "Ylie": {
+  "zh": "伊利",
+  "note": "圣伊莱尔地名讹变之三"
+ },
+ "Guillaume le Conquérant": {
+  "zh": "征服者威廉",
+  "note": ""
+ },
+ "Guilôme": {
+  "zh": "吉约姆",
+  "note": "神甫模仿诺曼底发音的威廉"
+ },
+ "saint Louis": {
+  "zh": "圣路易",
+  "note": ""
+ },
+ "Louis XIV": {
+  "zh": "路易十四",
+  "note": "le grand Roi→大王（指路易十四）"
+ },
+ "grand Roi": {
+  "zh": "大王",
+  "note": "指路易十四"
+ },
+ "Charlemagne": {
+  "zh": "查理大帝",
+  "note": ""
+ },
+ "Burgondes": {
+  "zh": "勃艮第人",
+  "note": ""
+ },
+ "Montpensier": {
+  "zh": "蒙庞西耶",
+  "note": ""
+ },
+ "Montmorency": {
+  "zh": "蒙莫朗西",
+  "note": ""
+ },
+ "saint Paul": {
+  "zh": "圣保罗",
+  "note": "「不可赦之罪」讥语出处"
+ },
+ "Bienheureux": {
+  "zh": "真福者",
+  "note": "指圣伊莱尔"
+ },
+ "Racine": {
+  "zh": "拉辛",
+  "note": "拉辛（Jean Racine），法国古典主义悲剧诗人；夏吕斯称「拉辛的一出悲剧比雨果先生的全部剧作更有真实」。作品名加书名号：《安德洛玛克》《费德尔》。首现第1章。[person]"
+ },
+ "Victor Hugo": {
+  "zh": "维克多·雨果",
+  "note": ""
+ },
+ "Salomon": {
+  "zh": "萨洛蒙",
+  "note": "布洛克家在闲谈中提到的「萨洛蒙舅舅」，以讲究衣着著称；与尼西姆·贝尔纳不是同一人，勿合并。首现 vol5 第 001 章。"
+ },
+ "Esther": {
+  "zh": "以斯帖",
+  "note": "拉辛悲剧《以斯帖》（Esther）——本章吉赛尔作文题设想「《以斯帖》首演后塞维涅夫人致拉法耶特夫人」；另指挂毯《以斯帖加冕》。作剧名时加书名号，作挂毯场景时不加。"
+ },
+ "Assuérus": {
+  "zh": "亚哈随鲁",
+  "note": "以斯帖故事中波斯王"
+ },
+ "Joas": {
+  "zh": "约阿施",
+  "note": "《阿塔莉》人物"
+ },
+ "Hébron": {
+  "zh": "希伯仑",
+  "note": ""
+ },
+ "Minos": {
+  "zh": "弥诺斯",
+  "note": "「弥诺斯与帕西法厄之女」（诗句）"
+ },
+ "Pasiphaé": {
+  "zh": "帕西法厄",
+  "note": "同上"
+ },
+ "Oloossone": {
+  "zh": "奥洛索纳",
+  "note": "勒孔特·德·李勒式引句「白色奥洛索纳」"
+ },
+ "Camire": {
+  "zh": "卡米拉",
+  "note": "引句「白色卡米拉」"
+ },
+ "Apollon": {
+  "zh": "阿波罗",
+  "note": "布洛克引句中的呼语"
+ },
+ "Olympos": {
+  "zh": "奥林波斯",
+  "note": ""
+ },
+ "Vénus": {
+  "zh": "维纳斯",
+  "note": "厨房=维纳斯小庙"
+ },
+ "Nymphes": {
+  "zh": "宁芙",
+  "note": "Les Nymphes du printemps→《春天的宁芙》"
+ },
+ "houris": {
+  "zh": "天国仙女",
+  "note": "伊斯兰教天堂中的仙女（阿拉伯语 ḥūr，法语 houris，英语 houri），非基督教天使。原文以东方想象形容山楂花般的少女，下文紧接「波斯细密画」；备选「胡里（天国仙女）」。 [类别 concept_religion]"
+ },
+ "Andromède": {
+  "zh": "安德洛墨达",
+  "note": ""
+ },
+ "Cimmériens": {
+  "zh": "辛梅里安人",
+  "note": ""
+ },
+ "Délos": {
+  "zh": "提洛岛",
+  "note": ""
+ },
+ "Enfers": {
+  "zh": "冥界",
+  "note": ""
+ },
+ "Ar-mor": {
+  "zh": "阿尔莫",
+  "note": "布列塔尼语「海」（勒格朗丹语）"
+ },
+ "Montjouvain": {
+  "zh": "蒙舒凡",
+  "note": "凡德伊故居地；亵渎肖像场景发生地"
+ },
+ "Martinville": {
+  "zh": "马丁维尔",
+  "note": "三钟楼名段（含 Martinville-le-Sec）"
+ },
+ "Martinville-le-Sec": {
+  "zh": "马丁维尔勒塞克",
+  "note": "双钟楼之一，与马丁维尔钟楼并峙"
+ },
+ "Saint-André-des-Champs": {
+  "zh": "圣安德烈-德尚",
+  "note": "双钟楼乡村教堂（梅塞格利丝那边）"
+ },
+ "Vieuxvicq": {
+  "zh": "维约维克",
+  "note": ""
+ },
+ "Thiberzy": {
+  "zh": "蒂贝尔齐",
+  "note": "词源 *Theodeberciacus*（保留拉丁原文于强调内）"
+ },
+ "Pont-Vieux": {
+  "zh": "旧桥",
+  "note": "偶遇勒格朗丹处"
+ },
+ "la Place": {
+  "zh": "广场",
+  "note": "大写 Place 指教堂前广场"
+ },
+ "Champieu": {
+  "zh": "尚皮约",
+  "note": "词源 *Campus Pagani*"
+ },
+ "Rouville": {
+  "zh": "鲁维尔",
+  "note": "词源 *Radulfi villa*，即鲁森维尔（Roussainville）古形"
+ },
+ "Châteauroux": {
+  "zh": "沙托鲁",
+  "note": "词源 *Castrum Radulfi*；勿与沙托丹（Châteaudun）混"
+ },
+ "Châteaudun": {
+  "zh": "沙托丹",
+  "note": "神甫之兄（税务员）驻地；勿与沙托鲁混"
+ },
+ "Jouy": {
+  "zh": "茹伊",
+  "note": "en pension à Jouy（寄宿）；区别于 Jouy-le-Vicomte→茹伊-勒维孔特"
+ },
+ "Saint-Assise-lès-Combray": {
+  "zh": "圣塔西斯莱贡布雷",
+  "note": "护城河与维沃纳河隔树幕"
+ },
+ "Mirougrain": {
+  "zh": "米鲁格兰",
+  "note": "姑妈幻想中的农庄，有瀑布"
+ },
+ "Calvaire": {
+  "zh": "加尔瓦里",
+  "note": "bois du Calvaire→加尔瓦里树林；贡布雷地标小写le calvaire同译「加尔瓦里」；泛指雕刻题材的calvaire可译「受难像」"
+ },
+ "Verneuil": {
+  "zh": "韦尔讷伊",
+  "note": ""
+ },
+ "Lisieux": {
+  "zh": "利雪",
+  "note": "加洛潘家从此地带回新狗"
+ },
+ "Rome": {
+  "zh": "罗马",
+  "note": ""
+ },
+ "Milan": {
+  "zh": "米兰",
+  "note": "dôme→米兰大教堂"
+ },
+ "Sens": {
+  "zh": "桑斯",
+  "note": "雕像比较语境"
+ },
+ "Jura": {
+  "zh": "汝拉",
+  "note": ""
+ },
+ "Normandie": {
+  "zh": "诺曼底",
+  "note": "神甫谈 Guilôme 发音处"
+ },
+ "Bretagne": {
+  "zh": "布列塔尼",
+  "note": "Ar-mor=海（勒格朗丹语）"
+ },
+ "Manche": {
+  "zh": "英吉利海峡",
+  "note": ""
+ },
+ "pays d'Auge": {
+  "zh": "奥日地区",
+  "note": ""
+ },
+ "Ile-de-France": {
+  "zh": "法兰西岛",
+  "note": ""
+ },
+ "Bourgogne": {
+  "zh": "勃艮第",
+  "note": "圣埃卢瓦谐音玩笑发生地"
+ },
+ "Cordoue": {
+  "zh": "科尔多瓦",
+  "note": "cuir de Cordoue→科尔多瓦皮革"
+ },
+ "Perse": {
+  "zh": "波斯",
+  "note": "miniatures→波斯细密画"
+ },
+ "Laon": {
+  "zh": "拉昂",
+  "note": ""
+ },
+ "Clairefontaine": {
+  "zh": "克莱尔方丹",
+  "note": "盖尔芒特封邑（守望塔视野）"
+ },
+ "Novepont": {
+  "zh": "诺沃蓬",
+  "note": "盖尔芒特封邑"
+ },
+ "Bailleau-l'Exempt": {
+  "zh": "巴约莱格桑",
+  "note": "盖尔芒特封邑"
+ },
+ "Reims": {
+  "zh": "兰斯",
+  "note": "斯万妻女同去兰斯"
+ },
+ "Vivonne": {
+  "zh": "维沃纳河",
+  "note": "裸用形式；la Vivonne 同"
+ },
+ "Saint-Hilaire": {
+  "zh": "圣伊莱尔",
+  "note": "圣人/教堂/街名成分；église Saint-Hilaire→圣伊莱尔教堂"
+ },
+ "rue Saint-Hilaire": {
+  "zh": "圣伊莱尔街",
+  "note": ""
+ },
+ "rue Saint-Jacques": {
+  "zh": "圣雅克街",
+  "note": "贡布雷的街，非巴黎圣雅克街"
+ },
+ "Sainte-Hildegarde": {
+  "zh": "圣伊尔德加德",
+  "note": "rue Sainte-Hildegarde→圣伊尔德加德街"
+ },
+ "Saint-Esprit": {
+  "zh": "圣灵",
+  "note": "rue du/de Saint-Esprit→圣灵街"
+ },
+ "rue de la Cure": {
+  "zh": "本堂神父宅街",
+  "note": "敲打声出处（卡缪杂货店方向）"
+ },
+ "rue de l'Oiseau": {
+  "zh": "鸟街",
+  "note": ""
+ },
+ "Oiseau Flesché": {
+  "zh": "弗莱谢鸟",
+  "note": "hôtellerie de l'Oiseau Flesché→弗莱谢鸟客栈（盖尔芒特家那边）"
+ },
+ "Perchamps": {
+  "zh": "佩尔尚",
+  "note": "rue des Perchamps→佩尔尚街"
+ },
+ "avenue de la Gare": {
+  "zh": "车站大街",
+  "note": ""
+ },
+ "Grand-Pré": {
+  "zh": "大普雷",
+  "note": ""
+ },
+ "Petit-Pré": {
+  "zh": "小普雷",
+  "note": ""
+ },
+ "maison des Archers": {
+  "zh": "弓箭手屋",
+  "note": "坦松维尔附近看园人住所"
+ },
+ "Champs-Élysées": {
+  "zh": "香榭丽舍",
+  "note": "本章主场景之一：叙述者与希尔贝特在此玩抢垒、打羽毛球；斯万夫妇住所亦在近旁街区。[place]"
+ },
+ "Saint-Augustin": {
+  "zh": "圣奥古斯丁教堂",
+  "note": "巴黎圣奥古斯丁教堂（église Saint-Augustin）；原文把它与兰斯主教座堂对比，说明埃尔斯蒂尔如何把不同时代的建筑放进同一视野。"
+ },
+ "Saint-Marc": {
+  "zh": "圣马可",
+  "note": "门廊（portail）比较语境"
+ },
+ "Padoue": {
+  "zh": "帕多瓦",
+  "note": "意大利城市，缪塞诗中「极美的所在，有许多大法学家」；亦为乔托壁画所在地。首现第1章。"
+ },
+ "Arena": {
+  "zh": "阿雷纳",
+  "note": "帕多瓦阿雷纳礼拜堂（乔托壁画）"
+ },
+ "Pâques": {
+  "zh": "复活节",
+  "note": "semaine de Pâques→复活节周"
+ },
+ "Rogations": {
+  "zh": "祈求节",
+  "note": ""
+ },
+ "mois de Marie": {
+  "zh": "圣母月",
+  "note": "五月"
+ },
+ "Vierge": {
+  "zh": "圣母",
+  "note": "fils de la Vierge→游丝（圣母发丝）；statuette→圣母小像"
+ },
+ "Vichy": {
+  "zh": "维希",
+  "note": "eau de Vichy→维希矿泉水；Vichy-Célestins→维希-塞莱斯廷（药水瓶）"
+ },
+ "Vêpres": {
+  "zh": "晚祷",
+  "note": ""
+ },
+ "salut": {
+  "zh": "圣体降福",
+  "note": "le salut（教堂降福礼），«Voilà le salut passé!»；一般 salut=致意/救助，依语境"
+ },
+ "élévation": {
+  "zh": "举扬圣体",
+  "note": "弥撒中；一般=提升，依语境"
+ },
+ "grand'messe": {
+  "zh": "大弥撒",
+  "note": ""
+ },
+ "prie-Dieu": {
+  "zh": "祈祷跪凳",
+  "note": ""
+ },
+ "capucin": {
+  "zh": "嘉布遣修士",
+  "note": "眼镜店橱窗的晴雨表玩偶，非真修士；区别于 capucines→旱金莲"
+ },
+ "capucines": {
+  "zh": "旱金莲",
+  "note": "植物；非嘉布遣修士"
+ },
+ "nénufar": {
+  "zh": "睡莲",
+  "note": "=nymphéa 异拼；受折磨的睡莲名段"
+ },
+ "Moriss": {
+  "zh": "莫里斯",
+  "note": "colonne Moriss→莫里斯广告柱"
+ },
+ "Théâtre-Français": {
+  "zh": "法兰西剧院",
+  "note": ""
+ },
+ "Comédie-Française": {
+  "zh": "法兰西喜剧院",
+  "note": "酒渣色海报"
+ },
+ "Opéra-Comique": {
+  "zh": "喜歌剧院",
+  "note": "绿色海报"
+ },
+ "riz à l'Impératrice": {
+  "zh": "皇后式米羹",
+  "note": ""
+ },
+ "Mille et une Nuits": {
+  "zh": "《一千零一夜》",
+  "note": "图案盘子"
+ },
+ "Aladin": {
+  "zh": "阿拉丁",
+  "note": "Aladin ou la Lampe merveilleuse→《阿拉丁与神灯》"
+ },
+ "Alibaba": {
+  "zh": "阿里巴巴",
+  "note": "《一千零一夜》人物（盘子图案）"
+ },
+ "Cène": {
+  "zh": "《最后的晚餐》",
+  "note": "古版画；亦即 le chef-d'œuvre de Vinci"
+ },
+ "Ecclésiaste": {
+  "zh": "《传道书》",
+  "note": ""
+ },
+ "Bible": {
+  "zh": "圣经",
+  "note": ""
+ },
+ "Chanson de Roland": {
+  "zh": "《罗兰之歌》",
+  "note": ""
+ },
+ "Révolution": {
+  "zh": "大革命",
+  "note": "勒格朗丹恨未把贵族全送上断头台"
+ },
+ "hiérarchie": {
+  "zh": "等级",
+  "note": "斯万讥语 la «*hiérarchie!*» des arts→艺术的「*等级*！」，保留斜体与引号；一般=等级制度"
+ },
+ "Vertus": {
+  "zh": "诸德",
+  "note": "les Vertus et les Vices de Padoue→帕多瓦的诸德与诸恶（乔托寓言画）"
+ },
+ "Vices": {
+  "zh": "诸恶",
+  "note": "同上"
+ },
+ "Vertu": {
+  "zh": "德",
+  "note": "乔托寓言拟人；一般=美德/贞洁，依语境"
+ },
+ "Charité": {
+  "zh": "仁爱",
+  "note": "la Charité de Giotto→乔托的仁爱（厨房女工绰号）"
+ },
+ "Envie": {
+  "zh": "嫉妒",
+  "note": "乔托寓言拟人；一般 envie=羡慕/渴望"
+ },
+ "Justice": {
+  "zh": "正义",
+  "note": "乔托寓言拟人"
+ },
+ "Injustice": {
+  "zh": "不义",
+  "note": "乔托寓言拟人"
+ },
+ "Erreur": {
+  "zh": "谬误",
+  "note": "乔托寓言拟人"
+ },
+ "Vérité": {
+  "zh": "真理",
+  "note": "乔托寓言拟人"
+ },
+ "Maelstrôm": {
+  "zh": "迈尔斯特伦大漩涡",
+  "note": "钓鱼段比喻"
+ },
+ "Athalie": {
+  "zh": "《阿塔莉》",
+  "note": "拉辛悲剧《阿塔莉》；本章吉赛尔作文题引之（「索福克勒斯致拉辛，安慰他《阿塔莉》失败」）。作剧名加书名号。"
+ },
+ "Testament de César Girodot": {
+  "zh": "《塞萨尔·吉罗多遗嘱》",
+  "note": "le Testament de César Girodot（法兰西剧院剧目）"
+ },
+ "Oedipe-Roi": {
+  "zh": "《俄狄浦斯王》",
+  "note": "源文无连字符 œ 变体（Oedipe）"
+ },
+ "Diamants de la Couronne": {
+  "zh": "《王冠钻石》",
+  "note": "喜歌剧院剧目"
+ },
+ "Domino Noir": {
+  "zh": "《黑多米诺》",
+  "note": "喜歌剧院剧目"
+ },
+ "Juive": {
+  "zh": "《犹太女》",
+  "note": "la Juive，阿莱维的五幕歌剧；拉谢尔绰号出自其中咏叹调。与「犹太人」无关。[work]"
+ },
+ "Phèdre": {
+  "zh": "《费德尔》",
+  "note": "拉辛悲剧《费德尔》；贝尔玛名段，本章夏吕斯与圣卢议论拉辛。作品名加书名号。"
+ },
+ "Cid": {
+  "zh": "《熙德》",
+  "note": "le Cid（高乃依剧）"
+ },
+ "Notre-Dame de Paris": {
+  "zh": "《巴黎圣母院》",
+  "note": "雨果小说/剧目"
+ },
+ "Nuit d'Octobre": {
+  "zh": "《十月之夜》",
+  "note": "缪塞诗"
+ },
+ "Bhagavat": {
+  "zh": "《跋伽梵》",
+  "note": "勒孔特·德·李勒诗（「le gigantesque assembleur de rythmes」所指），书名保留强调"
+ },
+ "Levrie de Magnus": {
+  "zh": "《马格努斯的猎犬》",
+  "note": "同上；源文作 *Levrier* *de Magnus*"
+ },
+ "Lohengrin": {
+  "zh": "《罗恩格林》",
+  "note": "瓦格纳歌剧"
+ },
+ "Entrée de Louis-Philippe à Combray": {
+  "zh": "《路易-菲利普驾临贡布雷》",
+  "note": "教堂彩窗"
+ },
+ "Odyssée": {
+  "zh": "《奥德赛》",
+  "note": ""
+ },
+ "sanctus Hilarius": {
+  "zh": "sanctus Hilarius",
+  "note": "拉丁词源，保留原语言于强调内不译（圣伊莱尔拉丁名）"
+ },
+ "sancta Eulalia": {
+  "zh": "sancta Eulalia",
+  "note": "拉丁词源，保留原语言于强调内不译（源文作 *sancta* *Eulalia*）"
+ },
+ "Theodeberciacus": {
+  "zh": "Theodeberciacus",
+  "note": "拉丁词源，保留原文不译（蒂贝尔齐）"
+ },
+ "Gaudiacus": {
+  "zh": "Gaudiacus vice comitis",
+  "note": "拉丁词源，保留原文不译（茹伊-勒维孔特；源文作 *Gaudiacus* *vice comitis*）"
+ },
+ "Radulfi villa": {
+  "zh": "Radulfi villa",
+  "note": "拉丁词源，保留原文不译（鲁维尔/鲁森维尔；源文作 *Radulfi* *villa*）"
+ },
+ "Castrum Radulfi": {
+  "zh": "Castrum Radulfi",
+  "note": "拉丁词源，保留原文不译（沙托鲁）"
+ },
+ "Campus Pagani": {
+  "zh": "Campus Pagani",
+  "note": "拉丁词源，保留原文不译（尚皮约）"
+ },
+ "Caritas": {
+  "zh": "Caritas",
+  "note": "阿雷纳礼拜堂壁画拉丁铭文，保留原文；即乔托《仁爱》"
+ },
+ "Roussainville": {
+  "zh": "鲁森维尔",
+  "note": "Roussainville-le-Pin 鲁森维尔-勒潘 的裸用形式"
+ },
+ "Charles VI": {
+  "zh": "查理六世",
+  "note": "法国国王（教堂谈论语境）"
+ },
+ "myosotis": {
+  "zh": "勿忘草",
+  "note": "彩窗/花饰语境；玻璃勿忘草"
+ },
+ "haute lice": {
+  "zh": "高织花毯",
+  "note": "tapisserie de haute lice→高织花毯（教堂挂毯）"
+ },
+ "paroissien": {
+  "zh": "弥撒经本",
+  "note": "mon/son paroissien→（我的/她的）弥撒经本（祈祷书）；指人时=堂区教友，依语境"
+ },
+ "brioche": {
+  "zh": "奶油圆面包",
+  "note": "全书统一译「奶油圆面包」（第2章chunk04/06先例）；不译「布里欧什」"
+ },
+ "du Boulbon": {
+  "zh": "迪·布尔邦",
+  "note": "[person] docteur du Boulbon→迪·布尔邦医生；斯万家友人，第2章出场"
+ },
+ "Reines de Chartres": {
+  "zh": "沙特尔的王后雕像",
+  "note": "[art] les Reines de Chartres，沙特尔大教堂西立面皇家门廊列王后像；第2章chunk14/21出现"
+ },
+ "Cambremer": {
+  "zh": "康布雷梅尔",
+  "note": "[person] M^me^ de Cambremer→康布雷梅尔夫人；marquis/marquise de Cambremer→康布雷梅尔侯爵/侯爵夫人；第2章chunk22-23出现"
+ },
+ "Méséglise-la-Vineuse": {
+  "zh": "梅塞格利丝-拉维纳兹",
+  "note": "[place] Méséglise全称；简称Méséglise→梅塞格利丝"
+ },
+ "Charlus": {
+  "zh": "夏吕斯",
+  "note": "[person] baron de Charlus→夏吕斯男爵；身份谜团不点破；裸形与各种称谓统一「夏吕斯」"
+ },
+ "sadisme": {
+  "zh": "施虐狂",
+  "note": "[theme] sadique→施虐狂的/施虐狂者；全书统一，禁用「虐待狂」（第2章chunk33/34裁决）"
+ },
+ "école des frères": {
+  "zh": "教会弟兄学校",
+  "note": "基督教学校兄弟会(frères des écoles chrétiennes)办的小学；贡布雷校舍建于佩尔尚街旧址"
+ },
+ "boutons d'or": {
+  "zh": "金凤花",
+  "note": "毛茛属野花的口语名；与renoncule「毛茛」同属，译文按语境分别处理"
+ },
+ "coucou": {
+  "zh": "黄花九轮草",
+  "note": "即报春花属黄花九轮草(coucous des prés)，与primevère区分"
+ },
+ "primevère": {
+  "zh": "报春花",
+  "note": ""
+ },
+ "petit noyau": {
+  "zh": "小核心",
+  "note": "第003章；维尔迪兰家核心圈子的自称，保留引号标签感。"
+ },
+ "petit groupe": {
+  "zh": "小集团",
+  "note": "第003章；与 petit noyau 交替使用的圈子称呼，修辞上有变化。"
+ },
+ "petit clan": {
+  "zh": "小宗派",
+  "note": "第003章；与信条、教会、正统等宗教比喻相连。"
+ },
+ "fidèles": {
+  "zh": "信徒",
+  "note": "第003章；维尔迪兰圈子成员；源文无修饰时不擅自加“忠实”。"
+ },
+ "nouvelle recrue": {
+  "zh": "新会员",
+  "note": "第003章；入圈考核语境，不按字面译“新兵”。"
+ },
+ "ennuyeux": {
+  "zh": "讨厌家伙",
+  "note": "第003章；圈内排斥标签，不是叙述者的客观判断。"
+ },
+ "copains": {
+  "zh": "伙伴",
+  "note": "第003章；圈内自称，口语化。"
+ },
+ "Credo": {
+  "zh": "信条",
+  "note": "第003章；大写，沙龙趣味被写成宗教信条。"
+ },
+ "orthodoxie": {
+  "zh": "正统教义",
+  "note": "第003章；指小圈子的趣味正统。"
+ },
+ "petite église": {
+  "zh": "小教会",
+  "note": "第003章；维尔迪兰圈子的宗教比喻。"
+ },
+ "demi-mondaine": {
+  "zh": "半上流社会女子",
+  "note": "第003章；带历史性的社交与性关系含义，不指“半个贵族”。"
+ },
+ "Patronne": {
+  "zh": "老板娘",
+  "note": "圈子对维尔迪兰夫人的固定称呼（「老板娘」），大写；不是旅馆老板娘。首现第1章。[person]"
+ },
+ "Patron": {
+  "zh": "老板",
+  "note": "第003章；圈子对维尔迪兰先生的称呼，常带反讽。"
+ },
+ "coupe-file": {
+  "zh": "特别通行证",
+  "note": "第003章；首演或庆典免排队入场的凭证。"
+ },
+ "fumisteries": {
+  "zh": "戏谑玩笑",
+  "note": "第003章；圈子成员的打趣起哄。"
+ },
+ "petite phrase": {
+  "zh": "小乐句",
+  "note": "凡德伊奏鸣曲的音乐母题；第1章斯万爱情的音乐标记。第2章不复出现，但译名不可动摇。[concept]"
+ },
+ "andante": {
+  "zh": "行板",
+  "note": "第003章；奏鸣曲的乐章与速度指称。"
+ },
+ "sonate en fa dièse": {
+  "zh": "升F调奏鸣曲",
+  "note": "第003章；不凭空添加大调或小调。"
+ },
+ "chevauchée de la Walkyrie": {
+  "zh": "《女武神》中的《女武神的骑行》",
+  "note": "第003章；瓦格纳歌剧选段。"
+ },
+ "prélude de Tristan": {
+  "zh": "《特里斯坦》前奏曲",
+  "note": "第003章；瓦格纳歌剧选段。"
+ },
+ "Voix d'Or": {
+  "zh": "金嗓子",
+  "note": "第003章；萨拉·贝尔纳的绰号。"
+ },
+ "brûler les planches": {
+  "zh": "倾倒舞台",
+  "note": "第003章；戏剧习语，指演出极为成功，不作字面“烧地板”。"
+ },
+ "smart": {
+  "zh": "时髦；帅",
+  "note": "第003章；保留英文词形，按语境译释；区分人的时髦与住处体面。"
+ },
+ "fishing for compliments": {
+  "zh": "讨人夸奖",
+  "note": "第003章；保留英文；奥黛特是在否认自己索取恭维。"
+ },
+ "sine materia": {
+  "zh": "无物质的",
+  "note": "第003章；保留拉丁文；音乐印象尚无清晰可辨的对象形态。"
+ },
+ "di primo cartello": {
+  "zh": "第一流的",
+  "note": "第003章；保留意大利语；戈达尔卖弄语。"
+ },
+ "gentleman": {
+  "zh": "绅士",
+  "note": "第003章；保留源文英文用字；源文无斜体则不新增斜体。"
+ },
+ "home": {
+  "zh": "家",
+  "note": "第003章；源文英文词，置于引号内，按语境译出。"
+ },
+ "marivaudage": {
+  "zh": "马里沃式的故作风雅",
+  "note": "第003章；指矫饰殷勤的语调，不是马里沃本人登场。"
+ },
+ "avant-scène": {
+  "zh": "舞台旁的包厢",
+  "note": "第003章；剧场位置，勿译“舞台前景”。"
+ },
+ "petit hôtel": {
+  "zh": "小住宅",
+  "note": "第003章；奥黛特住所语境。"
+ },
+ "salon": {
+  "zh": "沙龙；客厅",
+  "note": "第003章；前者指社交圈，后者指房间，按语境判断。"
+ },
+ "beauté du diable": {
+  "zh": "青春魅力",
+  "note": "第003章；戈达尔搜集的成语之一。"
+ },
+ "sang bleu": {
+  "zh": "贵族血统",
+  "note": "第003章；戈达尔搜集的成语之一。"
+ },
+ "vie de bâtons de chaise": {
+  "zh": "放荡不羁的生活",
+  "note": "第003章；戈达尔搜集的成语之一，依上下句。"
+ },
+ "quart d'heure de Rabelais": {
+  "zh": "拉伯雷的一刻钟",
+  "note": "第003章；指结账却无钱支付的窘境。"
+ },
+ "prince des élégances": {
+  "zh": "衣着风度出众的人",
+  "note": "第003章；戈达尔搜集的成语之一。"
+ },
+ "carte blanche": {
+  "zh": "全权",
+  "note": "第003章；donner carte blanche 授以全权。"
+ },
+ "réduit à quia": {
+  "zh": "被驳得哑口无言",
+  "note": "第003章；être réduit à quia。"
+ },
+ "Académie": {
+  "zh": "法兰西学院",
+  "note": "第003章；“il est de l’Académie”指法兰西学院院士身份。"
+ },
+ "Préfet de police": {
+  "zh": "警察总监",
+  "note": "第003章；巴黎警察总监。"
+ },
+ "Reichstag": {
+  "zh": "帝国国会",
+  "note": "第003章；比喻众人闻言聚拢。"
+ },
+ "Opéra": {
+  "zh": "歌剧院",
+  "note": "第003章；指巴黎歌剧院。"
+ },
+ "Rabelais": {
+  "zh": "拉伯雷",
+  "note": "第003章；文艺复兴作家，见“拉伯雷的一刻钟”。"
+ },
+ "aréopage": {
+  "zh": "最高法院",
+  "note": "第003章；雅典最高法院，见“青蛙面对最高法院”的比喻。"
+ },
+ "Américaine": {
+  "zh": "美国女人",
+  "note": "第003章；指斯万当时的情妇，非泛指国籍。"
+ },
+ "quant-à-soi": {
+  "zh": "矜持自守",
+  "note": "第003章；rester dans son quant-à-soi。"
+ },
+ "muflerie": {
+  "zh": "粗俗无礼",
+  "note": "第003章；斯万性格中偶露的一面。"
+ },
+ "prudhommesque": {
+  "zh": "普吕多姆式的",
+  "note": "第003章；指自鸣得意、陈腐说教的腔调。"
+ },
+ "aliénation mentale": {
+  "zh": "精神错乱",
+  "note": "第003章；凡德伊病况的传闻。"
+ },
+ "dyspepsie": {
+  "zh": "消化不良",
+  "note": "第003章；戈达尔劝病人暂时忘掉的病症。"
+ },
+ "neurasthénique": {
+  "zh": "神经衰弱的",
+  "note": "第003章；戈达尔对维尔迪兰夫人音乐反应的医学化判断。"
+ },
+ "exposition dentaire": {
+  "zh": "牙科展览会",
+  "note": "第003章；戈达尔向斯万赠票的场合。"
+ },
+ "semaine sainte": {
+  "zh": "圣周",
+  "note": "第003章；复活节前一周。"
+ },
+ "Vendredi saint": {
+  "zh": "耶稣受难日",
+  "note": "第003章；圣周星期五。"
+ },
+ "jour de l'an": {
+  "zh": "元旦",
+  "note": "第001章；新年第一天。首次出现于本章（元旦一节），叙述者在此意识到元旦并不比别的日子更像新世界的开端。"
+ },
+ "Noël": {
+  "zh": "圣诞节",
+  "note": "第003章；年末节日。"
+ },
+ "soirée de première": {
+  "zh": "首演之夜",
+  "note": "第003章；戏剧首演场次。"
+ },
+ "petite ouvrière": {
+  "zh": "年轻女工",
+  "note": "第003章；斯万另有的情欲对象，不与奥黛特合并。"
+ },
+ "tante du pianiste": {
+  "zh": "钢琴家的姑妈",
+  "note": "第003章；不具名角色，不是钢琴家的母亲。"
+ },
+ "jeune pianiste": {
+  "zh": "年轻钢琴家",
+  "note": "第003章；维尔迪兰沙龙的音乐演奏者，不具名。"
+ },
+ "Président de la République": {
+  "zh": "共和国总统",
+  "note": "第003章；指格雷维总统。"
+ },
+ "Chef de l'État": {
+  "zh": "国家元首",
+  "note": "第003章；指共和国总统。"
+ },
+ "sonate": {
+  "zh": "奏鸣曲",
+  "note": "第003章；泛称时不每次扩写为《钢琴小提琴奏鸣曲》。"
+ },
+ "Vie": {
+  "zh": "生活",
+  "note": "第003章；大写并加引号，作为与艺术、研究并列的概念。"
+ },
+ "Delft": {
+  "zh": "代尔夫特",
+  "note": "第003章；Ver Meer de Delft 中的地名，统一译“代尔夫特”，不写“德尔夫特”。"
+ },
+ "Ours et les Raisins": {
+  "zh": "熊与葡萄",
+  "note": "博韦挂毯图案名，首次出现于第 3 章。译为《熊与葡萄》，保留书名号以标示图案主题；不得改成《狐狸与葡萄》。"
+ },
+ "municipal": {
+  "zh": "市政门警",
+  "note": "第三共和国语境的名词用法，首次出现于第 3 章。指负责维持秩序、引路的市政门警/警卫，不是“门房”（concierge）；作形容词时按语境译“市政的”。"
+ },
+ "Colophon": {
+  "zh": "版本记录页",
+  "note": " 电子版的书目版本记录页，属出版信息而非叙事正文。vol1 第 4 章与 vol2 第 3 章均有此页；index.md 章节标题统一作「版本记录页」，两卷均按先例保留并译出，不删除。"
+ },
+ "Bibliothèque électronique du Québec": {
+  "zh": "魁北克电子图书馆",
+  "note": " 全称（），非营利电子出版机构。vol2 第 3 章版本记录页保留并译出；第 0 章书名页的出版方署名按项目约定不译入正文。"
+ },
+ "À tous les vents": {
+  "zh": "《随风》",
+  "note": " 丛书名（collection），源文作斜体。按书名处理作《随风》；vol1 第 4 章与 vol2 第 3 章版本记录页均用此译名，vol2 第 0 章书名页按项目约定不译入正文。"
+ },
+ "Jean-Yves Dupuis": {
+  "zh": "让-伊夫·杜皮伊",
+  "note": "的独家所有者。vol1 第 4 章、vol2 第 3 章版本记录页均出现；按 vol1 先例保留并译出，作「」。"
+ },
+ "Québec": {
+  "zh": "魁北克",
+  "note": "加拿大省份；Bibliothèque électronique du Québec 机构名内作「魁北克」。vol1 第 4 章、vol2 第 3 章版本记录页出现。"
+ },
+ "À l'ombre des jeunes filles en fleurs": {
+  "zh": "《在花季少女倩影下》",
+  "note": "《追忆似水年华》第二部小说名：vol3 书名页的本卷书名（第一部），vol4 书名页的本卷书名（第二部），vol5 书名页的本卷书名（第三部）。按项目指定统一采用通行译名《在花季少女倩影下》；作品名用书名号。禁用译法: 《在少女们身旁》《在少女花影下》《在如花少女身旁》"
+ },
+ "Le côté de Guermantes": {
+  "zh": "《盖尔芒特家那边》",
+  "note": "《追忆似水年华》第三部小说名，vol2 第 0 章书名页十五卷本卷目第 6—8 条。与散步路线「盖尔芒特家那边」（le côté de Guermantes）同源；作书名时加书名号。禁用译法: 《盖尔芒特之家》《盖尔芒特一侧》"
+ },
+ "Sodome et Gomorrhe": {
+  "zh": "《索多玛与蛾摩拉》",
+  "note": "《追忆似水年华》第四部小说名，vol2 第 0 章书名页十五卷本卷目第 9—10 条。Sodome 与 Gomorrhe 为《创世记》所载两座罪恶之城，中文圣经学界通行译名「索多玛」「蛾摩拉」；连接词按项目统一作「与」。禁用译法: 《所多玛和蛾摩拉》《索多姆与戈摩尔》"
+ },
+ "La Prisonnière": {
+  "zh": "《女囚》",
+  "note": "《追忆似水年华》第五部小说名，vol2 第 0 章书名页十五卷本卷目第 11—12 条。通行译名，不加「被囚的」等扩写。禁用译法: 《女囚徒》《被囚禁的女人》"
+ },
+ "Albertine disparue": {
+  "zh": "《失踪的阿尔贝蒂娜》",
+  "note": "《追忆似水年华》第六部小说名，vol2 第 0 章书名页十五卷本卷目第 13 条。通行译名；阿尔贝蒂娜为人名，统一作「阿尔贝蒂娜」。禁用译法: 《阿尔贝蒂娜失踪》《女逃亡者》《逃走的阿尔贝蒂娜》"
+ },
+ "Le temps retrouvé": {
+  "zh": "《重现的时光》",
+  "note": "《追忆似水年华》第七部（末部）小说名，vol2 第 0 章书名页十五卷本卷目第 14—15 条。通行译名，保留「时光」而非「时间」，与总书名「追忆似水年华」呼应。禁用译法: 《寻回的时光》《找回的时间》"
+ },
+ "Albertine": {
+  "zh": "阿尔贝蒂娜",
+  "note": "人名，统一作「阿尔贝蒂娜」。vol3 仅被提及为博纳唐夫人的侄女；vol4 仍只被提及；vol5 第 001 章正式登场——埃尔斯蒂尔画室介绍相识，与安德蕾、吉赛尔、罗丝蒙德等结成少女小团体，叙述者的爱情由此开始。禁用译法: 艾伯丁、阿尔贝汀"
+ },
+ "Première partie": {
+  "zh": "第一部",
+  "note": "卷内部次标记，源文作斜体，首见于 vol2 第 0 章版本说明卷目；vol3 书名页本卷书名下亦标 (Première partie)。译文用斜体「第一部」，不加书名号；书名页上作 *（第一部）*，独立成行。"
+ },
+ "Deuxième partie": {
+  "zh": "第二部",
+  "note": "卷内部次标记，源文作斜体：vol2 书名页（《在斯万家那边》第二部）、vol4 书名页（《在花季少女倩影下》第二部）。译文用斜体「第二部」，不加书名号；书名页上独立成行作 *（第二部）*。"
+ },
+ "Troisième partie": {
+  "zh": "第三部",
+  "note": "卷内部次标记，源文作斜体：vol5 书名页（《在花季少女倩影下》第三部）；亦见于 vol2 第 0 章书名页十五卷本卷目第 5 条。译文用斜体「第三部」，不加书名号；书名页上独立成行作 *（第三部）*。"
+ },
+ "Collection": {
+  "zh": "丛书",
+  "note": "出版术语：collection 指丛书系列，不作「收藏」。vol2 第 0 章书名页的「Collection *À tous les vents*」属出版方信息，按项目约定（AGENTS.md：忽略 ／等信息）不译入正文；此条仅备查，若日后正文需用，作「丛书《随风》」。"
+ },
+ "Volume 400 : version 1.02": {
+  "zh": "第 400 部：版本 1.02",
+  "note": " 丛书累计出版序号与电子版版本号，vol2 第 0 章书名页。按项目约定整段出版信息不译入正文，切勿译作「第 400 卷」；此条仅备查。"
+ },
+ "II": {
+  "zh": "第二卷",
+  "note": "书名页上总书名下方的罗马数字卷次，首次出现于第 0 章。指《追忆似水年华》第二卷，译文作「第二卷」，不加书名号；不要直留「II」。"
+ },
+ "comte de Forcheville": {
+  "zh": "福什维尔伯爵",
+  "note": "斯万在维尔迪兰家失宠的对照人物；粗俗的势利者，萨尼埃特的姻亲（妹夫），自夸军旅与骑术。M. de Forcheville→福什维尔先生。禁用：福尔什维尔、福歇维尔。首现第1章。[person]"
+ },
+ "Brichot": {
+  "zh": "布里肖",
+  "note": "索邦大学教授，掉书袋的学究，善用拉丁文与历史典故；维尔迪兰家的新客人。福什维尔没听清时误作「布雷肖」，误听处保留谐音效果。禁用：布里绍。首现第1章。[person]"
+ },
+ "marquise de Saint-Euverte": {
+  "zh": "圣厄韦尔特侯爵夫人",
+  "note": "举办音乐晚会的侯爵夫人，以「租来的客人」充场面；其沙龙是斯万的上流社交与奥黛特世界的交汇点。Mme de Saint-Euverte→圣厄韦尔特侯爵夫人。禁用：圣埃韦尔特。首现第1章。[person]"
+ },
+ "marquise de Gallardon": {
+  "zh": "加亚尔东侯爵夫人",
+  "note": "洛姆亲王妃的表亲，热衷攀附盖尔芒特家，说话冒失。禁用：加亚尔东侯爵夫人写作「加亚东」。首现第1章。[person]"
+ },
+ "vicomtesse de Franquetot": {
+  "zh": "弗朗克托子爵夫人",
+  "note": "圣厄韦尔特晚会上的贵妇，与康布雷梅尔侯爵夫人是表亲，两人总在晚会上互相找座位。首现第1章。[person]"
+ },
+ "général de Froberville": {
+  "zh": "弗罗贝维尔将军",
+  "note": "军人出身的社交客，用「被野蛮人杀死」之类的粗话来恭维女人。首现第1章。[person]"
+ },
+ "marquis de Bréauté": {
+  "zh": "布雷奥泰侯爵",
+  "note": "斯万的旧友，曾引他入赛马俱乐部、在决斗中做助手；单片眼镜是其标志。首现第1章。[person]"
+ },
+ "M. de Palancy": {
+  "zh": "帕朗西先生",
+  "note": "晚会上的贵族客人，以鲤鱼般的大头与圆眼被比作画中人。首现第1章。[person]"
+ },
+ "M. d'Orsan": {
+  "zh": "奥尔桑先生",
+  "note": "斯万揣想可能写匿名信的人之一；斯万认为他为人厚道。首现第1章。[person]"
+ },
+ "M. de Saint-Candé": {
+  "zh": "圣康代先生",
+  "note": "戴巨型单片眼镜的客人，被比作土星。首现第1章。[person]"
+ },
+ "marquis de Forestelle": {
+  "zh": "福雷斯特尔侯爵",
+  "note": "在皮埃尔丰附近有城堡的贵族，斯万想借他之名去贡比涅、皮埃尔丰。首现第1章。[person]"
+ },
+ "baronne Putbus": {
+  "zh": "普特布斯男爵夫人",
+  "note": "戈达尔大夫正在诊治的女病人；les Putbus→普特布斯家族，自称参加过十字军，在波美拉尼亚有大湖。首现第1章。[person]"
+ },
+ "Mme de Chanlivault": {
+  "zh": "尚利沃夫人",
+  "note": "住在拉彼鲁兹街的夫人，朔斯皮埃尔的姐妹。首现第1章。[person]"
+ },
+ "Chaussepierre": {
+  "zh": "朔斯皮埃尔",
+  "note": "尚利沃夫人的兄弟，弗罗贝维尔口中「可敬的朔斯皮埃尔」。首现第1章。[person]"
+ },
+ "Rampillon": {
+  "zh": "朗皮庸",
+  "note": "洛姆亲王妃想躲开的「可怕女人」，婚姻传闻可笑。l'affreuse Rampillon→可怕的朗皮庸。首现第1章。[person]"
+ },
+ "Bérénice": {
+  "zh": "贝蕾妮丝",
+  "note": "拉辛悲剧名；此处是洛姆亲王妃对一位令人生厌的夫人的戏称，借悲剧名抬高其「难缠」的滑稽感。首现第1章。[person]"
+ },
+ "Herbinger": {
+  "zh": "埃尔班热",
+  "note": "奥黛特口中「全巴黎最吃得开」的时髦青年，家里办舞会，须凭请柬入场。首现第1章。[person]"
+ },
+ "Belloir": {
+  "zh": "贝卢瓦尔",
+  "note": "承办宴会侍者与临时宾客的商号；les «invités de chez Belloir»→贝卢瓦尔家租来的客人。首现第1章。[org]"
+ },
+ "Lorédan": {
+  "zh": "洛雷丹",
+  "note": "斯万的车夫之一，名字取自威尼斯总督洛雷丹（doge Loredan，见 Antoine Rizzo 所作胸像）。原文在同一时期交替使用 Lorédan 与 Rémi 指斯万的车夫，二者可能同为一人或前后两任；译文按源文各自保留，不合并、不加注。奥黛特嫌洛雷丹不够体面，斯万去拉彼鲁兹街时不让他驾车。首现第1章。[person]"
+ },
+ "Mémé": {
+  "zh": "梅梅",
+  "note": "斯万对夏吕斯男爵的亲昵绰号（mon petit Mémé）；是斯万这样称呼夏吕斯，不是反过来。音译，不作「奶奶」解。首现第1章。[person]"
+ },
+ "Basin": {
+  "zh": "巴赞",
+  "note": "洛姆亲王妃的丈夫（盖尔芒特公爵）的名字，亲眷间直呼；不点破其公爵身份。首现第1章。[person]"
+ },
+ "Oriane": {
+  "zh": "奥丽阿娜",
+  "note": "盖尔芒特公爵夫人的名字（原文作 Oriane），圣卢称她「好奥丽阿娜」（brave Oriane，此处 brave＝好心的，不是「勇敢的」）。原注误记为「洛姆亲王妃的名字」，系旧稿残留；依据 vol2/vol6 正文，Oriane 即公爵夫人。"
+ },
+ "princesse des Laumes": {
+  "zh": "洛姆亲王妃",
+  "note": "princesse 指亲王的妻子，不译「公主」，也不作「亲王夫人」。源文交替用 Mme des Laumes 指同一人，译文统一「洛姆亲王妃」以免误认两人；M. des Laumes→洛姆亲王。首现第1章。[person_title]"
+ },
+ "Elzéar de Guermantes": {
+  "zh": "埃尔泽阿·德·盖尔芒特",
+  "note": "加亚尔东侯爵夫人口中反复念叨的盖尔芒特家亲戚（「埃尔泽阿·德·盖尔芒特的健康」等）。首现第1章。[person]"
+ },
+ "princesse Mathilde": {
+  "zh": "玛蒂尔德公主",
+  "note": "拿破仑一世的侄女、第二帝国沙龙女主人；此处是正统派家庭不愿与之同席的人物。她是王室公主，故用「公主」。首现第1章。[person_real]"
+ },
+ "princesse de Parme": {
+  "zh": "帕尔马亲王妃",
+  "note": "帕尔马公国的亲王妃，巴黎最盛大的晚会主人；princesse 指亲王妃，不译「公主」。首现第1章。[person_title]"
+ },
+ "princesse d'Iéna": {
+  "zh": "耶拿亲王妃",
+  "note": "princesse 指亲王妃；耶拿为拿破仑战胜之地，故下文有「一座桥的名字」的双关。首现第1章。[person_title]"
+ },
+ "duc de Chartres": {
+  "zh": "沙特尔公爵",
+  "note": "奥尔良家族成员；此处是公爵爵位，不是沙特尔城。首现第1章。[person_title]"
+ },
+ "prince de Reuss": {
+  "zh": "罗伊斯亲王",
+  "note": "德国罗伊斯家族的亲王，斯万的上流社交熟人。首现第1章。[person_title]"
+ },
+ "duc de Luxembourg": {
+  "zh": "卢森堡公爵",
+  "note": "法国贵族爵位，非卢森堡国家。首现第1章。[person_title]"
+ },
+ "Botticelli": {
+  "zh": "波提切利",
+  "note": "桑德罗·波提切利（Sandro di Mariano，1445—1510），意大利文艺复兴画家；西斯廷礼拜堂壁画《摩西的生平》（Vie de Moïse）与《西坡拉》（Zéphora，叶忒罗之女）、《春》（Primavera）、《维纳斯的诞生》的作者。原文先说本名再言其流行绰号，译文保留这一层次。禁用：波提切里。首现第1章。[real_person]"
+ },
+ "Sandro di Mariano": {
+  "zh": "桑德罗·迪·马里亚诺",
+  "note": "波提切利的本名；原文先说本名、再说其流行绰号已失精确所指，译文照此层次。首现第1章。[real_person]"
+ },
+ "Rembrandt": {
+  "zh": "伦勃朗",
+  "note": "荷兰画家；la Ronde→《夜巡》，les Régentes→《女理事们》。首现第1章。[real_person]"
+ },
+ "Hals": {
+  "zh": "哈尔斯",
+  "note": "弗兰斯·哈尔斯，荷兰肖像画家。禁用：哈尔斯写作「哈斯」。首现第1章。[real_person]"
+ },
+ "Watteau": {
+  "zh": "华托",
+  "note": "法国洛可可画家，以三色粉笔速写著称（aux trois crayons）。首现第1章。[real_person]"
+ },
+ "Mantegna": {
+  "zh": "曼特尼亚",
+  "note": "意大利文艺复兴画家，以古典战士与透视著称。首现第1章。[real_person]"
+ },
+ "Tintoret": {
+  "zh": "丁托列托",
+  "note": "威尼斯画派画家。首现第1章。[real_person]"
+ },
+ "Ghirlandajo": {
+  "zh": "吉兰达约",
+  "note": "佛罗伦萨画家。首现第1章。[real_person]"
+ },
+ "Antoine Rizzo": {
+  "zh": "安东尼奥·里佐",
+  "note": "威尼斯雕刻家，洛雷丹总督胸像的作者。首现第1章。[real_person]"
+ },
+ "Nicolas Maes": {
+  "zh": "尼古拉斯·马斯",
+  "note": "荷兰画家；斯万认为莫里茨美术馆以「马斯之作」购进的《狄安娜的梳妆》实为维米尔。首现第1章。[real_person]"
+ },
+ "Machard": {
+  "zh": "马沙尔",
+  "note": "当时走红的肖像画家；「马沙尔画的肖像」是社交界话题。首现第1章。[real_person]"
+ },
+ "Leloir": {
+  "zh": "勒卢瓦尔",
+  "note": "当时画家；戈达尔夫人拿他与马沙尔比较。首现第1章。[real_person]"
+ },
+ "Goldschmidt": {
+  "zh": "戈德施密特",
+  "note": "画作出售会（vente Goldschmidt），莫里茨美术馆在此购得《狄安娜的梳妆》。首现第1章。[real_person]"
+ },
+ "Chopin": {
+  "zh": "肖邦",
+  "note": "作曲家；钢琴家弹其前奏曲。首现第1章。[real_person]"
+ },
+ "Liszt": {
+  "zh": "李斯特",
+  "note": "作曲家、钢琴家；此处弹奏《圣方济各向鸟儿布道》。首现第1章。[real_person]"
+ },
+ "Beethoven": {
+  "zh": "贝多芬",
+  "note": "作曲家；sonate Clair de lune→《月光奏鸣曲》。首现第1章。[real_person]"
+ },
+ "Mozart": {
+  "zh": "莫扎特",
+  "note": "作曲家；quintette avec clarinette→单簧管五重奏。首现第1章。[real_person]"
+ },
+ "Bach": {
+  "zh": "巴赫",
+  "note": "作曲家；与克拉皮松对比，见奥黛特的音乐教养之低。首现第1章。[real_person]"
+ },
+ "Clapisson": {
+  "zh": "克拉皮松",
+  "note": "路易·克拉皮松，写通俗歌剧的作曲家；与巴赫并置以显奥黛特不能分辨高下。首现第1章。[real_person]"
+ },
+ "Victor Massé": {
+  "zh": "维克多·马塞",
+  "note": "通俗歌剧作曲家；斯万讥奥黛特「自发提起维克多·马塞」。首现第1章。[real_person]"
+ },
+ "Olivier Métra": {
+  "zh": "奥利维耶·梅特拉",
+  "note": "通俗舞曲乐队指挥；奥黛特爱看他指挥。首现第1章。[real_person]"
+ },
+ "Tagliafico": {
+  "zh": "塔利亚菲科",
+  "note": "作曲家，作《玫瑰圆舞曲》《可怜的疯子》。首现第1章。[real_person]"
+ },
+ "Dumas": {
+  "zh": "小仲马",
+  "note": "此处指小仲马（Alexandre Dumas fils），新剧《弗朗西荣》；不指《三个火枪手》作者大仲马。首现第1章。[real_person]"
+ },
+ "Georges Ohnet": {
+  "zh": "乔治·奥内",
+  "note": "通俗小说家、剧作家，《塞尔日·帕宁》《铁厂老板》作者；戈达尔夫人奉为杰作，斯万暗讽。首现第1章。[real_person]"
+ },
+ "Labiche": {
+  "zh": "拉比什",
+  "note": "滑稽喜剧作家；斯万讥维尔迪兰圈子的人像从他戏里走出来的。首现第1章。[real_person]"
+ },
+ "Mérimée": {
+  "zh": "梅里美",
+  "note": "作家；其冷峻机智一路经梅亚克与阿莱维的剧作传承，此处形容洛姆亲王妃的谈吐。首现第1章。[real_person]"
+ },
+ "Meilhac et Halévy": {
+  "zh": "梅亚克与阿莱维",
+  "note": "歌剧与喜剧脚本作者搭档；其剧作是梅里美式机智的「最后表现」。首现第1章。[real_person]"
+ },
+ "Vigny": {
+  "zh": "维尼",
+  "note": "阿尔弗雷德·德·维尼，《诗人日记》作者。首现第1章。[real_person]"
+ },
+ "Platon": {
+  "zh": "柏拉图",
+  "note": "哲学家；斯万欣赏其对艺术的严苛。首现第1章。[real_person]"
+ },
+ "Bossuet": {
+  "zh": "博叙埃",
+  "note": "17世纪主教、演说家；与柏拉图并举，指对艺术的道德严苛。首现第1章。[real_person]"
+ },
+ "Fénelon": {
+  "zh": "费奈隆",
+  "note": "17—18世纪主教、作家；布里肖引其「智慧的定义」。禁用：费内隆。首现第1章。[real_person]"
+ },
+ "Suger": {
+  "zh": "叙热",
+  "note": "圣德尼修道院院长、编年史家；布里肖引其语。首现第1章。[real_person]"
+ },
+ "Saint Bernard": {
+  "zh": "圣贝尔纳",
+  "note": "12世纪明谷修院院长；与叙热并提。首现第1章。[person_religious]"
+ },
+ "Mme de Maintenon": {
+  "zh": "曼特农夫人",
+  "note": "路易十四的宠姬与秘密妻子；圣西门回忆录中记其起居。首现第1章。[real_person]"
+ },
+ "Lulli": {
+  "zh": "吕利",
+  "note": "路易十四宫廷作曲家、乐长；与曼特农夫人并提。首现第1章。[real_person]"
+ },
+ "Blanche de Castille": {
+  "zh": "布朗什·德·卡斯蒂利亚",
+  "note": "路易九世之母、法国摄政太后；布里肖以史事打趣，卡斯蒂利亚为西班牙王国名，不作「布朗什城堡」。首现第1章。[person_real]"
+ },
+ "Henri Plantagenet": {
+  "zh": "亨利·金雀花",
+  "note": "即英王亨利二世，金雀花王朝首位君主；布里肖讲他与布朗什之母的轶事。首现第1章。[person_real]"
+ },
+ "Zéphora": {
+  "zh": "西坡拉",
+  "note": "《圣经》中叶忒罗之女、摩西之妻；米开朗琪罗西斯廷礼拜堂壁画中的人物，斯万觉得奥黛特酷似她。圣经学界通行译名「西坡拉」，不作「泽菲拉」。首现第1章。[person_biblical]"
+ },
+ "Jéthro": {
+  "zh": "叶忒罗",
+  "note": "《圣经》中米甸祭司、西坡拉之父。首现第1章。[person_biblical]"
+ },
+ "la Ronde": {
+  "zh": "《夜巡》",
+  "note": "伦勃朗名画 La Ronde de nuit；维尔迪兰夫人奉为天下第一杰作。原文用简称 la Ronde，译文用通行的《夜巡》。首现第1章。[work_art]"
+ },
+ "les Régentes": {
+  "zh": "《女理事们》",
+  "note": "伦勃朗群像画（慈善院女理事）；与《夜巡》并提。不用《女摄政们》。首现第1章。[work_art]"
+ },
+ "la Samothrace": {
+  "zh": "《萨莫色雷斯的胜利女神像》",
+  "note": "卢浮宫藏品，维尔迪兰夫人与《夜巡》《第九交响曲》并列为天下第一。首现第1章。[work_art]"
+ },
+ "Primavera": {
+  "zh": "《春》",
+  "note": "波提切利画作 La Primavera；原文斜体，译文用《》。首现第1章。[work_art]"
+ },
+ "Toilette de Diane": {
+  "zh": "《狄安娜的梳妆》",
+  "note": "斯万认为实为维米尔所作、被当作马斯作品购进的画；原文引号内。首现第1章。[work_art]"
+ },
+ "bella Vanna": {
+  "zh": "「美丽的万娜」",
+  "note": "波提切利画中女子名，原文意大利语 bella Vanna；保留引号，不译作人名加注。首现第1章。[work_art]"
+ },
+ "Valse des Roses": {
+  "zh": "《玫瑰圆舞曲》",
+  "note": "塔利亚菲科的通俗圆舞曲，奥黛特爱弹；与凡德伊小乐句对举。原文斜体。首现第1章。[work]"
+ },
+ "Pauvre fou": {
+  "zh": "《可怜的疯子》",
+  "note": "塔利亚菲科的作品，奥黛特遗言要求在葬礼上演奏。原文斜体。首现第1章。[work]"
+ },
+ "La Reine Topaze": {
+  "zh": "《托帕兹女王》",
+  "note": "马塞的轻歌剧，奥黛特爱看。原文斜体。首现第1章。[work]"
+ },
+ "Serge Panine": {
+  "zh": "《塞尔日·帕宁》",
+  "note": "乔治·奥内的小说/剧作，奥黛特奉为偶像；戈达尔夫人拿来与《弗朗西荣》比较。原文斜体。首现第1章。[work]"
+ },
+ "Le Maître de Forges": {
+  "zh": "《铁厂老板》",
+  "note": "乔治·奥内的剧作；戈达尔夫人说比《塞尔日·帕宁》还爱看。原文斜体。首现第1章。[work]"
+ },
+ "Francillon": {
+  "zh": "《弗朗西荣》",
+  "note": "小仲马的话剧，当时巴黎热议；剧中以「日本沙拉」食谱为话题。原文斜体。首现第1章。[work]"
+ },
+ "Une nuit de Cléopâtre": {
+  "zh": "《克娄巴特拉之夜》",
+  "note": "喜歌剧院上演的剧目；斯万以此试探奥黛特。原文引号内。首现第1章。[work]"
+ },
+ "Les Filles de Marbre": {
+  "zh": "《大理石姑娘》",
+  "note": "泰奥多尔·巴里耶尔的剧作；报纸上的剧名刺痛斯万（marbre 令他想到奥黛特的肉体）。原文斜体。首现第1章。[work]"
+ },
+ "Journal d'un Poète": {
+  "zh": "《诗人日记》",
+  "note": "维尼作品；斯万从中读到关于爱情的箴言。原文斜体。首现第1章。[work]"
+ },
+ "Chronique de Saint-Denis": {
+  "zh": "《圣德尼编年史》",
+  "note": "中世纪编年史，布里肖引以论证布朗什·德·卡斯蒂利亚；原文斜体。首现第1章。[work]"
+ },
+ "Saint François parlant aux oiseaux": {
+  "zh": "《圣方济各向鸟儿布道》",
+  "note": "李斯特《圣方济各》钢琴曲之一；圣方济各即阿西西的方济各。原文引号内。首现第1章。[work]"
+ },
+ "sonate Clair de lune": {
+  "zh": "《月光奏鸣曲》",
+  "note": "贝多芬第十四钢琴奏鸣曲的俗称；维尔迪兰夫人怕它伤神经。首现第1章。[work]"
+ },
+ "Princesse de Clèves": {
+  "zh": "《克莱芙王妃》",
+  "note": "拉法耶特夫人小说；斯万把它与小乐句并列为一种关于爱情与幸福的「观念」。原文引号内。首现第1章。[work]"
+ },
+ "René": {
+  "zh": "《勒内》",
+  "note": "夏多布里昂小说；与《克莱芙王妃》并提。原文引号内。首现第1章。[work]"
+ },
+ "air d'Orphée": {
+  "zh": "《奥菲欧》选段",
+  "note": "格鲁克歌剧《奥菲欧与欧律狄刻》中的长笛旋律；音乐语境作「奥菲欧」，神话语境作「俄耳甫斯」。首现第1章。[work]"
+ },
+ "Eurydice": {
+  "zh": "欧律狄刻",
+  "note": "神话中奥菲欧之妻；斯万在人群中寻找奥黛特如俄耳甫斯寻妻。首现第1章。[person_myth]"
+ },
+ "Orphée": {
+  "zh": "奥菲欧／俄耳甫斯",
+  "note": "音乐语境（格鲁克歌剧）作「奥菲欧」，神话语境作「俄耳甫斯」；依句意择一，勿混称。首现第1章。[person_myth]"
+ },
+ "Noli me tangere": {
+  "zh": "Noli me tangere",
+  "note": "拉丁文「不要碰我」（《约翰福音》耶稣对抹大拉的马利亚语）；原文引号内，保留拉丁原文，不译不加注。首现第1章。[concept]"
+ },
+ "sub rosa": {
+  "zh": "sub rosa",
+  "note": "拉丁文「私下地、秘密地」；布里肖的掉书袋用语，保留原文斜体。首现第1章。[concept]"
+ },
+ "Bois": {
+  "zh": "布洛涅树林",
+  "note": "此处是童谣《 Bois joli 》与游戏唱词「le furet du Bois」中的 Bois，指布洛涅树林；与 Bois de Boulogne 条同指，译文按原文作「树林」，唱词处保留其童谣味。"
+ },
+ "île des Cygnes": {
+  "zh": "天鹅岛",
+  "note": "布洛涅树林内的岛，有餐厅与音乐。首现第1章。[place]"
+ },
+ "Chatou": {
+  "zh": "沙图",
+  "note": "塞纳河畔的郊游地，维尔迪兰家常去；斯万未被邀请的痛处。首现第1章。[place]"
+ },
+ "Meulan": {
+  "zh": "默朗",
+  "note": "塞纳河畔小镇，维尔迪兰家郊游地。首现第1章。[place]"
+ },
+ "Saint-Germain": {
+  "zh": "圣日耳曼区",
+  "note": "本章两处均指巴黎的贵族社交圈（le faubourg Saint-Germain），作「圣日耳曼区」，不作「圣日耳曼昂莱」（后者是巴黎西郊城市 Saint-Germain-en-Laye，本章未出现）。"
+ },
+ "Dreux": {
+  "zh": "德勒",
+  "note": "有王室陵墓的小城，维尔迪兰家带奥黛特去看墓。首现第1章。[place]"
+ },
+ "Compiègne": {
+  "zh": "贡比涅",
+  "note": "有森林与城堡的王城，斯万想去而未得。首现第1章。[place]"
+ },
+ "Pierrefonds": {
+  "zh": "皮埃尔丰",
+  "note": "维奥莱-勒-杜克修复的中世纪城堡，奥黛特随维尔迪兰家去游览。首现第1章。[place]"
+ },
+ "Saint-Loup-de-Naud": {
+  "zh": "圣卢德诺",
+  "note": "中世纪教堂，建筑鉴赏对象；与人名圣卢（Saint-Loup）无关，勿混。首现第1章。[place]"
+ },
+ "Bayreuth": {
+  "zh": "拜罗伊特",
+  "note": "瓦格纳音乐节所在地；奥黛特扬言要去，斯万提议在附近租城堡。首现第1章。[place]"
+ },
+ "Bade": {
+  "zh": "巴登",
+  "note": "德国温泉疗养地，奥黛特早年在此度过夏天。首现第1章。[place]"
+ },
+ "Righi": {
+  "zh": "瑞吉山",
+  "note": "瑞士名山，奥黛特向往的旅游地。首现第1章。[place]"
+ },
+ "Monte-Carlo": {
+  "zh": "蒙特卡洛",
+  "note": "摩纳哥赌城，奥黛特向往之地。首现第1章。[place]"
+ },
+ "Nice": {
+  "zh": "尼斯",
+  "note": "蔚蓝海岸城市，奥黛特早年在此居住、在拉盖圣母堂许愿。首现第1章。[place]"
+ },
+ "promenade des Anglais": {
+  "zh": "英国人散步大道",
+  "note": "尼斯海滨大道，奥黛特当年冬日散步处。首现第1章。[place]"
+ },
+ "Côte d'Azur": {
+  "zh": "蔚蓝海岸",
+  "note": "法国地中海沿岸；la chronique de la Côte d'Azur→蔚蓝海岸的旧闻。首现第1章。[place]"
+ },
+ "Beuzeval": {
+  "zh": "伯兹瓦尔",
+  "note": "诺曼底海滨小地名；报上的风暴消息令斯万想到奥黛特的行踪。首现第1章。[place]"
+ },
+ "Beuzeville": {
+  "zh": "伯兹维尔",
+  "note": "诺曼底地名，与布雷奥泰连写作 Beuzeville-Bréauté；斯万由此想到布雷奥泰侯爵。首现第1章。[place]"
+ },
+ "Dieppe": {
+  "zh": "迪耶普",
+  "note": "诺曼底海滨城市。首现第1章。[place]"
+ },
+ "Cabourg": {
+  "zh": "卡堡",
+  "note": "诺曼底海滨度假地（巴尔贝克的原型之一）；此处仅作风暴受灾地。首现第1章。[place]"
+ },
+ "Alger": {
+  "zh": "阿尔及尔",
+  "note": "阿尔及利亚城市；维尔迪兰家旅行起点。首现第1章。[place]"
+ },
+ "Tunis": {
+  "zh": "突尼斯",
+  "note": "突尼斯城；维尔迪兰家旅行的第二站。首现第1章。[place]"
+ },
+ "Constantinople": {
+  "zh": "君士坦丁堡",
+  "note": "奥斯曼帝国首都（今伊斯坦布尔）；维尔迪兰家旅行地。首现第1章。[place]"
+ },
+ "Asie Mineure": {
+  "zh": "小亚细亚",
+  "note": "安纳托利亚半岛；维尔迪兰家旅行地。首现第1章。[place]"
+ },
+ "Grèce": {
+  "zh": "希腊",
+  "note": "维尔迪兰家旅行地。首现第1章。[place]"
+ },
+ "Égypte": {
+  "zh": "埃及",
+  "note": "福什维尔圣灵降临节要去的地方，实为与奥黛特同行。首现第1章。[place]"
+ },
+ "Ninive": {
+  "zh": "尼尼微",
+  "note": "亚述古城；la Désolation de Ninive→《尼尼微的荒凉》，圣经题材画，喻斯万的过去被逐块震塌。首现第1章。[place_biblical]"
+ },
+ "Poméranie": {
+  "zh": "波美拉尼亚",
+  "note": "德国东北部地区；普特布斯家族产业所在。首现第1章。[place]"
+ },
+ "Concorde": {
+  "zh": "协和广场",
+  "note": "巴黎协和广场；戈达尔以此夸张普特布斯家湖之大。首现第1章。[place]"
+ },
+ "Hollande": {
+  "zh": "荷兰",
+  "note": "斯万喜爱的旅行地，奥黛特觉得难看。首现第1章。[place]"
+ },
+ "Florence": {
+  "zh": "佛罗伦萨",
+  "note": "意大利城市，波提切利与十五世纪艺术语境。首现第1章。[place]"
+ },
+ "Dresde": {
+  "zh": "德累斯顿",
+  "note": "德国城市，藏画丰富；斯万为研究维米尔想去。首现第1章。[place]"
+ },
+ "Haye": {
+  "zh": "海牙",
+  "note": "荷兰城市，莫里茨皇家美术馆所在；la Haye 带定冠词。首现第1章。[place]"
+ },
+ "Brunswick": {
+  "zh": "不伦瑞克",
+  "note": "德国城市，有重要美术馆。首现第1章。[place]"
+ },
+ "Mauritshuis": {
+  "zh": "莫里茨皇家美术馆",
+  "note": "海牙的 Mauritshuis 博物馆；不音译作「毛里茨故居」。首现第1章。[place_org]"
+ },
+ "Palais Ducal": {
+  "zh": "总督府",
+  "note": "威尼斯总督府；l'Escalier des Géants→巨人阶梯。首现第1章。[place]"
+ },
+ "Escalier des Géants": {
+  "zh": "巨人阶梯",
+  "note": "威尼斯总督府内的阶梯，因两侧巨像得名；斯万觉得圣厄韦尔特家的楼梯可与之相比。首现第1章。[place]"
+ },
+ "chapelle Sixtine": {
+  "zh": "西斯廷礼拜堂",
+  "note": "梵蒂冈礼拜堂，米开朗琪罗壁画所在；西坡拉像即在其天顶画中。首现第1章。[place]"
+ },
+ "Mantoue": {
+  "zh": "曼图亚",
+  "note": "意大利城市，曼特尼亚故乡与工作地；le peintre de Mantoue→曼图亚的画家（指曼特尼亚）。首现第1章。[place]"
+ },
+ "Assise": {
+  "zh": "阿西西",
+  "note": "意大利城市，圣方济各故乡；Saint François d'Assise→阿西西的圣方济各。首现第1章。[place]"
+ },
+ "Parme": {
+  "zh": "帕尔马",
+  "note": "意大利公国；princesse de Parme→帕尔马亲王妃。首现第1章。[place]"
+ },
+ "Iéna": {
+  "zh": "耶拿",
+  "note": "德国地名，1806年拿破仑大败普鲁士处；巴黎有耶拿桥，故有「一座桥的名字」之双关。首现第1章。[place]"
+ },
+ "rue Abbatucci": {
+  "zh": "阿巴图奇街",
+  "note": "巴黎街道，奥黛特被看见走过之处。首现第1章。[place]"
+ },
+ "rue de Bellechasse": {
+  "zh": "贝勒沙斯街",
+  "note": "巴黎街道，叙述者外叔祖阿道夫的小公寓所在。首现第1章。[place]"
+ },
+ "rue Bonaparte": {
+  "zh": "波拿巴街",
+  "note": "巴黎街道，戈达尔夫人乘公共马车下车处。首现第1章。[place]"
+ },
+ "hôtel Vouillemont": {
+  "zh": "武耶蒙旅馆",
+  "note": "奥黛特用其信纸写信的旅馆，令斯万生疑。首现第1章。[place]"
+ },
+ "Maison Dorée": {
+  "zh": "金屋餐厅",
+  "note": "巴黎大道上的高级餐厅（Maison Dorée）；奥黛特常去，后成为斯万的痛处。不作「金房子」。首现第1章。[place]"
+ },
+ "Café Anglais": {
+  "zh": "英国咖啡馆",
+  "note": "巴黎大道上的著名餐厅。首现第1章。[place]"
+ },
+ "Tortoni": {
+  "zh": "托尔托尼",
+  "note": "巴黎大道上的咖啡馆兼冰淇淋店。首现第1章。[place]"
+ },
+ "Prévost": {
+  "zh": "普雷沃",
+  "note": "巴黎大道上的餐馆，奥黛特去喝巧克力。首现第1章。[place]"
+ },
+ "musée Grévin": {
+  "zh": "格雷万蜡像馆",
+  "note": "巴黎蜡像馆；夏吕斯陪奥黛特去过此处。首现第1章。[place]"
+ },
+ "Chat Noir": {
+  "zh": "黑猫夜总会",
+  "note": "蒙马特的歌舞厅（Le Chat Noir）；奥黛特与夏吕斯同去。首现第1章。[place]"
+ },
+ "Hippodrome": {
+  "zh": "竞技场",
+  "note": "巴黎的大型表演场（Hippodrome），时髦去处；不译「跑马场」，原文与赛马无关。首现第1章。[place]"
+ },
+ "Éden Théâtre": {
+  "zh": "伊甸剧院",
+  "note": "巴黎近郊的娱乐场。首现第1章。[place]"
+ },
+ "avenue de l'Impératrice": {
+  "zh": "皇后大道",
+  "note": "巴黎西郊大道（今福煦大道），时髦散步地。首现第1章。[place]"
+ },
+ "Thé de la Rue Royale": {
+  "zh": "皇家街茶室",
+  "note": "奥黛特认为必须常去以维持时髦名声的茶室。首现第1章。[place]"
+ },
+ "Mirlitons": {
+  "zh": "米利通",
+  "note": "巴黎举办画展的场所（aux Mirlitons）；音译，不译「小笛」。首现第1章。[place]"
+ },
+ "Bal des Incohérents": {
+  "zh": "「不协调者」舞会",
+  "note": "19世纪末蒙马特的著名化装舞会（Bal des Incohérents）；保留引号。首现第1章。[event]"
+ },
+ "Sorbonne": {
+  "zh": "索邦大学",
+  "note": "巴黎大学文理学院；布里肖是索邦教授。首现第1章。[org]"
+ },
+ "école du Louvre": {
+  "zh": "卢浮宫学院",
+  "note": "培养博物馆与艺术史人才的学校；斯万的旧同学出身于此。首现第1章。[org]"
+ },
+ "Septennat": {
+  "zh": "七年任期",
+  "note": "指麦克马洪总统的七年任期（1873—1879），亦即第三共和国初年；不译「七年」了事。首现第1章。[concept]"
+ },
+ "Pentecôte": {
+  "zh": "圣灵降临节",
+  "note": "基督教节日，复活节后第五十天；福什维尔称此时去埃及。首现第1章。[concept]"
+ },
+ "Paris-Murcie": {
+  "zh": "巴黎-穆尔西亚募捐节",
+  "note": "为西班牙穆尔西亚水灾灾民举办的义演募捐活动（fête de Paris-Murcie）；不译作城市名。首现第1章。[event]"
+ },
+ "Légion d'honneur": {
+  "zh": "荣誉军团",
+  "note": "法国国家勋位；grand cordon→大绶带。首现第1章。[org]"
+ },
+ "catleya": {
+  "zh": "卡特兰",
+  "note": "兰花的一种（Cattleya，卡特兰属）；斯万以「整理卡特兰」为借口亲近奥黛特，faire catleya→做卡特兰，成为两人指称肉体占有的隐语。全文统一「卡特兰」，不译「卡德利亚兰」。首现第1章。[object]"
+ },
+ "faire catleya": {
+  "zh": "做卡特兰",
+  "note": "斯万与奥黛特的私密隐语，指肉体占有；保留「卡特兰」这一植物名，不加解释。首现第1章。[concept]"
+ },
+ "chrysanthème": {
+  "zh": "菊花",
+  "note": "奥黛特冬日沙龙里的主要花卉；本章末段叙述者追想斯万夫人客厅里「十一月暮色中菊花的橙红火光」，是旧日优雅的标记。首现第1章。[plant]"
+ },
+ "aigrette": {
+  "zh": "羽饰",
+  "note": "帽上的羽毛饰（aigrette en plumes de cygnes→天鹅羽毛饰）；非「鹭鸶」。首现第1章。[object]"
+ },
+ "bibeloter": {
+  "zh": "淘古董",
+  "note": "口语动词，指逛旧货店、搜罗小古玩；bibelot→小摆设。不译「做小玩意」。首现第1章。[concept]"
+ },
+ "maison de rendez-vous": {
+  "zh": "妓院",
+  "note": "委婉语，实指妓院；维尔迪兰夫人用它反讽斯万的无礼。不译「约会屋」。首现第1章。[concept]"
+ },
+ "entremetteuse": {
+  "zh": "淫媒",
+  "note": "撮合卖淫的女人；斯万以此骂音乐、也骂维尔迪兰夫人，保留粗俗分量，不弱化为「中介」。maquerelle→老鸨。首现第1章。[concept]"
+ },
+ "salade japonaise": {
+  "zh": "日本沙拉",
+  "note": "《弗朗西荣》剧中谈到的沙拉食谱，成为社交界口头禅；戈达尔夫人以此抖机灵。首现第1章。[object]"
+ },
+ "pschutt": {
+  "zh": "有派头",
+  "note": "19世纪末巴黎俚语，指极时髦、阔绰；原文引号内，译文保留引号。首现第1章。[concept]"
+ },
+ "demi-castor": {
+  "zh": "半只海狸",
+  "note": "福什维尔生造的打趣词（castor 指海狸、亦指海狸皮帽），并无实义，意在卖弄；音意兼顾译「半只海狸」，不加解释。首现第1章。[concept]"
+ },
+ "tête de Turc": {
+  "zh": "出气筒",
+  "note": "习语，指众人取笑、迁怒的对象；不作「土耳其人的头」。首现第1章。[concept]"
+ },
+ "crapaud": {
+  "zh": "蟾蜍",
+  "note": "奥黛特收藏的玉蟾蜍小摆件，与银骆驼并置。首现第1章。[object]"
+ },
+ "dromadaire": {
+  "zh": "单峰驼",
+  "note": "奥黛特收藏的镶宝石银骆驼摆件；她称之为「宝贝」。首现第1章。[object]"
+ },
+ "duc d'Aumale": {
+  "zh": "奥马勒公爵",
+  "note": "奥尔良家族亲王；戈达尔大夫新学来的笑话里提到「去和奥马勒公爵说几句话」，其实只是去上厕所。首现第1章。[person_title]"
+ },
+ "Philibert le Beau": {
+  "zh": "美男子菲利贝尔",
+  "note": "萨伏依公爵；布鲁教堂内其 initials 与奥地利的玛格丽特的名字交织，喻斯万生活中处处是奥黛特的印记。首现第1章。[person_real]"
+ },
+ "Marguerite d'Autriche": {
+  "zh": "奥地利的玛格丽特",
+  "note": "美男子菲利贝尔之妻、尼德兰摄政；在布鲁教堂把两人的姓名首字母交织满处。首现第1章。[person_real]"
+ },
+ "église de Brou": {
+  "zh": "布鲁教堂",
+  "note": "法国布雷斯地区布尔格的晚期哥特教堂，玛格丽特为亡夫所建；斯万以此喻对奥黛特的思念。首现第1章。[place]"
+ },
+ "Lavoisier": {
+  "zh": "拉瓦锡",
+  "note": "化学家；与小乐句的「实验」胆识相比。首现第1章。[real_person]"
+ },
+ "Ampère": {
+  "zh": "安培",
+  "note": "物理学家；与拉瓦锡并提。首现第1章。[real_person]"
+ },
+ "comtesse de Monteriender": {
+  "zh": "蒙泰里安代伯爵夫人",
+  "note": "以天真蠢话著称的贵妇；在奏鸣曲未终时便向斯万倾诉感受。首现第1章。[person]"
+ },
+ "San Zeno": {
+  "zh": "圣泽诺教堂",
+  "note": "维罗纳的圣泽诺教堂，曼特尼亚祭坛画所在；斯万与奥黛特的「种族」想象出自此处。首现第1章。[place]"
+ },
+ "Eremitani": {
+  "zh": "埃雷米塔尼教堂",
+  "note": "帕多瓦的埃雷米塔尼教堂，曼特尼亚壁画所在；与圣泽诺祭坛画并提。首现第1章。[place]"
+ },
+ "Albert Dürer": {
+  "zh": "阿尔布雷希特·丢勒",
+  "note": "德国文艺复兴画家；曼特尼亚壁画人物的「萨克森」渊源想象。首现第1章。[real_person]"
+ },
+ "Benvenuto Cellini": {
+  "zh": "本韦努托·切利尼",
+  "note": "意大利雕塑家、金匠；圣厄韦尔特家门前仆役被比作他的雕像。首现第1章。[real_person]"
+ },
+ "Goya": {
+  "zh": "戈雅",
+  "note": "西班牙画家；圣厄韦尔特家的仆人被比作戈雅画中的教堂司事。首现第1章。[real_person]"
+ },
+ "Palais de l'Industrie": {
+  "zh": "工业宫",
+  "note": "巴黎举办沙龙展的展览馆；斯万想象自己的面容成了工业宫里的胸像。首现第1章。[place]"
+ },
+ "château de Blois": {
+  "zh": "布卢瓦城堡",
+  "note": "卢瓦尔河城堡，文艺复兴风格；奥黛特梦想的餐厅样式。首现第1章。[place]"
+ },
+ "massacre des Innocents": {
+  "zh": "无辜婴儿的屠杀",
+  "note": "《马太福音》希律王屠杀婴儿的故事，亦为绘画题材；形容仆人冷酷旁观。首现第1章。[concept_biblical]"
+ },
+ "saint Jacques": {
+  "zh": "圣雅各",
+  "note": "使徒雅各殉道；与「无辜婴儿的屠杀」并提。首现第1章。[person_biblical]"
+ },
+ "marguerite": {
+  "zh": "雏菊",
+  "note": "法文 marguerite 兼指雏菊与玛格丽特之名；源文有谐趣处时不另加注。首现第1章。[plant]"
+ },
+ "orangade": {
+  "zh": "橘子水",
+  "note": "奥黛特为维尔迪兰夫妇与福什维尔调的橘子水；斯万在旁看着。首现第1章。[object]"
+ },
+ "potiche": {
+  "zh": "瓷瓶",
+  "note": "中国瓷瓶，奥黛特用来罩灯。首现第1章。[object]"
+ },
+ "camaïeu": {
+  "zh": "单色画",
+  "note": "单色渲染的画法；形容暮色中的沙龙。首现第1章。[concept]"
+ },
+ "lévriers": {
+  "zh": "灵缇",
+  "note": "猎犬；形容斯万眼中的仆役身形。首现第1章。[animal]"
+ },
+ "huissier": {
+  "zh": "门房执事",
+  "note": "剧院／音乐厅门口验票引路的执事；舞会入口处通报宾客姓名的执事亦用此词（«le nom des belles invitées que l'huissier annonce»），译「门房执事」；法律语境（une veuve d'huissier）指执法员，须译「执法员」。首现第1章。[person_generic]"
+ },
+ "baignoire": {
+  "zh": "包厢",
+  "note": "剧院底层（正厅后侧）的包厢（baignoire）；vol6 第 001 章 19 处，多指盖尔芒特亲王妃的包厢。与 loge（楼座包厢）、balcon（楼厅）区分。不作「浴缸」。[object]"
+ },
+ "Aubusson": {
+  "zh": "奥比松",
+  "note": "奥比松挂毯；圣厄韦尔特家挂在音乐厅前。首现第1章。[place_craft]"
+ },
+ "vermeil": {
+  "zh": "镀金铜",
+  "note": "镀金的铜器；不译「朱红」。首现第1章。[object]"
+ },
+ "marqueterie": {
+  "zh": "镶嵌细工",
+  "note": "木器上的镶嵌工艺。首现第1章。[concept]"
+ },
+ "pompe": {
+  "zh": "排场",
+  "note": "此处指排场、铺张；非「水泵」。首现第1章。[concept]"
+ },
+ "victoria": {
+  "zh": "维多利亚式敞篷马车",
+  "note": "19 世纪的轻便四轮敞篷马车（voiture victoria），因英国维多利亚女王时代流行而得名；指车，不是人名或地名，禁译为「维多利亚」。源文 n'avait à sa disposition que sa victoria→只有他那辆维多利亚式敞篷马车可用。首现第1章。[object]"
+ },
+ "détrempe": {
+  "zh": "胶彩画",
+  "note": "détrempe 指以胶水调和颜料的画法（胶彩／蛋彩）；此处斯万在想象中把奥黛特「画在西斯廷的墙上」，故译「胶彩」，不译「水粉」。首现第1章。[concept]"
+ },
+ "la Sixtine": {
+  "zh": "西斯廷礼拜堂",
+  "note": "即 chapelle Sixtine 的简称，米开朗琪罗天顶画与波提切利壁画所在；统一作「西斯廷礼拜堂」，不与「教堂」混用。首现第1章。[place]"
+ },
+ "Vie de Moïse": {
+  "zh": "《摩西的生平》",
+  "note": "波提切利在西斯廷礼拜堂的壁画《摩西的生平》（scene della vita di Mosè）；原文 *Vie de Moïse* 保留斜体、加书名号。首现第1章。[work_art]"
+ },
+ "Forcheville": {
+  "zh": "福什维尔",
+  "note": "与 comte de Forcheville 同人（福什维尔伯爵）；裸形用于叙述与熟人称呼（M. de Forcheville→福什维尔先生）。斯万在维尔迪兰家失宠的对照人物，粗俗的势利者，萨尼埃特的妹夫。禁用：福尔什维尔、福歇维尔。首现第1章。[person]"
+ },
+ "le Midi": {
+  "zh": "南方",
+  "note": "法国南部（le Midi de la France），非「中午」；斯万想把奥黛特带去南方数日。首现第1章。[place]"
+ },
+ "Vénus de Botticelli": {
+  "zh": "《维纳斯的诞生》",
+  "note": "波提切利画作（La nascita di Venere）；原文在 Primavera、bella Vanna 之后并列 Vénus，指此画，故加书名号。与厨房比喻的 Vénus（维纳斯小庙）不是同一义项。首现第1章。[work_art]"
+ },
+ "Grand-Hôtel de la Plage": {
+  "zh": "海滨大酒店",
+  "note": "巴尔贝克的海滨大酒店（原型为卡堡的 Grand Hôtel）；不作「海滩大饭店」。vol4 第 1 章起为主要场景：餐厅、电梯、海堤、房客众生相。首现第2章。[place]"
+ },
+ "Finistère": {
+  "zh": "菲尼斯泰尔",
+  "note": "法国布列塔尼最西端的省；勒格朗丹以之对比巴尔贝克的「大地尽头」感。[place]"
+ },
+ "Bayeux": {
+  "zh": "巴约",
+  "note": "诺曼底古城，以主教座堂与挂毯闻名；叙述者凭站名想象其「暗红石雕花边」。[place]"
+ },
+ "Coutances": {
+  "zh": "库唐斯",
+  "note": "诺曼底城市，有哥特式主教座堂；原文以「黄油色塔楼」写其名的尾音。[place]"
+ },
+ "Vitré": {
+  "zh": "维特雷",
+  "note": "布列塔尼城镇；原文以「尖音符把旧窗棂切成黑木菱形」写其名。[place]"
+ },
+ "Questambert": {
+  "zh": "凯斯坦贝尔",
+  "note": "虚构站名（与 Pontorson 并列），原文形容其「可笑而天真，白羽黄喙」；音译，不意译。[place]"
+ },
+ "Pontorson": {
+  "zh": "蓬托尔松",
+  "note": "诺曼底小镇，圣米歇尔山门户；与 Questambert 并列为稚气的站名。[place]"
+ },
+ "Lannion": {
+  "zh": "拉尼永",
+  "note": "布列塔尼城镇；原文写其村野寂静中驿车与邮车的声响。[place]"
+ },
+ "Lamballe": {
+  "zh": "朗巴勒",
+  "note": "布列塔尼城镇；原文写其名在白色中由蛋壳黄到珍珠灰。注意与 prince de Lamballe（朗巴勒亲王，爵号）区分。首现第1章。[place]"
+ },
+ "Benodet": {
+  "zh": "贝诺代",
+  "note": "布列塔尼海滨小村；原文写其名「几乎还没系住，就要被河水带进海藻里」。[place]"
+ },
+ "Pont-Aven": {
+  "zh": "阿旺桥",
+  "note": "布列塔尼城镇，通行译名「阿旺桥」（高更曾在此作画）；不作意译。[place]"
+ },
+ "Quimperlé": {
+  "zh": "坎佩尔莱",
+  "note": "布列塔尼城镇；原文写其中世纪以来夹在溪流之间。[place]"
+ },
+ "côtes d'Enfer": {
+  "zh": "地狱海岸",
+  "note": "勒格朗丹口中巴尔贝克附近的海岸，字面「地狱之岸」；保留阴森意象。[place]"
+ },
+ "Fiesole": {
+  "zh": "菲耶索莱",
+  "note": "佛罗伦萨近郊山城；叙述者想象意大利春天时与佛罗伦萨并提。[place]"
+ },
+ "Italie": {
+  "zh": "意大利",
+  "note": "[place]"
+ },
+ "Toscane": {
+  "zh": "托斯卡纳",
+  "note": "[place]"
+ },
+ "Pise": {
+  "zh": "比萨",
+  "note": "[place]"
+ },
+ "Chianti": {
+  "zh": "基安蒂",
+  "note": "托斯卡纳葡萄酒产区；此处指佐餐的基安蒂红酒。[object]"
+ },
+ "Sainte-Marie-des-Fleurs": {
+  "zh": "圣母百花大教堂",
+  "note": "佛罗伦萨主教座堂 Santa Maria del Fiore；原文按字面作「花之圣母」，中文用通行译名「圣母百花大教堂」，不生造「花之圣母教堂」。[place]"
+ },
+ "Ponte-Vecchio": {
+  "zh": "老桥",
+  "note": "佛罗伦萨阿诺河上的 Ponte Vecchio，通行译名「老桥」；贡布雷的 Pont-Vieux 才作「旧桥」。[place]"
+ },
+ "Grand Canal": {
+  "zh": "大运河",
+  "note": "威尼斯主水道。[place]"
+ },
+ "palais des Doges": {
+  "zh": "总督府",
+  "note": "威尼斯总督宫；与 Palais Ducal 同译「总督府」。[place]"
+ },
+ "Trianon": {
+  "zh": "特里亚农",
+  "note": "凡尔赛的特里亚农宫及园林；叙述者重访布洛涅树林时以之对照。[place]"
+ },
+ "Seine": {
+  "zh": "塞纳河",
+  "note": "[place]"
+ },
+ "pont de la Concorde": {
+  "zh": "协和桥",
+  "note": "[place]"
+ },
+ "la Madeleine": {
+  "zh": "玛德莱娜教堂",
+  "note": "巴黎玛德莱娜教堂；与「玛德莱娜小蛋糕」（madeleine）区分，后者是糕点。[place]"
+ },
+ "rue Duphot": {
+  "zh": "迪福街",
+  "note": "玛德莱娜教堂附近的街，斯万的牙医在此；叙述者去守候斯万。[place]"
+ },
+ "rue Boissy-d'Anglas": {
+  "zh": "布瓦西-当格拉街",
+  "note": "香榭丽舍附近街道；希尔贝特由此方向来到草坪。[place]"
+ },
+ "Trois Quartiers": {
+  "zh": "三街区百货店",
+  "note": "巴黎玛德莱娜附近的「三街区」百货店（Les Trois Quartiers）；不作「三个街区」。[place]"
+ },
+ "Ambassadeurs": {
+  "zh": "大使咖啡馆",
+  "note": "香榭丽舍的大使咖啡馆（café-concert）；不作「大使们」。[place]"
+ },
+ "allée des Acacias": {
+  "zh": "金合欢道",
+  "note": "布洛涅树林中以金合欢得名的散步道，上流妇女午后必经；acacia 作「金合欢」，不作「洋槐」。[place]"
+ },
+ "allée de la Reine-Marguerite": {
+  "zh": "玛格丽特王后道",
+  "note": "布洛涅树林中的散步道（allée de la Reine-Marguerite）；王后指瓦卢瓦的玛格丽特。原文亦作 allée de la «Reine Marguerite»，同一地点。[place]"
+ },
+ "Lac": {
+  "zh": "大湖",
+  "note": "布洛涅树林中的大湖（le grand Lac）；不作「池塘」。[place]"
+ },
+ "Tir aux pigeons": {
+  "zh": "射鸽场",
+  "note": "布洛涅树林中的射鸽场，斯万夫人的马车在此附近停下让她步行；不作「鸽子射击」。[place]"
+ },
+ "Porte Dauphine": {
+  "zh": "太子门",
+  "note": "布洛涅树林东侧的太子门（Porte Dauphine）；不作「王妃门」。[place]"
+ },
+ "Armenonville": {
+  "zh": "阿尔默农维尔",
+  "note": "布洛涅树林中的园地/餐馆。[place]"
+ },
+ "Pré Catelan": {
+  "zh": "普雷卡特朗",
+  "note": "布洛涅树林中的园地/餐馆，音译。[place]"
+ },
+ "Champ de courses": {
+  "zh": "赛马场",
+  "note": "布洛涅树林中的赛马场；不作「比赛场地」。[place]"
+ },
+ "Bois de Boulogne": {
+  "zh": "布洛涅树林",
+  "note": "即 le Bois；上流社会散步、炫示之地；不译「森林」。[place]"
+ },
+ "M. Swann": {
+  "zh": "斯万先生",
+  "note": "即夏尔·斯万；叙述者父母与他有旧交、后不相往来。需要称谓时作「斯万先生」，不擅加名字。[person]"
+ },
+ "Mme Blatin": {
+  "zh": "布拉坦夫人",
+  "note": "香榭丽舍常客，自带《辩论报》的老太太；叙述者一度想象她是大使夫人或贵妇，后从希尔贝特口中得知姓 Blatin，被母亲揭穿是执法员的遗孀、附庸风雅又多事。禁译「布拉丹」。[person]"
+ },
+ "Mademoiselle": {
+  "zh": "小姐",
+  "note": "此处指希尔贝特的家庭女教师（institutrice），斯万家中称「小姐」；不是「斯万小姐」，译文按原文作「小姐」，靠上下文区分。[person]"
+ },
+ "Théodose": {
+  "zh": "狄奥多西",
+  "note": "「狄奥多西国王」，普鲁斯特虚构的访法外国君主（时评热点）；音译，不加现实对应，不译「狄奥多修」。[person]"
+ },
+ "Philippe VII": {
+  "zh": "菲利普七世",
+  "note": "奥尔良派给巴黎伯爵（comte de Paris）的王位称号；斯万与他交好，故写他常握斯万的手。不是英国君主。[person_title]"
+ },
+ "Constantin Guys": {
+  "zh": "康斯坦丁·居伊",
+  "note": "法国画家（1802–1892），以画第二帝国巴黎的马车、妓女、军装著称；原文以其素描形容斯万夫人的马车与车夫。[real_person]"
+ },
+ "Baudenord": {
+  "zh": "博德诺尔",
+  "note": "「已故的博德诺尔」，当时著名的马车夫，其跟车小厮被称作 tigre；音译。[person]"
+ },
+ "Stendhal": {
+  "zh": "司汤达",
+  "note": "[real_person]"
+ },
+ "Poussin": {
+  "zh": "普桑",
+  "note": "法国古典主义画家；原文以「普桑画中的云」喻香榭丽舍上空的云影。[real_person]"
+ },
+ "Giorgione": {
+  "zh": "乔尔乔内",
+  "note": "威尼斯画家；原文以「乔尔乔内壁画的反光」写威尼斯街面。[real_person]"
+ },
+ "Angelico": {
+  "zh": "弗拉·安杰利科",
+  "note": "Fra Angelico，佛罗伦萨画家；原文以其金色底子形容佛罗伦萨春景。[real_person]"
+ },
+ "Michel-Ange": {
+  "zh": "米开朗琪罗",
+  "note": "[real_person]"
+ },
+ "Diomède": {
+  "zh": "狄俄墨得斯",
+  "note": "希腊神话中驯食人马的色雷斯王；「cruels chevaux de Diomède」指其烈马。[myth]"
+ },
+ "saint Georges": {
+  "zh": "圣乔治",
+  "note": "屠龙的圣乔治；原文以之形容马车上瘦小的跟车小厮。[religion]"
+ },
+ "Mac-Mahon": {
+  "zh": "麦克马洪",
+  "note": "即麦克马洪元帅，法国前总统；本章路人回忆「麦克马洪辞职那天」与奥黛特过夜。[real_person]"
+ },
+ "Jockey": {
+  "zh": "赛马俱乐部",
+  "note": "「un monsieur du Jockey」即赛马俱乐部的成员；不作「骑师」。[org]"
+ },
+ "Débats": {
+  "zh": "《辩论报》",
+  "note": "Journal des Débats；本章老太太称「我的老《辩论报》」，用《辩论报》，不写「粉红版」（粉红版《辩论报》是第1章 Débats roses 的专称）。[work_press]"
+ },
+ "Michel Strogoff": {
+  "zh": "《米歇尔·斯特罗戈夫》",
+  "note": "儒勒·凡尔纳小说；希尔贝特圣诞前后要去看的戏。[work]"
+ },
+ "la Chartreuse": {
+  "zh": "《帕尔马修道院》",
+  "note": "司汤达小说 La Chartreuse de Parme；叙述者因读它而想象帕尔马。[work]"
+ },
+ "Énéide": {
+  "zh": "《埃涅阿斯纪》",
+  "note": "维吉尔史诗；原文以其中「桃金娘道」喻布洛涅树林的金合欢道。[work]"
+ },
+ "Création de Michel-Ange": {
+  "zh": "《创世记》",
+  "note": "西斯廷礼拜堂天顶画《创世记》；原文以其中日月喻槲寄生球。[work]"
+ },
+ "modern style": {
+  "zh": "现代风格",
+  "note": "1900 年前后法语对「新艺术」（Art nouveau）的称呼；不作「现代主义」「现代派」。[concept]"
+ },
+ "ripolin": {
+  "zh": "里波林漆",
+  "note": "当时流行的亮光瓷漆品牌 ripolin，转指「刷了亮光漆的」；音译「里波林漆」。[object]"
+ },
+ "polonaise": {
+  "zh": "波兰式大衣",
+  "note": "polonaise 在此指一种源自波兰式样的女式束腰大衣，不是波兰舞曲；「une polonaise de drap」呢料波兰式大衣。[object]"
+ },
+ "lophophore": {
+  "zh": "虹雉",
+  "note": "Lophophorus，雉科虹雉；斯万夫人小帽上饰一根虹雉羽。[object]"
+ },
+ "tigre": {
+  "zh": "跟车小厮",
+  "note": "旧时马车夫旁的小跟班（groom），因穿条纹服得名 «tigre»；不作「老虎」。[object]"
+ },
+ "tube": {
+  "zh": "高筒礼帽",
+  "note": "俚语，指灰色高筒礼帽；不作「管子」。[object]"
+ },
+ "capote": {
+  "zh": "软帽",
+  "note": "女式软帽（capote）；不作「车篷」。[object]"
+ },
+ "paletot": {
+  "zh": "外套",
+  "note": "男女式外套；paletot de loutre 水獭皮外套。[object]"
+ },
+ "manchon": {
+  "zh": "手笼",
+  "note": "[object]"
+ },
+ "boa": {
+  "zh": "毛皮围脖",
+  "note": "[object]"
+ },
+ "pneumatique": {
+  "zh": "蓝纸快信",
+  "note": "巴黎市内 Pneumatic 邮递的蓝纸快信；正文统一「蓝纸快信」（petit bleu 同指）。不用「气动邮件」，也不用「蓝色电报送」（易被读成送信的人）。télégramme→电报，télégraphiste→电报信差，facteur→邮差，均不混。[object]"
+ },
+ "petit bleu": {
+  "zh": "蓝纸快信",
+  "note": "即 pneumatique；巴黎市内当日送达的蓝纸快信。正文与 pneumatique 统一作「蓝纸快信」。[object]"
+ },
+ "chaisière": {
+  "zh": "租椅妇",
+  "note": "公园里出租座椅的妇人（loueuse de chaises）。[person_generic]"
+ },
+ "cantonnier": {
+  "zh": "养路工",
+  "note": "[person_generic]"
+ },
+ "sergent de ville": {
+  "zh": "巡警",
+  "note": "19 世纪巴黎的巡警；不作「城市警长」。[person_generic]"
+ },
+ "garde": {
+  "zh": "树林看守",
+  "note": "布洛涅树林的看守人；本章「un vieux garde forestier du jardin」指香榭丽舍园中的老园警。动词 garder 不是术语。[person_generic]"
+ },
+ "sucre d'orge": {
+  "zh": "麦芽糖",
+  "note": "长条麦芽糖（sucre d'orge），儿童零食；不作「大麦糖」。[object]"
+ },
+ "bille d'agate": {
+  "zh": "玛瑙弹珠",
+  "note": "希尔贝特送给叙述者的玛瑙弹珠，成了他爱情的圣物；统一「玛瑙弹珠」。[object]"
+ },
+ "sébile": {
+  "zh": "木碗",
+  "note": "[object]"
+ },
+ "pain d'épices": {
+  "zh": "香料蜜糖面包",
+  "note": "斯万因「种族性湿疹」与便秘而常吃；不作「姜饼」。[object]"
+ },
+ "barres": {
+  "zh": "抢垒游戏",
+  "note": "jeu de barres，儿童分两队互相攻守的跑动游戏；译「抢垒」，不作「跳房子」「夺旗」。原文 faire une partie de barres→玩一局抢垒。[concept]"
+ },
+ "volant": {
+  "zh": "羽毛球",
+  "note": "jeu de volant；不作「方向盘」。[object]"
+ },
+ "institutrice": {
+  "zh": "家庭女教师",
+  "note": "斯万小姐的家庭女教师；与「小学教师」区分。[person_generic]"
+ },
+ "plumet bleu": {
+  "zh": "蓝色羽饰",
+  "note": "家庭女教师帽上的蓝羽饰；叙述者以此判断身份是否体面。[object]"
+ },
+ "caoutchouc": {
+  "zh": "橡胶套鞋",
+  "note": "[object]"
+ },
+ "housses": {
+  "zh": "罩布",
+  "note": "[object]"
+ },
+ "ancien régime": {
+  "zh": "旧制度",
+  "note": "Ancien Régime；老太太自称「我是另一个时代的人，旧制度时代的人」。[concept]"
+ },
+ "violette": {
+  "zh": "紫罗兰",
+  "note": "斯万夫人帽上与胸前的紫罗兰，帕尔马之名也带「紫罗兰」的柔意。[plant]"
+ },
+ "iris": {
+  "zh": "鸢尾",
+  "note": "[plant]"
+ },
+ "jacinthe": {
+  "zh": "风信子",
+  "note": "[plant]"
+ },
+ "narcisse": {
+  "zh": "水仙",
+  "note": "[plant]"
+ },
+ "jonquille": {
+  "zh": "黄水仙",
+  "note": "[plant]"
+ },
+ "anémone": {
+  "zh": "银莲花",
+  "note": "[plant]"
+ },
+ "gui": {
+  "zh": "槲寄生",
+  "note": "[plant]"
+ },
+ "hortensia": {
+  "zh": "绣球花",
+  "note": "[plant]"
+ },
+ "héliotrope": {
+  "zh": "天芥菜",
+  "note": "花名，亦指其淡紫红色；原文以「天芥菜色」写希尔贝特名字投在草坪上的光带。[plant]"
+ },
+ "acacia": {
+  "zh": "金合欢",
+  "note": "[plant]"
+ },
+ "myrte": {
+  "zh": "桃金娘",
+  "note": "[plant]"
+ },
+ "lierre": {
+  "zh": "常春藤",
+  "note": "[plant]"
+ },
+ "empelopsis": {
+  "zh": "蛇葡萄",
+  "note": "[plant]"
+ },
+ "vigne vierge": {
+  "zh": "五叶地锦",
+  "note": "[plant]"
+ },
+ "œillet": {
+  "zh": "石竹",
+  "note": "[plant]"
+ },
+ "lys": {
+  "zh": "百合",
+  "note": "[plant]"
+ },
+ "double": {
+  "zh": "副本",
+  "note": "叙述者想象中先于现实存在的「副本」（le «double»）：贝戈特笔下的香榭丽舍先在他心里放了副本，他才想去看真的。不作「替身」。[concept]"
+ },
+ "ouvrière inconnue": {
+  "zh": "陌生的女工",
+  "note": "记忆在暗中整理印象的比喻（une ouvrière inconnue）；不作实指的女工。[concept]"
+ },
+ "dryade": {
+  "zh": "树精",
+  "note": "希腊神话中的树精；原文以之喻树林与斯万夫人的结合。[myth]"
+ },
+ "dodonéen": {
+  "zh": "多多纳的",
+  "note": "多多纳（Dodone）是伊庇鲁斯宙斯神谕的橡树林；「majesté dodonéenne」译「多多纳式的威严」，保留典故，不加注。[myth]"
+ },
+ "allée de Myrtes": {
+  "zh": "桃金娘道",
+  "note": "《埃涅阿斯纪》中亡魂所在的桃金娘林；原文以此喻金合欢道。[myth]"
+ },
+ "gothique normand": {
+  "zh": "诺曼底哥特式",
+  "note": "[concept]"
+ },
+ "art persan": {
+  "zh": "波斯艺术",
+  "note": "斯万形容巴尔贝克教堂「像是波斯艺术」；保留原话，不改写为「东方艺术」。[concept]"
+ },
+ "trèfle gothique": {
+  "zh": "哥特式三叶饰",
+  "note": "[concept]"
+ },
+ "Femme": {
+  "zh": "女人",
+  "note": "「le Jardin élyséen de la Femme」——布洛涅树林作为「女人的极乐花园」；Femme 大写指「女人」这一集合，不作「女性」「妇人」。[concept]"
+ },
+ "Tanagra": {
+  "zh": "塔纳格拉",
+  "note": "希腊塔纳格拉出土的彩陶小像（Tanagra figurines），以衣褶柔美著称；原文「des plis des Tanagra」指仿塔纳格拉式褶裥。不作「塔那格拉」。[art]"
+ },
+ "Directoire": {
+  "zh": "督政府式",
+  "note": "法国督政府时期（1795–1799）的服饰风格；「dans le style du Directoire」作「督政府式」。[style]"
+ },
+ "liberty": {
+  "zh": "利伯蒂印花",
+  "note": "Liberty 百货的印花丝绸/细布，新艺术时期流行；「chiffrons liberty」作「利伯蒂印花皱纱」。[object]"
+ },
+ "Orléans": {
+  "zh": "奥尔良家族",
+  "note": "les Orléans，法国王室旁支；斯万与巴黎伯爵（奥尔良派）交好。[person_title]"
+ },
+ "Exposition": {
+  "zh": "博览会",
+  "note": "此处指巴黎世界博览会（Exposition universelle）；「les fontaines lumineuses de l'Exposition」作「博览会的灯光喷泉」。[place]"
+ },
+ "Océan": {
+  "zh": "大洋",
+  "note": "此处作「大洋」（l'Océan），指大西洋；原文写海崖与「褪色的大洋」的沉睡。不译「海洋」以求与 Océan 的拟人感相应。"
+ },
+ "grande Ourse": {
+  "zh": "大熊座",
+  "note": "[concept]"
+ },
+ "mer des Indes": {
+  "zh": "印度洋",
+  "note": "[place]"
+ },
+ "guignol": {
+  "zh": "木偶戏棚",
+  "note": "香榭丽舍的Guignol木偶戏棚；与 cirque（马戏棚）并列。不作人名「吉尼奥尔」。[place]"
+ },
+ "chevaux de bois": {
+  "zh": "旋转木马",
+  "note": "香榭丽舍的旋转木马；叙述者与弗朗索瓦丝的固定碰头处。[object]"
+ },
+ "orgue de Barbarie": {
+  "zh": "手摇风琴",
+  "note": "[object]"
+ },
+ "En revenant de la revue": {
+  "zh": "《阅兵归来》",
+  "note": "当时的流行歌曲；原文斜体，译文加《》。[work]"
+ },
+ "Madrid": {
+  "zh": "马德里",
+  "note": "布洛涅树林中的西班牙式园地（Madrid）；与西班牙首都同名，此处指林中地点。[place]"
+ },
+ "Jardin des femmes": {
+  "zh": "女人的花园",
+  "note": "原文 le Jardin des femmes，指布洛涅树林如同陈列女人的动物园/花园；译「女人的花园」，保留下文 Jardin des Plantes 式比喻。[concept]"
+ },
+ "Reine-Marguerite": {
+  "zh": "玛格丽特王后",
+  "note": "allée de la Reine-Marguerite→玛格丽特王后道，布洛涅树林散步道；王后指瓦卢瓦的玛格丽特。只译道名，不单称人名。[place]"
+ },
+ "tapissier": {
+  "zh": "装潢师",
+  "note": "tapissier 此处指承接室内装饰、裱糊与家具布置的装潢商，不是「织毯工」。[person_generic]"
+ },
+ "fabliau": {
+  "zh": "韵文故事",
+  "note": "中世纪法国北部的一种短小诙谐的韵文故事；贝戈特/叙述者以「un personnage de fabliau」形容客栈老板的古拙。不作「寓言」。[concept]"
+ },
+ "coche": {
+  "zh": "驿车",
+  "note": "旧时长途公共马车；与 mouche（轻便邮车）并提。[object]"
+ },
+ "mouche": {
+  "zh": "轻便邮车",
+  "note": "此处指旧时快速邮车（mouche），不是「苍蝇」。[object]"
+ },
+ "calendrier interpolé du Bonheur": {
+  "zh": "幸福的重排日历",
+  "note": "叙述者的比喻：把另一季节的日子插进「幸福」的日历；译「幸福的重排日历」，保留 interpolé 的「插补、改排」义。[concept]"
+ },
+ "hôtel": {
+  "zh": "公馆",
+  "note": "贵族宅邸语境作「公馆」（un hôtel de la rue de…）；旅馆语境作「酒店」（如 Grand-Hôtel）；maître d'hôtel 作「膳食总管」。按语境判断，不一律译「旅馆」。首现第1章。[place]"
+ },
+ "c'est un amour": {
+  "zh": "真是个小可爱",
+  "note": "维尔迪兰圈子对奥黛特的亲昵赞语（un amour 作谓语，指「可爱的人」）；不作神话典故「爱神」。仅此固定说法适用；一般的 un amour（一段爱情）按普通词语译，不建条目。首现第1章。[concept]"
+ },
+ "nom": {
+  "zh": "名字",
+  "note": "本章主题词（noms de pays／le nom）：地名之名承载欲望、想象与记忆，并反过来塑造它所命名的城市。译「名字」，不作「名称」「名词」。普通用法仍按上下文作「名字／名」。 [concept][theme]"
+ },
+ "claires marines": {
+  "zh": "明净海景",
+  "note": "claires marines 指明亮的浅海色调/海景画；「une frise de claires marines」译「一条明净海景的饰带」。[concept]"
+ },
+ "apôtres moutonnants et camus": {
+  "zh": "鬈发如羊毛、鼻子扁平的使徒",
+  "note": "巴尔贝克教堂门廊的使徒像；moutonnants 取「卷曲如羊毛」（羊群般的卷毛），camus 为「扁鼻」。不改写为「低头的使徒」。[art]"
+ },
+ "chariot aux chèvres": {
+  "zh": "羊车",
+  "note": "香榭丽舍附近供儿童乘坐的羊拉小车；不作「山羊大车」。[object]"
+ },
+ "catéchisme": {
+  "zh": "教理问答课",
+  "note": "天主教儿童宗教课；不作「 catechism 问答手册」。[religion]"
+ },
+ "matinée": {
+  "zh": "日间聚会",
+  "note": "下午的社交聚会或日场演出；本章两义并用（贝尔玛的「日场」／斯万夫人的日间聚会），按语境分别作「日场」「日间聚会」，二者不混。[concept]"
+ },
+ "Semaine Sainte": {
+  "zh": "圣周",
+  "note": "复活节前一周；不作「神圣周」「受难周」（后者仅指其中数日）。[religion]"
+ },
+ "drap d'or": {
+  "zh": "金丝锦缎",
+  "note": "drap d'or 指金线织成的锦缎（历史上指「金缕地」Camp du Drap d'Or）；「un camp du drap d'or」译「金锦营」，保留亨利八世与弗朗索瓦一世会晤之地的典故。[concept]"
+ },
+ "moineau": {
+  "zh": "麻雀",
+  "note": "[animal]"
+ },
+ "loueuse de chaises": {
+  "zh": "租椅妇",
+  "note": "公园里出租座椅的妇人；与 chaisière 同义，统一「租椅妇」。[person_generic]"
+ },
+ "bonne d'enfants": {
+  "zh": "保姆",
+  "note": "照看孩子的女佣（bonne d'enfants）；与 institutrice（家庭女教师）区分。[person_generic]"
+ },
+ "hermine": {
+  "zh": "白鼬皮",
+  "note": "白鼬毛皮，象征王权与纯洁；老太太以雪比之。[object]"
+ },
+ "flore pariétaire": {
+  "zh": "墙上花草",
+  "note": "flore pariétaire 指附着墙面生长的植物（pariétaire 本为墙草属）；「lierre instantané, flore pariétaire」译「瞬间的常春藤、墙头的花草」。[plant]"
+ },
+ "cité des lys / Cité des lys": {
+  "zh": "百合之城",
+  "note": "佛罗伦萨的别名（fleur de lys 为市徽）；原文 Sainte-Marie-des-Fleurs 与此呼应。[place]"
+ },
+ "faveurs mauves": {
+  "zh": "淡紫色缎带",
+  "note": "noué de faveurs mauves→用淡紫色缎带扎着；faveur 在此指丝带结，不作「恩惠」。[object]"
+ },
+ "gros sou": {
+  "zh": "苏",
+  "note": "法国旧辅币（sou），1 苏＝5 生丁；「deux billes d'un sou」译「两苏钱一颗的弹珠」。[object]"
+ },
+ "centime": {
+  "zh": "生丁",
+  "note": "法国辅币；「cinquante centimes pièce」译「每颗五十生丁」。[object]"
+ },
+ "préposée": {
+  "zh": "租椅妇",
+  "note": "公园中受雇出租座椅的妇人；与 chaisière／loueuse de chaises 同指，统一「租椅妇」。[person_generic]"
+ },
+ "Amérique": {
+  "zh": "美洲",
+  "note": "[place]"
+ },
+ "Virginie": {
+  "zh": "弗吉尼亚",
+  "note": "美国州名；原文以「像弗吉尼亚的农场」形容树林中的一景。[place]"
+ },
+ "Jardin des Plantes": {
+  "zh": "植物园",
+  "note": "巴黎植物园；原文以动物园/植物园的陈列比喻树林。[place]"
+ },
+ "Beautés": {
+  "zh": "美人",
+  "note": "「les Beautés célèbres」=名媛；大写指上流社会公认的美人。[concept]"
+ },
+ "Majesté": {
+  "zh": "陛下",
+  "note": "「une Majesté」在此戏称斯万夫人车中的姿态，像女王；不作「威严」。[concept]"
+ },
+ "crinoline": {
+  "zh": "裙撑",
+  "note": "[object]"
+ },
+ "calèche": {
+  "zh": "敞篷马车",
+  "note": "[object]"
+ },
+ "coupé": {
+  "zh": "双座轿式马车",
+  "note": "[object]"
+ },
+ "tilbury": {
+  "zh": "轻便双轮马车",
+  "note": "[object]"
+ },
+ "fiacre": {
+  "zh": "出租马车",
+  "note": "[object]"
+ },
+ "télégraphiste": {
+  "zh": "电报信差",
+  "note": "送电报的邮递员；与 facteur（邮差）不同。[person_generic]"
+ },
+ "facteur": {
+  "zh": "邮差",
+  "note": "[person_generic]"
+ },
+ "deux cités Reines": {
+  "zh": "两座女王之城",
+  "note": "les deux cités Reines 指威尼斯与佛罗伦萨（各自以「亚得里亚海女王」「百合之城」拟人）；保留大写「女王」的拟人意味，不作「王后」。[concept]"
+ },
+ "altesse": {
+  "zh": "殿下",
+  "note": "对王室成员的尊称；叙述者曾揣想老太太「也许是某位殿下」。[person_title]"
+ },
+ "manteau à pèlerine": {
+  "zh": "披肩式大衣",
+  "note": "带披肩（pèlerine）的男式大衣；不作「朝圣者大衣」。[object]"
+ },
+ "manèges": {
+  "zh": "周旋手段",
+  "note": "此处指为了躲避某人而耍的各种手段（faire des manèges），不作「旋转木马」。[concept]"
+ },
+ "hôte de la France": {
+  "zh": "法国的客人",
+  "note": "指来访的外国君主（狄奥多西国王），官方套语；不作「东道主」。[concept]"
+ },
+ "Second Empire": {
+  "zh": "第二帝国",
+  "note": "1852–1870；康斯坦丁·居伊笔下的巴黎即属此时代。[concept]"
+ },
+ "otarie": {
+  "zh": "海豹",
+  "note": "动物园里的海豹；不作「海狮」。[animal]"
+ },
+ "lévrier": {
+  "zh": "灵缇",
+  "note": "细长的猎犬；斯万夫人身边带的一只。[animal]"
+ },
+ "toquet": {
+  "zh": "小帽",
+  "note": "女式小帽（toquet）；不作「头巾」。[object]"
+ },
+ "ombrelle": {
+  "zh": "阳伞",
+  "note": "女式遮阳伞（ombrelle）；不是雨伞（parapluie）。[object]"
+ },
+ "nom de guerre": {
+  "zh": "化名",
+  "note": "此处指高级交际花的「名号」（nom de guerre），不作军事「战名」。[concept]"
+ },
+ "futaie": {
+  "zh": "乔木林",
+  "note": "[place]"
+ },
+ "sapinière": {
+  "zh": "冷杉林",
+  "note": "[place]"
+ },
+ "fosse": {
+  "zh": "兽坑",
+  "note": "动物园中的兽坑（la fosse）；不作「沟渠」。[place]"
+ },
+ "rosse": {
+  "zh": "恶婆娘",
+  "note": "骂人语，指刻薄狠毒的女人；此处是斯万夫人对某些男人的无声咒骂，保留粗鲁。[concept]"
+ },
+ "groom": {
+  "zh": "小跟班",
+  "note": "马车上侍立的小厮；与 tigre 同指。[object]"
+ },
+ "jardin zoologique": {
+  "zh": "动物园",
+  "note": "[place]"
+ },
+ "tunique": {
+  "zh": "束腰长衫",
+  "note": "此处指 Directoire／希腊式束腰长衫（tunique），不是军服。[object]"
+ },
+ "béret": {
+  "zh": "贝雷帽",
+  "note": "圆形软帽；叙述者玩抢垒时戴 béret de jeu（游戏帽），与做客时的 chapeau de visite 对照。[object]"
+ },
+ "moulin factice": {
+  "zh": "假风车",
+  "note": "布洛涅树林中造景用的假风车（le moulin factice）；不作「人造磨坊」。[place]"
+ },
+ "paletot de loutre": {
+  "zh": "水獭皮外套",
+  "note": "loutre→水獭；斯万夫人冬日步行时的外套。[object]"
+ },
+ "Dodone": {
+  "zh": "多多纳",
+  "note": "伊庇鲁斯古地，有宙斯神谕的橡树林；原文 «majesté dodonéenne» 的典故来源。[myth]"
+ },
+ "druidique": {
+  "zh": "德鲁伊的",
+  "note": "凯尔特祭司德鲁伊（druide）的；原文以「德鲁伊式的树冠」写大橡树。[myth]"
+ },
+ "épine rose": {
+  "zh": "粉红山楂",
+  "note": "冬季开粉花的观赏山楂；原文 «comme une épine rose de l'hiver»。[plant]"
+ },
+ "oriflamme": {
+  "zh": "军旗",
+  "note": "中世纪法国王旗（oriflamme）；原文以之喻远处一片华美的树色。[concept]"
+ },
+ "candélabre": {
+  "zh": "烛台",
+  "note": "多枝烛台；原文 «le candélabre incombustible» 喻满树红叶尚未燃尽的树。[object]"
+ },
+ "petit temple à l'amour": {
+  "zh": "爱神小神庙",
+  "note": "园林中的仿古小神庙（temple de l'Amour）；不作「爱情小教堂」。[place]"
+ },
+ "aboutonner": {
+  "zh": "扣上",
+  "note": "弗朗索瓦丝的口语/土语，意为「把（外套）扣上」；原文 «aboutonnez voir votre paletot»，译「把您的外套扣上」。[concept]"
+ },
+ "consacrer": {
+  "zh": "奉为神圣",
+  "note": "此处指叙述者的想象把某个家庭「隔离并奉为神圣」（isolé et consacré）；不坐实为宗教仪式。[concept]"
+ },
+ "qualité inconnue": {
+  "zh": "未知的品质",
+  "note": "叙述者说父母看不出斯万家周围那层「在情感世界里相当于红外线的未知品质」；固定作「未知的品质」，不改写为「神秘气质」。[concept]"
+ },
+ "sens supplémentaire et momentané": {
+  "zh": "补充的、暂时的感官",
+  "note": "爱情赋予叙述者的「额外的、一时的感官」，使他能看见别人看不见的品质；红外线比喻的固定说法，勿抒情化为「第六感」。[concept]"
+ },
+ "croyance": {
+  "zh": "信仰",
+  "note": "本章关键概念：我们赋予人或物以统一与存在的力量；信仰消失后仍对旧物有拜物式依恋。不坐实为宗教信仰。[concept]"
+ },
+ "la voiture aux chèvres": {
+  "zh": "羊车",
+  "note": "香榭丽舍附近供儿童乘坐的羊拉小车；与 chariot aux chèvres 同指，统一「羊车」，不作「山羊车」。[object]"
+ },
+ "valet de pied": {
+  "zh": "男仆",
+  "note": "穿号衣的随车男仆（valet de pied）；与 groom／tigre（跟车小厮）不同。[person_generic]"
+ },
+ "radiation télépathique": {
+  "zh": "心灵感应般的放射",
+  "note": "原文以伪科学的「放射」比喻贝尔玛演到极妙时在观众中激起的掌声；保留这层伪科学语气，不作「感应」。[concept]"
+ },
+ "emploi de théâtre": {
+  "zh": "戏剧行当",
+  "note": "演员按类型分派的行当（un «emploi de théâtre»）；指「角色类型」，不是「职业」。[concept]"
+ },
+ "crieurs de journaux": {
+  "zh": "卖报的吆喝",
+  "note": "原文 bruit des crieurs de journaux，指街头报贩的叫卖声；不作「报贩」。[person_generic]"
+ },
+ "III": {
+  "zh": "第三卷",
+  "note": "书名页上总书名下方的罗马数字卷次，首见于 vol3 第 0 章。指《追忆似水年华》第三卷，译文作「第三卷」，不加书名号；不要直留「III」。vol2 第 0 章的同位条目为「II」→第二卷。"
+ },
+ "Couverture et page de titre": {
+  "zh": "书名页",
+  "note": "卷首书目页的章标题，vol1/vol2/vol3/vol4/vol5 第 0 章均作「# 书名页」（一级标题）；不译作「封面与扉页」。封面图按项目约定删除，不保留图片或图注。"
+ },
+ "Norpois": {
+  "zh": "诺尔普瓦",
+  "note": "德·诺尔普瓦侯爵（marquis de Norpois），前驻外使节、驻埃及财政监督，法兰西道德与政治科学院院士；说话用旧式外交辞令。带爵位时作「诺尔普瓦侯爵」。禁用译法: 诺尔普瓦兹、诺普瓦。[person]"
+ },
+ "Vaugoubert": {
+  "zh": "沃古贝尔",
+  "note": "法国外交官，长期推动法俄接近，诺尔普瓦的老友；本章只在诺尔普瓦的谈话中出现，未登场。[person]"
+ },
+ "Bontemps": {
+  "zh": "博纳唐",
+  "note": "博纳唐夫人（Mme Bontemps）为公共工程部部长办公厅主任之妻、阿尔贝蒂娜的姑母，斯万家的常客；译名用「博纳唐」，禁用「邦唐」「邦当」。[person]"
+ },
+ "Trombert": {
+  "zh": "特龙贝尔",
+  "note": "斯万夫人新结纳的官员家庭，被母亲的殖民战争比喻当作「归顺的部落」。[person]"
+ },
+ "Rachel": {
+  "zh": "拉谢尔",
+  "note": "拉谢尔，女演员，vol6 第 001 章为圣卢的情妇（圣卢称她 Zézette，她称圣卢 Bobbey）。原为叙述者在妓院见过的姑娘，因阿莱维歌剧《犹太女》咏叹调首句「Rachel, quand du Seigneur」被叙述者打趣。与圣经中雅各之妻拉结无关，不作「拉结」。[person]"
+ },
+ "Agrigente": {
+  "zh": "阿格里真托",
+  "note": "阿格里真托亲王（prince d'Agrigente），斯万家的常客；地名取自西西里城市，译名从地名通行译法。[person]"
+ },
+ "Marsantes": {
+  "zh": "马桑特",
+  "note": "马桑特伯爵夫人（comtesse de Marsantes），唯一私下接待过奥黛特的贵族夫人；原文未揭示她与其他人物的关系，译文不得补足。[person]"
+ },
+ "Israels": {
+  "zh": "伊斯拉埃尔",
+  "note": "鲁弗斯·伊斯拉埃尔爵士（sir Rufus Israels）与伊斯拉埃尔夫人（lady Israels），斯万的姨母家，犹太金融世家，代奥尔良家族理财。[person]"
+ },
+ "Tourville": {
+  "zh": "图尔维尔",
+  "note": "巴尔贝克教堂内的图尔维尔墓；图尔维尔为路易十四时代海军元帅，译名从通行史名。[person]"
+ },
+ "Metternich": {
+  "zh": "梅特涅",
+  "note": "梅特涅亲王妃（princesse de Metternich），奥地利驻法大使夫人；princesse 作「亲王妃」。[person]"
+ },
+ "Pie IX": {
+  "zh": "庇护九世",
+  "note": "罗马教皇庇护九世（1846—1878 在位）；酒店房客闲谈中提及。首现 vol4 第 1 章。[religion]"
+ },
+ "Raspail": {
+  "zh": "拉斯帕伊",
+  "note": "拉斯帕伊（1794—1878），法国共和派医生、政治家；弗朗索瓦丝把他的照片与教皇庇护九世并排买下。[person]"
+ },
+ "Assourbanipal": {
+  "zh": "亚述巴尼拔",
+  "note": "亚述国王亚述巴尼拔；叙述者引马斯佩罗著作，言其猎宴名单至今可考。禁用译法: 阿淑尔巴尼帕尔。[person]"
+ },
+ "Maspero": {
+  "zh": "马斯佩罗",
+  "note": "加斯东·马斯佩罗，法国埃及学家；叙述者读其著作。[person]"
+ },
+ "Savonarole": {
+  "zh": "萨伏那洛拉",
+  "note": "吉罗拉莫·萨伏那洛拉，佛罗伦萨宗教改革者；斯万说布拉坦夫人酷似其画像。[person]"
+ },
+ "Fra Bartolomeo": {
+  "zh": "弗拉·巴尔托洛梅奥",
+  "note": "意大利文艺复兴画家，有萨伏那洛拉画像传世。[person]"
+ },
+ "Winterhalter": {
+  "zh": "温特哈尔特",
+  "note": "弗朗茨·克萨韦尔·温特哈尔特，十九世纪宫廷肖像画家；玛蒂尔德公主的容貌被比作他的肖像。[person]"
+ },
+ "Rubens": {
+  "zh": "鲁本斯",
+  "note": "佛兰德斯画家；斯万客厅壁炉上方挂其画。[person]"
+ },
+ "Gérôme": {
+  "zh": "热罗姆",
+  "note": "让-莱昂·热罗姆，学院派画家；斯万夫人宾客反复谈论其画。[person]"
+ },
+ "Luini": {
+  "zh": "卢伊尼",
+  "note": "贝尔纳迪诺·卢伊尼，伦巴第画家；其壁画中的东方三博士之一被指与斯万相似。[person]"
+ },
+ "Balzac": {
+  "zh": "巴尔扎克",
+  "note": "《人间喜剧》作者；本章「Le Cousin Bête」（笨舅舅）系谐《邦斯舅舅》（Le Cousin Pons）的戏称。[person]"
+ },
+ "Taine": {
+  "zh": "泰纳",
+  "note": "伊波利特·泰纳，批评家、史学家；玛蒂尔德公主与之绝交。[person]"
+ },
+ "Sainte-Beuve": {
+  "zh": "圣伯夫",
+  "note": "圣伯夫，法国批评家；诺尔普瓦引其与洛梅尼的掌故，普鲁斯特全书对其方法持批判态度。[person]"
+ },
+ "Loménie": {
+  "zh": "洛梅尼",
+  "note": "路易·德·洛梅尼，十九世纪文人，著有《卢梭》等；与圣伯夫并称，此处记不清是谁写的掌故。[person]"
+ },
+ "Boileau": {
+  "zh": "布瓦洛",
+  "note": "尼古拉·布瓦洛，古典主义诗论家；诺尔普瓦举例说明「精神同族」重于观点相同。[person]"
+ },
+ "Claudel": {
+  "zh": "克洛岱尔",
+  "note": "此处指十九世纪末的保尔·克洛岱尔（Paul Claudel），天主教诗人；原文将其作为「同宗精神」例证之一。[person]"
+ },
+ "Barrès": {
+  "zh": "巴雷斯",
+  "note": "莫里斯·巴雷斯，民族主义作家；诺尔普瓦以之与政见不同的学院同僚对比。[person]"
+ },
+ "Maurras": {
+  "zh": "莫拉斯",
+  "note": "夏尔·莫拉斯，保王派理论家；与莱昂·多代并称。[person]"
+ },
+ "Léon Daudet": {
+  "zh": "莱昂·多代",
+  "note": "莱昂·多代，保王派作家、政论家；不能与父亲阿方斯·多代混同。[person]"
+ },
+ "Ribot": {
+  "zh": "里博",
+  "note": "亚历山大·里博，法国政治家，多次任总理；学院派人物。[person]"
+ },
+ "Deschanel": {
+  "zh": "德夏内尔",
+  "note": "保尔·德夏内尔，政治家、作家，后任总统；与里博并称。[person]"
+ },
+ "Georges Berry": {
+  "zh": "乔治·贝里",
+  "note": "乔治·贝里，巴黎议员；诺尔普瓦举例说明选举中的「精神同族」。[person]"
+ },
+ "Maxime Ducamp": {
+  "zh": "马克西姆·杜康",
+  "note": "马克西姆·杜康，文人；与梅齐耶尔并称，皆学院派。[person]"
+ },
+ "Mézières": {
+  "zh": "梅齐耶尔",
+  "note": "阿尔弗雷德·梅齐耶尔，文学史家、参议员；与杜康并称。[person]"
+ },
+ "Legouvé": {
+  "zh": "勒古韦",
+  "note": "埃内斯特·勒古韦，剧作家、法兰西学院院士，古典派。[person]"
+ },
+ "Renan": {
+  "zh": "勒南",
+  "note": "欧内斯特·勒南，《耶稣传》（Vie de Jésus）作者；叙述者以「信徒扔掉勒南的书」比喻自己强行排除怀疑。[person]"
+ },
+ "Henry Gréville": {
+  "zh": "亨利·格雷维尔",
+  "note": "十九世纪末女小说家（本名 Alice Durand）；其小说中的女主角装束成为叙述者对旧式沙龙的联想。[person]"
+ },
+ "P.-J. Stahl": {
+  "zh": "皮埃尔-儒勒·斯塔尔",
+  "note": "出版家、儿童文学作家（本名 Pierre-Jules Hetzel）；新年赠书中附温室插图。[person]"
+ },
+ "Lespinasse": {
+  "zh": "莱斯皮纳斯",
+  "note": "莱斯皮纳斯小姐（Mlle de Lespinasse），十八世纪著名沙龙女主人；奥黛特自以为在办一个更自由的沙龙。[person]"
+ },
+ "Klingsor": {
+  "zh": "克林索尔",
+  "note": "瓦格纳《帕西法尔》中的魔法师；斯万夫人家的候客厅被比作其实验室。[person]"
+ },
+ "Vatel": {
+  "zh": "瓦泰尔",
+  "note": "大孔代亲王的膳食总管，以精益求精、因鱼不至而自尽著称；诺尔普瓦借以称许弗朗索瓦丝。[person]"
+ },
+ "Charvet": {
+  "zh": "夏尔韦",
+  "note": "巴黎高级衬衫与领带店；叙述者赴斯万家午餐前整理其领带。[org]"
+ },
+ "Olida": {
+  "zh": "奥利达",
+  "note": "巴黎食品店；弗朗索瓦丝命人去那里买「纽-约克火腿」。[org]"
+ },
+ "Berlier": {
+  "zh": "贝尔利耶",
+  "note": "建筑师，斯万家所住亨利二世风格公寓楼的建造者。[person]"
+ },
+ "Saint-Ferréol": {
+  "zh": "圣费雷奥尔",
+  "note": "弗朗索瓦丝附会出的贵族姓氏，用以抬高香榭丽舍公厕女店主的身世；属她的攀附之词。[person]"
+ },
+ "Jardin d'Acclimatation": {
+  "zh": "驯化园",
+  "note": "巴黎布洛涅树林内的动物园与游乐园（Jardin d'Acclimatation），当时有「黑人」「僧伽罗人」展演；不作「驯化花园」。[place]"
+ },
+ "Cynghalais": {
+  "zh": "僧伽罗人",
+  "note": "原文 Cynghalais 即锡兰（今斯里兰卡）僧伽罗人；普鲁斯特把他们与非洲黑人混作一谈，译文保留这一误置，不加按语。[person_generic]"
+ },
+ "Masséchutos": {
+  "zh": "马萨诸塞人",
+  "note": "原文 Masséchutos 系作者戏造，指美国马萨诸塞州人；母亲用它戏称斯万夫人新结纳的客人。[person_generic]"
+ },
+ "Tombeaux de Saint-Denis": {
+  "zh": "圣德尼王陵",
+  "note": "圣德尼大教堂内的法国王陵；斯万夫妇带叙述者出游的一站。[place]"
+ },
+ "Trocadéro": {
+  "zh": "特罗卡德罗宫",
+  "note": "夏约丘上的旧特罗卡德罗宫（1937 年拆除）；叙述者觉得它比工业宫更古。[place]"
+ },
+ "palais de Gabriel": {
+  "zh": "加布里埃尔宫",
+  "note": "协和广场两侧、加布里埃尔设计的双翼建筑；叙述者少年时只觉得平常。[place]"
+ },
+ "Porte Saint-Martin": {
+  "zh": "圣马丁门",
+  "note": "路易十四时代所建巴黎城门；叙述者误以为与最新楼房同期。[place]"
+ },
+ "Porte Saint-Denis": {
+  "zh": "圣德尼门",
+  "note": "路易十四时代所建巴黎凯旋门式城门。[place]"
+ },
+ "rue de l'École-de-Médecine": {
+  "zh": "医学院街",
+  "note": "巴黎六区街道；叙述者外叔祖的住处在玛德莱娜教堂与植物园之间。[place]"
+ },
+ "place Gaillon": {
+  "zh": "加永广场",
+  "note": "巴黎二区小广场，亨利餐馆所在；叙述者父亲常去聚餐。[place]"
+ },
+ "quai d'Orsay": {
+  "zh": "奥赛码头",
+  "note": "法国外交部所在地，遂为外交部的代称；「离开奥赛码头」即辞去外交部职务。[place]"
+ },
+ "Pont-aux-Chantres": {
+  "zh": "尚特桥",
+  "note": "原文 Pont-aux-Chantres 系作者对外交部（奥赛码头）的戏称，字面可解作「唱诗桥」；保留这一双关色彩。[place]"
+ },
+ "Montecitorio": {
+  "zh": "蒙特奇托里奥",
+  "note": "罗马的意大利众议院（Palazzo Montecitorio）；诺尔普瓦文中用以代指意大利政界。[place]"
+ },
+ "Ballplatz": {
+  "zh": "巴尔广场",
+  "note": "维也纳巴尔豪斯广场（Ballhausplatz），奥匈帝国外交部所在，遂代指奥匈外交。[place]"
+ },
+ "Wilhelmstrasse": {
+  "zh": "威廉街",
+  "note": "柏林威廉街，德国外交部所在，代指德国官方。[place]"
+ },
+ "Consulta": {
+  "zh": "孔苏尔塔",
+  "note": "意大利外交部（Palazzo della Consulta）。[place]"
+ },
+ "palais Farnèse": {
+  "zh": "法尔内塞宫",
+  "note": "罗马法尔内塞宫，1875 年起为法国驻意大利使馆；「罗马的职位」即指此。[place]"
+ },
+ "galerie des Carraches": {
+  "zh": "卡拉奇画廊",
+  "note": "法尔内塞宫内的卡拉奇兄弟壁画厅。[place]"
+ },
+ "Oettingen": {
+  "zh": "厄廷根",
+  "note": "狄奥多西国王所属王室的姓氏（Oettingen），诺尔普瓦以之指其家族目光。[person]"
+ },
+ "Frari": {
+  "zh": "弗拉里教堂",
+  "note": "威尼斯圣方济各会教堂（Santa Maria Gloriosa dei Frari），藏提香《圣母升天》。[place]"
+ },
+ "Sainte-Chapelle": {
+  "zh": "圣礼拜堂",
+  "note": "巴黎西岱岛上的哥特式王家礼拜堂，以彩窗与雕饰著称；诺尔普瓦称之为「珍珠」。[place]"
+ },
+ "Halles": {
+  "zh": "中央菜市场",
+  "note": "巴黎中央菜市场（Les Halles）；弗朗索瓦丝亲自去挑牛肉。[place]"
+ },
+ "Carrare": {
+  "zh": "卡拉拉",
+  "note": "意大利大理石产地；米开朗琪罗选石之地。[place]"
+ },
+ "rue Royale": {
+  "zh": "皇家街",
+  "note": "巴黎八区街道，连接协和广场与玛德莱娜教堂；韦伯咖啡馆在此。[place]"
+ },
+ "Aisne": {
+  "zh": "埃纳省",
+  "note": "法国北部省份；奥黛特胡诌盖尔芒特家出自此省，见其无知。[place]"
+ },
+ "Sofia": {
+  "zh": "索非亚",
+  "note": "保加利亚首都；诺尔普瓦以之与慕尼黑并举，炫耀其外交阅历。[place]"
+ },
+ "Commission": {
+  "zh": "委员会",
+  "note": "指众议院预算委员会（la Commission du budget），叙述者父亲与诺尔普瓦在此共事。[org]"
+ },
+ "Académie des Sciences morales": {
+  "zh": "道德与政治科学院",
+  "note": "法兰西学会五院之一；诺尔普瓦为其院士，并有望进法兰西学院。[org]"
+ },
+ "Académie des Inscriptions": {
+  "zh": "铭文与美文学院",
+  "note": "法兰西学会五院之一，刊布考古与铭文报告。[org]"
+ },
+ "Institut": {
+  "zh": "法兰西学会",
+  "note": "Institut（de France），五院联合体；「进法兰西学会」指当选其院士，不作「研究所」。[org]"
+ },
+ "Revue des Deux-Mondes": {
+  "zh": "《两世界评论》",
+  "note": "法国老牌文学与政治评论双月刊；诺尔普瓦为其撰稿，并称可介绍叙述者入内。[work_press]"
+ },
+ "Premier Paris": {
+  "zh": "头版社论",
+  "note": "premier-Paris 指报纸头版社论（社论作者）；原文加引号称「头版社论的道德家」。[work_press]"
+ },
+ "directeur du cabinet": {
+  "zh": "办公厅主任",
+  "note": "部长办公厅主任（directeur du cabinet），位在部长之下而总揽实务；与 chef de cabinet（办公室主任）不同，斯万特意纠正希尔贝特。[org]"
+ },
+ "chef de cabinet": {
+  "zh": "办公室主任",
+  "note": "部长办公室主任；希尔贝特误用此职，斯万纠正为 directeur du cabinet（办公厅主任）。[org]"
+ },
+ "Travaux publics": {
+  "zh": "公共工程部",
+  "note": "ministère des Travaux publics；博纳唐先生任其部长办公厅主任。[org]"
+ },
+ "Andromaque": {
+  "zh": "《安德洛玛克》",
+  "note": "拉辛悲剧；斯万说贝尔玛在其中触及崇高。[work]"
+ },
+ "Les Caprices de Marianne": {
+  "zh": "《玛丽安娜的任性》",
+  "note": "缪塞剧作；贝尔玛的保留剧目之一。[work]"
+ },
+ "Le Demi-Monde": {
+  "zh": "《半上流社会》",
+  "note": "小仲马剧作；贝尔玛的复排剧目。[work]"
+ },
+ "Orphée aux Enfers": {
+  "zh": "《地狱中的奥菲欧》",
+  "note": "奥芬巴赫轻歌剧；叙述者由月光下的加布里埃尔宫柱廊想起其布景。[work]"
+ },
+ "Cinq-Mars": {
+  "zh": "《森-马尔斯》",
+  "note": "维尼的历史小说；诺尔普瓦贬贝戈特时举以为证。[work]"
+ },
+ "Cachet rouge": {
+  "zh": "《红色印章》",
+  "note": "维尼的短篇小说（Le Cachet rouge）；诺尔普瓦称其中有可入选文选的篇章。[work]"
+ },
+ "Atala": {
+  "zh": "《阿塔拉》",
+  "note": "夏多布里昂小说；贝戈特偏爱它甚于《勒内》，因其「更柔和」。[work]"
+ },
+ "Joconde": {
+  "zh": "《蒙娜丽莎》",
+  "note": "达·芬奇《蒙娜丽莎》（la Joconde）；叙述者说它挂在斯万家也不会比一件睡袍更让他欢喜。[work]"
+ },
+ "Persée": {
+  "zh": "《珀尔修斯》",
+  "note": "本韦努托·切利尼的青铜雕像（佛罗伦萨兰齐敞廊）。[work]"
+ },
+ "Koraï": {
+  "zh": "科莱少女像",
+  "note": "雅典卫城出土的古风时期少女立像（korai）。[work]"
+ },
+ "Éréchthéion": {
+  "zh": "厄瑞克忒翁神庙",
+  "note": "雅典卫城上的古风神庙，其女像柱廊即「女像柱」；贝戈特称贝尔玛的手势令人想起其少女像。[place]"
+ },
+ "Cariatides": {
+  "zh": "女像柱",
+  "note": "厄瑞克忒翁神庙的女像柱（Cariatides）；斯万以为贝戈特指的是她们。[work]"
+ },
+ "Hespéride": {
+  "zh": "赫斯珀里得斯",
+  "note": "看守金苹果园的仙女；奥林匹亚宙斯神庙排档间饰上有一尊以此得名的像。[myth]"
+ },
+ "Olympie": {
+  "zh": "奥林匹亚",
+  "note": "希腊奥林匹亚遗址，宙斯神庙排档间饰藏于此。[place]"
+ },
+ "Céramique": {
+  "zh": "陶器区",
+  "note": "雅典陶器区（Céramique），古墓地；赫格索墓碑出土地。[place]"
+ },
+ "Médicis": {
+  "zh": "美第奇",
+  "note": "佛罗伦萨美第奇家族；米开朗琪罗为其墓室雕刻，即「美第奇家族陵墓」。[person]"
+ },
+ "Tombeau des Médicis": {
+  "zh": "美第奇家族陵墓",
+  "note": "米开朗琪罗在佛罗伦萨圣洛伦佐教堂的陵墓工程；弗朗索瓦丝被比作在采石场劳作的米开朗琪罗。[work]"
+ },
+ "Jules II": {
+  "zh": "尤利乌斯二世",
+  "note": "教皇尤利乌斯二世，米开朗琪罗为其陵墓选石。[person]"
+ },
+ "quatuors de Beethoven": {
+  "zh": "贝多芬四重奏",
+  "note": "指贝多芬晚期第 12—15 号四重奏；普鲁斯特以之说明杰作需要时间造就自己的听众。[work]"
+ },
+ "Maîtres Chanteurs": {
+  "zh": "《名歌手》",
+  "note": "瓦格纳《纽伦堡的名歌手》；只作《名歌手》，不作《大师》。[work]"
+ },
+ "Sonate de Vinteuil": {
+  "zh": "凡德伊奏鸣曲",
+  "note": "凡德伊的小提琴钢琴奏鸣曲，斯万爱情的音乐标记；本章叙述者初听全曲而不得其门。[work]"
+ },
+ "Tolstoï": {
+  "zh": "托尔斯泰",
+  "note": "贝戈特不喜欢托尔斯泰，与乔治·艾略特、易卜生、陀思妥耶夫斯基并列。[person]"
+ },
+ "George Eliot": {
+  "zh": "乔治·艾略特",
+  "note": "英国小说家；贝戈特所不喜。[person]"
+ },
+ "Ibsen": {
+  "zh": "易卜生",
+  "note": "挪威剧作家；贝戈特所不喜。[person]"
+ },
+ "Dostoïewski": {
+  "zh": "陀思妥耶夫斯基",
+  "note": "俄国小说家；贝戈特所不喜。[person]"
+ },
+ "Sardou": {
+  "zh": "萨尔杜",
+  "note": "维多利安·萨尔杜，通俗剧作家；斯万以其剧中名流客串比喻自己的画像联想。[person]"
+ },
+ "Halévy": {
+  "zh": "阿莱维",
+  "note": "雅克·弗罗芒塔尔·阿莱维，《犹太女》（La Juive）作曲者；拉谢尔的绰号出自其中咏叹调「Rachel, quand du Seigneur」。[person]"
+ },
+ "Rachel quand du Seigneur": {
+  "zh": "「拉谢尔，当主……」",
+  "note": "叙述者给拉谢尔起的绰号，截自《犹太女》咏叹调首句 Rachel, quand du Seigneur…；老板娘不解其意，只觉好听，译文保留省略号以见其半截。[work]"
+ },
+ "Altesse Impériale": {
+  "zh": "皇族殿下",
+  "note": "对皇室成员的尊称（Son Altesse Impériale）；玛蒂尔德公主为拿破仑一世侄女，故称。[title]"
+ },
+ "duchesse de Vendôme": {
+  "zh": "旺多姆公爵夫人",
+  "note": "斯万为「社会实验」硬凑到一起的贵客；duchesse 作「公爵夫人」。[title]"
+ },
+ "princesse de Guermantes": {
+  "zh": "盖尔芒特亲王妃",
+  "note": "princesse de X 作「X 亲王妃」，禁「公主」「亲王夫人」。[title]"
+ },
+ "affaire Dreyfus": {
+  "zh": "德雷福斯事件",
+  "note": "1894 年起的法国冤案，导致社交界重新洗牌；本章为预叙性回顾。[event]"
+ },
+ "maison de passe": {
+  "zh": "妓院",
+  "note": "布洛克带叙述者初访之处；与 maison de rendez-vous 同译「妓院」。[social]"
+ },
+ "bureau d'octroi": {
+  "zh": "入市税征收处",
+  "note": "第001章；旧巴黎城门处的入市税卡；香榭丽舍的公厕即由废弃税卡改建，其潮气触发叙述者的非自主记忆。[place]"
+ },
+ "étrennes": {
+  "zh": "新年礼物",
+  "note": "元旦赠礼与赏钱；弗朗索瓦丝买照片作「给自己的新年礼物」。[custom]"
+ },
+ "Mi-Carême": {
+  "zh": "中斋节",
+  "note": "四旬斋期中段的星期四，巴黎有化装游行；叙述者夜里听到的号角声即属此日。[custom]"
+ },
+ "mastroquet": {
+  "zh": "小酒馆",
+  "note": "卖酒的小店；号角声从这种店里传出，故更显凄凉。[social]"
+ },
+ "Christmas": {
+  "zh": "Christmas",
+  "note": "斯万母女用英文 Christmas 代替 Noël，以示时髦；译文保留英文原词，不译「圣诞节」。[custom]"
+ },
+ "nurse": {
+  "zh": "nurse",
+  "note": "斯万夫人用英文 nurse 指弗朗索瓦丝；叙述者当时不懂英文，故保留原词，保存其隔膜感，不译「保姆」。[social]"
+ },
+ "five o'clock tea": {
+  "zh": "five o'clock tea",
+  "note": "当时对午后茶会的英文称呼；奥黛特刻意沿用，以见其效颦。[custom]"
+ },
+ "Choufleury": {
+  "zh": "「舒弗勒里」",
+  "note": "奥黛特对自己待客日的戏称，由 chou-fleur（花椰菜）谐音而成；保留音译并加引号，不解释。[social]"
+ },
+ "bristol": {
+  "zh": "名片",
+  "note": "papier bristol 制的名片；「不折角名片」指登门留片的分寸。[object]"
+ },
+ "cor": {
+  "zh": "号角",
+  "note": "猎号；中斋节夜里从小酒馆传出的号角声。[object]"
+ },
+ "orchidée": {
+  "zh": "兰花",
+  "note": "斯万家候客厅与花篮中的兰花；与卡特兰同为奥黛特所爱。[plant]"
+ },
+ "héliogravure": {
+  "zh": "照相凹版",
+  "note": "十九世纪末的印刷复制工艺；新年赠书中的插图即此。[object]"
+ },
+ "samovar": {
+  "zh": "茶炊",
+  "note": "俄式烧水器，当时刚传入巴黎，使沙龙带上琥珀色雾气。[object]"
+ },
+ "papier d'argent": {
+  "zh": "银纸",
+  "note": "包石竹花茎的银色纸；斯万家宴席的定例。[object]"
+ },
+ "caviar": {
+  "zh": "鱼子酱",
+  "note": "斯万家宴席上叙述者不识之物。[food]"
+ },
+ "bœuf Stroganof": {
+  "zh": "斯特罗加诺夫牛肉",
+  "note": "俄式奶油蘑菇牛肉；诺尔普瓦以此考校弗朗索瓦丝。[food]"
+ },
+ "Nev'York": {
+  "zh": "「纽-约克」",
+  "note": "弗朗索瓦丝把 New York 听成 Nev'York，遂称约克火腿为「纽-约克火腿」；译文用「纽-约克」保留其错听。[food]"
+ },
+ "jambon d'York": {
+  "zh": "约克火腿",
+  "note": "英国约克产火腿；弗朗索瓦丝误冠以「纽-约克」。[food]"
+ },
+ "pudding à la Nasselrode": {
+  "zh": "纳斯尔罗德式布丁",
+  "note": "诺尔普瓦转述的俄式甜点名，借以炫耀其外交宴饮阅历；按音译。[food]"
+ },
+ "salade d'ananas et de truffes": {
+  "zh": "菠萝松露沙拉",
+  "note": "斯万夫人寄望甚高的一道菜，诺尔普瓦却只以「敕令」搪塞。[food]"
+ },
+ "du Deffant": {
+  "zh": "迪德方",
+  "note": "迪德方侯爵夫人（Mme du Deffant），十八世纪著名沙龙女主人；原文「la du Deffant du petit groupe」指维尔迪兰夫人，带贵族姓氏的冠词用法。[person]"
+ },
+ "Peitraganta": {
+  "zh": "彼得拉桑塔",
+  "note": "彼得拉桑塔（Pietrasanta），卡拉拉附近小镇，米开朗琪罗采石之处；原文作 Peitraganta 系讹写，译文按实指地名处理，不在正文加注。[place]"
+ },
+ "rue Lapérouse": {
+  "zh": "拉彼鲁兹街",
+  "note": "奥黛特的小住宅所在地。 原文别名: La Pérouse [类别 place] [依据译林版参考术语表 003_swann_context/glossary.json]"
+ },
+ "ministre des Postes": {
+  "zh": "邮政部",
+  "note": "邮政部长（ministre des Postes）；原文「ministre des Postes 的办公厅主任」。[org]"
+ },
+ "l'Aventurière": {
+  "zh": "《女冒险家》",
+  "note": "埃米尔·奥吉耶的剧作；父母模仿其中布勒桑的腔调。[work]"
+ },
+ "le Gendre de M. Poirier": {
+  "zh": "《波瓦里耶先生的女婿》",
+  "note": "奥吉耶与桑杜合写的喜剧；与《女冒险家》并举。[work]"
+ },
+ "Hégeso": {
+  "zh": "赫格索",
+  "note": "赫格索墓碑（stèle d’Hégeso），雅典陶器区出土的古典墓碑浮雕；贝戈特说贝尔玛的手势像碑上赫格索的动作。[work]"
+ },
+ "grande-duchesse": {
+  "zh": "大公夫人",
+  "note": "大公夫人（une grande-duchesse），东欧王室女性称号；与 duchesse（公爵夫人）不同，不作「大公妃」。[title]"
+ },
+ "gardénia": {
+  "zh": "栀子花",
+  "note": "男子礼服翻领上的佩花，与石竹并列。[plant]"
+ },
+ "violettes de Parme": {
+  "zh": "帕尔马紫罗兰",
+  "note": "奥黛特扶手椅旁水晶钵中常备之花；帕尔马为意大利产地名。[plant]"
+ },
+ "Raspelière": {
+  "zh": "拉斯佩利埃",
+  "note": "维尔迪兰家的乡间宅邸（château de la Raspelière），位于巴尔贝克附近；本章第 3 段以「chez la Patronne, au château de la Raspelière」预叙叙述者日后在那里与戈达尔重逢。**本章只是伏笔**：译为「拉斯佩利埃城堡」，不得写成已发生之事，不得加注、不得提前交代。禁用译法: 拉斯普利埃、拉斯佩里埃。[place]"
+ },
+ "sous-chef de cabinet": {
+  "zh": "办公室副主任",
+  "note": "部里的副职官员（sous-chef de cabinet），低于 chef de cabinet（办公室主任）；斯万以此炫耀新交。[org]"
+ },
+ "doyen de la Faculté": {
+  "zh": "医学院院长",
+  "note": "doyen de la Faculté（de médecine），医学院院长；戈达尔夫人沙龙上众人盼望戈达尔升任此职。[org]"
+ },
+ "San Giorgio dei Schiavoni": {
+  "zh": "圣乔治·德利·斯基亚沃尼教堂",
+  "note": "威尼斯圣乔治·德利·斯基亚沃尼教堂（San Giorgio degli Schiavoni），藏卡尔帕乔组画；与 Frari 的提香并列为叙述者想象威尼斯的两处「名作现场」。[place]"
+ },
+ "lorgnette": {
+  "zh": "观剧镜",
+  "note": "看戏用的长柄小望远镜；叙述者借外祖母的观剧镜看贝尔玛，却觉得看到的只是「放大的影像」。[object]"
+ },
+ "lever de rideau": {
+  "zh": "开锣戏",
+  "note": "正戏前的小戏（lever de rideau），常被观众轻视；叙述者误以为台上吵架的演员是捣乱者。[theatre]"
+ },
+ "claque": {
+  "zh": "捧场队",
+  "note": "受雇鼓掌的人（la claque）；贝尔玛规定捧场队不得为她鼓掌（因她不要这种掌声）。[theatre]"
+ },
+ "avantscène": {
+  "zh": "台侧包厢",
+  "note": "原文 avant-scène，舞台两侧的包厢，供演员亲友使用。[theatre]"
+ },
+ "ouvreuse": {
+  "zh": "引座妇",
+  "note": "剧院的引座女工（ouvreuse），兼卖节目单。[theatre]"
+ },
+ "tragédienne": {
+  "zh": "悲剧女演员",
+  "note": "tragédienne，专演古典悲剧的女演员。[theatre]"
+ },
+ "matinée théâtrale": {
+  "zh": "日场演出",
+  "note": "下午的戏剧演出；与「日间聚会」的 matinée 区分。[theatre]"
+ },
+ "Palais-Royal": {
+  "zh": "王宫剧院",
+  "note": "巴黎王宫剧院（Théâtre du Palais-Royal），以轻喜剧著称；本章只出现在演员帽子的轶事里。译「王宫剧院」，不作「皇家剧院」。[place]"
+ },
+ "princesse de Trézène et de Clèves": {
+  "zh": "特雷泽纳与克莱芙的王妃",
+  "note": "贝戈特论《费德尔》七个名词短语之一：费德尔既是特雷泽纳的公主（弥诺斯之女），又暗指拉法耶特夫人《克莱芙王妃》。**此处是文学人物的并置，不是真实封号**，故不套「X 亲王妃」的爵位格式；译文作「特雷泽纳与克莱芙的王妃」，与《克莱芙王妃》的书名译法呼应。禁用「亲王夫人」。[work]"
+ },
+ "étoile": {
+  "zh": "台柱",
+  "note": "剧团的头牌演员（l’étoile）；「她所主演的剧院」即指此。[theatre]"
+ },
+ "Mentor": {
+  "zh": "门托尔",
+  "note": "《奥德赛》中忒勒马科斯的导师，喻「贤明的长者」；诺尔普瓦被比作 Mentor，叙述者自比少年阿纳卡西斯。译音，不改成「贤师」「导师」之类泛称。[myth]"
+ },
+ "Anacharsis": {
+  "zh": "阿纳卡西斯",
+  "note": "法国文学家让-雅克·巴尔泰莱米《青年阿纳卡西斯之游》中的斯基泰少年，喻以好奇目光考察异邦风习的旅行者；与 Mentor 成对出现。[myth]"
+ },
+ "glyptothèque": {
+  "zh": "雕像陈列馆",
+  "note": "原义「藏雕馆」（慕尼黑古代雕像陈列馆）；诺尔普瓦不动声色地坐着，像有人在一座雕像陈列馆里对着一尊古像说话。[place]"
+ },
+ "Victoria-Nyanza": {
+  "zh": "维多利亚-尼扬扎湖",
+  "note": "东非维多利亚湖的旧称；诺尔普瓦友人之子的假想著作题目。[place]"
+ },
+ "Consolidés Anglais": {
+  "zh": "英国统一公债",
+  "note": "英国政府的永续公债（Consols），被视为最稳妥的投资；诺尔普瓦向叙述者父亲推荐。[finance]"
+ },
+ "4% Russe": {
+  "zh": "俄国四厘公债",
+  "note": "俄国政府四厘息债券，当时法国中产家庭常见的外国投资。[finance]"
+ },
+ "Compagnie des Eaux": {
+  "zh": "自来水公司",
+  "note": "巴黎自来水公司股票；其票面绘有河神与教堂尖顶，令叙述者想起旧时浪漫主义出版物插图。[finance]"
+ },
+ "Gérard de Nerval": {
+  "zh": "热拉尔·德·奈瓦尔",
+  "note": "法国浪漫派诗人，《火的女儿》作者；与《巴黎圣母院》的分册插图并提。[person]"
+ },
+ "Pétersbourg": {
+  "zh": "彼得堡",
+  "note": "俄国首都圣彼得堡（法文旧称 Pétersbourg）；诺尔普瓦炫耀外交阅历时常与巴黎并举。禁用「圣彼得堡」以外的异写。[place]"
+ },
+ "Munich": {
+  "zh": "慕尼黑",
+  "note": "巴伐利亚首府；诺尔普瓦曾任驻慕尼黑使节。[place]"
+ },
+ "Delphes": {
+  "zh": "德尔斐",
+  "note": "希腊阿波罗神谕所；诺尔普瓦的答话被比作德尔斐神谕。[place]"
+ },
+ "parterre": {
+  "zh": "正厅后座",
+  "note": "剧院正厅后排的观众席（le parterre），与楼座相对；「正厅后座的喝彩」即此处。[theatre]"
+ },
+ "commissaire-priseur": {
+  "zh": "拍卖估价人",
+  "note": "拍卖行的主持者（commissaire-priseur），落槌定价；诺尔普瓦的回答被比作其落槌。[org]"
+ },
+ "mise en disponibilité": {
+  "zh": "停职待命",
+  "note": "公务员的「停职待命」状态；诺尔普瓦早已不再外放，眼睛却仍照旧观察来客。[org]"
+ },
+ "baron Louis": {
+  "zh": "路易男爵",
+  "note": "路易男爵（baron Louis，1755—1837），法国财政家，名言「给我好政治，我就给你好财政」；诺尔普瓦引作外交文章的点缀。[person]"
+ },
+ "atticisme": {
+  "zh": "阿提卡式的典雅",
+  "note": "指雅典阿提卡地区散文的简洁雅致；诺尔普瓦以此称赞同行的措辞。[concept]"
+ },
+ "John Bull": {
+  "zh": "约翰牛",
+  "note": "英国的拟人绰号；与「山姆大叔」并举，诺尔普瓦以此区分英国与美国的「粗俗」。[social]"
+ },
+ "oncle Sam": {
+  "zh": "山姆大叔",
+  "note": "美国的拟人绰号；与「约翰牛」并举。[social]"
+ },
+ "hôtel de la rue Lapérouse": {
+  "zh": "拉彼鲁兹街的小公馆",
+  "note": "奥黛特婚前的住处；斯万当年在此门前按铃无人应答，成为他嫉妒的记忆锚点。[place]"
+ },
+ "Bréauté": {
+  "zh": "布雷奥泰",
+  "note": "布雷奥泰侯爵（marquis de Bréauté），盖尔芒特圈子的常客；前卷已用「布雷奥泰侯爵」。[person]"
+ },
+ "mendelistes": {
+  "zh": "*mendelistes*",
+  "note": "孟德尔遗传学说的信徒（原文斜体）；斯万把贵族与交际花的结合比作孟德尔式的杂交。保留斜体原词，不译「孟德尔主义者」。[concept]"
+ },
+ "bonheur après décès": {
+  "zh": "身后的幸福",
+  "note": "原为保险术语「死亡保险金」，此处双关「死后才实现的幸福」；译「身后的幸福」，不展开双关、不加注。[concept]"
+ },
+ "archiduchesse": {
+  "zh": "女大公",
+  "note": "哈布斯堡家族的「女大公」称号；与 grande-duchesse（大公夫人）不同，不可混译。[title]"
+ },
+ "Art pour l'Art": {
+  "zh": "为艺术而艺术",
+  "note": "十九世纪文学口号（l’Art pour l’Art）；诺尔普瓦反讽地称之为「神圣学派」。[concept]"
+ },
+ "diseur de phébus": {
+  "zh": "满嘴玄虚的人",
+  "note": "第001章；phébus 指繁复晦涩、故作高深的文句；诺尔普瓦引父辈的说法讥讽贝戈特。原译「故作艰涩的饶舌者」已按第 14 chunk 校对终稿统一为「满嘴玄虚的人」。禁用译法：故作艰涩的饶舌者。"
+ },
+ "chinoiseries": {
+  "zh": "东方小玩意儿",
+  "note": "原义「中国玩意儿」，转指繁缛纤巧的雕琢；诺尔普瓦贬贝戈特的文体。[concept]"
+ },
+ "Chateaubriand": {
+  "zh": "夏多布里昂",
+  "note": "法国浪漫主义先声，著有《阿塔拉》《勒内》《墓中回忆录》；本章两处引用：诺尔普瓦以维尼对比贝戈特，贝戈特偏爱《阿塔拉》甚于《勒内》。[person]"
+ },
+ "Gouache": {
+  "zh": "戈雅什",
+  "note": "第001章；巴黎一家糖果／食品铺的店名（chez Gouache），姑娘们在柜台玻璃罩下摆糖果待客。是店名而非画家「瓜什」或颜料「水粉」。禁用译法：瓜什、古阿什。"
+ },
+ "water-closets": {
+  "zh": "water-closets（保留原文）",
+  "note": "第001章；原文以英文词与法文 lavabo 并置，讽刺当时法国人盲目崇英的用词风气。译文保留拉丁字母原样，不加书名号、不加注、不译作「抽水马桶」。"
+ },
+ "lavabo": {
+  "zh": "lavabo（保留原文）",
+  "note": "第001章；与 water-closets 并置的英法对照语汇，指香榭丽舍小亭内新装的盥洗设施。译文保留原词，不译「盥洗台」，以免失去原文的用词滑稽。"
+ },
+ "sphinx": {
+  "zh": "斯芬克斯",
+  "note": "第001章；希腊神话中的狮身人面兽，此处喻蹲在公厕石砌隔间里的男人们。用通行的「斯芬克斯」，不作「狮身人面像」（那指纪念碑）。"
+ },
+ "carte-album": {
+  "zh": "相片卡",
+  "note": "第001章；当时照相馆出售的硬纸板相片卡（cabinet card），贝尔玛的剧照即此类；原文带引号，译文保留引号以存俗名意味。禁用译法：相册、照片簿。"
+ },
+ "Expositions d'Aquarellistes": {
+  "zh": "水彩画家展览",
+  "note": "第001章；十九世纪末巴黎定期举办的「水彩画家展览」（Société d'aquarellistes français），上流社会的时令风潮。与世界博览会（Exposition universelle）无关，不可混译。"
+ },
+ "Scarron": {
+  "zh": "斯卡龙",
+  "note": "第001章（vol3）。保尔·斯卡龙（Paul Scarron，1610—1660），法国滑稽诗人、小说家，《滑稽传奇》作者；弗朗索瓦丝·多比涅（后为曼特农夫人、路易十四秘密续弦之妻）的前夫。本章贝戈特/叙述者提到拉辛在路易十四面前影射斯卡龙、次日失宠的轶事（原文明言此说 controuvé，系讹传）。译名从通行史名「斯卡龙」，不作「斯卡隆」「斯卡洪」。禁用译法: 斯卡隆、斯卡洪。"
+ },
+ "Port-Royal": {
+  "zh": "波尔-罗亚尔",
+  "note": "第001章（vol3）。巴黎西南的冉森派修道院（Port-Royal des Champs），十七世纪法国天主教改革与冉森主义的中心，拉辛少年时受教于其「小学校」。本章贝戈特评《费德尔》舞台灯光时说「我并不要求大家只想着波尔-罗亚尔」，意指该剧的冉森派/宗教严肃性；保留连字符，不作「波尔罗亚尔」「皇港」。禁用译法: 波尔罗亚尔、皇港修道院。"
+ },
+ "Neptune": {
+  "zh": "涅普顿",
+  "note": "第001章（vol3）。罗马神话海神（希腊名为波塞冬）。本章贝戈特挖苦《费德尔》布景的灰绿色调，说「对一出发生在涅普顿家里的戏，这样也许更合适」，并提「涅普顿的报复」（希波吕托斯之死）。正文只用「涅普顿」，不叠加「海神涅普顿」以免与同句「海神」重复；不作「海王星」「尼普顿」。禁用译法: 海王星、尼普顿、海神涅普顿（重复）。"
+ },
+ "IV": {
+  "zh": "第四卷",
+  "note": "书名页上总书名下方的罗马数字卷次，首见于 vol4 第 0 章（书名页）。指《追忆似水年华》第四卷，译文作「第四卷」，不加书名号；不要直留「IV」。同类条目：vol2「II」→第二卷，vol3「III」→第三卷。"
+ },
+ "Elstir": {
+  "zh": "埃尔斯蒂尔",
+  "note": "虚构画家，叙述者在巴尔贝克结识（vol5 正式登场：画室长谈、《卡尔克蒂港》、为奥黛特所作的《萨克里邦小姐》小像）；vol6 第 001 章只被谈论：盖尔芒特夫人家藏有他的画，叙述者想借圣卢之助去看。其观看方式深刻影响叙述者的视觉，普鲁斯特以惠斯勒、透纳、莫奈等为部分原型，不得坐实为任何真实画家。禁用译法: 埃尔斯提尔、埃尔斯蒂。"
+ },
+ "Saint-Loup": {
+  "zh": "圣卢",
+  "note": "罗贝尔·德·圣卢（Robert de Saint-Loup-en-Bray），马桑特伯爵夫人之子、夏吕斯男爵的外甥，叙述者在巴尔贝克的挚友。vol6 第 001 章：驻防唐西埃尔，任骑兵中士（maréchal des logis），与女演员拉谢尔苦恋，为叙述者向表姐盖尔芒特夫人求情。单称 Saint-Loup 作「圣卢」，全名 Saint-Loup-en-Bray 作「圣卢昂布雷」。禁用译法: 圣卢普、圣鲁。"
+ },
+ "Robert de Saint-Loup": {
+  "zh": "罗贝尔·德·圣卢",
+  "note": "圣卢的全名；叙述者与之互称名字。首现 vol4 第 1 章。[person]"
+ },
+ "Saint-Loup-en-Bray": {
+  "zh": "圣卢昂布雷",
+  "note": "圣卢家族的封地全称（拉布吕耶尔式的贵族姓氏写法）；布洛克以此向人炫耀与圣卢的交往。首现 vol4 第 1 章。[person]"
+ },
+ "Palamède": {
+  "zh": "帕拉梅德",
+  "note": "夏吕斯男爵的本名 Palamède de Guermantes；圣卢当面称其「帕拉梅德」。首现 vol4 第 1 章。[person]"
+ },
+ "Palamède de Guermantes": {
+  "zh": "帕拉梅德·德·盖尔芒特",
+  "note": "夏吕斯男爵的本名全称；圣卢以此向叙述者说明其身份。首现 vol4 第 1 章。[person]"
+ },
+ "prince des Laumes": {
+  "zh": "洛姆亲王",
+  "note": "盖尔芒特家族的次级封号；夏吕斯的叔父死后他本应取得此号，却仍只用「夏吕斯男爵」。prince 此处为贵族封号「亲王」，不作「王子」。首现 vol4 第 1 章。[person_title]"
+ },
+ "baron de Guermantes": {
+  "zh": "盖尔芒特男爵",
+  "note": "维尔巴里西斯侯爵夫人一时口误，把夏吕斯称作「盖尔芒特男爵」，随即改口为「夏吕斯男爵」。此口误是本章情节要点，必须照译，不得统一改成夏吕斯男爵。首现 vol4 第 1 章。[person_title]"
+ },
+ "comte de Marsantes": {
+  "zh": "马桑特伯爵",
+  "note": "圣卢的父亲、夏吕斯的兄弟；本章只以封号提及，姓名未出现。首现 vol4 第 1 章。[person_title]"
+ },
+ "comtesse de Marsantes": {
+  "zh": "马桑特伯爵夫人",
+  "note": "圣卢的母亲；圣卢说母亲若知道他结交布洛克会难过。首现 vol4 第 1 章。[person_title]"
+ },
+ "princesse de Luxembourg": {
+  "zh": "卢森堡亲王妃",
+  "note": "在巴尔贝克逗留的贵妇，乘华丽马车、送水果到酒店；公证人妻子怀疑她是冒牌货，此事成为酒店闲话。princesse 指亲王妃，不作「公主」「亲王夫人」。首现 vol4 第 1 章。[person_title]"
+ },
+ "Stermaria": {
+  "zh": "斯泰尔马里亚",
+  "note": "布列塔尼一个古老而不显赫的贵族家族；叙述者在酒店餐厅遇见其父女。禁用译法: 斯泰尔马利亚、斯特马利亚。[person]"
+ },
+ "M. de Stermaria": {
+  "zh": "斯泰尔马里亚先生",
+  "note": "斯泰尔马里亚小姐之父；神情冷漠，曾因桌位差错当众赶走叙述者与外祖母。首现 vol4 第 1 章。[person]"
+ },
+ "Mlle de Stermaria": {
+  "zh": "斯泰尔马里亚小姐",
+  "note": "叙述者在巴尔贝克餐厅一见倾心的少女；苍白、高挑、举止独特。首现 vol4 第 1 章。[person]"
+ },
+ "Aimé": {
+  "zh": "艾梅",
+  "note": "海滨大酒店的餐厅领班（maître d'hôtel）；律师公会会长反复直呼其名以示熟稔。首现 vol4 第 1 章。[person]"
+ },
+ "Blandais": {
+  "zh": "布朗代",
+  "note": "巴尔贝克的公证人；其妻是酒店闲话圈的核心。首现 vol4 第 1 章。[person]"
+ },
+ "Mme Blandais": {
+  "zh": "布朗代夫人",
+  "note": "公证人布朗代之妻；爱窥探、爱传闲话，认定卢森堡亲王妃是骗子。首现 vol4 第 1 章。[person]"
+ },
+ "Poncin": {
+  "zh": "蓬桑",
+  "note": "Mme Poncin→蓬桑夫人，海滨大酒店房客中的包打听，外号「新闻处」。首现 vol4 第 1 章。[person]"
+ },
+ "Féterne": {
+  "zh": "费泰尔讷",
+  "note": "康布雷梅尔家的城堡（château de Féterne），巴尔贝克附近；与维尔迪兰家的拉斯佩利埃城堡是两处，勿混。首现 vol4 第 1 章。[place]"
+ },
+ "Rivebelle": {
+  "zh": "里夫贝尔",
+  "note": "巴尔贝克海湾另一端的海滨游乐地；从巴尔贝克望去，凡见其有阳光便预示风雨。vol5 第 001 章叙述者与圣卢常乘马车去那里的餐厅吃晚饭（餐厅、游乐场、半上流社会女子）。首现 vol4 第 1 章。"
+ },
+ "Costedor": {
+  "zh": "科斯特多尔",
+  "note": "海湾对岸另一处避暑地，与里夫贝尔并提；住客秋季迁往那里追寻夏天。首现 vol4 第 1 章。[place]"
+ },
+ "Incarville": {
+  "zh": "安卡尔维尔",
+  "note": "巴尔贝克支线小站名。首现 vol4 第 1 章。[place]"
+ },
+ "Marcouville": {
+  "zh": "马尔库维尔",
+  "note": "巴尔贝克海湾对岸的地名；原文有绰号 Marcouville l'Orgueilleuse→傲岸的马尔库维尔，绰号照译。首现 vol4 第 1 章。[place]"
+ },
+ "Doville": {
+  "zh": "多维勒",
+  "note": "巴尔贝克支线小站；译「多维勒」以与 Deauville（多维尔）区分。禁用译法: 多维尔。[place]"
+ },
+ "Pont-à-Couleuvre": {
+  "zh": "库勒夫尔桥",
+  "note": "巴尔贝克支线小站名；couleuvre 意为游蛇，但站名整体音译，不作「蛇桥」。首现 vol4 第 1 章。[place]"
+ },
+ "Arambouville": {
+  "zh": "阿朗布维尔",
+  "note": "巴尔贝克支线小站名。首现 vol4 第 1 章。[place]"
+ },
+ "Hermonville": {
+  "zh": "埃尔蒙维尔",
+  "note": "巴尔贝克支线小站名。首现 vol4 第 1 章。[place]"
+ },
+ "Maineville": {
+  "zh": "曼维尔",
+  "note": "巴尔贝克支线小站名。首现 vol4 第 1 章。[place]"
+ },
+ "Saint-Mars-le-Vieux": {
+  "zh": "圣马尔斯勒维厄",
+  "note": "巴尔贝克支线小站名；与 Saint-Mars-le-Vêtu 为两地，勿合并。首现 vol4 第 1 章。[place]"
+ },
+ "Saint-Mars-le-Vêtu": {
+  "zh": "圣马尔斯勒韦蒂",
+  "note": "维尔巴里西斯侯爵夫人乘车出游的目的地之一。首现 vol4 第 1 章。[place]"
+ },
+ "Quetteholme": {
+  "zh": "凯特霍尔姆",
+  "note": "rochers de Quetteholme→凯特霍尔姆岩，出游目的地。首现 vol4 第 1 章。[place]"
+ },
+ "Carqueville": {
+  "zh": "卡尔克维尔",
+  "note": "巴尔贝克附近村庄，其教堂「整个儿掩在常春藤里」，由维尔巴里西斯侯爵夫人带叙述者前往；村桥边有村女。首现 vol4 第 1 章。[place]"
+ },
+ "Hudimesnil": {
+  "zh": "于迪姆尼",
+  "note": "归途经过的地名；此处出现三棵树的神秘印象（非自主记忆的重要场景）。首现 vol4 第 1 章。[place]"
+ },
+ "Balbec-Plage": {
+  "zh": "巴尔贝克海滩",
+  "note": "海滨浴场车站，海滨大酒店所在；与内陆的 Balbec-le-vieux／Balbec-en-terre（巴尔贝克镇）相对。首现 vol4 第 1 章。[place]"
+ },
+ "Balbec-en-terre": {
+  "zh": "巴尔贝克镇",
+  "note": "内陆的巴尔贝克老镇，教堂所在地；叙述者原以为下车即见海与教堂，结果身处镇中。首现 vol4 第 1 章。[place]"
+ },
+ "Bec": {
+  "zh": "贝克",
+  "note": "cascades du Bec→贝克瀑布，诺曼底景点；不译「喙」。首现 vol4 第 1 章。[place]"
+ },
+ "bâtonnier": {
+  "zh": "律师公会会长",
+  "note": "巴尔贝克房客中的律师界领袖，爱炫耀与贵族及名人的交往；职务名，非人名。首现 vol4 第 1 章。[social]"
+ },
+ "premier président": {
+  "zh": "首席院长",
+  "note": "上诉法院首席院长（premier président）；其妻为酒店闲话圈一员。首现 vol4 第 1 章。[social]"
+ },
+ "maître d'hôtel": {
+  "zh": "领班",
+  "note": "大酒店餐厅领班（艾梅的职务）；不作「旅馆主人」。首现 vol4 第 1 章。[social]"
+ },
+ "lift": {
+  "zh": "电梯",
+  "note": "二十世纪初大酒店的新式电梯。布洛克故意把它念成英文腔「laïft」，圣卢纠正说「电梯」；译文中对白作「电梯」，原文的 laïft／lift 以斜体保留。首现 vol4 第 1 章。[social]"
+ },
+ "liftier": {
+  "zh": "开电梯的",
+  "note": "操作酒店电梯的侍者；不作「电梯工」。首现 vol4 第 1 章。[social]"
+ },
+ "chasseur": {
+  "zh": "侍应生",
+  "note": "大酒店门口穿制服的年轻侍应，负责传话跑腿；不作「猎人」。首现 vol4 第 1 章。[social]"
+ },
+ "casino": {
+  "zh": "娱乐场",
+  "note": "巴尔贝克海滨的娱乐场，兼有音乐会与赌桌；不作「赌场」。首现 vol4 第 1 章。[place]"
+ },
+ "digue": {
+  "zh": "海堤",
+  "note": "巴尔贝克海滨的防波堤兼散步道；叙述者与外祖母在此停留看海。首现 vol4 第 1 章。[place]"
+ },
+ "église de Balbec": {
+  "zh": "巴尔贝克教堂",
+  "note": "巴尔贝克镇（Balbec-en-terre）的教堂，罗曼式与波斯风格混合，有著名的门廊使徒与圣母像；叙述者长途跋涉前往。注意不是海滨酒店区。首现 vol4 第 1 章。[place]"
+ },
+ "porche": {
+  "zh": "门廊",
+  "note": "教堂门廊；巴尔贝克教堂的「门廊使徒与圣母」是叙述者想象中的核心。首现 vol4 第 1 章。[architecture]"
+ },
+ "nef": {
+  "zh": "中殿",
+  "note": "教堂中殿；建筑术语，不作「船」。首现 vol4 第 1 章。[architecture]"
+ },
+ "chapiteau": {
+  "zh": "柱头",
+  "note": "建筑术语；不作「首都」。首现 vol4 第 1 章。[architecture]"
+ },
+ "vitrail": {
+  "zh": "彩绘玻璃窗",
+  "note": "教堂彩绘玻璃；不作「彩色玻璃」以外的生造词。首现 vol4 第 1 章。[architecture]"
+ },
+ "roman": {
+  "zh": "罗曼式",
+  "note": "建筑史术语（art roman）；巴尔贝克教堂的罗曼式风格，不作「罗马式」以外的今义。首现 vol4 第 1 章。[architecture]"
+ },
+ "gothique": {
+  "zh": "哥特式",
+  "note": "建筑史术语。首现 vol4 第 1 章。[architecture]"
+ },
+ "Mme de Beausergent": {
+  "zh": "博塞让夫人",
+  "note": "虚构的回忆录作者（《博塞让夫人回忆录》），影射塞维涅夫人一派的书简体；外祖母的枕边书之一。不得当作真实人物。首现 vol4 第 1 章。[person]"
+ },
+ "Beausergent": {
+  "zh": "博塞让",
+  "note": "虚构姓氏；见 Mme de Beausergent。首现 vol4 第 1 章。[person]"
+ },
+ "La Bruyère": {
+  "zh": "拉布吕耶尔",
+  "note": "《品格论》作者；夏吕斯与叙述者引其论「远离所爱之人」的句子。首现 vol4 第 1 章。[person]"
+ },
+ "Mme de Grignan": {
+  "zh": "格里尼昂夫人",
+  "note": "塞维涅夫人的女儿；夏吕斯与维尔巴里西斯侯爵夫人争论塞维涅对她的感情。首现 vol4 第 1 章。[person]"
+ },
+ "Monomotapa": {
+  "zh": "莫诺莫塔帕",
+  "note": "非洲古国名；拉封丹寓言《两个朋友》中「莫诺莫塔帕的居民」，此处指寓言人物。首现 vol4 第 1 章。[literature]"
+ },
+ "La Fontaine": {
+  "zh": "拉封丹",
+  "note": "寓言诗人；夏吕斯引其《两个朋友》为塞维涅辩护。首现 vol4 第 1 章。[person]"
+ },
+ "Doudan": {
+  "zh": "杜当",
+  "note": "克西梅内斯·杜当，法国随笔家、书简作者。首现 vol4 第 1 章。[person]"
+ },
+ "Rémusat": {
+  "zh": "雷米萨",
+  "note": "夏尔·德·雷米萨，政治家、随笔家；与杜当同属外祖母欣赏的「精神」传统。首现 vol4 第 1 章。[person]"
+ },
+ "Joubert": {
+  "zh": "茹贝尔",
+  "note": "约瑟夫·茹贝尔，法国道德学家；与塞维涅并列为外祖母欣赏的精神典范。首现 vol4 第 1 章。[person]"
+ },
+ "Louis-le-Gros": {
+  "zh": "路易六世",
+  "note": "法国国王「胖子路易」；维尔巴里西斯侯爵夫人以舒瓦瑟尔家族出自其姐妹来论门第。首现 vol4 第 1 章。[history]"
+ },
+ "Choiseul": {
+  "zh": "舒瓦瑟尔",
+  "note": "法国大贵族世家；Mme de Choiseul→舒瓦瑟尔夫人。首现 vol4 第 1 章。[person]"
+ },
+ "Bassigny": {
+  "zh": "巴西尼",
+  "note": "法国旧省区；舒瓦瑟尔家族在此曾是「真正的君主」。首现 vol4 第 1 章。[place]"
+ },
+ "Passavant": {
+  "zh": "帕萨旺",
+  "note": "盖尔芒特家族的战号（cri de guerre），后演变为 Passavant，最初为 Combraysis；圣卢以此说明家族谱系。首现 vol4 第 1 章。[concept]"
+ },
+ "Combraysis": {
+  "zh": "孔布雷西",
+  "note": "盖尔芒特家族最初的战号，后变为帕萨旺。首现 vol4 第 1 章。[concept]"
+ },
+ "duchesse de Praslin": {
+  "zh": "普拉兰公爵夫人",
+  "note": "泰奥巴尔德·德·普拉兰公爵之妻（婚前为塞巴斯蒂亚尼小姐），1847 年命案当事人；维尔巴里西斯侯爵夫人以她讲「出身与礼节」的轶事。首现 vol4 第 1 章。[person]"
+ },
+ "Mlle Sebastiani": {
+  "zh": "塞巴斯蒂亚尼小姐",
+  "note": "普拉兰公爵夫人婚前身份；维尔巴里西斯侯爵夫人之母不愿先向她自我介绍。首现 vol4 第 1 章。[person]"
+ },
+ "duc de Nemours": {
+  "zh": "内穆尔公爵",
+  "note": "奥尔良家族的公爵；维尔巴里西斯侯爵夫人回忆他进客厅时的气派。首现 vol4 第 1 章。[person_title]"
+ },
+ "hôtel Bouillon": {
+  "zh": "布永府邸",
+  "note": "巴黎的布永家族府邸；维尔巴里西斯侯爵夫人之父曾住其顶层。首现 vol4 第 1 章。[place]"
+ },
+ "prince de Lamballe": {
+  "zh": "朗巴勒亲王",
+  "note": "夏吕斯自称为内穆尔公爵与朗巴勒亲王的后代；此处为爵号，与地名 Lamballe（朗巴勒，布列塔尼城镇）区分。首现 vol4 第 1 章。[person_title]"
+ },
+ "Petit Trianon": {
+  "zh": "小特里亚农",
+  "note": "凡尔赛宫苑中的小特里亚农宫；维尔巴里西斯侯爵夫人以此比自家旧宅风格。首现 vol4 第 1 章。[place]"
+ },
+ "Hameau": {
+  "zh": "王后村庄",
+  "note": "即 Hameau de la Reine（王后村庄），玛丽-安托瓦内特在小特里亚农旁所建；夏吕斯说毁掉它是野蛮行为。首现 vol4 第 1 章。[place]"
+ },
+ "Gabriel": {
+  "zh": "加布里埃尔",
+  "note": "雅克-安热·加布里埃尔，凡尔赛与特里亚农的建筑师；「加布里埃尔的立面」指其设计的建筑正面。与 palais de Gabriel（加布里埃尔宫）为两事。首现 vol4 第 1 章。[person]"
+ },
+ "Lenôtre": {
+  "zh": "勒诺特尔",
+  "note": "安德烈·勒诺特尔，凡尔赛园林设计师；「勒诺特尔的园子」即其设计的园林。首现 vol4 第 1 章。[person]"
+ },
+ "Marie-Antoinette": {
+  "zh": "玛丽-安托瓦内特",
+  "note": "农家餐馆名（ferme de Marie-Antoinette），少女小团体常去的一家；与王后同名，原文即以贵族名为农舍取名，不必加注。首现 vol5 第 001 章。"
+ },
+ "Carrière": {
+  "zh": "卡里埃",
+  "note": "欧仁·卡里埃，法国画家；盖尔芒特家藏有其为圣卢姑母所作肖像。首现 vol4 第 1 章。[person]"
+ },
+ "Chardin": {
+  "zh": "夏尔丹",
+  "note": "法国静物与风俗画家；弗朗索瓦丝系帽结的手法令人想起其肖像画。首现 vol4 第 1 章。[person]"
+ },
+ "Whistler": {
+  "zh": "惠斯勒",
+  "note": "美国画家，长期活动于英国；圣卢把他的画与委拉斯开兹并提（原文随即点出他「不总能准确保持大师的等级次序」）。首现 vol4 第 1 章。[person]"
+ },
+ "Gustave Moreau": {
+  "zh": "居斯塔夫·莫罗",
+  "note": "法国象征主义画家；盖尔芒特家藏其画。首现 vol4 第 1 章。[person]"
+ },
+ "Greco": {
+  "zh": "格列柯",
+  "note": "El Greco，西班牙文艺复兴画家；诺尔普瓦在托莱多赏其画。首现 vol4 第 1 章。[person]"
+ },
+ "Vélasquez": {
+  "zh": "委拉斯开兹",
+  "note": "西班牙画家；圣卢形容卡里埃的肖像「像委拉斯开兹」。禁用译法: 贝拉斯克斯、维拉斯凯兹。首现 vol4 第 1 章。[person]"
+ },
+ "Raphaël": {
+  "zh": "拉斐尔",
+  "note": "意大利文艺复兴画家；夏吕斯家族藏有其为祖先所作肖像。首现 vol4 第 1 章。[person]"
+ },
+ "Boucher": {
+  "zh": "布歇",
+  "note": "法国洛可可画家；与拉斐尔、委拉斯开兹并列为盖尔芒特家藏画作者。首现 vol4 第 1 章。[person]"
+ },
+ "Ruskin": {
+  "zh": "罗斯金",
+  "note": "约翰·罗斯金，英国艺术批评家；母亲以「罗斯金笔下的虔诚旅行者」打趣叙述者。首现 vol4 第 1 章。[person]"
+ },
+ "Stones of Venice": {
+  "zh": "《威尼斯之石》",
+  "note": "罗斯金著作；布洛克故意念作 Stones of Venaïce 以炫耀，译文作《威尼斯之石》并保留原文斜体。首现 vol4 第 1 章。[work]"
+ },
+ "Heredia": {
+  "zh": "埃雷迪亚",
+  "note": "何塞-玛丽亚·德·埃雷迪亚，巴那斯派诗人；布洛克父亲嫌他结交这类「波希米亚人」。首现 vol4 第 1 章。[person]"
+ },
+ "Leconte de Lisle": {
+  "zh": "勒孔特·德·李勒",
+  "note": "巴那斯派诗人；布洛克崇拜他并引其《俄瑞斯忒亚》诗句。首现 vol4 第 1 章。[person]"
+ },
+ "Nietsche": {
+  "zh": "尼采",
+  "note": "原文拼作 Nietsche（当时常见误拼）；统一译「尼采」，不保留误拼。首现 vol4 第 1 章。[person]"
+ },
+ "Proudhon": {
+  "zh": "蒲鲁东",
+  "note": "法国社会主义思想家；圣卢研读尼采与蒲鲁东。首现 vol4 第 1 章。[person]"
+ },
+ "Boieldieu": {
+  "zh": "布瓦尔迪厄",
+  "note": "法国作曲家；圣卢以「布瓦尔迪厄之子」比喻趣味与出身的错位。首现 vol4 第 1 章。[person]"
+ },
+ "Mathurin Régnier": {
+  "zh": "马蒂兰·雷尼耶",
+  "note": "法国讽刺诗人；律师公会会长引其诗讥讽卢森堡亲王妃。首现 vol4 第 1 章。[person]"
+ },
+ "Macette": {
+  "zh": "玛塞特",
+  "note": "雷尼耶讽刺诗中的伪善老妇；律师公会会长以此影射卢森堡亲王妃。首现 vol4 第 1 章。[literature]"
+ },
+ "Reine Ranavalo": {
+  "zh": "拉纳瓦洛女王",
+  "note": "马达加斯加女王拉纳瓦洛三世；酒店经理「像给人看波斯沙阿或拉纳瓦洛女王一样」把斯泰尔马里亚一家指给外祖母看。首现 vol4 第 1 章。[person]"
+ },
+ "Shah de Perse": {
+  "zh": "波斯沙阿",
+  "note": "波斯国王的称号；与拉纳瓦洛女王并提，喻「供人围观的大人物」。首现 vol4 第 1 章。[person_title]"
+ },
+ "Palace": {
+  "zh": "豪华大饭店",
+  "note": "le phénomène international du Palace：当时国际连锁豪华饭店现象；Palace 为类称，不作专名。首现 vol4 第 1 章。[social]"
+ },
+ "caravansérail": {
+  "zh": "商队客栈",
+  "note": "东方商旅宿站；此处喻大酒店，带贬义，不作「大车店」。首现 vol4 第 1 章。[social]"
+ },
+ "tziganes": {
+  "zh": "茨冈人",
+  "note": "酒店里演奏的吉普赛乐队；不作「吉普赛人」以外的异写。首现 vol4 第 1 章。[social]"
+ },
+ "tocard": {
+  "zh": "蹩脚货",
+  "note": "法语行话，指俗气、不上台面的东西；斯万夫人从朋友处学来后用以贬斥旧家具。首现 vol4 第 1 章。[social]"
+ },
+ "symphonie en blanc majeur": {
+  "zh": "白色大交响曲",
+  "note": "惠斯勒「白色交响曲」与戈蒂耶同名诗的双关；贝戈特建议斯万夫人以白色服饰与陈设构成「白色大交响曲」。首现 vol4 第 1 章。[concept]"
+ },
+ "Enchantement du Vendredi Saint": {
+  "zh": "《耶稣受难日的奇迹》",
+  "note": "瓦格纳《帕西法尔》第三幕的段落；叙述者由冬日花束联想到它。首现 vol4 第 1 章。[work]"
+ },
+ "quatuor": {
+  "zh": "四重奏",
+  "note": "室内乐体裁；贝多芬四重奏为叙述者与圣卢的谈资之一。首现 vol4 第 1 章。[music]"
+ },
+ "Israël": {
+  "zh": "伊斯拉埃尔",
+  "note": "夏吕斯口中的富有犹太金融家「伊斯拉埃尔们」（les Israël），与伊斯拉埃尔爵士家族同姓；原文把姓氏当族称用，带反犹口吻，译文照译，不改写。首现 vol4 第 1 章。[person]"
+ },
+ "villégiature": {
+  "zh": "避暑",
+  "note": "在海滨或乡间度过社交季；不作「度假村」。首现 vol4 第 1 章。[social]"
+ },
+ "notaire": {
+  "zh": "公证人",
+  "note": "法国公证人，办理房产、遗产等文书；巴尔贝克的公证人布朗代。首现 vol4 第 1 章。[social]"
+ },
+ "Ostende": {
+  "zh": "奥斯坦德",
+  "note": "比利时海滨城市；酒店房客谈论那里的「王家更衣室」。首现 vol4 第 1 章。[place]"
+ },
+ "Algésiras": {
+  "zh": "阿尔赫西拉斯",
+  "note": "西班牙南部港口；诺尔普瓦旅行途经。首现 vol4 第 1 章。[place]"
+ },
+ "Tolède": {
+  "zh": "托莱多",
+  "note": "西班牙古城；诺尔普瓦为看格列柯多留一天。首现 vol4 第 1 章。[place]"
+ },
+ "Canal de Suez": {
+  "zh": "苏伊士运河",
+  "note": "布洛克听说圣卢之父曾任苏伊士运河公司董事长，大为倾倒。首现 vol4 第 1 章。[place]"
+ },
+ "Saumur": {
+  "zh": "索米尔",
+  "note": "法国骑兵学校所在地；维尔巴里西斯侯爵夫人的侄孙正在准备考索米尔。首现 vol4 第 1 章。[place]"
+ },
+ "Balbec-le-vieux": {
+  "zh": "巴尔贝克老镇",
+  "note": "内陆的巴尔贝克旧镇，与 Balbec-en-terre 连用，指同一处非海滨的镇区；叙述者在此下车寻找教堂与海。首现 vol4 第 1 章。[place]"
+ },
+ "Comptoir d'Escompte": {
+  "zh": "贴现银行",
+  "note": "法国贴现银行（Comptoir d'escompte de Paris），巴尔贝克镇上设有分行；叙述者觉得广场上的行人、咖啡馆、银行分行都被「巴尔贝克」这几个音节吞了进去。首现 vol4 第 1 章。[place]"
+ },
+ "Marcouville l'Orgueilleuse": {
+  "zh": "傲岸的马尔库维尔",
+  "note": "Marcouville 的绰号（l'Orgueilleuse 意为「傲岸的」）；从里夫贝尔望得见，但从马尔库维尔却看不见里夫贝尔的繁华。绰号照译。首现 vol4 第 1 章。[place]"
+ },
+ "Océanie": {
+  "zh": "大洋洲",
+  "note": "îles de l'Océanie→大洋洲的岛屿；斯万劝叙述者去那里旅行，说回来病就好了。首现 vol4 第 1 章。[place]"
+ },
+ "laïft": {
+  "zh": "laïft",
+  "note": "布洛克把 lift（电梯）念成英文腔「laïft」，以示高雅；译文对白作「电梯」，行文中原文斜体 laïft 保留，可附「（电梯）」的语感由上下文体现。首现 vol4 第 1 章。[social]"
+ },
+ "snobisme": {
+  "zh": "势利",
+  "note": "十九世纪末上流社会攀附名流、计较社会地位的习气；布洛克挖苦叙述者「正在经历一场势利的危机」。作「势利／势利眼／势利心」，不作「附庸风雅」——后者在中文里指追捧文艺雅趣，会走失原义。首现 vol4 第 1 章。[concept]"
+ },
+ "garde-barrière": {
+  "zh": "道口看守",
+  "note": "铁路道口的看守人（女）；「道口看守的小屋」。首现 vol4 第 1 章。[social]"
+ },
+ "Hameau de la Reine": {
+  "zh": "王后村庄",
+  "note": "玛丽-安托瓦内特在小特里亚农旁建的仿乡村小村；夏吕斯说毁掉它是野蛮行为。首现 vol4 第 1 章。[place]"
+ },
+ "Club des Pannés": {
+  "zh": "穷光蛋俱乐部",
+  "note": "布洛涅树林大道旁一处供人围观富人的去处，得名于「pannés」（panné，穷光蛋）的俚语；不作「破产者俱乐部」。首现 vol4 第 1 章。[social]"
+ },
+ "Véronèse": {
+  "zh": "韦罗内塞",
+  "note": "意大利文艺复兴威尼斯画派画家；与曼特尼亚并举，形容某些天空的「几乎巴黎式的现代感」。首现 vol4 第 1 章。[person]"
+ },
+ "Saint-Lazare": {
+  "zh": "圣拉扎尔",
+  "note": "巴黎圣拉扎尔火车站；诺曼底方向列车的始发站。首现 vol4 第 1 章。[place]"
+ },
+ "Hypatie": {
+  "zh": "希帕蒂娅",
+  "note": "亚历山大里亚女哲学家、数学家（约 350—415），以在天体运行前的沉静形象著称；原文以她喻斯万夫人在林间大道上行走时「世界在她脚下旋转」。首现 vol4 第 1 章。[person]"
+ },
+ "Antoine de Castellane": {
+  "zh": "安托万·德·卡斯特拉纳",
+  "note": "巴黎俱乐部绅士，名字在公众中如雷贯耳；原文与蒙莫朗西并举，说明斯万夫人的熟人圈。首现 vol4 第 1 章。[person]"
+ },
+ "Adalbert de Montmorency": {
+  "zh": "阿达尔贝·德·蒙莫朗西",
+  "note": "蒙莫朗西家族成员，巴黎俱乐部绅士；与卡斯特拉纳并提。首现 vol4 第 1 章。[person]"
+ },
+ "footing": {
+  "zh": "散步",
+  "note": "英语借词，十九世纪末沙龙用来指「步行锻炼／在林间大道散步」；原文斜体保留，译文作「散步」，必要时保留 *footing* 一词。首现 vol4 第 1 章。[social]"
+ },
+ "Régulus": {
+  "zh": "雷古卢斯",
+  "note": "古罗马执政官、将军，被迦太基俘后回罗马劝和、随即返敌营受死，为坚忍克己的典范；母亲以此打趣叙述者的离别之痛。首现 vol4 第 1 章。[history]"
+ },
+ "Anne de Bretagne": {
+  "zh": "安娜·德·布列塔尼",
+  "note": "布列塔尼女公爵、两度法国王后；弗朗索瓦丝不认识这个名字时的处理照原文。首现 vol4 第 1 章。[history]"
+ },
+ "livre d'heures": {
+  "zh": "时祷书",
+  "note": "中世纪至近代的祈祷书（含圣母日课）；不作「时辰书」。首现 vol4 第 1 章。[religion]"
+ },
+ "chemin de fer d'intérêt local": {
+  "zh": "地方窄轨铁路",
+  "note": "连接海滨小镇与干线的支线小铁路（intérêt local 为法国铁路行政用语）；不作「地方利益铁路」。首现 vol4 第 1 章。[social]"
+ },
+ "avertisseur": {
+  "zh": "告示牌",
+  "note": "车站上的蓝色搪瓷告示牌（avertisseur bleu），白字写站名。首现 vol4 第 1 章。[object]"
+ },
+ "pigeon-vole": {
+  "zh": "抢鸽子游戏",
+  "note": "儿童游戏（追逐抢夺），原文以之与棋、纸牌并列为旅途中消遣。首现 vol4 第 1 章。[social]"
+ },
+ "Odéon": {
+  "zh": "奥德翁剧院",
+  "note": "巴黎奥德翁剧院（Théâtre de l'Odéon），法国国家剧院之一；酒店房客议论演员时常提及。首现 vol4 第 1 章。[place]"
+ },
+ "Tour d'Argent": {
+  "zh": "银塔餐厅",
+  "note": "巴黎塞纳河畔的著名餐厅（La Tour d'Argent）。首现 vol4 第 1 章。[place]"
+ },
+ "Carnot": {
+  "zh": "卡尔诺",
+  "note": "萨迪·卡尔诺，法兰西第三共和国总统（1887—1894），1894 年遇刺；与麦克马洪并提。首现 vol4 第 1 章。[person]"
+ },
+ "Premier": {
+  "zh": "大领班",
+  "note": "酒店餐厅的「大领班」（le Premier / premier maître d'hôtel），位在艾梅等领班之上；律师公会会长故意这样称呼他。不作「首席」。首现 vol4 第 1 章。[social]"
+ },
+ "sommelier": {
+  "zh": "酒务总管",
+  "note": "酒店中专管酒水的侍者（sommelier）；不作「侍酒师」以外的生造词。首现 vol4 第 1 章。[social]"
+ },
+ "gouvernante d'étage": {
+  "zh": "楼层女侍",
+  "note": "大酒店中负责某一层客房的女侍（gouvernante d'étage）；不作「楼层管家」。首现 vol4 第 1 章。[social]"
+ },
+ "M. de Bouillon": {
+  "zh": "布永先生",
+  "note": "维尔巴里西斯侯爵夫人之父（布永家族），维克多·雨果青年时代的同伴；侯爵夫人以此自抬身价。与 hôtel Bouillon（布永府邸）并提。首现 vol4 第 1 章。[person]"
+ },
+ "Orestie": {
+  "zh": "《俄瑞斯忒亚》",
+  "note": "埃斯库罗斯三联剧（阿伽门农、奠酒人、报仇神）；原文误作「Leconte de Lisle 在《俄瑞斯忒亚》里所描绘的」，实指勒孔特·德·李勒的译本。作品名加书名号。首现 vol4 第 1 章。[work]"
+ },
+ "Crésus": {
+  "zh": "克罗伊斯",
+  "note": "吕底亚末代国王，以巨富著称；原文以「某个克罗伊斯买来的画」指暴发户购藏。首现 vol4 第 1 章。[history]"
+ },
+ "Chantereine": {
+  "zh": "尚特雷纳",
+  "note": "维尔巴里西斯侯爵夫人乘车归途经过的林地（bois de Chantereine）；不作「唱蛙林」。首现 vol4 第 1 章。[place]"
+ },
+ "Océanides": {
+  "zh": "大洋神女",
+  "note": "希腊神话中俄刻阿诺斯与忒提斯的女儿们（Oceanides），海中仙女；原文以之形容海雾中的形象。首现 vol4 第 1 章。[mythology]"
+ },
+ "nornes": {
+  "zh": "诺恩三女神",
+  "note": "北欧神话中掌管命运的诺恩三女神（Nornes）；原文以之与命运、时间并提。首现 vol4 第 1 章。[mythology]"
+ },
+ "Dreyfus": {
+  "zh": "德雷福斯",
+  "note": "德雷福斯事件（l'affaire Dreyfus）；圣卢与布洛克都以此表明立场，译名不作「德雷富斯」。首现 vol4 第 1 章。[history]"
+ },
+ "Saint-Cyr": {
+  "zh": "圣西尔军校",
+  "note": "法国陆军军官学校（École spéciale militaire de Saint-Cyr）。首现 vol4 第 1 章。[place]"
+ },
+ "La Belle Hélène": {
+  "zh": "《美丽的海伦》",
+  "note": "奥芬巴赫轻歌剧（1864）；圣卢以此形容父亲所生活的「可悲时代」。作品名加书名号。首现 vol4 第 1 章。[work]"
+ },
+ "Gros-Jean comme devant": {
+  "zh": "两手空空",
+  "note": "法语成语「像从前那个大让」（出自拉封丹寓言），意为落得一场空；原文以之形容圣卢父亲的处境。首现 vol4 第 1 章。[literature]"
+ },
+ "Hernani": {
+  "zh": "《爱尔那尼》",
+  "note": "雨果的浪漫主义剧作（1830），首演引发古典派与浪漫派的论战；维尔巴里西斯之父曾在场。作品名加书名号。首现 vol4 第 1 章。[work]"
+ },
+ "duc de Blacas": {
+  "zh": "布拉卡斯公爵",
+  "note": "法国贵族、复辟时期的宫廷重臣；维尔巴里西斯侯爵夫人以其轶事论礼节。首现 vol4 第 1 章。[person]"
+ },
+ "Bibliothèque Nationale": {
+  "zh": "国家图书馆",
+  "note": "巴黎法国国家图书馆（Bibliothèque nationale）；叙述者以「把一本书的一册存放在国家图书馆」比喻被遗忘封存的记忆。首现 vol4 第 1 章。[place]"
+ },
+ "Mme de Simiane": {
+  "zh": "西米亚纳夫人",
+  "note": "德·西米亚纳夫人；第1章书信中提到她自认为像自己的外祖母。首现 vol4 第 1 章。[person]"
+ },
+ "M. de la Boulie": {
+  "zh": "德·拉布利先生",
+  "note": "第1章书信中的称呼（M. de la Boulie）；此人身体「好极了」。首现 vol4 第 1 章。[person]"
+ },
+ "Néréide": {
+  "zh": "涅瑞伊得斯",
+  "note": "希腊神话中的海中仙女（Néréide）；原文用以形容海雾中若隐若现的形象。不作「海仙女」泛称。首现 vol4 第 1 章。[mythology]"
+ },
+ "Glauconomé": {
+  "zh": "格劳科诺墨",
+  "note": "希腊神话中的海中仙女之一（Glauconomé），与涅瑞伊得斯并提。首现 vol4 第 1 章。[mythology]"
+ },
+ "Rodolphe": {
+  "zh": "鲁道夫",
+  "note": "鲁道夫大公（原文语境为皇族人物）；第1章房客闲谈中提及。首现 vol4 第 1 章。[person]"
+ },
+ "Bezigue": {
+  "zh": "贝齐格",
+  "note": "纸牌游戏（bésigue）的音译；酒店房客邀人「来打咱们的小贝齐格」。首现 vol4 第 1 章。[social]"
+ },
+ "Bagard": {
+  "zh": "巴加尔",
+  "note": "巴加尔，木工/细木匠（原文为侯爵夫人回忆布永府邸门上的木护壁板「是巴加尔做的活儿」）。首现 vol4 第 1 章。[person]"
+ },
+ "Grand-Hôtel de Balbec": {
+  "zh": "海滨大酒店",
+  "note": "巴尔贝克的海滨大酒店（原型卡堡的 Grand Hôtel）；全章统一作「海滨大酒店」，不作「巴尔贝克大饭店」「巴尔贝克大酒店」。Palace（类称）另作「豪华大饭店」。首现 vol4 第 1 章。[place]"
+ },
+ "V": {
+  "zh": "第五卷",
+  "note": "书名页上总书名下方的罗马数字卷次，首见于 vol5 第 0 章（书名页）。指《追忆似水年华》第五卷，译文作「第五卷」，不加书名号；不要直留「V」。同类条目：vol2「II」→第二卷，vol3「III」→第三卷，vol4「IV」→第四卷。书名页上与总书名合并为「《追忆似水年华》——第五卷」。"
+ },
+ "Andrée": {
+  "zh": "安德蕾",
+  "note": "少女小团体的核心成员之一，阿尔贝蒂娜最亲密的女伴；棕色皮肤、眼睛极亮，第一天跳过老银行家，性格沉稳、乐善好施（富家女），叙述者一度假装追求她以接近阿尔贝蒂娜。首现 vol5 第 001 章。禁用译法: 安德雷、安德里"
+ },
+ "Gisèle": {
+  "zh": "吉赛尔",
+  "note": "少女小团体成员，有一头长发，因家中缘故提前离开巴尔贝克；众人传阅她写的作文（索福克勒斯致拉辛、塞维涅致拉法耶特夫人两题）。首现 vol5 第 001 章。禁用译法: 吉塞尔"
+ },
+ "Rosemonde": {
+  "zh": "罗丝蒙德",
+  "note": "少女小团体成员，爱开玩笑、带北方口音，与吉赛尔、安德蕾同住。首现 vol5 第 001 章。禁用译法: 罗斯蒙德、罗萨蒙德"
+ },
+ "Simonet": {
+  "zh": "西蒙内",
+  "note": "阿尔贝蒂娜的姓（Mlle Simonet）。原文特别写到这家人坚持姓氏只有一个 n、把写成两个 n 视为诽谤，译文照此层次，不添加解释。首现 vol5 第 001 章。"
+ },
+ "Mme Elstir": {
+  "zh": "埃尔斯蒂尔夫人",
+  "note": "画家的妻子，叙述者称她「美丽的加布丽埃勒」（ma belle Gabrielle）；埃尔斯蒂尔提到她时带敬意。首现 vol5 第 001 章。"
+ },
+ "Nissim Bernard": {
+  "zh": "尼西姆·贝尔纳",
+  "note": "布洛克的舅舅，富有而爱吹嘘；在布洛克家的晚宴上谎称与圣卢之父是好友，被当场揭穿。首现 vol5 第 001 章。禁用译法: 尼西姆·伯纳德"
+ },
+ "Titine": {
+  "zh": "蒂蒂娜",
+  "note": "亲昵小名（阿尔贝蒂娜对女伴的称呼），非正式姓名，译文按音译并保留其亲昵口吻。首现 vol5 第 001 章。"
+ },
+ "Durieux": {
+  "zh": "迪里厄",
+  "note": "迪里厄夫人（Madame Durieux），阿尔贝蒂娜提到的邀请人，未出场。首现 vol5 第 001 章。"
+ },
+ "Vaudémont": {
+  "zh": "沃代蒙",
+  "note": "莫里斯·德·沃代蒙侯爵（marquis Maurice de Vaudémont），出身大族，是「有钱的年轻人」的同伴；章末在酒店门厅相邀晚餐。首现 vol5 第 001 章。"
+ },
+ "Sainte-Croix": {
+  "zh": "圣克鲁瓦",
+  "note": "德·圣克鲁瓦先生（M. de Sainte-Croix），省议会议员，出身好家庭却为钱投靠共和派，阿尔贝蒂娜因此不屑与他打招呼。此为姓氏，非地名。首现 vol5 第 001 章。"
+ },
+ "Ambresac": {
+  "zh": "昂布勒萨克",
+  "note": "阿姆布勒萨克一家（M. et Mme d'Ambresac）与他们的女儿：维尔巴里西斯侯爵夫人的亲戚，也认识卢森堡亲王妃；在巴尔贝克有小别墅，生活简朴、衣着讲究。首现 vol5 第 001 章。"
+ },
+ "Gramont-Caderousse": {
+  "zh": "格拉蒙-卡德鲁斯",
+  "note": "十九世纪巴黎著名的花花公子，名字在布洛克家被当作「时髦」的标尺。首现 vol5 第 001 章。"
+ },
+ "La Rochefoucauld": {
+  "zh": "拉罗什富科",
+  "note": "此处指「小拉罗什富科」（le petit La Rochefoucauld），街上人用来抬高布洛克身份的攀附对象；即《箴言录》作者的同族。首现 vol5 第 001 章。"
+ },
+ "Léa": {
+  "zh": "莱娅",
+  "note": "女演员（l'actrice Léa），阿尔贝蒂娜谈衣着时提到；不是叙述者的熟人。首现 vol5 第 001 章。"
+ },
+ "Miss Sacripant": {
+  "zh": "萨克里邦小姐",
+  "note": "奥黛特年轻时在一出杂耍剧中扮演的角色名，也是埃尔斯蒂尔早期小画像上的题字（1872 年 10 月）。叙述者由这幅画认出奥黛特。此名是艺名，不译作「萨克里庞」。首现 vol5 第 001 章。"
+ },
+ "Rothschild": {
+  "zh": "罗斯柴尔德",
+  "note": "baron de Rothschild→罗斯柴尔德男爵；布洛克之父口中与伊斯拉埃尔并列的犹太金融家。首现 vol5 第 001 章。"
+ },
+ "sir Rufus Israël": {
+  "zh": "鲁弗斯·伊斯拉埃尔爵士",
+  "note": "犹太金融家，与伊斯拉埃尔家族同姓；布洛克之父常把他挂在嘴边，「老糊涂俱乐部」的传闻也涉及他。译名与 Israels 条一致。首现 vol5 第 001 章。"
+ },
+ "Mme Bontemps": {
+  "zh": "博纳唐夫人",
+  "note": "公共工程部部长办公厅主任之妻、阿尔贝蒂娜的姑母，斯万家的常客；本章她在巴尔贝克附近小住，阿尔贝蒂娜要去看她。与 Bontemps 条同一人。禁用译法: 邦唐夫人、邦当夫人"
+ },
+ "Villeparisis": {
+  "zh": "维尔巴里西斯",
+  "note": "即维尔巴里西斯侯爵夫人（Mme de Villeparisis）的简称；原文常单称姓氏。译名与完整条一致。"
+ },
+ "Meschorès": {
+  "zh": "梅绍雷斯",
+  "note": "布洛克家宴上老布洛克嘟囔的姓氏；原文随即说明 Meschorès 在《圣经》里指「神的仆人」，此姓是家族标榜门第的话头。首现 vol5 第 001 章。"
+ },
+ "Carquethuit": {
+  "zh": "卡尔克蒂",
+  "note": "巴尔贝克附近的海港小村；埃尔斯蒂尔刚完成的《卡尔克蒂港》是本章论绘画隐喻的核心作品。虚构地名，按音译。首现 vol5 第 001 章。"
+ },
+ "Creuniers": {
+  "zh": "克勒尼耶",
+  "note": "巴尔贝克附近海崖（les Creuniers），埃尔斯蒂尔在此画过水彩；安德蕾带叙述者去看「你们那有名的克勒尼耶」。首现 vol5 第 001 章。"
+ },
+ "Canapville": {
+  "zh": "卡纳维尔",
+  "note": "巴尔贝克海堤尽头、通往海崖方向的地名（falaises de Canapville）。首现 vol5 第 001 章。"
+ },
+ "Clitourps": {
+  "zh": "克利图尔",
+  "note": "巴尔贝克附近荒野村落，埃尔斯蒂尔说那一带景色像佛罗里达。首现 vol5 第 001 章。"
+ },
+ "Nehomme": {
+  "zh": "讷奥姆",
+  "note": "与克利图尔相邻的村落，埃尔斯蒂尔描述海崖时并举。首现 vol5 第 001 章。"
+ },
+ "Sogne": {
+  "zh": "索涅",
+  "note": "当地赛马会（courses de la Sogne）所在地，阿尔贝蒂娜说坐电车去要两小时。首现 vol5 第 001 章。"
+ },
+ "Écorres": {
+  "zh": "埃科尔",
+  "note": "附近农家餐馆「埃科尔农场」（ferme des Écorres）之名。首现 vol5 第 001 章。"
+ },
+ "Heuland": {
+  "zh": "厄朗",
+  "note": "农家餐馆名「厄朗十字」（la Croix d'Heuland）中的地名。首现 vol5 第 001 章。"
+ },
+ "Bagatelle": {
+  "zh": "巴加泰勒",
+  "note": "农家餐馆名（ferme de Bagatelle）；与巴黎的巴加泰勒城堡无关，不添加联想。首现 vol5 第 001 章。"
+ },
+ "Californie": {
+  "zh": "加利福尼亚",
+  "note": "农家餐馆名（ferme de Californie），与美洲地名同形，此处是诺曼底农舍的雅号。首现 vol5 第 001 章。"
+ },
+ "Marie-Thérèse": {
+  "zh": "玛丽-泰蕾兹",
+  "note": "农家餐馆名（ferme de Marie-Thérèse），与玛丽-安托瓦内特等并列。首现 vol5 第 001 章。"
+ },
+ "Suse": {
+  "zh": "苏萨",
+  "note": "波斯古都（Suse），与「大流士的宫殿」连用；不作「苏撒」「苏萨城」。首现 vol5 第 001 章。"
+ },
+ "Khorsabad": {
+  "zh": "霍尔萨巴德",
+  "note": "亚述古城，以带翼人首牛身像（taureau androcéphale）著称；叙述者以此形容尼西姆·贝尔纳的胡须。首现 vol5 第 001 章。"
+ },
+ "Pompéi": {
+  "zh": "庞贝",
+  "note": "意大利古城，公元 79 年被火山灰掩埋；原文以「庞贝的灾难」比喻习惯使动作凝固。首现 vol5 第 001 章。"
+ },
+ "Broceliande": {
+  "zh": "布罗塞利安德",
+  "note": "布列塔尼传说中的魔法森林（forêt de Broceliande），亚瑟王故事背景；不作「布罗塞良德」。首现 vol5 第 001 章。"
+ },
+ "Cowes": {
+  "zh": "考斯",
+  "note": "英国怀特岛帆船赛胜地（régates de Cowes），阿尔贝蒂娜向往的旅行地。首现 vol5 第 001 章。"
+ },
+ "Bassora": {
+  "zh": "巴士拉",
+  "note": "伊拉克港口巴士拉（Bassora），《辛巴达航海》故事出发地。首现 vol5 第 001 章。"
+ },
+ "Chelsea": {
+  "zh": "切尔西",
+  "note": "伦敦切尔西区，惠斯勒曾居于此，原文称他为「切尔西的大师」。首现 vol5 第 001 章。"
+ },
+ "Criquebec": {
+  "zh": "克里克贝克",
+  "note": "诺曼底海滨村落，原文以其教堂「四周环水」的远景形容海滩建筑。首现 vol5 第 001 章。"
+ },
+ "Floride": {
+  "zh": "佛罗里达",
+  "note": "美国佛罗里达州，埃尔斯蒂尔用以比拟巴尔贝克海崖的荒凉景色。首现 vol5 第 001 章。"
+ },
+ "Senlis": {
+  "zh": "桑利斯",
+  "note": "法国瓦兹省古城，以燧石建筑著称；埃尔斯蒂尔论艺术家须顺应材料时提及。首现 vol5 第 001 章。"
+ },
+ "Strasbourg": {
+  "zh": "斯特拉斯堡",
+  "note": "法国东部城市，以红砂岩著称；与桑利斯并举。首现 vol5 第 001 章。"
+ },
+ "Caen": {
+  "zh": "卡昂",
+  "note": "诺曼底城市；本章两处：阿尔贝蒂娜可能坐车去的方向、以及「卡昂律师公会会长」。首现 vol5 第 001 章。"
+ },
+ "Rennes": {
+  "zh": "雷恩",
+  "note": "布列塔尼首府；「雷恩首席院长」是酒店房客之一。首现 vol5 第 001 章。"
+ },
+ "Évreux": {
+  "zh": "埃夫勒",
+  "note": "诺曼底城市，阿尔贝蒂娜可能前往的另一方向。首现 vol5 第 001 章。"
+ },
+ "place Pigalle": {
+  "zh": "皮加勒广场",
+  "note": "巴黎皮加勒广场，原文以「广场倾斜的紫色布景」比喻舞台布景的廉价感。首现 vol5 第 001 章。"
+ },
+ "Nord": {
+  "zh": "北方省",
+  "note": "法国北方省（le Nord）；罗丝蒙德说话带该省口音，原文以「她声音与面孔的北方质地」形容。首现 vol5 第 001 章。"
+ },
+ "Pisanello": {
+  "zh": "皮萨内洛",
+  "note": "意大利文艺复兴早期画家，以精细的动物与织物线条著称；原文以之形容海沫的轮廓。首现 vol5 第 001 章。"
+ },
+ "Manet": {
+  "zh": "马奈",
+  "note": "法国画家（Édouard Manet），与惠斯勒并举，说明埃尔斯蒂尔所画肖像与旧时代模特同属一个延续的谱系。首现 vol5 第 001 章。"
+ },
+ "Hogarth": {
+  "zh": "贺加斯",
+  "note": "英国画家威廉·贺加斯（William Hogarth），以讽刺组画著称；原文提到其所作《杰弗里斯》肖像。首现 vol5 第 001 章。"
+ },
+ "Redon": {
+  "zh": "雷东",
+  "note": "法国象征主义画家奥迪隆·雷东（Odilon Redon）；埃尔斯蒂尔说圣母升天节经文译笔之精微「连雷东也及不上」。首现 vol5 第 001 章。"
+ },
+ "Bakst": {
+  "zh": "巴克斯特",
+  "note": "俄罗斯舞台美术家莱昂·巴克斯特（Léon Bakst），俄国芭蕾舞团布景与服装设计者；原文以之形容舞台道具在灯光下的魔力。首现 vol5 第 001 章。"
+ },
+ "Fortuny": {
+  "zh": "福图尼",
+  "note": "威尼斯艺术家马里亚诺·福图尼（Mariano Fortuny），以复原古代织物染料与褶皱丝绸著称；原文说他将重现威尼斯古织锦的秘法。首现 vol5 第 001 章。"
+ },
+ "Gallé": {
+  "zh": "加莱",
+  "note": "法国玻璃艺术家埃米尔·加莱（Émile Gallé），以乳白层叠的玻璃器著称；原文以之比喻海沫的白釉。首现 vol5 第 001 章。"
+ },
+ "Cavalleria Rusticana": {
+  "zh": "《乡村骑士》",
+  "note": "马斯卡尼歌剧（1890），阿尔贝蒂娜热烈喜爱、埃尔斯蒂尔不以为然；原文斜体，译文加书名号并保留斜体。首现 vol5 第 001 章。"
+ },
+ "Les Juives": {
+  "zh": "《犹太女人》",
+  "note": "罗贝尔·加尼耶（Robert Garnier）的悲剧；安德蕾在作文题讨论中举以为例。首现 vol5 第 001 章。"
+ },
+ "Aman": {
+  "zh": "《阿曼》",
+  "note": "蒙克雷蒂安（Montchrestien）的悲剧；与《犹太女人》并举。首现 vol5 第 001 章。"
+ },
+ "Robert Garnier": {
+  "zh": "罗贝尔·加尼耶",
+  "note": "十六世纪法国悲剧诗人，《犹太女人》作者。首现 vol5 第 001 章。"
+ },
+ "Montchrestien": {
+  "zh": "蒙克雷蒂安",
+  "note": "十六至十七世纪法国剧作家，《阿曼》作者。首现 vol5 第 001 章。"
+ },
+ "Sophocle": {
+  "zh": "索福克勒斯",
+  "note": "古希腊三大悲剧诗人之一；本章是吉赛尔作文题的假设收信人（「索福克勒斯致拉辛」）。首现 vol5 第 001 章。"
+ },
+ "Plaute": {
+  "zh": "普劳图斯",
+  "note": "古罗马喜剧作家；布洛克之子在列举戏剧家时补入。首现 vol5 第 001 章。"
+ },
+ "Ménandre": {
+  "zh": "米南德",
+  "note": "古希腊新喜剧作家；与普劳图斯、迦梨陀娑并举。首现 vol5 第 001 章。"
+ },
+ "Kalidasa": {
+  "zh": "迦梨陀娑",
+  "note": "印度古典梵语诗人、剧作家（《沙恭达罗》作者）；布洛克之子以其掉书袋。首现 vol5 第 001 章。"
+ },
+ "Corneille": {
+  "zh": "高乃依",
+  "note": "法国古典主义悲剧诗人；本章两处：老布洛克反讽地续数「莫里哀、拉辛、高乃依」，以及吉赛尔作文中被比较的对象。首现 vol5 第 001 章。"
+ },
+ "Augier": {
+  "zh": "奥吉耶",
+  "note": "埃米尔·奥吉耶（Émile Augier），十九世纪法国剧作家；与萨尔杜、拉比什并举。首现 vol5 第 001 章。"
+ },
+ "Villiers": {
+  "zh": "维利耶",
+  "note": "维利耶·德·利尔-亚当（Villiers de l'Isle-Adam），象征主义作家；尼西姆·贝尔纳谈贝尔戈时提到的「大人物」之一。首现 vol5 第 001 章。"
+ },
+ "Catulle": {
+  "zh": "卡蒂勒",
+  "note": "卡蒂勒·孟戴斯（Catulle Mendès），诗人、剧作家；与维利耶并举。首现 vol5 第 001 章。"
+ },
+ "Chamisso": {
+  "zh": "沙米索",
+  "note": "德国作家阿德尔伯特·冯·沙米索，《彼得·施莱米尔奇遇记》作者。首现 vol5 第 001 章。"
+ },
+ "Schlemihl": {
+  "zh": "施莱米尔",
+  "note": "沙米索小说中卖掉影子的人，犹太德语里转指「笨拙倒霉的人」；尼西姆·贝尔纳以此讥贝尔戈。首现 vol5 第 001 章。"
+ },
+ "Barine": {
+  "zh": "巴里纳",
+  "note": "阿尔韦德·巴里纳（Arvède Barine），法国文学批评家；圣卢在信中说在车站买了她的书。首现 vol5 第 001 章。"
+ },
+ "Merlet": {
+  "zh": "梅尔莱",
+  "note": "文学批评家；安德蕾列举「圣伯夫与梅尔莱的判断」时提及。首现 vol5 第 001 章。"
+ },
+ "Deltour": {
+  "zh": "德尔图尔",
+  "note": "文学批评家；安德蕾说作文最好再引德尔图尔与加斯克-德福塞。首现 vol5 第 001 章。"
+ },
+ "Gascq-Desfossés": {
+  "zh": "加斯克-德福塞",
+  "note": "文学批评家，与德尔图尔并举。首现 vol5 第 001 章。"
+ },
+ "Ferry": {
+  "zh": "费里",
+  "note": "儒勒·费里（Jules Ferry），第三共和国政治家、教育法令制定者；原文以其名字印在节目单上作比喻。首现 vol5 第 001 章。"
+ },
+ "Cornuel": {
+  "zh": "科尔尼埃尔",
+  "note": "科尔尼埃尔夫人（Mme Cornuel），十七世纪沙龙女主人，以机锋著称；圣西门回忆录中引其妙语。首现 vol5 第 001 章。"
+ },
+ "la Fayette": {
+  "zh": "拉法耶特",
+  "note": "拉法耶特夫人（Mme de la Fayette），《克莱芙王妃》作者；吉赛尔的作文题设想塞维涅夫人写信给她。"
+ },
+ "Arouet": {
+  "zh": "阿鲁埃",
+  "note": "伏尔泰的本名（sieur Arouet）；叙述者戏称「阿鲁埃先生的两句歪诗」。首现 vol5 第 001 章。"
+ },
+ "Idolâtrie": {
+  "zh": "《偶像崇拜》",
+  "note": "乔托在帕多瓦阿雷纳礼拜堂所画诸恶寓言之一（L'Idolâtrie）；原文以之形容阿尔贝蒂娜玩空竹的姿态。首现 vol5 第 001 章。"
+ },
+ "Ancilla Domini": {
+  "zh": "《主的婢女》",
+  "note": "罗塞蒂（D. G. Rossetti）画作《受胎告知》的拉丁题名；女演员的出场服装即仿此画。首现 vol5 第 001 章。"
+ },
+ "Jeffries": {
+  "zh": "《杰弗里斯》",
+  "note": "贺加斯所画肖像（portrait de Jeffries）；原文用以形容一位英国女教师的面貌。首现 vol5 第 001 章。"
+ },
+ "Légende de Sainte Ursule": {
+  "zh": "《圣乌尔苏拉传奇》",
+  "note": "卡尔帕乔在威尼斯所画的组画，写圣乌尔苏拉率朝圣者渡海殉道；原文以之形容威尼斯式的迎宾船队。首现 vol5 第 001 章。"
+ },
+ "Bucentaure": {
+  "zh": "布钦托罗",
+  "note": "威尼斯共和国元首乘坐的礼仪大船（Bucentaure），兼有宫殿与船的性质；不作「金船」意译。首现 vol5 第 001 章。"
+ },
+ "Cavalleria": {
+  "zh": "《乡村骑士》",
+  "note": "Mascagni 歌剧 Cavalleria Rusticana 的简称；与全称条同一作品，正文按原文用简称时仍译《乡村骑士》。"
+ },
+ "Moïse": {
+  "zh": "摩西",
+  "note": "《圣经》先知；埃尔斯蒂尔解说巴尔贝克教堂门廊时提及「摩西脚下的金牛犊」。首现 vol5 第 001 章。"
+ },
+ "Joseph": {
+  "zh": "约瑟",
+  "note": "《圣经》人物（雅各之子）；门廊浮雕中「约瑟脚下的魔鬼在引诱波提乏之妻」。首现 vol5 第 001 章。"
+ },
+ "Putiphar": {
+  "zh": "波提乏",
+  "note": "《创世记》中埃及侍卫长，其妻引诱约瑟；不作「普提法」。首现 vol5 第 001 章。"
+ },
+ "Jésus-Christ": {
+  "zh": "耶稣基督",
+  "note": "基督教中心人物；原文说门廊的谱系「从远古直到耶稣基督」。首现 vol5 第 001 章。"
+ },
+ "Élisabeth": {
+  "zh": "伊丽莎白",
+  "note": "《路加福音》中施洗约翰之母，圣母访亲场景中的人物。首现 vol5 第 001 章。"
+ },
+ "Immaculée-Conception": {
+  "zh": "无玷始胎",
+  "note": "天主教教义（圣母无染原罪）；原文写接生婆「不肯不摸就相信无玷始胎」。不作「圣灵感孕」（那是童贞生子）。首现 vol5 第 001 章。"
+ },
+ "Eucharistie": {
+  "zh": "圣体",
+  "note": "圣体圣事（l'Eucharistie）；原文写教会承接基督的血，「圣体的酒」。首现 vol5 第 001 章。"
+ },
+ "Synagogue": {
+  "zh": "犹太会堂",
+  "note": "原文与「教会」对举的拟人形象（双眼蒙蔽、王杖折断、冠冕落地），出自中世纪寓意画传统；不译「犹太教堂」以保留寓意画的拟人感。首现 vol5 第 001 章。"
+ },
+ "Église": {
+  "zh": "教会",
+  "note": "此处为寓意画中的拟人形象（与犹太会堂对举），非建筑物；译文作「教会」。首现 vol5 第 001 章。"
+ },
+ "saint Thomas": {
+  "zh": "圣多马",
+  "note": "使徒多马，因不信复活而要触摸基督；原文写圣母把腰带抛给他作证。首现 vol5 第 001 章。"
+ },
+ "Sainte Ursule": {
+  "zh": "圣乌尔苏拉",
+  "note": "传说中率一万一千名童女朝圣并殉道的圣女；见《圣乌尔苏拉传奇》。首现 vol5 第 001 章。"
+ },
+ "Hébreux": {
+  "zh": "希伯来人",
+  "note": "《圣经》中对以色列人的称呼；原文以「旷野中引路的火柱」比喻墙上的光带。首现 vol5 第 001 章。"
+ },
+ "Sargon": {
+  "zh": "萨尔贡",
+  "note": "亚述国王萨尔贡二世（Sargon II），霍尔萨巴德宫殿的建造者；原文以「萨尔贡王的环状胡须」形容尼西姆·贝尔纳。首现 vol5 第 001 章。"
+ },
+ "Darius": {
+  "zh": "大流士",
+  "note": "波斯帝国君主大流士一世；原文说某人的脸「像是从大流士的宫殿搬来」。首现 vol5 第 001 章。"
+ },
+ "Éros": {
+  "zh": "厄洛斯",
+  "note": "希腊爱神；原文「众神所爱的厄洛斯之乐」是布洛克戏谑的雅语。首现 vol5 第 001 章。"
+ },
+ "Zéphyros": {
+  "zh": "泽菲罗斯",
+  "note": "希腊神话中的西风神；布洛克掉书袋时说「泽菲罗斯与玻瑞阿斯在争这鱼多的海」。首现 vol5 第 001 章。"
+ },
+ "Boréas": {
+  "zh": "玻瑞阿斯",
+  "note": "希腊神话中的北风神；与泽菲罗斯并举。首现 vol5 第 001 章。"
+ },
+ "Eôs": {
+  "zh": "厄俄斯",
+  "note": "希腊神话中的黎明女神，「玫瑰色手指的厄俄斯」（aux doigts de pourpre）；布洛克戏仿荷马式套语。首现 vol5 第 001 章。"
+ },
+ "Leucothoé": {
+  "zh": "琉科托厄",
+  "note": "希腊神话中的海仙女；维吉尔诗中人物，原文以之形容隔在少女与叙述者之间那层「不透明而柔和的」雾气。首现 vol5 第 001 章。"
+ },
+ "Télémaque": {
+  "zh": "忒勒马科斯",
+  "note": "《奥德赛》中奥德修斯之子；叙述者自嘲像「被女神扣留的忒勒马科斯」。首现 vol5 第 001 章。"
+ },
+ "Odysseus": {
+  "zh": "奥德修斯",
+  "note": "《奥德赛》主人公；布洛克引「雅典人却称伊萨卡的奥德修斯为最会说谎的人」。首现 vol5 第 001 章。"
+ },
+ "Ithaquesien": {
+  "zh": "伊萨卡人",
+  "note": "荷马式形容词「伊萨卡的」（l'Ithaquesien Odysseus），译文作「伊萨卡的奥德修斯」。首现 vol5 第 001 章。"
+ },
+ "Calypso": {
+  "zh": "卡吕普索",
+  "note": "《奥德赛》中扣留奥德修斯的海岛女神；原文说地理学家能带我们到卡吕普索的岛，但卡吕普索已只是一个女人。首现 vol5 第 001 章。"
+ },
+ "Hercule": {
+  "zh": "赫拉克勒斯",
+  "note": "希腊英雄；原文说「红脸痛风、穿白法兰绒上衣的先生未必就是赫拉克勒斯」。首现 vol5 第 001 章。"
+ },
+ "Olympe": {
+  "zh": "奥林匹斯",
+  "note": "希腊众神所居之山；叙述者戏称自己「奥林匹斯山上幸福的居民」。首现 vol5 第 001 章。"
+ },
+ "Dianes": {
+  "zh": "狄安娜",
+  "note": "罗马狩猎女神（Diane 的复数）；原文说那些老守财奴生出了「这些狄安娜与宁芙」。首现 vol5 第 001 章。"
+ },
+ "Messaline": {
+  "zh": "梅萨利娜",
+  "note": "罗马皇后，以淫乱著称；原文以之与「循规蹈矩的姑娘」对照。首现 vol5 第 001 章。"
+ },
+ "petite bande": {
+  "zh": "小团体",
+  "note": "阿尔贝蒂娜与她的女友们结成的少女小团体（la petite bande）；本章主题词。译「小团体」，不作「小帮派」「小团伙」，与 petit clan（小宗派）、petit groupe（小集团）、petit noyau（小核心）区分。首现 vol5 第 001 章。"
+ },
+ "diabolo": {
+  "zh": "空竹",
+  "note": "一种用绳抖动的双头木陀螺（diabolo），二十世纪初流行；阿尔贝蒂娜玩它时「像修女数念珠」。不作「魔鬼玩具」。首现 vol5 第 001 章。"
+ },
+ "furet": {
+  "zh": "传戒指游戏",
+  "note": "儿童围圈传递戒指的游戏（jouer au furet）；不作「雪貂」。首现 vol5 第 001 章。"
+ },
+ "baccarat": {
+  "zh": "巴卡拉纸牌",
+  "note": "一种纸牌赌博（baccarat）；原文指少女们的男性朋友中有玩巴卡拉输赢惊人的年轻人。首现 vol5 第 001 章。"
+ },
+ "polo": {
+  "zh": "马球",
+  "note": "马球运动（polo）；少女们戴 polo 帽、打马球/网球，是时髦海滨生活的标志。首现 vol5 第 001 章。"
+ },
+ "Kodak": {
+  "zh": "柯达相机",
+  "note": "柯达牌照相机（Kodak），当时的手持快照相机；原文作普通名词用，译文作「柯达相机」。首现 vol5 第 001 章。"
+ },
+ "ne varietur": {
+  "zh": "定本",
+  "note": "拉丁语公证用语「不得更改」（ne varietur）；原文戏称斯万所珍视的奥黛特照片为「定本」。首现 vol5 第 001 章。"
+ },
+ "Cercle des Ganaches": {
+  "zh": "老糊涂俱乐部",
+  "note": "布洛克之父吹嘘的俱乐部（Cercle des Ganaches）；ganache 意为「老糊涂、蠢货」，名字本身带讥讽，译文照字面保留讥讽，不加注。首现 vol5 第 001 章。"
+ },
+ "B.C.B.": {
+  "zh": "B.C.B.",
+  "note": "当地客运公司（火车站与酒店间接送邮件、旅客）的缩写；原文只给缩写，译文保留 B.C.B.，不猜测全称。首现 vol5 第 001 章。"
+ },
+ "tortillard": {
+  "zh": "小火车",
+  "note": "圣卢对地方窄轨小火车的俗称（tortillard，因绕行曲折得名）；与「地方窄轨铁路」条并用。首现 vol5 第 001 章。"
+ },
+ "tacot": {
+  "zh": "破车",
+  "note": "口语，指老旧颠簸的车辆（此处指电车）；阿尔贝蒂娜嫌它慢。首现 vol5 第 001 章。"
+ },
+ "conseiller général": {
+  "zh": "省议会议员",
+  "note": "法国省级选举产生的议员（conseiller général）；不是「总顾问」。首现 vol5 第 001 章。"
+ },
+ "Syndicat des propriétaires de Balbec": {
+  "zh": "巴尔贝克业主联合会",
+  "note": "当地房产主协会；阿尔贝蒂娜之父任会长，曾在公开信上反对。首现 vol5 第 001 章。"
+ },
+ "Exposition Universelle": {
+  "zh": "世界博览会",
+  "note": "巴黎世界博览会（Exposition Universelle）；原文说某富家子弟将在下一届博览会筹办中扮演重要角色。首现 vol5 第 001 章。"
+ },
+ "Compagnie": {
+  "zh": "车马行",
+  "note": "原文 la Compagnie 指巴黎出租马车的公司（Compagnie des voitures）；布洛克租其双马敞篷维多利亚车招摇过市。译「车马行」，不加「公司」。首现 vol5 第 001 章。"
+ },
+ "Radical": {
+  "zh": "《激进报》",
+  "note": "巴黎报纸 Le Radical（激进派机关报），其社交专栏把布洛克之父称作「巴黎人熟悉的面孔」。首现 vol5 第 001 章。"
+ },
+ "Journal Officiel": {
+  "zh": "《官方公报》",
+  "note": "法国政府公报（Journal Officiel），登载法令与任命；老布洛克每天读它并对名人下判词。首现 vol5 第 001 章。"
+ },
+ "Gaulois": {
+  "zh": "《高卢人报》",
+  "note": "巴黎上流社会报纸 Le Gaulois；与《官方公报》并举，说明老布洛克的信息来源。首现 vol5 第 001 章。"
+ },
+ "Chronique mondaine": {
+  "zh": "社交专栏",
+  "note": "报纸的社交新闻栏（Chronique mondaine）；不作「世界专栏」。首现 vol5 第 001 章。"
+ },
+ "Variétés": {
+  "zh": "杂耍剧院",
+  "note": "巴黎杂耍剧院（théâtre des Variétés），以时事歌舞剧著称；原文说奥黛特的角色服装出自那里的一出歌舞剧。首现 vol5 第 001 章。"
+ },
+ "Opéra Comique": {
+  "zh": "喜歌剧院",
+  "note": "巴黎喜歌剧院（Opéra-Comique）；此处指在该剧院演出的一班人马到娱乐场献演。首现 vol5 第 001 章。"
+ },
+ "Roi-Soleil": {
+  "zh": "太阳王",
+  "note": "路易十四的称号（le Roi-Soleil）；不作「太阳国王」。首现 vol5 第 001 章。"
+ },
+ "Renaissance": {
+  "zh": "文艺复兴",
+  "note": "欧洲文艺复兴（la Renaissance）；原文以「文艺复兴画中的阿拉伯型东方博士」比喻少女群的异质面孔。首现 vol5 第 001 章。"
+ },
+ "Saint-Blaise": {
+  "zh": "圣布莱斯",
+  "note": "缪塞诗《在圣布莱斯，在朱代卡》（À Saint-Blaise, à la Zuecca）中的地名；布洛克引此诗炫耀趣味。不作「圣布拉斯」。首现 vol5 第 001 章。"
+ },
+ "Zuecca": {
+  "zh": "朱代卡",
+  "note": "威尼斯朱代卡岛（Zuecca／Giudecca），缪塞诗句中的地名；按原诗音译作「朱代卡」。首现 vol5 第 001 章。"
+ },
+ "Toppatelle": {
+  "zh": "托帕泰拉",
+  "note": "缪塞诗中人名（La Toppatelle），布洛克引诗时保留音译，不作解释。首现 vol5 第 001 章。"
+ },
+ "Nuits": {
+  "zh": "《夜歌》",
+  "note": "缪塞诗集《夜歌》（les Nuits，含《五月之夜》《十月之夜》等）；布洛克只记得其中几句写景诗。首现 vol5 第 001 章。"
+ },
+ "Espoir en Dieu": {
+  "zh": "《对上帝的期望》",
+  "note": "缪塞长诗《对上帝的期望》（L'Espoir en Dieu）；原文说布洛克鄙视「我们仍喜爱的《对上帝的期望》中的缪塞」。首现 vol5 第 001 章。"
+ },
+ "Lido": {
+  "zh": "丽都",
+  "note": "威尼斯丽都岛（le Lido），缪塞诗中「可怕的丽都」；不作「利多」。首现 vol5 第 001 章。"
+ },
+ "Adriatique": {
+  "zh": "亚得里亚海",
+  "note": "意大利东侧海域（l'Adriatique），缪塞诗句「苍白的亚得里亚海在坟头草地上死去」。首现 vol5 第 001 章。"
+ },
+ "Rois de Juda": {
+  "zh": "犹大列王",
+  "note": "《圣经》中犹大支派的君王；埃尔斯蒂尔说门廊上「一侧是精神上的祖先，另一侧是肉身上的祖先犹大列王」。首现 vol5 第 001 章。"
+ },
+ "Juda": {
+  "zh": "犹大",
+  "note": "《圣经》十二支派之一，此处指犹大支派；不作「朱达」。首现 vol5 第 001 章。"
+ },
+ "Jupien": {
+  "zh": "朱皮安",
+  "note": "盖尔芒特府庭院里的背心裁缝（giletier），后谋得部里职位；与弗朗索瓦丝结为知己，被她称作「过渡的药物」。为人厚道、眼光悲悯而谈吐机敏，叙述者认为他有一种天然文学才智。首现 vol6 第 001 章。禁用译法: 朱皮耶、儒皮安、朱比安。"
+ },
+ "la nièce de Jupien": {
+  "zh": "朱皮安的外甥女",
+  "note": "朱皮安的甥女，先做背心裁缝的帮手，后专做女裙（jupière），在庭院里开店，雇一两个女工。外祖母当年曾把她当作朱皮安的女儿。"
+ },
+ "jupière": {
+  "zh": "女裙裁缝",
+  "note": "专做女裙（jupe）的裁缝；朱皮安的外甥女由「小帮手」升为女裙裁缝。"
+ },
+ "Antoine": {
+  "zh": "安托万",
+  "note": "盖尔芒特府的膳食总管（maître d'hôtel），目中无人、沉默寡言；弗朗索瓦丝按「chanoine／chanoinesse」的类推，把他的妻子叫作「安托万内丝」。禁与《费德尔》人物或外省人名混。"
+ },
+ "Antoinesse": {
+  "zh": "安托万内丝",
+  "note": "弗朗索瓦丝自造的词，用来称膳食总管安托万的妻子（仿 chanoine／chanoinesse 的阴阳性类推）。译名保留这一生造痕迹。"
+ },
+ "Victor": {
+  "zh": "维克多",
+  "note": "盖尔芒特府的年轻男仆，爱说当年的流行俏皮话；弗朗索瓦丝把他当作朋友。"
+ },
+ "maître d'hôtel (maison)": {
+  "zh": "膳食总管",
+  "note": "贵族府邸中掌管餐桌与仆役的管事（盖尔芒特府即安托万）。与酒店餐厅的「领班」（maître d'hôtel，见该条）区分：同一法语词，府邸内作「膳食总管」。"
+ },
+ "valet de chambre": {
+  "zh": "贴身男仆",
+  "note": "服侍主人起居的男仆；与穿号衣的 valet de pied（男仆／跟班）不同。"
+ },
+ "femme de chambre": {
+  "zh": "贴身女仆",
+  "note": "服侍女主人起居的女仆。"
+ },
+ "gouvernante": {
+  "zh": "女管家",
+  "note": "此处是年轻男仆奉承弗朗索瓦丝时的称呼（「la gouvernante」），指府中的女管事，不是家庭教师。"
+ },
+ "croque-mort": {
+  "zh": "殡葬工",
+  "note": "口语，指抬棺、办丧事的人；形容男爵的丧气模样。"
+ },
+ "piqueur": {
+  "zh": "骑马跟车的马夫",
+  "note": "骑马随车侍候的仆役；公爵让他骑马遛新买的马。与 cocher（车夫）不同。"
+ },
+ "cocher": {
+  "zh": "车夫",
+  "note": "赶马车的人。"
+ },
+ "sixième": {
+  "zh": "六楼",
+  "note": "巴黎旧式公寓最高层的佣人房（sixième étage）；弗朗索瓦丝的住处。"
+ },
+ "loge (concierge)": {
+  "zh": "门房",
+  "note": "公寓底层看门人的住处；不是剧院的「包厢」。"
+ },
+ "duc de Guermantes": {
+  "zh": "盖尔芒特公爵",
+  "note": "即公爵本人（M. de Guermantes）；把全楼房客视为佃户，在院里遛马，对朱皮安索赔大为光火。带姓名称「盖尔芒特先生」。"
+ },
+ "M. de Guermantes": {
+  "zh": "盖尔芒特先生",
+  "note": "即盖尔芒特公爵（duc de Guermantes）在叙述中的通常称呼。禁用「盖尔芒特先生先生」等叠用。"
+ },
+ "hôtel de Guermantes": {
+  "zh": "盖尔芒特府",
+  "note": "公爵夫妇在巴黎的府邸（hôtel particulier）；叙述者一家租住其侧翼。译「盖尔芒特府」，不作「盖尔芒特旅馆」（hôtel 在此非旅馆）。"
+ },
+ "princesse de Guermantes-Bavière": {
+  "zh": "盖尔芒特-巴伐利亚亲王妃",
+  "note": "公爵的堂弟媳，巴伐利亚王室出身；princesse 指亲王妃，不译「公主」。"
+ },
+ "Guermantes-Bavière": {
+  "zh": "盖尔芒特-巴伐利亚",
+  "note": "家族联姻形成的复姓式名号（盖尔芒特家与巴伐利亚王室的结合）；用作亲王妃的称号。"
+ },
+ "Borodino": {
+  "zh": "博罗季诺",
+  "note": "博罗季诺亲王（prince de Borodino），圣卢所在骑兵连的上尉，帝国贵族出身（祖父被拿破仑封为元帅、亲王公爵）， minister 之侄；外表威严，内心单纯。禁用「波罗底诺」「博罗迪诺」。"
+ },
+ "capitaine de Borodino": {
+  "zh": "博罗季诺上尉",
+  "note": "即博罗季诺亲王在本团的军职称呼。"
+ },
+ "princesse de Borodino": {
+  "zh": "博罗季诺亲王妃",
+  "note": "前后两位：第一位据传对拿破仑一世有情并随其去厄尔巴岛，第二位据传与拿破仑三世有染。"
+ },
+ "Ganançay": {
+  "zh": "加南赛",
+  "note": "侯爵（marquis de Ganançay）；叙述者邻座听错名字，把帕朗西侯爵说成「加南赛」。原文拼法带 ç。"
+ },
+ "Palancy": {
+  "zh": "帕朗西",
+  "note": "帕朗西侯爵（marquis de Palancy），赛马俱乐部的老派绅士；在包厢的幽暗里缓缓移动，像海中怪兽。"
+ },
+ "Morienval": {
+  "zh": "莫里安瓦尔",
+  "note": "莫里安瓦尔男爵夫人（baronne de Morienval）；以「红鼻子配尖嘴」为标识的贵妇之一，模仿公爵夫人而不得体。"
+ },
+ "Saint-Euverte": {
+  "zh": "圣厄韦尔特",
+  "note": "圣厄韦尔特夫人（Mme de Saint-Euverte），每年举办盛大音乐会的贵妇；本书前几卷已多次出现，译名沿用既有译文「圣厄韦尔特」。"
+ },
+ "Luxembourg": {
+  "zh": "卢森堡",
+  "note": "卢森堡公爵夫人（duchesse de Luxembourg）；此处指人，不是卢森堡公园或宫。"
+ },
+ "Guise": {
+  "zh": "吉斯",
+  "note": "吉斯公爵夫人（duchesse de Guise）；公爵夫人冬季可能去戛纳投奔的亲戚。"
+ },
+ "Aumale": {
+  "zh": "奥马勒",
+  "note": "奥马勒公爵（duc d'Aumale），奥尔良王室支系；包厢里侧影如亨利四世像章。"
+ },
+ "Uzès": {
+  "zh": "于泽斯",
+  "note": "于泽斯公爵（duc d'Uzès）；士兵们在和平咖啡馆看见与圣卢同席的贵人之一。"
+ },
+ "Poictiers": {
+  "zh": "普瓦捷",
+  "note": "普瓦捷公爵与公爵夫人（duc／duchesse de Poictiers）；原文用旧拼法 Poictiers（今 Poitiers），译名从今音「普瓦捷」。圣卢想把叙述者介绍给这位「表姐」。"
+ },
+ "Condé": {
+  "zh": "孔代",
+  "note": "孔代家族（les Condé），波旁支系；与盖尔芒特家并提的旧贵族，其仆役号衣配色为家族标志。"
+ },
+ "Argencourt": {
+  "zh": "阿尔让库尔",
+  "note": "阿尔让库尔夫人（Mme d'Argencourt），博塞让侯爵之姊；出入两个社交圈。"
+ },
+ "Jussieu": {
+  "zh": "朱西厄",
+  "note": "德·朱西厄先生；法兰西学会院士模样的人物，在自助餐台前审看梨子。"
+ },
+ "Leroy-Beaulieu": {
+  "zh": "勒鲁瓦-博利厄",
+  "note": "经济学家、院士；劝父亲竞选法兰西学会「自由院士」并为他估算票数。"
+ },
+ "Méline": {
+  "zh": "梅利纳",
+  "note": "梅利纳先生，时任内阁总理，反对重审德雷福斯案；父亲与他交好，故坚信德雷福斯有罪。"
+ },
+ "Pourtalès": {
+  "zh": "普塔莱斯",
+  "note": "普塔莱斯夫人（Mme de Pourtalès），巴黎上流沙龙；博罗季诺亲王休假回巴黎时常去她家吃饭。"
+ },
+ "Murat": {
+  "zh": "缪拉",
+  "note": "缪拉家族（les Murat），拿破仑麾下元帅的后裔，巴黎上流社会名门。"
+ },
+ "Mlle Percepied": {
+  "zh": "贝斯比埃小姐",
+  "note": "贡布雷佩斯比埃大夫之女；她的婚礼那天，叙述者第一次见到盖尔芒特公爵夫人（紫罗兰色领带与蓝色目光）。"
+ },
+ "Noirpois": {
+  "zh": "诺尔普瓦",
+  "note": "原文中父亲口里的讹误拼法（M. de Noirpois），所指即诺尔普瓦先生；译文统一作「诺尔普瓦」，不另造字。"
+ },
+ "Viparisi": {
+  "zh": "维尔巴里西斯",
+  "note": "诺尔普瓦念 Villeparisis 时的口音（原文记作 Viparisi，吞掉一个音节）；译文仍作「维尔巴里西斯」，叙述「他念起来像少了一个音」。"
+ },
+ "Bobbey": {
+  "zh": "博贝",
+  "note": "拉谢尔对罗贝尔（Saint-Loup）的昵称，带英语腔；她学来的「时髦叫法」。"
+ },
+ "Zézette": {
+  "zh": "泽泽特",
+  "note": "拉谢尔的昵称（圣卢与她身边人这样叫她）；与「拉谢尔」同指一人。"
+ },
+ "Lévy-Mirepoix": {
+  "zh": "莱维-米尔普瓦",
+  "note": "莱维-米尔普瓦一家；叙述者讥讽地说，社会族谱学家只能在马桑特伯爵夫人身上找出这点犹太姻亲。"
+ },
+ "princesse d'Orient": {
+  "zh": "东方公主",
+  "note": "圣卢一位堂兄所娶的年轻公主，来自东方（黎凡特）；据说写诗比雨果、维尼还好。译「东方公主」，不是「东方亲王妃」。"
+ },
+ "maréchal des logis": {
+  "zh": "中士",
+  "note": "骑兵与宪兵的士官军衔（步兵的 sergeant）；圣卢的军衔。maréchal des logis chef 为上士。禁用「军需长」「马厩长」。"
+ },
+ "maréchal des logis chef": {
+  "zh": "上士",
+  "note": "骑兵士官的最高一级；博罗季诺上尉进门时，值星的上士随副官、司务长一同起立。"
+ },
+ "adjudant": {
+  "zh": "军士长",
+  "note": "协助连长管理内务的资深士官。"
+ },
+ "fourrier": {
+  "zh": "司务长",
+  "note": "管理连队食宿、账目的士官。"
+ },
+ "ordonnance": {
+  "zh": "勤务兵",
+  "note": "被派给军官做杂务的士兵。"
+ },
+ "escadron": {
+  "zh": "骑兵连",
+  "note": "骑兵的连级单位，由上尉（capitaine）指挥。"
+ },
+ "régiment": {
+  "zh": "团",
+  "note": "军队编制单位；本章指圣卢所属的骑兵团。"
+ },
+ "quartier": {
+  "zh": "街区／营房",
+  "note": "两义，须按上下文分辨：① 城市中的「街区、地段」（notre nouveau quartier＝我们新搬来的街区、le quartier où j'ai tant pensé à vous＝我那样想念过您的街区）；② 军队驻地「营房」（aller le voir au quartier＝去营房看他、coucher au quartier＝在营房过夜）。同一章两义并用，不可一律作「营房」。[place]"
+ },
+ "sous-officier": {
+  "zh": "士官",
+  "note": "介于士兵与军官之间的军阶，圣卢即是。"
+ },
+ "brigadier": {
+  "zh": "下士",
+  "note": "骑兵中的初级士官（brigadier）；另有「马夫长」义，本章指军阶。"
+ },
+ "engagé": {
+  "zh": "志愿兵",
+  "note": "签约入伍的士兵。"
+ },
+ "phalzard": {
+  "zh": "大衣",
+  "note": "士兵俚语，指私自改制的军大衣／外套；士兵议论圣卢用「军官呢料」做的 phalzard。译「大衣」，不加注。"
+ },
+ "capiston": {
+  "zh": "上尉",
+  "note": "士兵俚语，指上尉（capitaine）；即博罗季诺上尉。译「上尉」，保留俚语口吻由上下文体现。"
+ },
+ "l'ancien": {
+  "zh": "老兵",
+  "note": "士兵口语，指服役多年、资历深的老兵；与「新兵」「文科毕业生」对举。"
+ },
+ "bachelier": {
+  "zh": "文科毕业生",
+  "note": "通过中学毕业会考（baccalauréat）的人；此处指连里那位爱掉书袋的年轻士兵。"
+ },
+ "Service en Campagne": {
+  "zh": "《野战勤务条令》",
+  "note": "法国骑兵的野战勤务手册（Service en campagne），圣卢说他们还在用 1895 年版。原文斜体，译名加书名号。"
+ },
+ "Duroc": {
+  "zh": "迪罗克",
+  "note": "迪罗克少校（commandant Duroc），军事史教官；圣卢说他的讲法与自己相通。注：与拿破仑的副官迪罗克公爵同名不同人。"
+ },
+ "Saussier": {
+  "zh": "索西耶",
+  "note": "索西耶将军，巴黎军事总督；曾宣称埃斯特哈齐无罪，令德雷福斯派失望。"
+ },
+ "Boisdeffre": {
+  "zh": "布瓦代弗尔",
+  "note": "布瓦代弗尔将军，陆军参谋总长；坚持德雷福斯有罪，被圣卢的朋友引为教权与参谋部偏见的例证。"
+ },
+ "Galliffet": {
+  "zh": "加利费",
+  "note": "加利费将军，以镇压巴黎公社闻名；士兵与军官口中常被列在名将之首。"
+ },
+ "Négrier": {
+  "zh": "内格里耶",
+  "note": "内格里耶将军；圣卢的朋友说他「平庸之极」，令叙述者惊讶于名将序列也会更替。"
+ },
+ "Pau": {
+  "zh": "波",
+  "note": "帕乌将军（général Pau）的姓，与比利牛斯城市波城（Pau）同形；此处只作人名，译「波」。"
+ },
+ "Geslin de Bourgogne": {
+  "zh": "热兰·德·布尔戈涅",
+  "note": "热兰·德·布尔戈涅将军；与「波」并列的新名字，令叙述者有发现新大陆般的快乐。"
+ },
+ "Amaury": {
+  "zh": "阿莫里",
+  "note": "阿莫里将军；突然冒出来的生僻名字，取代了蒂龙、费弗尔。"
+ },
+ "Mangin": {
+  "zh": "芒然",
+  "note": "芒然将军，圣卢称为「我年轻的导师之一，是个天才」；主张以防御代替进攻。"
+ },
+ "Bernhardi": {
+  "zh": "伯恩哈迪",
+  "note": "伯恩哈迪将军，德国军事理论家；主张以两翼包抄、右翼经比利时推进。"
+ },
+ "Falkenhausen": {
+  "zh": "法尔肯豪森",
+  "note": "法尔肯豪森将军，德国将领；与席费尔一起「预先备好一场坎尼式会战」。"
+ },
+ "Schieffer": {
+  "zh": "席费尔",
+  "note": "冯·席费尔元帅（maréchal von Schieffer）；与法尔肯豪森并列。"
+ },
+ "Beauconseil": {
+  "zh": "博孔塞伊",
+  "note": "博孔塞伊骑兵连长（chef d'escadron），被圣卢称作「前途无量的军官」，把普拉岑之战研究得很透。"
+ },
+ "Gibergue": {
+  "zh": "吉贝尔格",
+  "note": "吉贝尔格，圣卢的军官同僚；插话说叙述者「活像迪罗克少校」。"
+ },
+ "Penguern-Stereden": {
+  "zh": "潘盖恩-斯特雷登",
+  "note": "布列塔尼的村庄，老兵（「ancien」）的出生地；他把法语学得像外语，动情时说不出话。"
+ },
+ "Valais": {
+  "zh": "瓦莱",
+  "note": "瑞士瓦莱州；「瓦莱的白痴」（crétin du Valais）是固定骂法，指十足的傻瓜。"
+ },
+ "Schola Cantorum": {
+  "zh": "圣乐学校",
+  "note": "巴黎的圣乐学校（Schola Cantorum），专授对位与赋格；圣卢一位朋友的兄长在此就读。"
+ },
+ "Café de la Paix": {
+  "zh": "和平咖啡馆",
+  "note": "巴黎歌剧院旁的大咖啡馆；士兵们见圣卢与于泽斯公爵、奥尔良亲王在此夜宵。"
+ },
+ "rue de la Chaise": {
+  "zh": "拉谢兹街",
+  "note": "巴黎第七街区的街道；弗朗索瓦丝说另有一支盖尔芒特住在这里。"
+ },
+ "rue Chanoinesse": {
+  "zh": "沙努瓦内斯街",
+  "note": "巴黎圣母院旁的老街，旧日只住教士（chanoines），故名；弗朗索瓦丝由「安托万内丝」联想到它。"
+ },
+ "boulevard de Clichy": {
+  "zh": "克利希大道",
+  "note": "巴黎北部的大道，拉谢尔旧日生活的区域；译「克利希大道」，保留 street 的巴黎地名音译。"
+ },
+ "rue Caumartin": {
+  "zh": "科马丁街",
+  "note": "巴黎第九街区街道，近奥林匹亚酒馆；春日阳光照进这条街，令圣卢想到拉谢尔本可能在此挣一个金路易。"
+ },
+ "Olympia": {
+  "zh": "奥林匹亚",
+  "note": "巴黎的奥林匹亚酒馆（taverne de l'Olympia），看戏后消夜的地方。"
+ },
+ "skating": {
+  "zh": "溜冰场",
+  "note": "十九世纪末巴黎时髦的室内溜冰场（skating-rink）；拉谢尔旧日同伴约她去的地方。"
+ },
+ "Les Andelys": {
+  "zh": "莱桑德利",
+  "note": "诺曼底小镇，埃尔斯蒂尔一幅最出色的风景画所在的那所房子。"
+ },
+ "Figuig": {
+  "zh": "菲吉格",
+  "note": "摩洛哥东南的绿洲；「在菲吉格绿洲睡午觉」喻身在异地而不觉其异。"
+ },
+ "Bruges": {
+  "zh": "布鲁日",
+  "note": "比利时古城；圣卢获准陪情人去旅行的地方。"
+ },
+ "Chantilly": {
+  "zh": "尚蒂伊",
+  "note": "巴黎北面的城堡与赛马地；公爵夫人去奥马勒公爵处住两天。"
+ },
+ "Elbe": {
+  "zh": "厄尔巴岛",
+  "note": "拿破仑一世第一次退位后的流放地；第一位博罗季诺亲王妃随他而去。"
+ },
+ "Ararat": {
+  "zh": "亚拉腊山",
+  "note": "《创世记》中挪亚方舟停泊之山；拉昂大教堂的中殿尚未「像方舟一样落定」在此山上。"
+ },
+ "Parnasse": {
+  "zh": "帕纳塞斯山",
+  "note": "希腊神话中阿波罗与缪斯之山；喻诗歌的圣地。"
+ },
+ "Hélicon": {
+  "zh": "赫利孔山",
+  "note": "缪斯居住的山，与帕纳塞斯并提。"
+ },
+ "Thèbes": {
+  "zh": "底比斯",
+  "note": "埃及古城，以占卜闻名；「Mme de Thèbes」是当时算命婆的通称，此处借指「未卜先知的本事」。"
+ },
+ "Bethléem": {
+  "zh": "伯利恒",
+  "note": "耶稣降生之地；「伯利恒的清点人口」是尼德兰老画家的常见题材，喻旅馆院里挤满旅客。"
+ },
+ "Flandres": {
+  "zh": "佛兰德",
+  "note": "尼德兰南部地区；「佛兰德式的夸张」指老画中鱼肉堆叠的丰盛。"
+ },
+ "Prusse": {
+  "zh": "普鲁士",
+  "note": "德意志邦国；博罗季诺上尉神气活现时像在「缔造一个新的普鲁士和意大利」。"
+ },
+ "Autriche": {
+  "zh": "奥地利",
+  "note": "哈布斯堡帝国；萨克森亲王是奥地利皇帝的侄儿。"
+ },
+ "Russie": {
+  "zh": "俄国",
+  "note": "沙皇俄国；诺尔普瓦说俄国皇帝待他如友。"
+ },
+ "Belgique": {
+  "zh": "比利时",
+  "note": "伯恩哈迪主张右翼经比利时推进。"
+ },
+ "Danube": {
+  "zh": "多瑙河",
+  "note": "「多瑙河农民」（le paysan du Danube）是拉封丹寓言中的典故，指乡下人直话直说；勒格朗丹自称「维沃纳的农民，也是多瑙河的农民」。"
+ },
+ "Méditerranée": {
+  "zh": "地中海",
+  "note": "公爵夫人狂欢节时可在别墅里面对地中海吃午饭。"
+ },
+ "Champagne": {
+  "zh": "香槟",
+  "note": "此处两义并用：香槟地区（拉昂、博韦之间的平原）与香槟酒（圣卢与拉谢尔对饮）。"
+ },
+ "Austerlitz": {
+  "zh": "奥斯特利茨",
+  "note": "1805 年拿破仑大捷；博罗季诺上尉骑马巡视时仿佛置身此役。"
+ },
+ "Wagram": {
+  "zh": "瓦格拉姆",
+  "note": "1809 年拿破仑战胜奥地利的战役；「谷登堡与瓦格拉姆」指两位求情者（印刷术发明人与年轻的亲王司机）。"
+ },
+ "Ulm": {
+  "zh": "乌尔姆",
+  "note": "1805 年拿破仑包围马克军的战役；圣卢用它说明「战略模仿」。"
+ },
+ "Lodi": {
+  "zh": "洛迪",
+  "note": "1796 年拿破仑在意大利的桥头之战。"
+ },
+ "Rivoli": {
+  "zh": "里沃利",
+  "note": "1797 年拿破仑在意大利的战役。"
+ },
+ "Leuthen": {
+  "zh": "洛伊滕",
+  "note": "1757 年腓特烈大帝以斜线战序大败奥军；伯恩哈迪偏爱此战。"
+ },
+ "Rosbach": {
+  "zh": "罗斯巴赫",
+  "note": "1757 年腓特烈大帝大败法军；与滑铁卢、奥斯特利茨并列为「会被模仿的战役」。"
+ },
+ "Waterloo": {
+  "zh": "滑铁卢",
+  "note": "1815 年拿破仑最终败绩。"
+ },
+ "Sedan": {
+  "zh": "色当",
+  "note": "1870 年拿破仑三世投降之役；博罗季诺亲王战后求见皇帝，被俾斯麦挡回。"
+ },
+ "Pratzen": {
+  "zh": "普拉岑",
+  "note": "奥斯特利茨战役中的普拉岑高地；博孔塞伊研究「普拉岑那次进攻」。"
+ },
+ "Leipzig": {
+  "zh": "莱比锡",
+  "note": "1813 年「民族之战」，拿破仑败于联军。"
+ },
+ "Wissembourg": {
+  "zh": "维桑堡",
+  "note": "1870 年边境之战，土耳其兵（turcos）在此作战；与圣普里瓦、弗勒施维莱并为例证。"
+ },
+ "Saint-Privat": {
+  "zh": "圣普里瓦",
+  "note": "1870 年 8 月 18 日的血战，普鲁士近卫军在此受挫。"
+ },
+ "Frœschviller": {
+  "zh": "弗勒施维莱",
+  "note": "1870 年 8 月 6 日的战斗，土耳其兵在此苦战。"
+ },
+ "bataille de Cannes": {
+  "zh": "坎尼会战",
+  "note": "公元前 216 年汉尼拔围歼罗马军之战；原文作 Cannes，与蔚蓝海岸的戛纳同形，务必译「坎尼」，不可译「戛纳」。"
+ },
+ "Annibal": {
+  "zh": "汉尼拔",
+  "note": "迦太基名将，坎尼会战的胜利者。"
+ },
+ "Frédéric le Grand": {
+  "zh": "腓特烈大帝",
+  "note": "普鲁士国王，斜线战序（ordre oblique）的发明者。"
+ },
+ "Mack": {
+  "zh": "马克",
+  "note": "1805 年在乌尔姆被围的奥军将领。"
+ },
+ "Napoléon Ier": {
+  "zh": "拿破仑一世",
+  "note": "即「皇帝」（l'Empereur）；博罗季诺家族的封爵者。"
+ },
+ "Napoléon III": {
+  "zh": "拿破仑三世",
+  "note": "第二帝国皇帝；博罗季诺亲王的父亲曾在其手下两度任大臣。"
+ },
+ "l'Empereur": {
+  "zh": "皇帝",
+  "note": "本章多指拿破仑一世（加冕、封元帅与亲王公爵）；有时指拿破仑三世，须按上下文判断。"
+ },
+ "Talleyrand": {
+  "zh": "塔列朗",
+  "note": "拿破仑的外交大臣，以机巧著称；「能骗过塔列朗、瞒过亚历山大」喻上尉挑选呢料时的目光。"
+ },
+ "Berthier": {
+  "zh": "贝尔蒂埃",
+  "note": "拿破仑的参谋长；上尉进值星室时身后跟着副官与司务长，如贝尔蒂埃与马塞纳。"
+ },
+ "Masséna": {
+  "zh": "马塞纳",
+  "note": "拿破仑的元帅。"
+ },
+ "Lannes": {
+  "zh": "拉纳",
+  "note": "拿破仑的元帅；1806 年拿破仑给他的指示被引为「不循常规」的例子。"
+ },
+ "Alexandre": {
+  "zh": "亚历山大",
+  "note": "俄国沙皇亚历山大一世。"
+ },
+ "Bismarck": {
+  "zh": "俾斯麦",
+  "note": "普鲁士首相；色当之后挡回博罗季诺亲王的求见，却因他酷似拿破仑三世而改口。"
+ },
+ "Hohenzollern": {
+  "zh": "霍亨索伦",
+  "note": "普鲁士王室；博罗季诺亲王与之联姻。"
+ },
+ "Fould": {
+  "zh": "富尔德",
+  "note": "第二帝国的财政大臣、银行家；「第二帝国从资产阶级里找来的富尔德、鲁埃」。"
+ },
+ "Rouher": {
+  "zh": "鲁埃",
+  "note": "第二帝国的政治家；与富尔德并提。"
+ },
+ "prince-duc": {
+  "zh": "亲王公爵",
+  "note": "拿破仑封给元帅的双重爵号（prince-duc）；博罗季诺亲王的祖父即受此封。"
+ },
+ "majorat": {
+  "zh": "世袭财产",
+  "note": "长子继承、附于爵位的不可分割产业（majorat）；帝国新贵以此稳固门第。"
+ },
+ "comtes refaits": {
+  "zh": "「重造的伯爵」",
+  "note": "圣日耳曼区的挖苦话，指帝国新封、由皇帝「重新确认」的伯爵；原文带引号。"
+ },
+ "prince Eugène": {
+  "zh": "欧仁亲王",
+  "note": "即博阿尔内亲王欧仁（Eugène de Beauharnais），拿破仑的养子、意大利总督；巴尔贝克旅馆餐厅里一幅旧版画上的人物，多年挂在原处。译「欧仁亲王」（不用「欧根亲王」，后者指萨伏依的欧根）。"
+ },
+ "prince d'Orléans": {
+  "zh": "奥尔良亲王",
+  "note": "奥尔良王室成员；士兵们见圣卢与他在和平咖啡馆同席。"
+ },
+ "La Chartreuse de Parme": {
+  "zh": "《巴马修道院》",
+  "note": "司汤达小说（La Chartreuse de Parme）；圣卢爱之极深，问叙述者更喜欢莫斯卡还是法布里斯。原文斜体，译名加书名号。禁用《帕尔马修道院》。"
+ },
+ "Mosca": {
+  "zh": "莫斯卡",
+  "note": "《巴马修道院》中的首相；叙述者说他有点像诺尔普瓦先生。"
+ },
+ "Fabrice": {
+  "zh": "法布里斯",
+  "note": "《巴马修道院》男主角法布里斯·台尔·唐戈。"
+ },
+ "Zaïre": {
+  "zh": "《扎伊尔》",
+  "note": "伏尔泰的悲剧（Zaïre）；亲王妃裹着白蓝头巾，像戏里扮扎伊尔或奥罗斯曼的悲剧女演员。"
+ },
+ "Orosmane": {
+  "zh": "奥罗斯曼",
+  "note": "《扎伊尔》中的苏丹，剧名又作 Orosmane；与扎伊尔并提。"
+ },
+ "Aricie": {
+  "zh": "阿里西",
+  "note": "拉辛《费德尔》中的人物，忒修斯之子的未婚妻；叙述者从前在朗诵中听出的「温柔或愤怒的用意」，如今不再买账。"
+ },
+ "Ismène": {
+  "zh": "伊斯梅娜",
+  "note": "《费德尔》中费德尔的侍女。"
+ },
+ "Hippolyte": {
+  "zh": "希波吕托斯",
+  "note": "《费德尔》中忒修斯之子，费德尔向他表白。"
+ },
+ "Œnone": {
+  "zh": "俄诺涅",
+  "note": "《费德尔》中费德尔的乳母与心腹。"
+ },
+ "Thésée": {
+  "zh": "忒修斯",
+  "note": "《费德尔》中费德尔之夫。"
+ },
+ "la Scène de la Déclaration": {
+  "zh": "「表白」一场",
+  "note": "《费德尔》中费德尔向希波吕托斯表白的那一场；原文作 la « Scène de la Déclaration »，带引号，译名同样加引号。"
+ },
+ "Polichinelle": {
+  "zh": "波利希内尔",
+  "note": "意大利木偶戏中的驼背丑角，声音尖利；电话听筒在他手里「像波利希内尔一样说起话来」。"
+ },
+ "Mélusine": {
+  "zh": "梅吕西娜",
+  "note": "传说中半人半蛇的仙女，吕西尼昂家族的始祖；仙女死去，家族便绝。"
+ },
+ "Lusignan": {
+  "zh": "吕西尼昂",
+  "note": "法国古老家族，传说因梅吕西娜而兴，也随她消失而绝。"
+ },
+ "Childebert": {
+  "zh": "希尔德贝尔",
+  "note": "墨洛温王朝国王，常在盖尔芒特附近的古林中狩猎。"
+ },
+ "Breughel": {
+  "zh": "勃鲁盖尔",
+  "note": "尼德兰画家，笔下农民面孔通红、酒气腾腾；喻冬天街上士兵冻红的脸。禁用「勃吕盖尔」。"
+ },
+ "Bernard Palissy": {
+  "zh": "帕利西",
+  "note": "十六世纪法国陶艺家，以蛇、虾、贝壳装饰的「田园陶」著称；龙虾在「永恒之火」里煮着，像他的陶盘。"
+ },
+ "Cléopâtre": {
+  "zh": "克莉奥帕特拉",
+  "note": "埃及女王，以豪奢著称；拉谢尔花钱的派头被比作她。"
+ },
+ "Schéhérazade": {
+  "zh": "山鲁佐德",
+  "note": "《一千零一夜》的说故事者；那位东方公主的谈吐并不像她，倒像维尼或雨果。"
+ },
+ "Siegfried": {
+  "zh": "齐格弗里德",
+  "note": "瓦格纳《尼伯龙根的指环》中的少年英雄；叙述者说醒来像「年轻的齐格弗里德」挥斧破冰，圣卢则被叫作「年轻的齐格弗里德-圣卢」。"
+ },
+ "Gutenberg": {
+  "zh": "谷登堡",
+  "note": "活字印刷术的发明者；与瓦格拉姆（亲王司机）并列，是「看不见的权势」求告无门的两个例子。"
+ },
+ "Prométhée": {
+  "zh": "普罗米修斯",
+  "note": "盗火给人类的提坦神；病人不能造火，只能造「火的声音」。"
+ },
+ "Saturne": {
+  "zh": "萨图恩",
+  "note": "罗马农神，也指土星；「人们把火星、金星、土星的名字给毫无神话意味的星星」。"
+ },
+ "Junon": {
+  "zh": "朱诺",
+  "note": "罗马天后，孔雀是她的圣鸟；喻两位表姐妹各有专属的饰物。"
+ },
+ "Minerve": {
+  "zh": "密涅瓦",
+  "note": "罗马智慧女神，其胸甲（égide）无人能僭用。"
+ },
+ "Diane": {
+  "zh": "狄安娜",
+  "note": "罗马狩猎女神，以轻盈美丽著称；公爵夫人「美得像狄安娜」。"
+ },
+ "Mercure": {
+  "zh": "墨丘利",
+  "note": "罗马神使，脚生双翼；叙述者在广场上觉得自己「脚后跟长了墨丘利的翅膀」。"
+ },
+ "Mars": {
+  "zh": "玛尔斯",
+  "note": "罗马战神，也是火星；与维纳斯、萨图恩并提。"
+ },
+ "Mme de Thèbes": {
+  "zh": "底比斯夫人",
+  "note": "当时巴黎著名的算命婆；「底比斯式的直觉」即未卜先知。"
+ },
+ "Mater Semita": {
+  "zh": "Mater Semita",
+  "note": "拉谢尔编造的假拉丁文词源（把 Marsantes 说成「母亲—闪米特」）；原文保留拉丁文，并随即点明 Semita 意为「小径」而非「闪米特」。译文保留原样，不加注。"
+ },
+ "dreyfusard": {
+  "zh": "德雷福斯派",
+  "note": "主张重审德雷福斯案、为其申冤的人；圣卢、布洛克、萨士拉夫人皆属此派。"
+ },
+ "dreyfusisme": {
+  "zh": "德雷福斯主义",
+  "note": "德雷福斯派的立场与主张。"
+ },
+ "cléricalisme": {
+  "zh": "教权主义",
+  "note": "天主教会干预政治与社会生活的倾向；圣卢的朋友以此解释军官的偏见。"
+ },
+ "militarisme": {
+  "zh": "军国主义",
+  "note": "以军事精神统摄一切的风气；「军国主义精神蒙住了索西耶的眼睛」。"
+ },
+ "franc-maçon": {
+  "zh": "共济会会员",
+  "note": "共济会成员；军官中以「是共济会会员、不去忏悔」为不受欢迎的理由。"
+ },
+ "nationaliste": {
+  "zh": "民族主义者",
+  "note": "此处指反德雷福斯、排犹的民族主义者；他们把「Mater Semita」的讹词源套在圣卢身上。"
+ },
+ "loge": {
+  "zh": "楼座包厢",
+  "note": "剧院楼座的包厢（demander sa loge＝报上包厢号即可入座）；与 baignoire（底层包厢）、balcon（楼厅）区分。**另义**：公寓门房的小屋、门房的职位（rapport à la loge＝因为门房那个位子、les concierges sont jaloux），须按上下文作「门房」或「门房那个位子」，不可一律作「包厢」。"
+ },
+ "balcon": {
+  "zh": "楼厅",
+  "note": "剧院二层的楼厅（balcon en terrasse，平台式楼厅），贵妇们倚栏俯视大厅。"
+ },
+ "fauteuil d'orchestre": {
+  "zh": "正厅前座",
+  "note": "正厅池座中的单人座；与「正厅后座」（parterre）不同。"
+ },
+ "strapontin": {
+  "zh": "加座",
+  "note": "正厅边缘可翻起的加座；「岸边的加座」指池座边缘的一排。"
+ },
+ "contrôleur": {
+  "zh": "检票员",
+  "note": "剧院入口查票的职员；萨克森亲王向他问包厢号。"
+ },
+ "trois coups": {
+  "zh": "三下",
+  "note": "两义，按语境分辨：① 剧院开演前敲三下，提醒观众入座（trois coups）；② 主人按铃连响三四声、仆人当作「乐队调音」（本章弗朗索瓦丝与仆役段）。不要一律作「三下开场声」。"
+ },
+ "andrinople": {
+  "zh": "大红棉布",
+  "note": "一种染成大红色的棉织物，因土耳其城市安德林诺普尔（今埃迪尔内）得名；形容盖尔芒特府那个丑陋小客厅的帷幔。"
+ },
+ "Sèvres": {
+  "zh": "塞夫勒",
+  "note": "塞夫勒瓷器厂；「王蓝」色（bleu de roi）的塞夫勒瓷器，博罗季诺亲王用来招待外省客人。"
+ },
+ "bleu de roi": {
+  "zh": "王蓝",
+  "note": "塞夫勒瓷的一种深蓝釉色；译「王蓝」，不作「国王蓝」。"
+ },
+ "Boucheron": {
+  "zh": "宝诗龙",
+  "note": "巴黎旺多姆广场的珠宝店；圣卢在此为拉谢尔订下一条三万法郎的项链。"
+ },
+ "résille": {
+  "zh": "发网",
+  "note": "用白色小贝壳与珍珠穿成的发网；亲王妃戴在头发上。"
+ },
+ "alcyon": {
+  "zh": "翠鸟",
+  "note": "halcyon，传说中在海面筑浮巢的翠鸟；「翠鸟巢」喻亲王妃脸颊被白花托住的柔软。"
+ },
+ "néréide": {
+  "zh": "涅瑞伊得斯",
+  "note": "希腊神话中的海中仙女；包厢里的贵妇被写成海仙女。"
+ },
+ "triton": {
+  "zh": "特里同",
+  "note": "希腊神话中的半人半鱼海神；海仙女俯身相就的「长须特里同」即包厢里的老先生们。"
+ },
+ "Danaïdes": {
+  "zh": "达那伊得斯",
+  "note": "希腊神话中永无休止地往无底桶里注水的众女；喻电话接线女郎不停倒空、注满、传递声音。"
+ },
+ "Furies": {
+  "zh": "复仇女神",
+  "note": "希腊神话中追罚罪人的女神；「讥诮的复仇女神」指电话接线女郎在我们低声说话时冷冷应一声「听着」。"
+ },
+ "Demoiselles du téléphone": {
+  "zh": "电话小姐",
+  "note": "叙述者对电话局接线女郎的诗意称呼（「看不见的女祭司」「夜之女儿」「传话使者」）；译「电话小姐」，保留其拟神话色彩。"
+ },
+ "Sainte Table": {
+  "zh": "圣餐桌",
+  "note": "领圣体前的圣餐桌；喻盖尔芒特家十二人餐桌旁围坐的宾客如圣徒金像。"
+ },
+ "Écritures": {
+  "zh": "《圣经》",
+  "note": "les Écritures，即《圣经》；帕斯卡把宗教的真理建立在「理性与《圣经》的权威」上。"
+ },
+ "Patriarches": {
+  "zh": "族长",
+  "note": "《旧约》中的族长（挪亚、亚伯拉罕等）；方舟窗口俯身张望的老者。"
+ },
+ "Justes": {
+  "zh": "义人",
+  "note": "《圣经》中的义人；与族长一同在方舟里。"
+ },
+ "Arche du Déluge": {
+  "zh": "挪亚方舟",
+  "note": "《创世记》中挪亚躲避洪水的方舟；拉昂大教堂的中殿尚未「落定」如方舟停在亚拉腊山。"
+ },
+ "chérubin": {
+  "zh": "基路伯",
+  "note": "《圣经》中的天使一阶；旅馆餐厅里穿白围裙的年轻侍者被写成小天使。"
+ },
+ "séraphin": {
+  "zh": "撒拉弗",
+  "note": "《圣经》中最高一阶的天使，有六翼。"
+ },
+ "empyrée": {
+  "zh": "最高天",
+  "note": "古典宇宙观中最高一重天，纯火之城；喻灯光下侍者仿佛从最高天降下。"
+ },
+ "Notre-Dame de Chartres": {
+  "zh": "沙特尔圣母院",
+  "note": "沙特尔主教座堂；与巴黎圣母院并提，说明盖尔芒特家族之古老。"
+ },
+ "orangerie": {
+  "zh": "橘园",
+  "note": "王宫或府邸中冬天存放橘树的暖房；本章指奥尔良旧王宫的橘园。"
+ },
+ "Caisse d'épargne": {
+  "zh": "储蓄银行",
+  "note": "法国的储蓄银行；旧王宫建筑里如今设着储蓄银行与驻军。"
+ },
+ "bureau d'esprit": {
+  "zh": "才情沙龙",
+  "note": "以才思敏捷著称的沙龙（tenir un bureau d'esprit）；父亲转述诺尔普瓦的话。译「才情沙龙」，保留引号。"
+ },
+ "membre libre": {
+  "zh": "自由院士",
+  "note": "法兰西学会五个学院中不占固定座位的院士（membre libre）；父亲想以自由院士身份竞选。"
+ },
+ "Altesse": {
+  "zh": "殿下",
+  "note": "对亲王、亲王夫人的尊称；「Monseigneur」用于直接称呼（大人），「Son Altesse」（S.A. 殿下）用于提及。"
+ },
+ "Monsieur le Duc": {
+  "zh": "公爵先生",
+  "note": "仆役对公爵的正式称呼（Monsieur le Duc）；朱皮安只称「先生」，令公爵不快。"
+ },
+ "Madame la Duchesse": {
+  "zh": "公爵夫人",
+  "note": "仆役对公爵夫人的正式称呼。"
+ },
+ "Urbaine": {
+  "zh": "城市马车",
+  "note": "l'Urbaine 是巴黎一家公共马车公司；拉谢尔花钱的派头足以「吃掉几个省和王国的 Urbaine 马车」。译「城市马车」，保留公司名的意味由上下文体现。"
+ },
+ "calicot": {
+  "zh": "布店伙计",
+  "note": "十九世纪俚语，指绸布店的年轻伙计，引申为「穿着时髦的小伙子」；拉谢尔旧日同伴身边跟着两个 calicots。"
+ },
+ "poule": {
+  "zh": "野鸡",
+  "note": "俚语，指妓女；「像她一样的粗俗野鸡」即拉谢尔的旧日同类。译「野鸡」以保留粗俗程度，不作「母鸡」。"
+ },
+ "loutre": {
+  "zh": "水獭皮",
+  "note": "水獭毛皮；「假水獭皮」指她们身上的人造毛领。"
+ },
+ "pelote": {
+  "zh": "积蓄",
+  "note": "faire sa pelote 意为「攒下一笔钱」；拉谢尔打算攒够了就退隐乡下或进大剧院。"
+ },
+ "louis": {
+  "zh": "金路易",
+  "note": "法国金币，相当于二十法郎；「挣一个金路易」即接一次客。"
+ },
+ "équipage": {
+  "zh": "车马",
+  "note": "一套马车连同马匹与仆役；「我们没有车马，是因为我们不要」。"
+ },
+ "calorifère": {
+  "zh": "暖气设备",
+  "note": "供暖的暖炉或暖气；公爵因风湿，医生不许他在装暖气前回盖尔芒特城堡。"
+ },
+ "Mail": {
+  "zh": "林荫散步道",
+  "note": "外省城中供散步的林荫道（le Mail），博罗季诺亲王在博韦的住宅所在。"
+ },
+ "verre de lanterne magique": {
+  "zh": "幻灯镜片",
+  "note": "幻灯机（lanterne magique）投出的彩色玻璃片；少年时盖尔芒特夫人于他，只是「一片幻灯镜片与一扇教堂彩窗的反光」。"
+ },
+ "habitude": {
+  "zh": "习惯",
+  "note": "全书核心概念之一：习惯遮蔽现实、使人事显得自然，也使失去之物显出缺口的形状；本章以弗朗索瓦丝的乡愁、酒店的「过渡」与圣卢的恋情交织。"
+ },
+ "sommeil": {
+  "zh": "睡眠",
+  "note": "本章以整节篇幅写睡眠的形态（铅一样的睡眠、噩梦、被埋住的梦）；「睡眠的园圃」是固定意象，译「睡眠」，不作「睡意」。"
+ },
+ "essence": {
+  "zh": "本质",
+  "note": "「军事优越性的本质」「诗的本质」；叙述者一再用它指事物不可还原的内核。"
+ },
+ "race": {
+  "zh": "血统",
+  "note": "「ça sent la race」指「一股血统味儿」；本章另一处与 caste（种姓）并提。译「血统」，不译「种族」（后者指人种）。"
+ },
+ "Saxe": {
+  "zh": "萨克森",
+  "note": "德意志邦国；prince de Saxe 即奥地利皇帝的侄儿萨克森亲王（本章叙述者在歌剧院楼梯上误认的那位）。porcelaine de Saxe 指迈森／萨克森瓷，「萨克森瓷人偶」喻盖尔芒特夫人只是名字漩涡中心的一尊小瓷像。"
+ },
+ "prince de Saxe": {
+  "zh": "萨克森亲王",
+  "note": "奥地利皇帝的侄儿，当时正在巴黎；叙述者见其酷似报纸刊登的肖像，便认定眼前人是萨克森亲王。不得坐实其身份——原文写「也许就是萨克森亲王」。"
+ },
+ "Bavière": {
+  "zh": "巴伐利亚",
+  "note": "德意志王国；duc de Bavière 即巴伐利亚公爵。princesse de Guermantes-Bavière 的「巴伐利亚」出自这一王室。"
+ },
+ "duc de Bavière": {
+  "zh": "巴伐利亚公爵",
+  "note": "盖尔芒特亲王妃的兄弟；仆役说「她是巴伐利亚公爵的姐妹」。"
+ },
+ "porcelaine de Saxe": {
+  "zh": "萨克森瓷",
+  "note": "十八世纪萨克森（迈森）烧制的白瓷人偶；喻盖尔芒特夫人在一圈名字中间的样子。"
+ },
+ "la Schola": {
+  "zh": "圣乐学校",
+  "note": "即 Schola Cantorum 的简称；圣卢一位朋友的兄长在此学对位与赋格。"
+ },
+ "les Elstirs": {
+  "zh": "埃尔斯蒂尔的画",
+  "note": "口语说法（les Elstirs de Mme de Guermantes），指盖尔芒特夫人家中所藏的埃尔斯蒂尔作品；译「埃尔斯蒂尔的画」，不作「埃尔斯蒂尔们」。"
+ },
+ "Notre-Dame de Paris (cathédrale)": {
+  "zh": "巴黎圣母院",
+  "note": "巴黎主教座堂（大教堂），非雨果小说《巴黎圣母院》（后者另有条目）。本章说盖尔芒特家族兴起时，巴黎圣母院与沙特尔圣母院尚未建成。"
+ },
+ "avenue Gabriel": {
+  "zh": "加布里埃尔大道",
+  "note": "香榭丽舍与蒙田大道之间的大道；叙述者从前常在它的拐角等候希尔贝特。注意与建筑师「加布里埃尔」（Gabriel）区分。"
+ },
+ "Cannes (bataille)": {
+  "zh": "坎尼会战",
+  "note": "公元前 216 年汉尼拔围歼罗马军之战，原文作 Cannes（与蔚蓝海岸戛纳同形）。本章凡与 Ulm／Lodi／Leipzig／Austerlitz 并列、或与 Annibal／Falkenhausen 并提者，一律译「坎尼」，不得译「戛纳」。"
+ },
+ "pétrousses": {
+  "zh": "乡下婆娘",
+  "note": "弗朗索瓦丝之女口中的土话（pétrousses），指外省集市上的村妇，带轻蔑；译「乡下婆娘」，保留原文引号与轻蔑语气，不加注。"
+ },
+ "Bazireau": {
+  "zh": "巴齐罗",
+  "note": "弗朗索瓦丝之女在集市上被人提起时用的父名（la fille au défunt Bazireau＝已故巴齐罗的闺女）；音译「巴齐罗」，不加解释。"
+ },
+ "l'Intran": {
+  "zh": "《不妥协者报》",
+  "note": "巴黎报纸《不妥协者报》（l'Intransigeant）的通俗缩称；原文作 l'Intran，带引号，表现女儿学时髦人说缩略语。译《不妥协者报》并保留引号，或按原文缩称作「《不妥协者》」，全书统一。"
+ },
+ "prince d'Oléron": {
+  "zh": "奥莱龙亲王",
+  "note": "盖尔芒特公爵次子的称号（le fils cadet du duc de Guermantes s'appelait généralement le prince d'Oléron）；prince 在此为贵族长子以下的世袭称号，作「亲王」。地名 Oléron 为法国大西洋岸岛屿，译「奥莱龙」。"
+ },
+ "hôtel de Flandre": {
+  "zh": "弗兰德旅馆",
+  "note": "圣卢为叙述者推荐的唐西埃尔旅馆（hôtel de Flandre），原是十八世纪的小宫殿、有旧挂毯；译「弗兰德旅馆」，hôtel 在此为旅馆而非府邸。"
+ },
+ "commandant": {
+  "zh": "少校",
+  "note": "陆军／骑兵的营级校官（commandant），与 capitaine（上尉）、chef d'escadron（骑兵少校）并列；本章指军事史教官迪罗克少校。不作「指挥官」（泛指）。"
+ },
+ "maître tailleur": {
+  "zh": "军装裁缝",
+  "note": "团里专做军服的裁缝师傅（maître tailleur）；博罗季诺上尉挑选呢料时盯着他。"
+ },
+ "Picquart": {
+  "zh": "皮卡尔",
+  "note": "皮卡尔中校（lieutenant-colonel Picquart），情报处前处长，因发现埃斯特哈齐有罪而主张重审，成为德雷福斯派的关键人物；本章只被提及。"
+ },
+ "Esterhazy": {
+  "zh": "埃斯特哈齐",
+  "note": "埃斯特哈齐少校（commandant Esterhazy），德雷福斯案中真正的间谍嫌疑人；索西耶将军曾宣布其无罪，引发德雷福斯派愤怒。不作「埃斯特哈吉」。"
+ },
+ "turcos": {
+  "zh": "土耳其兵",
+  "note": "法国军队中的阿尔及利亚土著步兵（turcos／tirailleurs algériens）的俗称；1870 年圣普里瓦、弗勒施维莱之战中作战勇猛。译「土耳其兵」，保留当时的俗称。"
+ },
+ "garde prussienne": {
+  "zh": "普鲁士近卫军",
+  "note": "1870 年战争中普鲁士的近卫部队；圣卢举圣普里瓦之战为例。"
+ },
+ "Lucienne": {
+  "zh": "吕西安娜",
+  "note": "拉谢尔旧日的同伴（「野鸡」之一），在郊区火车上招呼她；只作名字音译，不另加身份说明。"
+ },
+ "Germaine": {
+  "zh": "热尔梅娜",
+  "note": "拉谢尔旧日的同伴，与吕西安娜同车；只作名字音译。"
+ },
+ "île du Diable": {
+  "zh": "魔鬼岛",
+  "note": "法属圭亚那的流放地，德雷福斯曾被囚于此；译「魔鬼岛」，不作「恶魔岛」。"
+ },
+ "Madeleine (sainte)": {
+  "zh": "抹大拉的马利亚",
+  "note": "《福音书》中的抹大拉的马利亚（la Madeleine），非贝壳形蛋糕 madeleine（后者见 madeleine 条）。本章以「抹大拉的马利亚」形容拉谢尔身上的某种圣洁光晕。"
+ }
+}

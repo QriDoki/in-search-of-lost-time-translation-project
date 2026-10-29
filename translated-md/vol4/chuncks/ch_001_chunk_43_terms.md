@@ -1,0 +1,12 @@
+| EN | ZH | note |
+|---|---|---|
+| Balbec | 巴尔贝克 | 诺曼底海滨胜地（原型卡堡）。前三卷只在想象与谈论中出现；vol4 第 1 章叙述者与外祖母真正抵达，住海滨大酒店，教堂在内陆的巴尔贝克镇。首现第1章。[place] |
+| Cambremer | 康布雷梅尔 | [person] M^me^ de Cambremer→康布雷梅尔夫人；marquis/marquise de Cambremer→康布雷梅尔侯爵/侯爵夫人；第2章chunk22-23出现 |
+| caste | 种姓 | caste 本义为印度种姓制度。原文明确以「une idée un peu hindoue」（带点印度色彩的观念）框定这一比喻，故保留「种姓」的比喻语，不泛化为「阶层／阶级」；指19世纪末法国资产阶级眼中封闭而不可逾越的社交等级。vol4 第 1 章多处沿用。[类别 concept] |
+| Israël | 伊斯拉埃尔 | 夏吕斯口中的富有犹太金融家「伊斯拉埃尔们」（les Israël），与伊斯拉埃尔爵士家族同姓；原文把姓氏当族称用，带反犹口吻，译文照译，不改写。首现 vol4 第 1 章。[person] |
+| lift | 电梯 | 二十世纪初大酒店的新式电梯。布洛克故意把它念成英文腔「laïft」，圣卢纠正说「电梯」；译文中对白作「电梯」，原文的 laïft／lift 以斜体保留。首现 vol4 第 1 章。[social] |
+| premier président | 首席院长 | 上诉法院首席院长（premier président）；其妻为酒店闲话圈一员。首现 vol4 第 1 章。[social] |
+| Robert de Saint-Loup | 罗贝尔·德·圣卢 | 圣卢的全名；叙述者与之互称名字。首现 vol4 第 1 章。[person] |
+| Ruskin | 罗斯金 | 约翰·罗斯金，英国艺术批评家；母亲以「罗斯金笔下的虔诚旅行者」打趣叙述者。首现 vol4 第 1 章。[person] |
+| Stones of Venice | 《威尼斯之石》 | 罗斯金著作；布洛克故意念作 Stones of Venaïce 以炫耀，译文作《威尼斯之石》并保留原文斜体。首现 vol4 第 1 章。[work] |
+| tziganes | 茨冈人 | 酒店里演奏的吉普赛乐队；不作「吉普赛人」以外的异写。首现 vol4 第 1 章。[social] |
