@@ -1,0 +1,11 @@
+{
+  "book": "Le Temps retrouvé (À la recherche du temps perdu XIV) - Marcel Proust",
+  "volume": "vol14",
+  "prev_volume": "vol13",
+  "source_dir": "/home/qri/lost-time/raw-md/vol14",
+  "last_completed_chapter": 3,
+  "current_chapter": null,
+  "current_chapter_chunks_total": 0,
+  "completed_chunks": [],
+  "glossary_version": 5
+}

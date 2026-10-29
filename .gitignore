@@ -1,0 +1,58 @@
+# 黑名单模式：默认跟踪所有文件，只排除下列本地工作文件与构建产物。
+
+# 依赖与站点/打包产物
+node_modules/
+dist/
+site/chapters/
+site/public/
+site/toc.md
+site/.vitepress/cache/
+site/.vitepress/dist/
+site/.vitepress/generated/
+
+# 原文 EPUB、转换结果与中间目录
+*.epub
+epubs/
+arranged-md/
+work/
+.incoming/
+latest
+classifier-debug.log
+003_translation_context_yilin.md
+
+# 本地工具配置与未入库的项目说明
+.claude/
+AGENTS.md
+WORKFLOW.md
+
+
+# 润色稿：只保留 chapters，校勘建议与提示词不入库
+polish/prompt.md
+
+# 所有图片均不入库
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.avif
+*.bmp
+*.tif
+*.tiff
+*.svg
+
+
+# 杂项
+.DS_Store
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+translated-md/vol*/images/
+raw-md/**/images
+conversion_log.txt
+十五人译本/
+compare-report/chapters

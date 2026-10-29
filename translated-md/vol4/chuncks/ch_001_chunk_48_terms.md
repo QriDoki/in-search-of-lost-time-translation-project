@@ -1,0 +1,20 @@
+| EN | ZH | note |
+|---|---|---|
+| baron de Charlus | 夏吕斯男爵 | 属于斯万的上流社会交游背景。 原文别名: Charlus [类别 person] [依据译林版参考术语表 003_swann_context/glossary.json] |
+| baron de Guermantes | 盖尔芒特男爵 | 维尔巴里西斯侯爵夫人一时口误，把夏吕斯称作「盖尔芒特男爵」，随即改口为「夏吕斯男爵」。此口误是本章情节要点，必须照译，不得统一改成夏吕斯男爵。首现 vol4 第 1 章。[person_title] |
+| Carrière | 卡里埃 | 欧仁·卡里埃，法国画家；盖尔芒特家藏有其为圣卢姑母所作肖像。首现 vol4 第 1 章。[person] |
+| casino | 娱乐场 | 巴尔贝克海滨的娱乐场，兼有音乐会与赌桌；不作「赌场」。首现 vol4 第 1 章。[place] |
+| Combraysis | 孔布雷西 | 盖尔芒特家族最初的战号，后变为帕萨旺。首现 vol4 第 1 章。[concept] |
+| Geneviève de Brabant | 布拉邦的热纳维耶芙 | 幻灯片故事女主人公（中世纪传说）。首现第1章。[person_legend] |
+| Gilberte | 希尔贝特 | 斯万与奥黛特之女；本章香榭丽舍游戏的中心人物，叙述者少年之恋的对象。全名 Gilberte Swann→希尔贝特·斯万。禁用译法沿用全书。[person] |
+| grand'mère | 外祖母 | 叙述者的外祖母（巴蒂尔德）；爱雨中散步、重品味轻等级。全书统一译「外祖母」（第1章译文已用；book_context_001 中「外婆」为笔误）。首现第1章。 |
+| Gustave Moreau | 居斯塔夫·莫罗 | 法国象征主义画家；盖尔芒特家藏其画。首现 vol4 第 1 章。[person] |
+| Mme de Villeparisis | 维尔巴里西斯侯爵夫人 | 外祖母之友 |
+| Mme Swann | 斯万夫人 | 即奥黛特；本章她在布洛涅树林散步，路人低语其旧名 Odette de Crécy。叙述者只称斯万夫人，不点破。[person] |
+| Palamède | 帕拉梅德 | 夏吕斯男爵的本名 Palamède de Guermantes；圣卢当面称其「帕拉梅德」。首现 vol4 第 1 章。[person] |
+| Passavant | 帕萨旺 | 盖尔芒特家族的战号（cri de guerre），后演变为 Passavant，最初为 Combraysis；圣卢以此说明家族谱系。首现 vol4 第 1 章。[concept] |
+| prince des Laumes | 洛姆亲王 | 盖尔芒特家族的次级封号；夏吕斯的叔父死后他本应取得此号，却仍只用「夏吕斯男爵」。prince 此处为贵族封号「亲王」，不作「王子」。首现 vol4 第 1 章。[person_title] |
+| Robert de Saint-Loup | 罗贝尔·德·圣卢 | 圣卢的全名；叙述者与之互称名字。首现 vol4 第 1 章。[person] |
+| Tansonville | 坦松维尔 | 斯万在贡布雷附近的乡间宅邸；圣卢夫人记忆中住所。首现第1章。[place] |
+| Vélasquez | 委拉斯开兹 | 西班牙画家；圣卢形容卡里埃的肖像「像委拉斯开兹」。禁用译法: 贝拉斯克斯、维拉斯凯兹。首现 vol4 第 1 章。[person] |
+| Whistler | 惠斯勒 | 美国画家，长期活动于英国；圣卢把他的画与委拉斯开兹并提（原文随即点出他「不总能准确保持大师的等级次序」）。首现 vol4 第 1 章。[person] |

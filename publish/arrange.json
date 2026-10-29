@@ -1,0 +1,271 @@
+{
+  "说明": [
+    "按 docs/arrange规划.md 把 polished 译文整理为 7 卷，目录最细到「部 → 章」（个别处再下到正文内部小节）。",
+    "结构是统一的树：节点 = { title, titleFr?, id?, note?, parts?, children? }。书为根，其下最多四级：卷 → 部 → 章 → 节。",
+    "无章号的卷省去「部」层（第五、六、七卷直接是章）；无章号的部只有 parts，没有 children。",
+    "节点可同时有 parts 与 children：parts 是该节点自身的正文（位于其子条目之前），children 是子条目。",
+    "source：parts 中文件名的所在目录；文件一律只写文件名，不带路径。",
+    "parts 中字符串表示整份文件；对象表示只取该文件的一段：",
+    "  { \"file\": ..., \"section\": n } — 把文件按 `🥒🥒🥒🥒🥒` 分隔符切成若干段（分隔符本身不入正文，段号从 0 起），取第 n 段；",
+    "  { \"file\": ..., \"section\": [a, b] } — 取第 a 至 b 段（含两端）。",
+    "章节一律按 `🥒🥒🥒🥒🥒` 切分，不按正文文字定位；需要切口处已在正文中补上该分隔符。",
+    "parts 按数组顺序拼接，即该目录条目的正文顺序；分册造成的「（续）」已合回母条目，标题中不出现「（续）」。",
+    "各章的原文概要式副题仍留在正文，不入目录；只有「一」「二」「心灵的间歇」这类原有内部标题单独成条。",
+    "正文标题的 `#` 个数与节点层级一致：卷 = `#`，部 = `##`，章 = `###`，节 = `####`。",
+    "同一节点的标题只在其首个 part 出现一次；后续 part（分册续文）从正文开始，不再重复卷、部标题。",
+    "原文的概要式副题作为章内子标题，与所在章同级（同为 `###`），不入目录。"
+  ],
+  "source": "polish/261027/chapters",
+  "book": {
+    "title": "追忆似水年华",
+    "children": [
+      {
+        "id": "vol1",
+        "title": "第一卷 · 在斯万家那边",
+        "titleFr": "Du côté de chez Swann",
+        "children": [
+          {
+            "title": "第一部 贡布雷",
+            "children": [
+              {
+                "title": "一",
+                "parts": [
+                  "polished-vol1-1.md"
+                ]
+              },
+              {
+                "title": "二",
+                "parts": [
+                  "polished-vol1-2.md"
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第二部 斯万之恋",
+            "parts": [
+              "polished-vol1-3.md",
+              "polished-vol2-1.md"
+            ]
+          },
+          {
+            "title": "第三部 地名：那个名字",
+            "parts": [
+              "polished-vol2-2.md"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "vol2",
+        "title": "第二卷 · 在花季少女倩影下",
+        "titleFr": "À l'ombre des jeunes filles en fleurs",
+        "children": [
+          {
+            "title": "第一部 在斯万夫人身边",
+            "parts": [
+              "polished-vol3-1.md",
+              {
+                "file": "polished-vol4-1.md",
+                "section": 0
+              }
+            ]
+          },
+          {
+            "title": "第二部 地名：那个地方",
+            "note": "vol4-1 的分隔符即两部的分界；其后一段「我对希尔贝特已近乎完全淡漠……我随外祖母动身去了巴尔贝克」为此部开篇。",
+            "parts": [
+              {
+                "file": "polished-vol4-1.md",
+                "section": 1
+              },
+              "polished-vol5-1.md"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "vol3",
+        "title": "第三卷 · 盖尔芒特家那边",
+        "titleFr": "Le côté de Guermantes",
+        "children": [
+          {
+            "title": "第一部",
+            "parts": [
+              "polished-vol6-1.md"
+            ]
+          },
+          {
+            "title": "第二部",
+            "note": "本部自身的正文只含正式第一章之前的段落。",
+            "parts": [
+              "polished-vol7-1.md"
+            ],
+            "children": [
+              {
+                "title": "第一章 外祖母的病",
+                "parts": [
+                  "polished-vol7-2.md"
+                ]
+              },
+              {
+                "title": "第二章 阿尔贝蒂娜的来访",
+                "parts": [
+                  "polished-vol7-3.md"
+                ]
+              }
+            ]
+          },
+          {
+            "title": "第三部",
+            "parts": [
+              "polished-vol8-1.md"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "vol4",
+        "title": "第四卷 · 索多玛与蛾摩拉",
+        "titleFr": "Sodome et Gomorrhe",
+        "children": [
+          {
+            "title": "第一部 “男—女人”的初现",
+            "parts": [
+              "polished-vol9-1.md"
+            ]
+          },
+          {
+            "title": "第二部",
+            "children": [
+              {
+                "title": "第一章 社交界的夏吕斯",
+                "parts": [
+                  "polished-vol9-2.md",
+                  {
+                    "file": "polished-vol9-3.md",
+                    "section": 0
+                  }
+                ],
+                "children": [
+                  {
+                    "title": "心灵的间歇",
+                    "note": "「心灵的间歇」自成一节，正文内部标题已删；vol9-3 的分隔符即本节开篇处。",
+                    "parts": [
+                      {
+                        "file": "polished-vol9-3.md",
+                        "section": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "第二章 阿尔贝蒂娜的谜团",
+                "parts": [
+                  "polished-vol9-4.md",
+                  "polished-vol10-1.md"
+                ]
+              },
+              {
+                "title": "第三章 夏吕斯的忧伤",
+                "parts": [
+                  "polished-vol10-2.md"
+                ]
+              },
+              {
+                "title": "第四章 对阿尔贝蒂娜的态度骤变",
+                "parts": [
+                  "polished-vol10-3.md"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "vol5",
+        "title": "第五卷 · 女囚",
+        "titleFr": "La Prisonnière",
+        "children": [
+          {
+            "title": "第一章 与阿尔贝蒂娜的共同生活",
+            "parts": [
+              "polished-vol11-1.md"
+            ]
+          },
+          {
+            "title": "第二章 维尔迪兰夫妇与夏吕斯先生决裂",
+            "parts": [
+              "polished-vol11-2.md",
+              "polished-vol12-1.md"
+            ]
+          },
+          {
+            "title": "第三章 阿尔贝蒂娜的失踪",
+            "parts": [
+              "polished-vol12-2.md"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "vol6",
+        "title": "第六卷 · 失踪的阿尔贝蒂娜",
+        "titleFr": "Albertine disparue",
+        "children": [
+          {
+            "title": "第一章 悲伤与遗忘",
+            "parts": [
+              "polished-vol13-1.md"
+            ]
+          },
+          {
+            "title": "第二章 福什维尔小姐",
+            "parts": [
+              "polished-vol13-2.md"
+            ]
+          },
+          {
+            "title": "第三章 威尼斯小住",
+            "parts": [
+              "polished-vol13-3.md"
+            ]
+          },
+          {
+            "title": "第四章 罗贝尔·德·圣卢的新面貌",
+            "parts": [
+              "polished-vol13-4.md"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "vol7",
+        "title": "第七卷 · 重现的时光",
+        "titleFr": "Le Temps retrouvé",
+        "children": [
+          {
+            "title": "第一章 坦松维尔",
+            "parts": [
+              "polished-vol14-1.md"
+            ]
+          },
+          {
+            "title": "第二章 战争期间的夏吕斯先生",
+            "parts": [
+              "polished-vol14-2.md"
+            ]
+          },
+          {
+            "title": "第三章 盖尔芒特亲王妃家的日间聚会",
+            "parts": [
+              "polished-vol14-3.md",
+              "polished-vol15-1.md"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+# Chunk 01 输入包（第 002 章）
+
+## chunk 术语表（本 chunk 出现的全部术语；note 为权威）
+
+| EN | ZH | note |
+|---|---|---|
+| Fallières | 法利埃 | 第 002 章：阿尔芒·法利埃（Armand Fallières，1841—1931），法国政治家，时任参议院议长（后任共和国总统）。原文以其「假性中风三天后复职」安慰叙述者。禁用译法: 法利耶尔、法利埃总统（原文只作 M. Fallières）。[person] |
+| Sénat | 参议院 | 第 002 章：第三共和国上院；其议长为法利埃。[institution] |
+| président du Sénat | 参议院议长 | 第 002 章：法利埃当时的职务。[title] |
+| urémie | 尿毒症 | 第 002 章：外祖母的病症；E……教授说是尿毒症引起的中风。译「尿毒症」。[medicine] |
+| Cottard | 戈达尔 | 戈达尔大夫（le docteur Cottard），维尔迪兰小集团成员、名医；其妻为戈达尔夫人。禁用译法: 科塔尔、戈达。[person] |
+| Pompéi | 庞贝 | 意大利古城，公元 79 年被火山灰掩埋；原文以「庞贝的灾难」比喻习惯使动作凝固。首现 vol5 第 001 章。 |
+| Legrandin | 勒格朗丹 | 预收：贡布雷的工程师、攀附风气人物（贡布雷II）。译林版（003上下文包）。[person] |
+| fiacre | 出租马车 | [object] |
+| consultant | 会诊医生 | 第 002 章：被请来参与会诊的名医；「médecin consultant」。[title] |
+| attaque | 发作 | 第 002 章：une attaque＝一次中风发作；结尾「petite attaque」译「轻度中风」。[medicine] |
+| avenue Gabriel | 加布里埃尔大道 | 香榭丽舍与蒙田大道之间的大道；叙述者从前常在它的拐角等候希尔贝特。注意与建筑师「加布里埃尔」（Gabriel）区分。 |
+| Champs-Élysées | 香榭丽舍 | 本章主场景之一：叙述者与希尔贝特在此玩抢垒、打羽毛球；斯万夫妇住所亦在近旁街区。[place] |
+| Chambre | 众议院 | 第 002 章：Chambre des députés 的简称，第三共和国下院；此处指法利埃与政界。（本章另处指卢森堡大公提请「众议院」批准立储。）[institution] |
+| professeur E... | E……教授 | 第 002 章：父亲与外祖父的旧识、住在加布里埃尔大道的名医。原文以首字母加省略号隐去真名，译文照式作「E……教授」，不得补出姓名、不得改作「某教授」。[person] |
+
+## 全书前文信息
+
+本章起于外祖母在香榭丽舍散步后的一次轻度中风。叙述者一家已迁入盖尔芒特府侧翼（vol6 起）；外祖母的病先由戈达尔、迪·布尔邦诊治。叙述者在维尔巴里西斯侯爵夫人的沙龙初次登场，被夏吕斯男爵看中；圣卢在军中，与拉谢尔纠缠后已被派往摩洛哥；德雷福斯事件正撕裂社交界。叙述者仍未能开始写作。
+
+## 本章前文信息
+
+本章此前已写到：外祖母在香榭丽舍被叙述者察觉刚有一次轻度中风；叙述者把名医 E……教授拦在电梯里求助，E……教授不肯出诊，只答应「立刻来就接待一刻钟」。
+
+## 原文
+
+Oui, on aurait pu dire tout à l'heure, pendant que je cherchais un fiacre, que ma grand'mère était assise sur un banc, avenue Gabriel, qu'un peu après elle avait passé en voiture découverte. Mais eût-ce été bien vrai ? Le banc, lui, pour qu'il se tienne dans une avenue -- bien qu'il soit soumis aussi à certaines conditions d'équilibre -- n'a pas besoin d'énergie. Mais pour qu'un être vivant soit stable, même appuyé sur un banc ou dans une voiture, il faut une tension de forces que nous ne percevons pas, d'habitude, plus que nous ne percevons (parce qu'elle s'exerce dans tous les sens) la pression atmosphérique. Peut-être si on faisait le vide en nous et qu'on nous laissât supporter la pression de l'air, sentirions-nous, pendant l'instant qui précéderait notre destruction, le poids terrible que rien ne neutraliserait plus. De même, quand les abîmes de la maladie et de la mort s'ouvrent en nous et que nous n'avons plus rien à opposer au tumulte avec lequel le monde et notre propre corps se ruent sur nous, alors soutenir même la pesée de nos muscles, même le frisson qui dévaste nos mœlles, alors, même nous tenir immobiles dans ce que nous croyons d'habitude n'être rien que la simple position négative d'une chose, exige, si l'on veut que la tête reste droite et le regard calme, de l'énergie vitale, et devient l'objet d'une lutte épuisante.
+
+Et si Legrandin nous avait regardés de cet air étonné, c'est qu'à lui comme à ceux qui passaient alors, dans le fiacre où ma grand'mère semblait assise sur la banquette, elle était apparue sombrant, glissant à l'abîme, se retenant désespérément aux coussins qui pouvaient à peine retenir son corps précipité, les cheveux en désordre, l'œil égaré, incapable de plus faire face à l'assaut des images que ne réussissait plus à porter sa prunelle. Elle était apparue, bien qu'à côté de moi, plongée dans ce monde inconnu au sein duquel elle avait déjà reçu les coups dont elle portait les traces quand je l'avais vue tout à l'heure aux Champs-Élysées, son chapeau, son visage, son manteau dérangés par la main de l'ange invisible avec lequel elle avait lutté. J'ai pensé, depuis, que ce moment de son attaque n'avait pas dû surprendre entièrement ma grand'mère, que peut-être même elle l'avait prévu longtemps d'avance, avait vécu dans son attente. Sans doute, elle n'avait pas su quand ce moment fatal viendrait, incertaine, pareille aux amants qu'un doute du même genre porte tour à tour à fonder des espoirs déraisonnables et des soupçons injustifiés sur la fidélité de leur maîtresse. Mais il est rare que ces grandes maladies, telles que celle qui venait enfin de la frapper en plein visage, n'élisent pas pendant longtemps domicile chez le malade avant de le tuer, et durant cette période ne se fassent pas assez vite, comme un voisin ou un locataire « liant », connaître de lui. C'est une terrible connaissance, moins par les souffrances qu'elle cause que par l'étrange nouveauté des restrictions définitives qu'elle impose à la vie. On se voit mourir, dans ce cas, non pas à l'instant même de la mort, mais des mois, quelquefois des années auparavant, depuis qu'elle est hideusement venue habiter chez nous. La malade fait la connaissance de l'étranger qu'elle entend aller et venir dans son cerveau. Certes elle ne le connaît pas de vue, mais des bruits qu'elle l'entend régulièrement faire elle déduit ses habitudes. Est-ce un malfaiteur ? Un matin, elle ne l'entend plus. Il est parti. Ah ! si c'était pour toujours ! Le soir, il est revenu. Quels sont ses desseins ? Le médecin consultant, soumis à la question, comme une maîtresse adorée, répond par des serments tel jour crus, tel jour mis en doute. Au reste, plutôt que celui de la maîtresse, le médecin joue le rôle des serviteurs interrogés. Ils ne sont que des tiers. Celle que nous pressons, dont nous soupçonnons qu'elle est sur le point de nous trahir, c'est la vie elle-même, et malgré que nous ne la sentions plus la même, nous croyons encore en elle, nous demeurons en tout cas dans le doute jusqu'au jour qu'elle nous a enfin abandonnés.
+
+Je mis ma grand'mère dans l'ascenseur du professeur E\..., et au bout d'un instant il vint à nous et nous fit passer dans son cabinet. Mais là, si pressé qu'il fût, son air rogue changea, tant les habitudes sont fortes, et il avait celle d'être aimable, voire enjoué, avec ses malades. Comme il savait ma grand'mère très lettrée et qu'il l'était aussi, il se mit à lui citer pendant deux ou trois minutes de beaux vers sur l'Été radieux qu'il faisait. Il l'avait assise dans un fauteuil, lui à contre-jour, de manière à bien la voir. Son examen fut minutieux, nécessita même que je sortisse un instant. Il le continua encore, puis ayant fini, se mit, bien que le quart d'heure touchât à sa fin, à refaire quelques citations à ma grand'mère. Il lui adressa même quelques plaisanteries assez fines, que j'eusse préféré entendre un autre jour, mais qui me rassurèrent complètement par le ton amusé du docteur. Je me rappelai alors que M. Fallières, président du Sénat, avait eu, il y avait nombre d'années, une fausse attaque, et qu'au désespoir de ses concurrents, il s'était mis trois jours après à reprendre ses fonctions et préparait, disait-on, une candidature plus ou moins lointaine à la présidence de la République. Ma confiance en un prompt rétablissement de ma grand'mère fut d'autant plus complète, que, au moment où je me rappelais l'exemple de M. Fallières, je fus tiré de la pensée de ce rapprochement par un franc éclat de rire qui termina une plaisanterie du professeur E\... Sur quoi il tira sa montre, fronça fiévreusement le sourcil en voyant qu'il était en retard de cinq minutes, et tout en nous disant adieu sonna pour qu'on apportât immédiatement son habit. Je laissai ma grand'mère passer devant, refermai la porte et demandai la vérité au savant.

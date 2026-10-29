@@ -1,0 +1,35 @@
+# Deuxième partie : Un amour de Swann
+
+Pour faire partie du « petit noyau », du « petit groupe », du « petit clan » des Verdurin, une condition était suffisante mais elle était nécessaire : il fallait adhérer tacitement à un Credo dont un des articles était que le jeune pianiste, protégé par M^me^ Verdurin cette année-là et dont elle disait : « Ça ne devrait pas être permis de savoir jouer Wagner comme ça ! », « enfonçait » à la fois Planté et Rubinstein et que le docteur Cottard avait plus de diagnostic que Potain. Toute « nouvelle recrue » à qui les Verdurin ne pouvaient pas persuader que les soirées des gens qui n'allaient pas chez eux étaient ennuyeuses comme la pluie, se voyait immédiatement exclue. Les femmes étant à cet égard plus rebelles que les hommes à déposer toute curiosité mondaine et l'envie de se renseigner par soi-même sur l'agrément des autres salons, et les Verdurin sentant d'autre part que cet esprit d'examen et ce démon de frivolité pouvaient par contagion devenir fatal à l'orthodoxie de la petite église, ils avaient été amenés à rejeter successivement tous les « fidèles » du sexe féminin.
+
+En dehors de la jeune femme du docteur, ils étaient réduits presque uniquement cette année-là (bien que M^me^ Verdurin fût elle-même vertueuse et d'une respectable famille bourgeoise excessivement riche et entièrement obscure avec laquelle elle avait peu à peu cessé toute relation) à une personne presque du demi-monde, M^me^ de Crécy, que M^me^ Verdurin appelait par son petit nom, Odette, et déclarait être « un amour », et à la tante du pianiste, laquelle devait avoir tiré le cordon ; personnes ignorantes du monde et à la naïveté de qui il avait été si facile de faire accroire que la princesse de Sagan et la duchesse de Guermantes étaient obligées de payer des malheureux pour avoir du monde à leurs dîners, que si on leur avait offert de les faire inviter chez ces deux grandes dames, l'ancienne concierge et la cocotte eussent dédaigneusement refusé.
+
+Les Verdurin n'invitaient pas à dîner : on avait chez eux « son couvert mis ». Pour la soirée, il n'y avait pas de programme. Le jeune pianiste jouait, mais seulement si « ça lui chantait », car on ne forçait personne et comme disait M. Verdurin : « Tout pour les amis, vivent les camarades ! » Si le pianiste voulait jouer la chevauchée de la *Walkyrie* ou le prélude de *Tristan*, M^me^ Verdurin protestait, non que cette musique lui déplût, mais au contraire parce qu'elle lui causait trop d'impression. « Alors vous tenez à ce que j'aie ma migraine ? Vous savez bien que c'est la même chose chaque fois qu'il joue ça. Je sais ce qui m'attend ! Demain quand je voudrai me lever, bonsoir, plus personne ! » S'il ne jouait pas, on causait, et l'un des amis, le plus souvent leur peintre favori d'alors, « lâchait », comme disait M. Verdurin, « une grosse faribole qui faisait s'esclaffer tout le monde », M^me^ Verdurin surtout, à qui, -- tant elle avait l'habitude de prendre au propre les expressions figurées des émotions qu'elle éprouvait -- le docteur Cottard (un jeune débutant à cette époque) dut un jour remettre sa mâchoire qu'elle avait décrochée pour avoir trop ri.
+
+L'habit noir était défendu parce qu'on était entre « copains » et pour ne pas ressembler aux « ennuyeux » dont on se garait comme de la peste et qu'on n'invitait qu'aux grandes soirées, données le plus rarement possible et seulement si cela pouvait amuser le peintre ou faire connaître le musicien. Le reste du temps, on se contentait de jouer des charades, de souper en costumes, mais entre soi, en ne mêlant aucun étranger au petit « noyau ».
+
+Mais au fur et à mesure que les « camarades » avaient pris plus de place dans la vie de M^me^ Verdurin, les ennuyeux, les réprouvés, ce fut tout ce qui retenait les amis loin d'elle, ce qui les empêchait quelquefois d'être libres, ce fut la mère de l'un, la profession de l'autre, la maison de campagne ou la mauvaise santé d'un troisième. Si le docteur Cottard croyait devoir partir en sortant de table pour retourner auprès d'un malade en danger : « Qui sait, lui disait M^me^ Verdurin, cela lui fera peut-être beaucoup plus de bien que vous n'alliez pas le déranger ce soir ; il passera une bonne nuit sans vous ; demain matin vous irez de bonne heure et vous le trouverez guéri. » Dès le commencement de décembre, elle était malade à la pensée que les fidèles « lâcheraient » pour le jour de Noël et le 1^er^ janvier. La tante du pianiste exigeait qu'il vînt dîner ce jour-là en famille chez sa mère à elle :
+
+-- Vous croyez qu'elle en mourrait, votre mère, s'écria durement M^me^ Verdurin, si vous ne dîniez pas avec elle le jour de l'an, comme en *province !*
+
+Ses inquiétudes renaissaient à la semaine sainte :
+
+-- Vous, docteur, un savant, un esprit fort, vous venez naturellement le Vendredi saint comme un autre jour ? dit-elle à Cottard la première année, d'un ton assuré comme si elle ne pouvait douter de la réponse. Mais elle tremblait en attendant qu'il l'eût prononcée, car s'il n'était pas venu, elle risquait de se trouver seule.
+
+-- Je viendrai le Vendredi saint\... vous faire mes adieux car nous allons passer les fêtes de Pâques en Auvergne.
+
+-- En Auvergne ? pour vous faire manger par les puces et la vermine, grand bien vous fasse !
+
+Et après un silence :
+
+-- Si vous nous l'aviez dit au moins, nous aurions tâché d'organiser cela et de faire le voyage ensemble dans des conditions confortables.
+
+De même si un « fidèle » avait un ami, ou une « habituée » un flirt qui serait capable de le faire « lâcher » quelquefois, les Verdurin, qui ne s'effrayaient pas qu'une femme eût un amant pourvu qu'elle l'eût chez eux, l'aimât en eux, et ne le leur préférât pas, disaient : « Eh bien ! amenez-le votre ami. » Et on l'engageait à l'essai, pour voir s'il était capable de ne pas avoir de secrets pour M^me^ Verdurin, s'il était susceptible d'être agrégé au « petit clan ». S'il ne l'était pas, on prenait à part le fidèle qui l'avait présenté et on lui rendait le service de le brouiller avec son ami ou avec sa maîtresse. Dans le cas contraire, le « nouveau » devenait à son tour un fidèle. Aussi quand cette année-là, la demi-mondaine raconta à M. Verdurin qu'elle avait fait la connaissance d'un homme charmant, M. Swann, et insinua qu'il serait très heureux d'être reçu chez eux, M. Verdurin transmit-il séance tenante la requête à sa femme. (Il n'avait jamais d'avis qu'après sa femme, dont son rôle particulier était de mettre à exécution les désirs, ainsi que les désirs des fidèles, avec de grandes ressources d'ingéniosité.)
+
+-- Voici M^me^ de Crécy qui a quelque chose à te demander. Elle désirerait te présenter un de ses amis, M. Swann. Qu'en dis-tu ?
+
+-- Mais voyons, est-ce qu'on peut refuser quelque chose à une petite perfection comme ça. Taisez-vous, on ne vous demande pas votre avis, je vous dis que vous êtes une perfection.
+
+-- Puisque vous le voulez, répondit Odette sur un ton de marivaudage, et elle ajouta : vous savez que je ne suis pas « fishing for compliments ».
+
+-- Eh bien ! amenez-le votre ami, s'il est agréable.

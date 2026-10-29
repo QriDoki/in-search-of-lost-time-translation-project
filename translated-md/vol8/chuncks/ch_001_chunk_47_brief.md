@@ -1,0 +1,50 @@
+# Chunk 47 输入包（第 001 章，vol8）
+
+## 本 chunk 的术语表（本 chunk 出现的全部术语；note 列是权威判断，不得按字面自行改写）
+
+| EN | ZH | note |
+|---|---|---|
+| Swann | 斯万 | 核心人物姓氏（Charles Swann，夏尔·斯万）。首次出现于第 0 章（书名及题献页）。贯穿全书的重要角色，巴黎上流社会艺术品鉴赏家。 需要称谓时用斯万先生；不擅加源文未出现的名字。 禁用译法: 史万 原文别名: M. Swann |
+| Paris | 巴黎 | — |
+| Turner | 特纳 | 英国画家（维苏威火山艺术照片）。首现第1章。[real_person] |
+| Guermantes | 盖尔芒特 | 家族名与地名；le côté de Guermantes→盖尔芒特家那边（散步路线，贡布雷II）；hôtel de Guermantes→盖尔芒特府（巴黎府邸，叙述者一家租住其侧翼）；les Guermantes→盖尔芒特一家。[place_family] |
+| Combray | 贡布雷 | 叙述者童年度假小镇、全书核心场景（原型伊利耶 Illiers）。译林版（上游指示）。首现第1章。[place] |
+| Venise | 威尼斯 | 水城（失眠夜忆起；后为旅行目的地）。首现第1章。[place] |
+| Mme de Guermantes | 盖尔芒特公爵夫人 | 即公爵夫人奥丽阿娜（duchesse de Guermantes）之别称。叙事中首次提及作「盖尔芒特公爵夫人」，同段或紧接的上下文中可简称「公爵夫人」；与「盖尔芒特亲王妃」（princesse de Guermantes）严格区分，不得混称。[person_title] |
+| Delft | 代尔夫特 | 第003章；Ver Meer de Delft 中的地名，统一译“代尔夫特”，不写“德尔夫特”。 |
+| Oriane | 奥丽阿娜 | 盖尔芒特公爵夫人的名字（原文作 Oriane），圣卢称她「好奥丽阿娜」（brave Oriane，此处 brave＝好心的，不是「勇敢的」）。原注误记为「洛姆亲王妃的名字」，系旧稿残留；依据 vol2/vol6 正文，Oriane 即公爵夫人。 |
+| princesse de Guermantes | 盖尔芒特亲王妃 | princesse de X 作「X 亲王妃」，禁「公主」「亲王夫人」。[title] |
+| Elstir | 埃尔斯蒂尔 | 虚构画家，叙述者在巴尔贝克结识（vol5 正式登场：画室长谈、《卡尔克蒂港》、为奥黛特所作的《萨克里邦小姐》小像）；vol6 第 001 章只被谈论：盖尔芒特夫人家藏有他的画，叙述者想借圣卢之助去看。其观看方式深刻影响叙述者的视觉，普鲁斯特以惠斯勒、透纳、莫奈等为部分原型，不得坐实为任何真实画家。… |
+| M. de Guermantes | 盖尔芒特公爵 | 即盖尔芒特公爵巴赞（duc de Guermantes）在叙述中的通常称呼；同段可简称「公爵」。禁用译法: 盖尔芒特先生先生。[person_title] |
+| hôtel de Guermantes | 盖尔芒特府 | 公爵夫妇在巴黎的府邸（hôtel particulier）；叙述者一家租住其侧翼。译「盖尔芒特府」，不作「盖尔芒特旅馆」（hôtel 在此非旅馆）。 |
+| Lusignan | 吕西尼昂 | 法国古老家族，传说因梅吕西娜而兴，也随她消失而绝。 |
+| Bavière | 巴伐利亚 | 德意志王国；duc de Bavière 即巴伐利亚公爵。princesse de Guermantes-Bavière 的「巴伐利亚」出自这一王室。 |
+| Jérusalem | 耶路撒冷 | 原文引公爵的话「把所有犹太人都送回耶路撒冷」。 |
+| princesse de Silistrie | 锡利斯特里亲王妃 | 第003章：西利斯特里亚（保加利亚地名）封号出身的亲王妃；princesse 作「亲王妃」。[person_title] |
+| Bréquigny | 布雷基尼 | 第001章：布雷基尼伯爵，普拉萨克夫人与特雷姆夫人之父。[person] |
+| Plassac | 普拉萨克 | 第001章：普拉萨克侯爵夫人，盖尔芒特先生的表亲，拄杖的老妇。[person] |
+| Tresmes | 特雷姆 | 第001章：特雷姆夫人，布雷基尼伯爵之女、普拉萨克夫人的姐妹。禁用译法: 特雷梅。[person] |
+| Isabeau de Bavière | 伊莎博·德·巴伐利亚 | 第001章：法国王后伊莎博·德·巴伐利亚。[history] |
+| Rhodes | 罗得 | 第001章：地中海岛屿罗得。[place] |
+| Haarlem | 哈勒姆 | 第001章：荷兰城市，哈尔斯作品的所在地；公爵夫人说不去哈勒姆等于白去荷兰。[place] |
+| redoute | 假面舞会 | 第001章：公爵夫妇要去参加的化装舞会；作「假面舞会」，不作「堡垒」。[social] |
+| quartiers | 血统世数 | 第001章：见 quartiers de noblesse 条；此处单用，指上溯的贵族世代。[concept] |
+| Frécourt | 弗雷库尔 | 第001章：弗雷库尔侯爵，其马车房的红瓦小塔楼是街景的一角。[person] |
+| Saint-Gothard | 圣哥达 | 第001章：瑞士圣哥达山口；原文以不同海拔的旅客比不同层次的沙龙人物。[place] |
+| Chypre | 塞浦路斯 | 第001章：见 Lusignan 条。[place] |
+| Mme de Plassac | 普拉萨克侯爵夫人 | 第001章：见 Plassac 条。[person_title] |
+| marquis de Frécourt | 弗雷库尔侯爵 | 第001章：见 Frécourt 条。[person_title] |
+| M. de Bréquigny | 布雷基尼伯爵 | 第001章：见 Bréquigny 条。[person_title] |
+| hôtel de Bréquigny | 布雷基尼府 | 第001章：普拉萨克与特雷姆两家父亲的府邸；叙述者初访时在楼梯上久等。[place] |
+
+## 全书前文信息
+
+本卷是《追忆似水年华》第三部《盖尔芒特家那边》第三部（vol8），全卷仅此一章。前情：叙述者一家已迁入盖尔芒特府侧翼；外祖母已于 vol7 第 002 章去世；叙述者已从对盖尔芒特公爵夫人的痴恋中痊愈，反获公爵夫人主动邀请（周五小范围晚宴、见帕尔马亲王妃）；心思只在斯泰尔马里亚夫人身上——她在信里接受了晚餐邀请。圣卢仍在摩洛哥军中（骑兵中士），与拉谢尔藕断丝连。夏吕斯对叙述者「假装不识」、对布洛克先亲近后暴怒，谜团留待《索多玛》。布洛克与叙述者暂时失和。阿尔贝蒂娜已进入叙述者的巴黎生活。德雷福斯案正撕裂社交界。叙述者仍未开始写作。
+
+## 本章前文信息
+
+前文：回家后他读到弗朗索瓦丝男仆那封错字连篇的情书；夏吕斯对亲王妃的形容激起他的想象。本 chunk：晚会当天；公爵夫妇回巴黎；他在小房间窥视；巴黎与威尼斯的街景；布雷基尼府与弗雷库尔的马车房。
+
+## 原文
+
+Le jour où devait avoir lieu la soirée chez la princesse de Guermantes, j'appris que le duc et la duchesse étaient revenus à Paris depuis la veille. Le bal de la princesse ne les eût pas fait revenir, mais un de leurs cousins était fort malade, et puis le duc tenait beaucoup à une redoute qui avait lieu cette nuit-là et où lui-même devait paraître en Louis XI et sa femme en Isabeau de Bavière. Et je résolus d'aller la voir le matin. Mais, sortis de bonne heure, ils n'étaient pas encore rentrés ; je guettai d'abord d'une petite pièce, que je croyais un bon poste de vigie, l'arrivée de la voiture. En réalité j'avais fort mal choisi mon observatoire, d'où je distinguai à peine notre cour, mais j'en aperçus plusieurs autres ce qui, sans utilité pour moi, me divertit un moment. Ce n'est pas à Venise seulement qu'on a de ces points de vue sur plusieurs maisons à la fois qui ont tenté les peintres, mais à Paris tout aussi bien. Je ne dis pas Venise au hasard. C'est à ses quartiers pauvres que font penser certains quartiers pauvres de Paris, le matin, avec leurs hautes cheminées évasées, auxquelles le soleil donne les roses les plus vifs, les rouges les plus clairs ; c'est tout un jardin qui fleurit au-dessus des maisons, et qui fleurit en nuances si variées, qu'on dirait, planté sur la ville, le jardin d'un amateur de tulipes de Delft ou de Haarlem. D'ailleurs l'extrême proximité des maisons aux fenêtres opposées sur une même cour y fait de chaque croisée le cadre où une cuisinière rêvasse en regardant à terre, où plus loin une jeune fille se laisse peigner les cheveux par une vieille à figure, à peine distincte dans l'ombre, de sorcière ; ainsi chaque cour fait pour le voisin de la maison, en supprimant le bruit par son intervalle, en laissant voir les gestes silencieux dans un rectangle placé sous verre par la clôture des fenêtres, une exposition de cent tableaux hollandais juxtaposés. Certes, de l'hôtel de Guermantes on n'avait pas le même genre de vues, mais de curieuses aussi, surtout de l'étrange point trigonométrique où je m'étais placé et où le regard n'était arrêté par rien jusqu'aux hauteurs lointaines que formait, les terrains relativement vagues qui précédaient étant fort en pente, l'hôtel de la princesse de Silistrie et de la marquise de Plassac, cousines très nobles de M. de Guermantes, et que je ne connaissais pas. Jusqu'à cet hôtel (qui était celui de leur père, M. de Bréquigny), rien que des corps de bâtiments peu élevés, orientés des façons les plus diverses et qui, sans arrêter la vue, prolongeaient la distance de leurs plans obliques. La tourelle en tuiles rouges de la remise où le marquis de Frécourt garait ses voitures se terminait bien par une aiguille plus haute, mais si mince qu'elle ne cachait rien, et faisait penser à ces jolies constructions anciennes de la Suisse, qui s'élancent isolées au pied d'une montagne. Tous ces points vagues et divergents, où se reposaient les yeux, faisaient paraître plus éloigné que s'il avait été séparé de nous par plusieurs rues ou de nombreux contreforts l'hôtel de M^me^ de Plassac, en réalité assez voisin mais chimériquement éloigné comme un paysage alpestre. Quand ses larges fenêtres carrées, éblouies de soleil comme des feuilles de cristal de roche, étaient ouvertes pour le ménage, on avait, à suivre aux différents étages les valets de pied impossibles à bien distinguer, mais qui battaient des tapis, le même plaisir qu'à voir, dans un paysage de Turner ou d'Elstir, un voyageur en diligence, ou un guide, à différents degrés d'altitude du Saint-Gothard. Mais de ce « point de vue » où je m'étais placé, j'aurais risqué de ne pas voir rentrer M. ou M^me^ de Guermantes, de sorte que, lorsque dans l'après-midi je fus libre de reprendre mon guet, je me mis simplement sur l'escalier, d'où l'ouverture de la porte cochère ne pouvait passer inaperçue pour moi, et ce fut dans l'escalier que je me postai, bien que n'y apparussent pas, si éblouissantes avec leurs valets de pied rendus minuscules par l'éloignement et en train de nettoyer, les beautés alpestres de l'hôtel de Bréquigny et Tresmes. Or cette attente sur l'escalier devait avoir pour moi des conséquences si considérables et me découvrir un paysage, non plus turnérien, mais moral si important, qu'il est préférable d'en retarder le récit de quelques instants, en le faisant précéder d'abord par celui de ma visite aux Guermantes quand je sus qu'ils étaient rentrés. Ce fut le duc seul qui me reçut dans sa bibliothèque. Au moment où j'y entrais, sortit un petit homme aux cheveux tout blancs, l'air pauvre, avec une petite cravate noire comme en avaient le notaire de Combray et plusieurs amis de mon grand-père, mais d'un aspect plus timide et qui, m'adressant de grands saluts, ne voulut jamais descendre avant que je fusse passé. Le duc lui cria de la bibliothèque quelque chose que je ne compris pas, et l'autre répondit avec de nouveaux saluts adressés à la muraille, car le duc ne pouvait le voir, mais répétés tout de même sans fin, comme ces inutiles sourires des gens qui causent avec vous par le téléphone ; il avait une voix de fausset, et me resalua avec une humilité d'homme d'affaires. Et ce pouvait d'ailleurs être un homme d'affaires de Combray, tant il avait le genre provincial, suranné et doux des petites gens, des vieillards modestes de là-bas. « Vous verrez Oriane tout à l'heure, me dit le duc quand je fus entré. Comme Swann doit venir tout à l'heure lui apporter les épreuves de son étude sur les monnaies de l'Ordre de Malte, et, ce qui est pis, une photographie immense où il a fait reproduire les deux faces de ces monnaies, Oriane a préféré s'habiller d'abord, pour pouvoir rester avec lui jusqu'au moment d'aller dîner. Nous sommes déjà encombrés d'affaires à ne pas savoir où les mettre et je me demande où nous allons fourrer cette photographie. Mais j'ai une femme trop aimable, qui aime trop à faire plaisir. Elle a cru que c'était gentil de demander à Swann de pouvoir regarder les uns à côté des autres tous ces grands maîtres de l'Ordre dont il a trouvé les médailles à Rhodes. Car je vous disais Malte, c'est Rhodes, mais c'est le même Ordre de Saint-Jean de Jérusalem. Dans le fond elle ne s'intéresse à cela que parce que Swann s'en occupe. Notre famille est très mêlée à toute cette histoire ; même encore aujourd'hui, mon frère que vous connaissez est un des plus hauts dignitaires de l'Ordre de Malte. Mais j'aurais parlé de tout cela à Oriane, elle ne m'aurait seulement pas écouté. En revanche, il a suffi que les recherches de Swann sur les Templiers (car c'est inouï la rage des gens d'une religion à étudier celle des autres) l'aient conduit à l'Histoire des Chevaliers de Rhodes, héritiers des Templiers, pour qu'aussitôt Oriane veuille voir les têtes de ces chevaliers. Ils étaient de forts petits garçons à côté des Lusignan, rois de Chypre, dont nous descendons en ligne directe. Mais comme jusqu'ici Swann ne s'est pas occupé d'eux, Oriane ne veut rien savoir sur les Lusignan. »

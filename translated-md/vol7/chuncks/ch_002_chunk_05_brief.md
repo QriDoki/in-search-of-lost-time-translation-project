@@ -1,0 +1,41 @@
+# Chunk 05 输入包（第 002 章）
+
+## chunk 术语表（本 chunk 出现的全部术语；note 为权威）
+
+| EN | ZH | note |
+|---|---|---|
+| spécialiste X... | X……专科医生 | 第 002 章：亲戚推荐的鼻科专家，声称一切病皆源于鼻。原文以首字母加省略号隐名，译文照式作「X……专科医生」。[person] |
+| catarrhe | 卡他 | 第 002 章：黏膜炎；鼻科专家给全家「治」出的鼻塞。[medicine] |
+| cornée | 角膜 | 第 002 章：鼻科专家说每人都有「一小块角膜」要复诊。[medicine] |
+| pointes de feu | 火针 | 第 002 章：烧灼疗法（用烧红的针点灼皮肤）；专家说几针就能「除掉」病根。[medicine] |
+| Mme Sazerat | 萨士拉夫人 | 预收：贡布雷居民（贡布雷II）。译林版（003上下文包）。[person] |
+| Bergotte | 贝戈特 | 作家，叙述者的文学偶像；本章（vol3 第 1 章）首次实际登场，在斯万家谈论贝尔玛与《费德尔》，并评点叙述者的习作。其谈吐与文体不同，译时保留这一落差。[person] |
+| Renoir | 雷诺阿 | 第 002 章：皮埃尔-奥古斯特·雷诺阿，印象派画家。原文讽刺「有品位的人」如今说他是「十八世纪的大画家」，忘了时间。大陆通行译名「雷诺阿」，禁用「勒努瓦」「雷努阿尔」。[real_person] |
+| Fromentin | 弗罗芒坦 | 第 002 章：欧仁·弗罗芒坦（1820—1876），画家兼作家，《多米尼克》作者。原文以其「一眼可辨」的画风与雷诺阿对举。[real_person] |
+| oculistes | 眼科医生 | 第 002 章：原文以眼科医生替人更换视觉，比喻新派画家、作家替我们更换看世界的方式。[title] |
+| portique | 肋木架 | 第 002 章：军营体操器械（攀爬用的横木架），叙述者自嘲当年在团里做这种器械操总摔下来。[military] |
+| Claudel | 克洛岱尔 | 此处指十九世纪末的保尔·克洛岱尔（Paul Claudel），天主教诗人；原文将其作为「同宗精神」例证之一。[person] |
+| Briand | 白里安 | 第 002 章：阿里斯蒂德·白里安（1862—1932），法国政治家。此处是普鲁斯特戏仿新锐作家文体的例句（「每五分钟就从白里安和克洛岱尔出发」）中随手取用的专名，与文意无关，照字面音译即可，不要加解释、不要改成地名。[person] |
+| homme à barbiche | 留山羊胡的人 | 第 002 章：叙述者记忆中贝戈特昔日的模样；barbiche 指下巴上的一小撮胡须。[person] |
+| dreyfusisme | 德雷福斯主义 | 德雷福斯派的立场与主张。 |
+| Éole | 埃俄罗斯 | 第 002 章：荷马《奥德赛》中掌管风的神；「outre d'Éole」即风袋，原文比喻专科医生装满各种鼻炎的诊箱。译「埃俄罗斯」，禁用「伊奥勒斯」「风神埃奥罗斯」。[myth] |
+
+## 全书前文信息
+
+本章起于外祖母在香榭丽舍散步后的一次轻度中风。叙述者一家已迁入盖尔芒特府侧翼（vol6 起）；外祖母的病先由戈达尔、迪·布尔邦诊治。叙述者在维尔巴里西斯侯爵夫人的沙龙初次登场，被夏吕斯男爵看中；圣卢在军中，与拉谢尔纠缠后已被派往摩洛哥；德雷福斯事件正撕裂社交界。叙述者仍未能开始写作。
+
+## 本章前文信息
+
+本章此前已写到：家中请来一位自称百病皆源于鼻的专科医生，给全家「治」出鼻塞；贝戈特每日来访，叙述者却已转而崇拜一位更难读的新作家，并由雷诺阿想到艺术更新换眼之法。
+
+## 原文
+
+Dans un de ces moments où, selon l'expression populaire, on ne sait plus à quel saint se vouer, comme ma grand'mère toussait et éternuait beaucoup, on suivit le conseil d'un parent qui affirmait qu'avec le spécialiste X\... on était hors d'affaire en trois jours. Les gens du monde disent cela de leur médecin, et on les croit comme Françoise croyait les réclames des journaux. Le spécialiste vint avec sa trousse chargée de tous les rhumes de ses clients, comme l'outre d'Éole. Ma grand'mère refusa net de se laisser examiner. Et nous, gênés pour le praticien qui s'était dérangé inutilement, nous déférâmes au désir qu'il exprima de visiter nos nez respectifs, lesquels pourtant n'avaient rien. Il prétendait que si, et que migraine ou colique, maladie de cœur ou diabète, c'est une maladie du nez mal comprise. À chacun de nous il dit : « Voilà une petite cornée que je serais bien aise de revoir. N'attendez pas trop. Avec quelques pointes de feu je vous débarrasserai. » Certes nous pensions à toute autre chose. Pourtant nous nous demandâmes : « Mais débarrasser de quoi ? » Bref tous nos nez étaient malades ; il ne se trompa qu'en mettant la chose au présent. Car dès le lendemain son examen et son pansement provisoire avaient accompli leur effet. Chacun de nous eut son catarrhe. Et comme il rencontrait dans la rue mon père secoué par des quintes, il sourit à l'idée qu'un ignorant pût croire le mal dû à son intervention. Il nous avait examinés au moment où nous étions déjà malades.
+
+La maladie de ma grand'mère donna lieu à diverses personnes de manifester un excès ou une insuffisance de sympathie qui nous surprirent tout autant que le genre de hasard par lequel les uns ou les autres nous découvraient des chaînons de circonstances, ou même d'amitiés, que nous n'eussions pas soupçonnées. Et les marques d'intérêt données par les personnes qui venaient sans cesse prendre des nouvelles nous révélaient la gravité d'un mal que jusque-là nous n'avions pas assez isolé, séparé des mille impressions douloureuses ressenties auprès ma grand'mère. Prévenues par dépêche, ses sœurs ne quittèrent pas Combray. Elles avaient découvert un artiste qui leur donnait des séances d'excellente musique de chambre, dans l'audition de laquelle elles pensaient trouver, mieux qu'au chevet de la malade, un recueillement, une élévation douloureuse, desquels la forme ne laissa pas de paraître insolite. Madame Sazerat écrivit à maman, mais comme une personne dont les fiançailles brusquement rompues (la rupture était le dreyfusisme) nous ont à jamais séparés. En revanche Bergotte vint passer tous les jours plusieurs heures avec moi.
+
+Il avait toujours aimé à venir se fixer pendant quelque temps dans une même maison où il n'eût pas de frais à faire. Mais autrefois c'était pour y parler sans être interrompu, maintenant pour garder longuement le silence sans qu'on lui demandât de parler. Car il était très malade : les uns disaient d'albuminurie, comme ma grand'mère ; selon d'autres il avait une tumeur. Il allait en s'affaiblissant ; c'est avec difficulté qu'il montait notre escalier, avec une plus grande encore qu'il le descendait. Bien qu'appuyé à la rampe il trébuchait souvent, et je crois qu'il serait resté chez lui s'il n'avait pas craint de perdre entièrement l'habitude, la possibilité de sortir, lui l'« homme à barbiche » que j'avais connu alerte, il n'y avait pas si longtemps. Il n'y voyait plus goutte, et sa parole même s'embarrassait souvent.
+
+Mais en même temps, tout au contraire, la somme de ses œuvres, connues seulement des lettrés à l'époque où M^me^ Swann patronnait leurs timides efforts de dissémination, maintenant grandies et fortes aux yeux de tous, avait pris dans le grand public une extraordinaire puissance d'expansion. Sans doute il arrive que c'est après sa mort seulement qu'un écrivain devient célèbre. Mais c'était en vie encore et durant son lent acheminement vers la mort non encore atteinte, qu'il assistait à celui de ses œuvres vers la Renommée. Un auteur mort est du moins illustre sans fatigue. Le rayonnement de son nom s'arrête à la pierre de sa tombe. Dans la surdité du sommeil éternel, il n'est pas importuné par la Gloire. Mais pour Bergotte l'antithèse n'était pas entièrement achevée. Il existait encore assez pour souffrir du tumulte. Il remuait encore, bien que péniblement, tandis que ses œuvres, bondissantes, comme des filles qu'on aime mais dont l'impétueuse jeunesse et les bruyants plaisirs vous fatiguent, entraînaient chaque jour jusqu'au pied de son lit des admirateurs nouveaux.
+
+Les visites qu'il nous faisait maintenant venaient pour moi quelques années trop tard, car je ne l'admirais plus autant. Ce qui n'est pas en contradiction avec ce grandissement de sa renommée. Une œuvre est rarement tout à fait comprise et victorieuse, sans que celle d'un autre écrivain, obscure encore, n'ait commencé, auprès de quelques esprits plus difficiles, de substituer un nouveau culte à celui qui a presque fini de s'imposer. Dans les livres de Bergotte, que je relisais souvent, ses phrases étaient aussi claires devant mes yeux que mes propres idées, les meubles dans ma chambre et les voitures dans la rue. Toutes choses s'y voyaient aisément, sinon telles qu'on les avait toujours vues, du moins telles qu'on avait l'habitude de les voir maintenant. Or un nouvel écrivain avait commencé à publier des œuvres où les rapports entre les choses étaient si différents de ceux qui les liaient pour moi que je ne comprenais presque rien de ce qu'il écrivait. Il disait par exemple : « Les tuyaux d'arrosage admiraient le bel entretien des routes » (et cela c'était facile, je glissais le long de ces routes) « qui partaient toutes les cinq minutes de Briand et de Claudel ». Alors je ne comprenais plus parce que j'avais attendu un nom de ville et qu'il m'était donné un nom de personne. Seulement je sentais que ce n'était pas la phrase qui était mal faite, mais moi pas assez fort et agile pour aller jusqu'au bout. Je reprenais mon élan, m'aidais des pieds et des mains pour arriver à l'endroit d'où je verrais les rapports nouveaux entre les choses. Chaque fois, parvenu à peu près à la moitié de la phrase, je retombais comme plus tard au régiment, dans l'exercice appelé portique. Je n'en avais pas moins pour le nouvel écrivain l'admiration d'un enfant gauche et à qui on donne zéro pour la gymnastique, devant un autre enfant plus adroit. Dès lors j'admirai moins Bergotte dont la limpidité me parut de l'insuffisance. Il y eut un temps où on reconnaissait bien les choses quand c'était Fromentin qui les peignait et où on ne les reconnaissait plus quand c'était Renoir.

@@ -1,0 +1,114 @@
+name: Publish Reader and EPUB
+
+on:
+  push:
+    branches: [release]
+    paths:
+      - 'polish/**'
+      - '!polish/dev/**'
+      - 'publish/**'
+      - 'site/**'
+      - 'scripts/**'
+      - 'book.config.mjs'
+      - 'package.json'
+      - 'package-lock.json'
+      - '.github/workflows/deploy.yml'
+      - '.github/workflows/release-epub.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  version:
+    if: github.ref == 'refs/heads/release'
+    runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.version.outputs.version }}
+      polish_changed: ${{ steps.changes.outputs.polish_changed }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Select latest polish folder by name
+        id: version
+        run: |
+          version="$(node scripts/resolve-polish-version.mjs)"
+          echo "version=${version}" >> "$GITHUB_OUTPUT"
+
+      - name: Detect published polish changes in this push
+        id: changes
+        run: |
+          changed="$(node scripts/check-polish-changes.mjs)"
+          echo "polish_changed=${changed}" >> "$GITHUB_OUTPUT"
+
+  build:
+    needs: version
+    runs-on: ubuntu-latest
+    env:
+      POLISH_VERSION: ${{ needs.version.outputs.version }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Test site and CI logic
+        run: node --test scripts/tests/*.mjs
+
+      # 项目站点默认为 /<repo>/；用户站点为 /。
+      # 自定义域名或特殊部署路径可在仓库 Variables 中设置 VITEPRESS_BASE。
+      - name: Build site
+        env:
+          VITEPRESS_BASE: ${{ vars.VITEPRESS_BASE != '' && vars.VITEPRESS_BASE || (github.event.repository.name == format('{0}.github.io', github.repository_owner) && '/' || format('/{0}/', github.event.repository.name)) }}
+        run: npm run build:site
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/.vitepress/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  epub:
+    needs: version
+    if: needs.version.outputs.polish_changed == 'true'
+    permissions:
+      contents: write
+    uses: ./.github/workflows/release-epub.yml
+    with:
+      polish_version: ${{ needs.version.outputs.version }}

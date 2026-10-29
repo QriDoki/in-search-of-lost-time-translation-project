@@ -1,0 +1,20 @@
+| EN | ZH | note |
+|---|---|---|
+| Balbec | 巴尔贝克 | 诺曼底海滨胜地（原型卡堡）。前三卷只在想象与谈论中出现；vol4 第 1 章叙述者与外祖母真正抵达，住海滨大酒店，教堂在内陆的巴尔贝克镇。首现第1章。[place] |
+| bâtonnier | 律师公会会长 | 巴尔贝克房客中的律师界领袖，爱炫耀与贵族及名人的交往；职务名，非人名。首现 vol4 第 1 章。[social] |
+| faubourg Saint-Germain | 圣日耳曼区 | 此处具有贵族社交圈的转喻义，不仅是地理位置。 原文别名: Saint-Germain [类别 place] [依据译林版参考术语表 003_swann_context/glossary.json] |
+| grand'mère | 外祖母 | 叙述者的外祖母（巴蒂尔德）；爱雨中散步、重品味轻等级。全书统一译「外祖母」（第1章译文已用；book_context_001 中「外婆」为笔误）。首现第1章。 |
+| Greco | 格列柯 | El Greco，西班牙文艺复兴画家；诺尔普瓦在托莱多赏其画。首现 vol4 第 1 章。[person] |
+| Gustave Moreau | 居斯塔夫·莫罗 | 法国象征主义画家；盖尔芒特家藏其画。首现 vol4 第 1 章。[person] |
+| Macette | 玛塞特 | 雷尼耶讽刺诗中的伪善老妇；律师公会会长以此影射卢森堡亲王妃。首现 vol4 第 1 章。[literature] |
+| Marcouville | 马尔库维尔 | 巴尔贝克海湾对岸的地名；原文有绰号 Marcouville l'Orgueilleuse→傲岸的马尔库维尔，绰号照译。首现 vol4 第 1 章。[place] |
+| Mathurin Régnier | 马蒂兰·雷尼耶 | 法国讽刺诗人；律师公会会长引其诗讥讽卢森堡亲王妃。首现 vol4 第 1 章。[person] |
+| Mme Blandais | 布朗代夫人 | 公证人布朗代之妻；爱窥探、爱传闲话，认定卢森堡亲王妃是骗子。首现 vol4 第 1 章。[person] |
+| Mme de Villeparisis | 维尔巴里西斯侯爵夫人 | 外祖母之友 |
+| notaire | 公证人 | 法国公证人，办理房产、遗产等文书；巴尔贝克的公证人布朗代。首现 vol4 第 1 章。[social] |
+| Poncin | 蓬桑 | Mme Poncin→蓬桑夫人，海滨大酒店房客中的包打听，外号「新闻处」。首现 vol4 第 1 章。[person] |
+| premier président | 首席院长 | 上诉法院首席院长（premier président）；其妻为酒店闲话圈一员。首现 vol4 第 1 章。[social] |
+| princesse de Luxembourg | 卢森堡亲王妃 | 在巴尔贝克逗留的贵妇，乘华丽马车、送水果到酒店；公证人妻子怀疑她是冒牌货，此事成为酒店闲话。princesse 指亲王妃，不作「公主」「亲王夫人」。首现 vol4 第 1 章。[person_title] |
+| Rivebelle | 里夫贝尔 | 巴尔贝克海湾另一端的海滨；从巴尔贝克望去，凡见其有阳光便预示风雨。首现 vol4 第 1 章。[place] |
+| Titien | 提香 | 提香，意大利威尼斯画派画家；vol4 第 1 章：维尔巴里西斯侯爵夫人藏有提香所绘先祖肖像，项链即画中物（她以此证明是真迹）。[real_person] |
+| Tolède | 托莱多 | 西班牙古城；诺尔普瓦为看格列柯多留一天。首现 vol4 第 1 章。[place] |

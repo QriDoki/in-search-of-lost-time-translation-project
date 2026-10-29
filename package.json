@@ -1,0 +1,22 @@
+{
+  "name": "in-search-of-lost-time-reader",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "《追忆似水年华》中文译本的在线阅读器与电子书构建",
+  "scripts": {
+    "gen": "node scripts/prepare-site.mjs",
+    "dev": "npm run gen && vitepress dev site",
+    "build": "npm run gen && vitepress build site",
+    "build:site": "npm run build",
+    "build:epub": "node scripts/build-epub.mjs",
+    "build:all": "node scripts/build-all.mjs",
+    "preview": "vitepress preview site"
+  },
+  "devDependencies": {
+    "entities": "^7.0.1",
+    "markdown-it": "^14.1.0",
+    "markdown-it-footnote": "^4.0.0",
+    "vitepress": "1.6.4"
+  }
+}
