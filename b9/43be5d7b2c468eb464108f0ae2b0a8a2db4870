@@ -1,0 +1,36 @@
+site/.vitepress/theme/custom.css
+  s_3b5301af6586fb::t_042dbae68d3271 251-258,793,796,798-804,816-834
+  s_3b5301af6586fb::t_9f85d070e32140 794-795,797,805-815
+site/.vitepress/theme/components/ReaderDock.vue
+  s_3b5301af6586fb::t_9f85d070e32140 5,483
+scripts/tests/test_annotation_types.mjs
+  s_3b5301af6586fb::t_d5efb2175cf7b7 39
+  s_3b5301af6586fb::t_a5a1b6cd8f2696 1-38,40-43
+site/.vitepress/theme/components/ReaderAnnotations.vue
+  s_3b5301af6586fb::t_042dbae68d3271 3-5,82,85,88-99,139
+scripts/lib/annotation-types.mjs
+  s_3b5301af6586fb::t_43422bd650eafe 5,7
+  s_3b5301af6586fb::t_042dbae68d3271 1-4,6,8-35
+site/.vitepress/theme/composables/reader.ts
+  s_3b5301af6586fb::t_042dbae68d3271 2,24,51,104,241
+site/.vitepress/theme/components/ReaderAnnotationTypes.vue
+  s_3b5301af6586fb::t_9f85d070e32140 1-99
+scripts/lib/content.mjs
+  s_3b5301af6586fb::t_042dbae68d3271 26,212-214,219
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "b943be5d7b2c468eb464108f0ae2b0a8a2db4870",
+  "prompts": {},
+  "sessions": {
+    "s_3b5301af6586fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1880c-351d-7bd3-bbdd-1e23a883eab8",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
