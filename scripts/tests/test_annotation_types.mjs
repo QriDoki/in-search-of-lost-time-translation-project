@@ -32,12 +32,13 @@ test('站点生成隐藏 emoji 元数据和默认过滤状态，保留锚点及 
     { title: '第一卷', children: [{ title: '第一章', parts: ['one.md'] }] },
   ] } }))
   fs.writeFileSync(path.join(root, 'polish/test/chapters/one.md'), '正文⊂锚点⊃≼🧵🧩隐藏注解≽，≼⚖️🔤**显示注解**≽。≼旧注解≽')
-  const html = buildBook({ root, annotationStyle: 'popover' }).pages.at(-1).markdown
+  // CI sets POLISH_VERSION for the published book; this fixture has its own version.
+  const html = buildBook({ root, version: 'test', annotationStyle: 'popover' }).pages.at(-1).markdown
   assert.match(html, /class="reader-annotation is-note-hidden" data-reader-note-types="🧵 🧩"/)
   assert.match(html, /reader-annotation__anchor">锚点<\/span>/)
   assert.match(html, /class="reader-annotation" data-reader-note-types="⚖️ 🔤"/)
   assert.match(html, /data-reader-note="&lt;strong&gt;显示注解&lt;\/strong&gt;"/)
   assert.match(html, /data-reader-note="旧注解"/)
   assert.doesNotMatch(html, /data-reader-note="[🧵🧩⚖️🔤]/u)
-  assert.match(buildBook({ root }).pages.at(-1).markdown, /\^\[🧵🧩隐藏注解\]/)
+  assert.match(buildBook({ root, version: 'test' }).pages.at(-1).markdown, /\^\[🧵🧩隐藏注解\]/)
 })
