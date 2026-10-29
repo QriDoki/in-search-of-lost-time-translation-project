@@ -34,19 +34,27 @@ function onScroll() {
     scrollFrame = 0
     const y = scrollTop()
     const headerHeight = document.querySelector<HTMLElement>('.VPNav')?.offsetHeight ?? 64
-    if (!isReaderPage.value || readerPanel.value || y <= headerHeight) {
+    if (!isReaderPage.value || readerPanel.value) {
       showHeader()
       return
     }
-    // 累积少量滚动距离再改变方向，避免触控板微动和回弹导致页头闪烁。
+    // 滚动只收起页头；重新显示由正文点击（含触屏轻点）触发。
     if (Math.abs(y - lastScrollY) < 8) return
-    headerHidden.value = y > lastScrollY
+    if (y > lastScrollY && y > headerHeight) headerHidden.value = true
     lastScrollY = y
   })
 }
 
 function onNavFocus(event: FocusEvent) {
   if (event.target instanceof Element && event.target.closest('.VPNav')) showHeader()
+}
+
+function onReaderClick(event: MouseEvent) {
+  if (!isReaderPage.value || !(event.target instanceof Element)) return
+  if (!event.target.closest('.VPDoc .vp-doc')) return
+  // 选取正文时保持阅读状态，触屏滑动由浏览器自动排除在 click 事件外。
+  if (window.getSelection()?.isCollapsed === false) return
+  showHeader()
 }
 
 watch(() => page.value.relativePath, () => {
@@ -59,10 +67,12 @@ onMounted(() => {
   showHeader()
   window.addEventListener('scroll', onScroll, { passive: true })
   document.addEventListener('focusin', onNavFocus)
+  document.addEventListener('click', onReaderClick)
 })
 onBeforeUnmount(() => {
   window.removeEventListener('scroll', onScroll)
   document.removeEventListener('focusin', onNavFocus)
+  document.removeEventListener('click', onReaderClick)
   if (scrollFrame) cancelAnimationFrame(scrollFrame)
 })
 </script>

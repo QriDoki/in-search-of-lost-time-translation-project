@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import { nextTick, onBeforeUnmount, onMounted, ref, shallowRef, watch } from 'vue'
-import { useRoute } from 'vitepress'
+import { onContentUpdated, useRoute } from 'vitepress'
+import { prefs } from '../composables/reader'
+import { annotationIsVisible } from '../../../../scripts/lib/annotation-types.mjs'
 
 const route = useRoute()
 const trigger = shallowRef<HTMLButtonElement | null>(null)
@@ -77,10 +79,23 @@ async function open(button: HTMLButtonElement, pin: boolean, focus = false) {
 }
 
 function findTrigger(target: EventTarget | null) {
-  return target instanceof Element
+  const button = target instanceof Element
     ? target.closest<HTMLButtonElement>('.reader-chapter .reader-annotation__trigger')
     : null
+  return button?.closest('.is-note-hidden') ? null : button
 }
+
+function applyAnnotationFilter() {
+  document.querySelectorAll<HTMLElement>('.reader-annotation').forEach((annotation) => {
+    const types = (annotation.dataset.readerNoteTypes ?? '').split(' ').filter(Boolean)
+    const visible = annotationIsVisible(types, prefs.annotationTypes)
+    if (!visible && annotation.contains(trigger.value)) close()
+    annotation.classList.toggle('is-note-hidden', !visible)
+  })
+}
+
+watch(() => prefs.annotationTypes, applyAnnotationFilter, { deep: true })
+onContentUpdated(applyAnnotationFilter)
 
 function onPointerOver(event: PointerEvent) {
   // Touch browsers can synthesize mouse events; only a real mouse may preview notes.
@@ -121,6 +136,7 @@ function onKeydown(event: KeyboardEvent) {
 watch(() => route.path, () => close())
 
 onMounted(() => {
+  applyAnnotationFilter()
   resizeObserver = new ResizeObserver(schedulePosition)
   document.addEventListener('pointerover', onPointerOver)
   document.addEventListener('pointerout', onPointerOut)

@@ -248,6 +248,14 @@ body {
 }
 
 /* 书内注解：锚点虚线、小蓝点与浮层。 */
+.reader-annotation.is-note-hidden > .reader-annotation__trigger {
+  display: none;
+}
+
+.reader-annotation.is-note-hidden > .reader-annotation__anchor {
+  text-decoration: none;
+}
+
 .reader-annotation__anchor {
   text-decoration-line: underline;
   text-decoration-style: dashed;
@@ -781,6 +789,49 @@ body {
 }
 
 /* 设置 */
+
+.reader-note-select {
+  display: flex;
+  justify-content: space-between;
+  grid-column: 2 / -1;
+  padding: 10px 12px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.reader-note-select__options {
+  position: fixed;
+  z-index: 100;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  box-sizing: border-box;
+  padding: 10px 12px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: var(--vp-c-bg);
+  box-shadow: 0 8px 32px rgb(0 0 0 / 16%);
+  font-size: 13px;
+}
+
+.reader-note-select__options label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 0;
+  cursor: pointer;
+}
+
+.reader-note-select__options input {
+  accent-color: var(--reader-accent);
+}
+
+.reader-note-select__options p {
+  margin: 6px 0 0;
+  color: var(--vp-c-text-3);
+  font-size: 12px;
+}
 
 .reader-setting {
   display: grid;

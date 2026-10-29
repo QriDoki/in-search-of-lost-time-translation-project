@@ -2,6 +2,7 @@
 import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { onContentUpdated, useData, withBase } from 'vitepress'
 import { book, pageById } from '../composables/book'
+import ReaderAnnotationTypes from './ReaderAnnotationTypes.vue'
 import {
   clearReadingProgress,
   initReader,
@@ -478,6 +479,8 @@ onBeforeUnmount(() => {
             />
             <span class="reader-setting__value">{{ prefs.width }}px</span>
           </div>
+
+          <ReaderAnnotationTypes />
 
           <div class="reader-progress-summary">
             <span v-if="currentPage">本页 {{ percent(reading.pageProgress) }}</span>
