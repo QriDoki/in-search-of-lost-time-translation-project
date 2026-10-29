@@ -93,6 +93,8 @@ let currentOffset = 0
 let activeId = ''
 let interacted = false
 let mounted = false
+let setupGeneration = 0
+let settingUp = false
 let scrollRaf = 0
 let saveTimer: ReturnType<typeof setTimeout> | undefined
 
@@ -203,7 +205,7 @@ function saveNow() {
     clearTimeout(saveTimer)
     saveTimer = undefined
   }
-  if (!interacted || !activeId || !pageNodes.length) return
+  if (settingUp || !interacted || !activeId || !pageNodes.length) return
 
   const node = pageNodes[currentIndex]
   if (!node) return
@@ -220,10 +222,10 @@ function saveNow() {
 }
 
 function onScroll() {
-  if (scrollRaf) return
+  if (settingUp || scrollRaf) return
   scrollRaf = requestAnimationFrame(() => {
     scrollRaf = 0
-    if (!activeId || !pageNodes.length) return
+    if (settingUp || !activeId || !pageNodes.length) return
     interacted = true
     updateProgressFromScroll()
   })
@@ -233,27 +235,28 @@ function maybeResume() {
   if (typeof window === 'undefined') return
   const url = new URL(window.location.href)
   if (url.searchParams.has('search')) return
-  if (url.searchParams.get('resume') !== '1') return
+  // 显式目录/段落锚点优先；普通打开、刷新和继续阅读均恢复进度。
+  if (url.hash && url.searchParams.get('resume') !== '1') return
 
   const saved = progress.pages[activeId]
   if (!saved) return
 
   let node = pageNodes.find((item) => item.id === saved.paragraphId)
-  if (node && node.dataset.readerHash !== saved.paragraphHash) {
+  if (!node || node.dataset.readerHash !== saved.paragraphHash) {
     node =
       pageNodes.find((item) => item.dataset.readerHash === saved.paragraphHash) ?? node
   }
 
   if (!node) {
     const maxScroll = document.documentElement.scrollHeight - window.innerHeight
-    window.scrollTo({ top: Math.max(0, maxScroll * saved.maxProgress), behavior: 'auto' })
+    window.scrollTo({ top: Math.max(0, maxScroll * saved.pageProgress), behavior: 'instant' })
   } else {
     const rect = node.getBoundingClientRect()
     const top = rect.top + window.scrollY
-    const anchor = navHeight() + Math.min(window.innerHeight * 0.2, 180)
+    const anchor = navHeight() + Math.min(window.innerHeight * 0.25, 220)
     window.scrollTo({
       top: Math.max(0, top + saved.offset * rect.height - anchor),
-      behavior: 'auto',
+      behavior: 'instant',
     })
   }
 
@@ -262,8 +265,12 @@ function maybeResume() {
 }
 
 async function setupPage() {
+  const generation = ++setupGeneration
   const nextId = currentPageId.value
   if (activeId && activeId !== nextId) saveNow()
+  settingUp = true
+  if (scrollRaf) cancelAnimationFrame(scrollRaf)
+  scrollRaf = 0
   activeId = nextId
   currentHash.value = nextId ? window.location.hash.slice(1) : ''
   interacted = false
@@ -273,13 +280,19 @@ async function setupPage() {
 
   setActivePage(nextId)
   // 首页和完整目录页只提供目录面板，不采集段落或继续写入上一章进度。
-  if (!nextId) return
+  if (!nextId) {
+    settingUp = false
+    return
+  }
   await nextTick()
   requestAnimationFrame(() => {
     requestAnimationFrame(() => {
-      if (currentPageId.value !== nextId) return
+      if (!mounted || generation !== setupGeneration || currentPageId.value !== nextId) return
       collectParagraphs()
       maybeResume()
+      // 同步段落位置但不写盘，避免初始化滚动把已有进度覆盖为页首。
+      updateProgressFromScroll()
+      settingUp = false
     })
   })
 }
@@ -320,6 +333,7 @@ onContentUpdated(() => {
 onBeforeUnmount(() => {
   saveNow()
   mounted = false
+  ++setupGeneration
   window.removeEventListener('scroll', onScroll)
   window.removeEventListener('pagehide', onPageHide)
   document.removeEventListener('keydown', onKeydown)

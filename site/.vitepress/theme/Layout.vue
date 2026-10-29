@@ -7,6 +7,7 @@ import ReadingProgress from './components/ReadingProgress.vue'
 import ReaderDock from './components/ReaderDock.vue'
 import ReaderAnnotations from './components/ReaderAnnotations.vue'
 import ReaderSearchHighlight from './components/ReaderSearchHighlight.vue'
+import ReaderAIEdit from './components/ReaderAIEdit.vue'
 import { book } from './composables/book'
 
 const { Layout } = DefaultTheme
@@ -137,6 +138,7 @@ onBeforeUnmount(() => {
       <ReaderDock v-model:panel="readerPanel" />
       <ReaderAnnotations v-if="isReaderPage" />
       <ReaderSearchHighlight v-if="isReaderPage" />
+      <ReaderAIEdit v-if="isReaderPage" />
     </template>
   </Layout>
 </template>

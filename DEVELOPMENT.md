@@ -91,6 +91,7 @@ site/.vitepress/heading-attrs.mjs  标题属性清理（`### 标题 {#id .class}
 
 - 注解由 `buildBook({ annotationStyle: 'popover' })` 生成，正文与章内副题均支持。`ReaderAnnotations.vue` 通过事件委托管理一个浮层：鼠标悬停临时显示，移开隐藏；点击后固定显示并启用遮罩，点击遮罩关闭；触屏仅响应点击，也可按 Escape 关闭。浮层会在视口内定位，长注解可以滚动。
 - 阅读偏好（字号、行距、字体、主题、版心）与阅读进度都保存在 `localStorage`（`lost-time:reader-prefs:v2`、`lost-time:progress:v2`），不上传。
+- 阅读页选中正文后，右下角显示铅笔与四角星组成的 AI 编辑按钮；点击将贡献工作流提示词及选中文字写入剪切板（需 HTTPS 或 localhost 和浏览器剪切板权限）。成功提示中的 Agent 可打开入口浮窗，提醒安装并授权 GitHub 连接器；TRAE、扣子及 WorkBuddy 入口标注「国内可用」。浮窗支持 Escape、关闭按钮及点击遮罩关闭，换页会清除选区状态和提示。
 - 进度精确到段落 ID、段落文本哈希与段内偏移；译文改动导致段落编号变化时按哈希回退匹配。
 - 全书总进度按页面字数加权。
 - 所有页面顶部栏都提供下载 EPUB、GitHub 主仓库和页内目录面板；外部入口在新标签页打开。目录面板与 `/toc.html` 都来自 `book.json` 里的同一棵树，`心灵的间歇` 这类 3/4 级条目可直达锚点。非阅读页面不会采集段落或更新阅读进度。
