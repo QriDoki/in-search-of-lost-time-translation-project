@@ -1,0 +1,19 @@
+scripts/tests/test_annotation_types.mjs
+  s_eff2d6cd1ac6e6::t_201f11d48af20c 35-36,43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "20c5f111d2570fa68b0b73d7daa14b576179824e",
+  "prompts": {},
+  "sessions": {
+    "s_eff2d6cd1ac6e6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18887-2db4-7121-9dcb-ff273b5020bb",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
