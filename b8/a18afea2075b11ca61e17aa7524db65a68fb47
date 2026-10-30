@@ -1,0 +1,34 @@
+site/.vitepress/theme/components/ReaderDock.vue
+  s_6affb0d815944c::t_c2b4504726ae08 96-97,208,225,228,238-239,245,252,256,259,268,271-273,283-286,290,293-295,336
+site/.vitepress/theme/components/ReaderAIEdit.vue
+  s_68d19cfaa5c6b8::t_c68b1ad714cef9 11,14-16,29-31
+  s_68d19cfaa5c6b8::t_ff9eb4aa33f131 1-10,12-13,17-28,32-189
+site/.vitepress/theme/Layout.vue
+  s_68d19cfaa5c6b8::t_c5c32f76f7d5c7 10,141
+DEVELOPMENT.md
+  s_68d19cfaa5c6b8::t_b4fbb995437424 94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "b8a18afea2075b11ca61e17aa7524db65a68fb47",
+  "prompts": {},
+  "sessions": {
+    "s_68d19cfaa5c6b8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a188ef-3085-7422-a3c5-bfc34fe91850",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    },
+    "s_6affb0d815944c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a188f6-bac4-7ba0-a6ce-7e6c2c79abd9",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
