@@ -1,0 +1,47 @@
+site/.vitepress/theme/search.worker.ts
+  s_016d1821e27c85::t_626d077aee5132 4-11,15-18
+  s_016d1821e27c85::t_d98915f0bf8a95 3,12-14
+site/.vitepress/theme/composables/book.ts
+  s_016d1821e27c85::t_626d077aee5132 1-3,60-62,64-66,68-72,74-75,77-82,84-86,92-95
+scripts/lib/content.mjs
+  s_016d1821e27c85::t_e20fa75e6ffa1d 494
+site/.vitepress/theme/custom.css
+  s_016d1821e27c85::t_d93d0dc0034233 1614
+site/.vitepress/theme/components/ChapterNav.vue
+  s_016d1821e27c85::t_626d077aee5132 4,7,10,31
+site/.vitepress/theme/Layout.vue
+  s_016d1821e27c85::t_626d077aee5132 11-13,18
+site/.vitepress/theme/composables/search.ts
+  s_016d1821e27c85::t_626d077aee5132 1-3,25-26,39
+site/.vitepress/theme/components/ContinueReading.vue
+  s_016d1821e27c85::t_626d077aee5132 4,14,17
+.gitignore
+  s_016d1821e27c85::t_e20fa75e6ffa1d 7
+scripts/prepare-site.mjs
+  s_016d1821e27c85::t_d98915f0bf8a95 72,191
+  s_016d1821e27c85::t_e20fa75e6ffa1d 17,46,49,79,98,102,170-172,175-177,179-190,192-194,198-199,201-207
+  s_016d1821e27c85::t_626d077aee5132 195-197
+  s_016d1821e27c85::t_90302b8e274728 200
+site/.vitepress/paragraphs.mjs
+  s_016d1821e27c85::t_90302b8e274728 11
+site/.vitepress/theme/components/ReaderDock.vue
+  s_016d1821e27c85::t_626d077aee5132 4,29,33,37,398
+scripts/lib/content-version.mjs
+  s_016d1821e27c85::t_e20fa75e6ffa1d 19,23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "3a755275e0ec1025c41a17feeaec666279b78044",
+  "prompts": {},
+  "sessions": {
+    "s_016d1821e27c85": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18af3-a10f-70d2-b14d-2ac31278fb15",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
