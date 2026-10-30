@@ -26,6 +26,9 @@ export default defineConfig({
   vite: {
     resolve: {
       alias: [{
+        find: /^.*\/VPNavBarTitle\.vue$/,
+        replacement: path.join(configDir, 'theme/components/ReaderVersionMenu.vue'),
+      }, {
         find: /^.*\/VPLocalSearchBox\.vue$/,
         replacement: path.join(configDir, 'theme/components/ReaderSearch.vue'),
       }],

@@ -3,7 +3,7 @@
  * 生成 VitePress 站点内容。
  *
  * 内容源：polish/{版本}/chapters（按 publish/arrange.json 取段拼接）。
- * 产物：site/chapters/*.md、site/toc.md、site/.vitepress/generated/book.json。
+ * 产物：dev 使用 site/chapters；历史版本使用 site/versions/{版本}/；分别生成目录与搜索索引。
  *
  * 页面划分以 arrange.json 为准，不按润色稿的文件切分：
  * 每个 2 级节点（部 / 无部卷的章）单独一页；卷另有一页书名页；
@@ -14,13 +14,13 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { bookConfig } from '../book.config.mjs'
 import { buildBook } from './lib/content.mjs'
+import { listContentVersions } from './lib/content-version.mjs'
 import { createMarkdownRenderer } from 'vitepress'
 import { configureMarkdown } from '../site/.vitepress/markdown.mjs'
 import { extractSearchRecords } from '../site/.vitepress/paragraphs.mjs'
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const siteRoot = path.join(root, 'site')
-const chaptersOut = path.join(siteRoot, 'chapters')
 const generatedOut = path.join(siteRoot, '.vitepress', 'generated')
 
 const quote = (value) => JSON.stringify(String(value))
@@ -43,9 +43,10 @@ function documentTitle(page) {
   return `${page.volumeTitle} · ${page.title}`
 }
 
-function frontmatter(page, index) {
+function frontmatter(page, index, version = 'dev') {
   const lines = [
     '---',
+    `contentVersion: ${quote(version)}`,
     `title: ${quote(documentTitle(page))}`,
     `pageTitle: ${quote(pageLabel(page))}`,
     `pageContext: ${quote(pageContext(page))}`,
@@ -68,14 +69,14 @@ function frontmatter(page, index) {
   return `${lines.join('\n')}\n`
 }
 
-function writePages(book) {
+function writePages(book, chaptersOut) {
   fs.mkdirSync(chaptersOut, { recursive: true })
   for (const entry of fs.readdirSync(chaptersOut)) {
     if (entry.endsWith('.md')) fs.rmSync(path.join(chaptersOut, entry))
   }
 
   book.pages.forEach((page, index) => {
-    const content = `${frontmatter(page, index)}${page.markdown}\n`
+    const content = `${frontmatter(page, index, book.version)}${page.markdown}\n`
     fs.writeFileSync(path.join(chaptersOut, `${page.id}.md`), content)
   })
 }
@@ -94,11 +95,11 @@ function tocLines(book) {
     '',
     '# 目录',
     '',
-    `- [版权页](./chapters/${book.copyrightPage.id}.md)`,
+    `- [版权页](${book.copyrightPage.path.replace(/\.html$/, '.md')})`,
     '',
   ]
 
-  const toDoc = (path) => `.${path.replace(/^\/chapters\//, '/chapters/').replace(/\.html/, '.md')}`
+  const toDoc = (path) => path.replace(/\.html/, '.md')
 
   const renderEntry = (entry, depth) => {
     const indent = '  '.repeat(depth)
@@ -166,33 +167,44 @@ function siteManifest(book) {
 }
 
 async function main() {
-  const book = buildBook({ root, annotationStyle: 'popover' })
-
-  writePages(book)
-  fs.writeFileSync(path.join(siteRoot, 'toc.md'), `${tocLines(book)}\n`)
-
+  const versions = ['dev', ...listContentVersions(root)]
+  const manifests = {}
+  fs.rmSync(path.join(siteRoot, 'versions'), { recursive: true, force: true })
   fs.rmSync(generatedOut, { recursive: true, force: true })
   fs.mkdirSync(generatedOut, { recursive: true })
-  fs.writeFileSync(
-    path.join(generatedOut, 'book.json'),
-    `${JSON.stringify(siteManifest(book), null, 2)}\n`,
-  )
-
+  const searchOut = path.join(siteRoot, 'public', 'search')
+  fs.rmSync(searchOut, { recursive: true, force: true })
+  fs.mkdirSync(searchOut, { recursive: true })
   const md = await createMarkdownRenderer(siteRoot, { html: true, config: configureMarkdown })
-  const records = book.pages.flatMap((page, index) => extractSearchRecords(
-    md.render(`${frontmatter(page, index)}${page.markdown}`, { relativePath: `chapters/${page.id}.md` }),
-    { ...page, path: `/chapters/${page.id}.html` },
-  ))
-  fs.writeFileSync(path.join(generatedOut, 'search.json'), JSON.stringify({ version: book.version, records }))
-  console.log(`[site] 全文搜索：${records.length.toLocaleString('zh-CN')} 个段落与标题`)
+  const home = fs.readFileSync(path.join(siteRoot, 'index.md'), 'utf8')
 
-  for (const warning of book.warnings) console.warn(`[site] 提示：${warning}`)
-
-  const { totalChars, totalPages, totalVolumes } = book.stats
-  console.log(
-    `[site] ${book.sourceLabel} → ${totalPages} 页 / ${totalVolumes} 卷 / ` +
-      `${totalChars.toLocaleString('zh-CN')} 字（版本 ${book.version}）`,
-  )
+  for (const version of versions) {
+    const book = buildBook({ root, version, annotationStyle: 'popover', allowDev: true })
+    const prefix = version === 'dev' ? '' : `/versions/${version}`
+    const prefixEntry = (entry) => {
+      entry.path = prefix + entry.path
+      for (const child of entry.children ?? []) prefixEntry(child)
+    }
+    for (const page of book.pages) page.path = prefix + page.path
+    for (const volume of book.volumes) for (const entry of volume.entries) prefixEntry(entry)
+    const output = path.join(siteRoot, prefix)
+    writePages(book, path.join(output, 'chapters'))
+    fs.writeFileSync(path.join(output, 'toc.md'),
+      tocLines(book).replace('title: 目录', `title: 目录\ncontentVersion: ${quote(version)}`))
+    if (prefix) fs.writeFileSync(path.join(output, 'index.md'),
+      home.replace('layout: home', `layout: home\ncontentVersion: ${quote(version)}`)
+        .replace('link: chapters/', `link: ${prefix}/chapters/`)
+        .replace('link: toc.html', `link: ${prefix}/toc.html`))
+    manifests[version] = siteManifest(book)
+    const records = book.pages.flatMap((page, index) => extractSearchRecords(
+      md.render(`${frontmatter(page, index, version)}${page.markdown}`, { relativePath: `${prefix ? prefix.slice(1) + '/' : ''}chapters/${page.id}.md` }), page,
+    ))
+    fs.writeFileSync(path.join(searchOut, `${version}.json`), JSON.stringify({ version, records }))
+    console.log(`[site] ${version} → ${book.stats.totalPages} 页 / ${records.length} 条搜索记录`)
+    for (const warning of book.warnings) console.warn(`[site] 提示：${warning}`)
+  }
+  fs.writeFileSync(path.join(generatedOut, 'books.json'), JSON.stringify(manifests))
+  fs.writeFileSync(path.join(generatedOut, 'book.json'), JSON.stringify(manifests.dev, null, 2))
 }
 
 main()

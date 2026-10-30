@@ -491,7 +491,7 @@ export function buildBook(options = {}) {
   }
   const arrange = JSON.parse(fs.readFileSync(arrangePath, 'utf8'))
 
-  const resolved = resolveContentVersion(root, options.version)
+  const resolved = resolveContentVersion(root, options.version, { allowDev: options.allowDev })
   const buildVersion = resolved.version
   const readPart = createPartReader(resolved.chaptersDir)
 

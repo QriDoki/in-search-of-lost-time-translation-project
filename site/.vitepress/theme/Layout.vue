@@ -8,12 +8,14 @@ import ReaderDock from './components/ReaderDock.vue'
 import ReaderAnnotations from './components/ReaderAnnotations.vue'
 import ReaderSearchHighlight from './components/ReaderSearchHighlight.vue'
 import ReaderAIEdit from './components/ReaderAIEdit.vue'
-import { book } from './composables/book'
+import { useBook } from './composables/book'
+
+const { book } = useBook()
 
 const { Layout } = DefaultTheme
 const { page, frontmatter } = useData()
 
-const isReaderPage = computed(() => page.value.relativePath.startsWith('chapters/'))
+const isReaderPage = computed(() => Boolean(frontmatter.value.readerPageId))
 const readerPanel = ref<'toc' | 'settings' | null>(null)
 const headerHidden = ref(false)
 let lastScrollY = 0
@@ -85,9 +87,6 @@ onBeforeUnmount(() => {
       <p class="home-book-version">版本: {{ book.buildVersion }}</p>
       <p class="home-book-subtitle">{{ frontmatter.hero.text }}</p>
       <p class="home-book-tagline" v-html="frontmatter.hero.tagline" />
-    </template>
-    <template #nav-bar-title-after>
-      <span class="reader-build-version"><span class="reader-version-prefix">版本: </span>{{ book.buildVersion }}</span>
     </template>
     <template #layout-top>
       <ReadingProgress v-if="isReaderPage" />

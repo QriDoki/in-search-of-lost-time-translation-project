@@ -1,3 +1,6 @@
+import { withBase } from 'vitepress'
+import { book } from './book'
+
 export interface SearchResult {
   id: string
   title: string
@@ -19,7 +22,8 @@ export function runSearch(query: string, limit: number): Promise<SearchResponse>
   if (!worker) {
     worker = new Worker(new URL('../search.worker.ts', import.meta.url), { type: 'module' })
     worker.onmessage = ({ data }) => {
-      pending.get(data.requestId)?.resolve(data)
+      if (data.error) pending.get(data.requestId)?.reject(new Error(data.error))
+      else pending.get(data.requestId)?.resolve(data)
       pending.delete(data.requestId)
     }
     worker.onerror = () => {
@@ -32,6 +36,6 @@ export function runSearch(query: string, limit: number): Promise<SearchResponse>
   return new Promise((resolve, reject) => {
     const id = ++requestId
     pending.set(id, { resolve, reject })
-    worker!.postMessage({ query, limit, requestId: id })
+    worker!.postMessage({ query, limit, requestId: id, indexUrl: new URL(withBase(`/search/${book.contentVersion}.json`), window.location.origin).href })
   })
 }

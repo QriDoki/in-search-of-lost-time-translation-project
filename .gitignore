@@ -4,6 +4,7 @@
 node_modules/
 dist/
 site/chapters/
+site/versions/
 site/public/
 site/toc.md
 site/.vitepress/cache/

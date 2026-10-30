@@ -2,10 +2,9 @@ name: Publish Reader and EPUB
 
 on:
   push:
-    branches: [release]
+    branches: [release, main]
     paths:
       - 'polish/**'
-      - '!polish/dev/**'
       - 'publish/**'
       - 'site/**'
       - 'scripts/**'
