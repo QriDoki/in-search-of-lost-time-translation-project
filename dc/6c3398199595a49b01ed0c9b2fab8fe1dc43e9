@@ -1,0 +1,19 @@
+.github/workflows/deploy.yml
+  s_016d1821e27c85::t_45f95209fd6f7c 29,108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "dc6c3398199595a49b01ed0c9b2fab8fe1dc43e9",
+  "prompts": {},
+  "sessions": {
+    "s_016d1821e27c85": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18af3-a10f-70d2-b14d-2ac31278fb15",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
