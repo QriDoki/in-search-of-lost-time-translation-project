@@ -1,0 +1,19 @@
+site/.vitepress/theme/components/ReaderAIEdit.vue
+  s_68d19cfaa5c6b8::t_a5d08fe13dc8cf 120,143,185
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "c4595be0fb9010116c299e8c828dabf99ec7ed9f",
+  "prompts": {},
+  "sessions": {
+    "s_68d19cfaa5c6b8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a188ef-3085-7422-a3c5-bfc34fe91850",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
