@@ -1,0 +1,27 @@
+site/.vitepress/theme/composables/reader.ts
+  s_33b705ad3726c5::t_5af2f5897baaea 273
+site/.vitepress/theme/custom.css
+  s_33b705ad3726c5::t_5af2f5897baaea 958-959,969-970,972-974,981-1006
+  s_33b705ad3726c5::t_8ffb4a01968782 971,975-980
+site/.vitepress/theme/Layout.vue
+  s_33b705ad3726c5::t_5af2f5897baaea 130
+site/.vitepress/theme/components/ReaderDock.vue
+  s_33b705ad3726c5::t_5af2f5897baaea 486,489-495
+  s_33b705ad3726c5::t_8ffb4a01968782 487-488
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "4c31b0661ac353c26d035488a2eeeb784dae8c08",
+  "prompts": {},
+  "sessions": {
+    "s_33b705ad3726c5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a188f9-735f-7c70-9435-ebf1aa76da80",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
