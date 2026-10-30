@@ -1561,6 +1561,9 @@ body {
 }
 
 
+/* 版本面板所在导航层需高于独立的阅读进度条（45）。 */
+.VPNav:has(.reader-version-panel) { z-index: 46; }
+
 .reader-version-menu { position: relative; }
 .reader-version-menu > .title {
   display: flex;
@@ -1587,13 +1590,19 @@ body {
   background: var(--vp-c-bg);
   box-shadow: 0 8px 28px #0002;
 }
-.reader-version-select { margin-top: 8px; }
+.reader-version-select { position: relative; margin-top: 8px; }
 .reader-version-select summary { list-style: none; cursor: pointer; }
 .reader-version-select summary::-webkit-details-marker { display: none; }
 .reader-version-options {
+  position: absolute;
+  z-index: 1;
+  top: calc(100% + 6px);
+  left: 0;
+  right: 0;
+  background: var(--vp-c-bg);
+  box-shadow: 0 8px 28px #0002;
   max-height: min(280px, 45vh);
   overflow-y: auto;
-  margin-top: 6px;
   padding: 6px;
   border: 1px solid var(--vp-c-divider);
   border-radius: 8px;
@@ -1615,5 +1624,6 @@ body {
   .reader-version-value {
     display: inline-block;
     width: 14ch;
+    text-align: center;
   }
 }
