@@ -1,12 +1,13 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useData, withBase } from 'vitepress'
-import { neighbourPages } from '../composables/book'
+import { neighbourPages, useBook, versionPrefix } from '../composables/book'
 
 const { page } = useData()
+const { book } = useBook()
 
 const pageId = computed(() => String(page.value.frontmatter.readerPageId ?? ''))
-const neighbours = computed(() => neighbourPages(pageId.value))
+const neighbours = computed(() => neighbourPages(pageId.value, book.value))
 </script>
 
 <template>
@@ -27,7 +28,7 @@ const neighbours = computed(() => neighbourPages(pageId.value))
     </a>
     <span v-else class="chapter-nav__card chapter-nav__card--empty" />
 
-    <a class="chapter-nav__toc" :href="withBase('/toc.html')">目录</a>
+    <a class="chapter-nav__toc" :href="withBase(`${versionPrefix(book.contentVersion)}/toc.html`)">目录</a>
 
     <a
       v-if="neighbours.next"

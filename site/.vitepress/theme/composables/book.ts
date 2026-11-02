@@ -1,4 +1,6 @@
-import bookJson from '../../generated/book.json'
+import booksJson from '../../generated/books.json'
+import { computed } from 'vue'
+import { useData } from 'vitepress'
 
 export type PageKind = 'copyright' | 'volume' | 'unit'
 
@@ -55,32 +57,42 @@ export interface BookMeta {
   volumes: VolumeMeta[]
 }
 
-export const book = bookJson as BookMeta
+export const books = booksJson as Record<string, BookMeta>
+export const versions = Object.keys(books)
+export const VERSION_KEY = 'lost-time:content-version:v1'
 
-/** 阅读顺序里的全部页面，含版权页与卷首页。 */
-export const pages: PageMeta[] = book.pages
+export function versionPrefix(version: string) {
+  return version === 'dev' ? '' : `/versions/${version}`
+}
 
+function pathVersion() {
+  if (typeof window === 'undefined') return 'dev'
+  const version = window.location.pathname.match(/\/versions\/([^/]+)\//)?.[1]
+  return version && books[version] ? version : 'dev'
+}
+
+// 切换版本使用整页导航，正文、搜索 Worker 与阅读元数据始终来自同一版本。
+export const book = books[pathVersion()]
+
+/** 通过页面数据选择元数据，服务端渲染也无需共享可变状态。 */
+export function useBook() {
+  const { frontmatter } = useData()
+  const selected = computed(() => books[String(frontmatter.value.contentVersion ?? 'dev')] ?? books.dev)
+  return { book: selected }
+}
+
+export const pages = book.pages
 export const pageById = new Map(pages.map((page) => [page.id, page]))
-
-export const pageIndexById = new Map(pages.map((page, index) => [page.id, index]))
-
-/** 阅读顺序里的第一页：版权页。 */
-export const firstPage = pages[0]
-
-export const totalChars =
-  book.totalChars || pages.reduce((sum, page) => sum + Math.max(page.chars, 1), 0)
+export const totalChars = book.totalChars
 
 export function pageAt(id: string | null | undefined): PageMeta | undefined {
   return id ? pageById.get(id) : undefined
 }
 
-export function neighbourPages(id: string | null | undefined) {
-  const index = id ? pageIndexById.get(id) : undefined
-  if (index === undefined) return { previous: undefined, next: undefined }
-  return {
-    previous: pages[index - 1],
-    next: pages[index + 1],
-  }
+export function neighbourPages(id: string | null | undefined, source: BookMeta = book) {
+  const index = source.pages.findIndex((page) => page.id === id)
+  if (index < 0) return { previous: undefined, next: undefined }
+  return { previous: source.pages[index - 1], next: source.pages[index + 1] }
 }
 
 export function pageWeight(page: PageMeta): number {

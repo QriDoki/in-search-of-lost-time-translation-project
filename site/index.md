@@ -5,7 +5,7 @@ pageClass: home-page
 hero:
   name: 追忆似水年华
   text: 全七卷 · 中文新译
-  tagline: 马塞尔·普鲁斯特<br>孙齐宏 译
+  tagline: 马塞尔·普鲁斯特<br>孙齐宏 with ✧AI 译
   actions:
     - theme: brand
       text: 开始阅读

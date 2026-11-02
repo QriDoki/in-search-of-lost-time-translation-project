@@ -94,3 +94,11 @@ test('CI 无需构建时间；内容、版权页和显示版本均来自选中�
   assert.equal(selected.buildVersion, '20261027180000')
   assert.match(selected.copyrightPage.markdown, /版本: 20261027180000/)
 })
+
+
+test('站点可在 CI 显式生成 dev，EPUB 的默认限制仍然生效', (t) => {
+  const root = fixture(t, ['20261028180000', 'dev'])
+  process.env.GITHUB_ACTIONS = 'true'
+  assert.equal(resolveContentVersion(root, 'dev', { allowDev: true }).version, 'dev')
+  assert.throws(() => resolveContentVersion(root, 'dev'), /CI\/CD 禁止/)
+})

@@ -117,7 +117,7 @@ onBeforeUnmount(() => {
   position: fixed;
   z-index: 46;
   right: max(24px, env(safe-area-inset-right));
-  bottom: calc(28px + env(safe-area-inset-bottom));
+  bottom: calc(112px + env(safe-area-inset-bottom));
   display: grid;
   place-items: center;
   width: 58px;
@@ -140,7 +140,7 @@ onBeforeUnmount(() => {
   position: fixed;
   z-index: 65;
   right: max(24px, env(safe-area-inset-right));
-  bottom: calc(100px + env(safe-area-inset-bottom));
+  bottom: calc(184px + env(safe-area-inset-bottom));
   display: flex;
   align-items: center;
   gap: 12px;
@@ -182,7 +182,7 @@ onBeforeUnmount(() => {
 .reader-ai-badge { padding: 1px 7px; border-radius: 20px; background: var(--reader-accent-soft); color: var(--reader-accent); font-size: 11px; white-space: nowrap; }
 .reader-ai-external { margin-left: auto; color: var(--reader-accent); }
 @media (max-width: 480px) {
-  .reader-ai-edit { right: max(16px, env(safe-area-inset-right)); bottom: calc(20px + env(safe-area-inset-bottom)); width: 52px; height: 52px; }
+  .reader-ai-edit { right: max(16px, env(safe-area-inset-right)); width: 52px; height: 52px; }
   .reader-ai-notice { right: 16px; max-width: calc(100vw - 32px); }
   .reader-ai-dialog { padding: 20px; }
 }

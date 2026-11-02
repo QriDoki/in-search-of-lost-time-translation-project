@@ -15,12 +15,12 @@ export function listContentVersions(root) {
     .reverse()
 }
 
-/** 文件夹名即发布版本；dev 仅允许本地显式选择，用于预览贡献。 */
-export function resolveContentVersion(root, requested) {
+/** 文件夹名即发布版本；站点显式允许收录 dev，电子书仍禁止在 CI 发布 dev。 */
+export function resolveContentVersion(root, requested, { allowDev = false } = {}) {
   const versions = listContentVersions(root)
   const version = requested || process.env.POLISH_VERSION || versions[0]
   if (version === 'dev') {
-    if (process.env.GITHUB_ACTIONS === 'true') {
+    if (process.env.GITHUB_ACTIONS === 'true' && !allowDev) {
       throw new Error('CI/CD 禁止构建或发布 polish/dev，请选择正式版本。')
     }
     if (!fs.statSync(path.join(root, 'polish/dev/chapters'), { throwIfNoEntry: false })?.isDirectory()) {

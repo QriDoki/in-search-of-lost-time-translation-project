@@ -84,7 +84,7 @@ function metadataFor(book, volume) {
   ].join('\n')
 }
 
-function runPandoc({ markdown, meta, output, splitLevel }) {
+function runPandoc({ markdown, meta, output, splitLevel, version }) {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'lost-time-epub-'))
   try {
     const mdPath = path.join(dir, 'book.md')
@@ -98,6 +98,8 @@ function runPandoc({ markdown, meta, output, splitLevel }) {
         mdPath,
         '--from', 'markdown-smart+raw_html',
         '--to', 'epub3',
+        // 合并稿写在临时目录；图片仍相对于原 polish 稿件解析。
+        '--resource-path', path.join(root, 'polish', version, 'chapters'),
         '--lua-filter', notesFilterPath,
         // 不用 --toc：pandoc 会把 nav 文档放进 spine，读者就会看到一页目录。
         // 不给 --toc 时 nav 仍会生成（EPUB 3 必需），只是不落在阅读顺序里。
@@ -135,6 +137,7 @@ function buildEpub(book, volume) {
     output,
     // 2 级标题（部 / 章）各起一个文件；1 级（卷）自然也各自起头。
     splitLevel: 2,
+    version: book.version,
   })
 
   // GitHub 会改写含中文或全角符号的附件名；发布副本使用唯一的 ASCII 名称。

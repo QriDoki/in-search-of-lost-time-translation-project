@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { onContentUpdated, useData, withBase } from 'vitepress'
-import { book, pageById } from '../composables/book'
+import { useBook, versionPrefix } from '../composables/book'
 import ReaderAnnotationTypes from './ReaderAnnotationTypes.vue'
 import {
   clearReadingProgress,
@@ -26,14 +26,15 @@ import {
 } from '../composables/toc'
 
 const { page } = useData()
+const { book } = useBook()
 
 const panel = defineModel<'toc' | 'settings' | null>('panel', { default: null })
 const currentPageId = computed(() => String(page.value.frontmatter.readerPageId ?? ''))
-const currentPage = computed(() => pageById.get(currentPageId.value))
+const currentPage = computed(() => book.value.pages.find((entry) => entry.id === currentPageId.value))
 const currentHash = ref('')
 
 const tocRows = computed(() =>
-  flattenEntries(book.volumes).map((row) => {
+  flattenEntries(book.value.volumes).map((row) => {
     const number = row.title.match(/^第[零〇一二三四五六七八九十百\d]+[卷部章节]/)?.[0] ?? ''
     const name = row.title.slice(number.length).replace(/^[\s·・]+/, '')
     return { ...row, number: name ? number : '', name: name || row.title }
@@ -394,7 +395,7 @@ onBeforeUnmount(() => {
 
         <footer class="reader-panel__footer">
           <span>全书 {{ percent(overallProgress) }}</span>
-          <a class="reader-text-button" :href="withBase('/toc.html')">完整目录</a>
+          <a class="reader-text-button" :href="withBase(`${versionPrefix(book.contentVersion)}/toc.html`)">完整目录</a>
           <button class="reader-text-button" @click="handleClearProgress">清除阅读进度</button>
         </footer>
       </section>

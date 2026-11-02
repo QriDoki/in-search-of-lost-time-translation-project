@@ -86,3 +86,12 @@ test('渲染后索引与页面同源：跨斜体和注解锚点、实体可连�
   assert.ok(!records[0].text.includes('¶'))
   assert.equal(visibleText('A &amp; B &lt;C&gt; &#x1f600;'), 'A & B <C> 😀')
 })
+
+
+test('历史版本的正文与默认正文使用相同段落锚点，搜索链接保留版本', async () => {
+  const md = await createMarkdownRenderer(process.cwd(), { html: true, config: configureMarkdown })
+  const source = '## 第一章 {#chapter}\n\n版本正文。'
+  const html = md.render(source, { relativePath: 'versions/20261030003000/chapters/test.md' })
+  const records = extractSearchRecords(html, { path: '/versions/20261030003000/chapters/test.html', volumeTitle: '第一卷' })
+  assert.deepEqual(ids('版本正文', records), ['/versions/20261030003000/chapters/test.html#p-000001'])
+})

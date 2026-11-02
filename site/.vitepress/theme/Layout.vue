@@ -8,12 +8,14 @@ import ReaderDock from './components/ReaderDock.vue'
 import ReaderAnnotations from './components/ReaderAnnotations.vue'
 import ReaderSearchHighlight from './components/ReaderSearchHighlight.vue'
 import ReaderAIEdit from './components/ReaderAIEdit.vue'
-import { book } from './composables/book'
+import { useBook } from './composables/book'
+
+const { book } = useBook()
 
 const { Layout } = DefaultTheme
 const { page, frontmatter } = useData()
 
-const isReaderPage = computed(() => page.value.relativePath.startsWith('chapters/'))
+const isReaderPage = computed(() => Boolean(frontmatter.value.readerPageId))
 const readerPanel = ref<'toc' | 'settings' | null>(null)
 const headerHidden = ref(false)
 let lastScrollY = 0
@@ -39,7 +41,7 @@ function onScroll() {
       showHeader()
       return
     }
-    // 滚动只收起页头；重新显示由正文点击（含触屏轻点）触发。
+    // 滚动只收起页头；重新显示由整页点击（含触屏轻点）触发。
     if (Math.abs(y - lastScrollY) < 8) return
     if (y > lastScrollY && y > headerHeight) headerHidden.value = true
     lastScrollY = y
@@ -50,9 +52,8 @@ function onNavFocus(event: FocusEvent) {
   if (event.target instanceof Element && event.target.closest('.VPNav')) showHeader()
 }
 
-function onReaderClick(event: MouseEvent) {
-  if (!isReaderPage.value || !(event.target instanceof Element)) return
-  if (!event.target.closest('.VPDoc .vp-doc')) return
+function onReaderClick() {
+  if (!isReaderPage.value) return
   // 选取正文时保持阅读状态，触屏滑动由浏览器自动排除在 click 事件外。
   if (window.getSelection()?.isCollapsed === false) return
   showHeader()
@@ -85,9 +86,6 @@ onBeforeUnmount(() => {
       <p class="home-book-version">版本: {{ book.buildVersion }}</p>
       <p class="home-book-subtitle">{{ frontmatter.hero.text }}</p>
       <p class="home-book-tagline" v-html="frontmatter.hero.tagline" />
-    </template>
-    <template #nav-bar-title-after>
-      <span class="reader-build-version"><span class="reader-version-prefix">版本: </span>{{ book.buildVersion }}</span>
     </template>
     <template #layout-top>
       <ReadingProgress v-if="isReaderPage" />

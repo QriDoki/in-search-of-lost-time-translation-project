@@ -2,13 +2,13 @@ name: Publish Reader and EPUB
 
 on:
   push:
-    branches: [release]
+    branches: [release, main]
     paths:
       - 'polish/**'
-      - '!polish/dev/**'
       - 'publish/**'
       - 'site/**'
       - 'scripts/**'
+      - 'assets/extra/**'
       - 'book.config.mjs'
       - 'package.json'
       - 'package-lock.json'
@@ -27,7 +27,7 @@ concurrency:
 
 jobs:
   version:
-    if: github.ref == 'refs/heads/release'
+    if: github.ref == 'refs/heads/release' || github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     outputs:
       version: ${{ steps.version.outputs.version }}
@@ -106,7 +106,7 @@ jobs:
 
   epub:
     needs: version
-    if: needs.version.outputs.polish_changed == 'true'
+    if: github.ref == 'refs/heads/release' && needs.version.outputs.polish_changed == 'true'
     permissions:
       contents: write
     uses: ./.github/workflows/release-epub.yml

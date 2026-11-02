@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed, onMounted } from 'vue'
 import { withBase } from 'vitepress'
-import { book, firstPage } from '../composables/book'
+import { useBook } from '../composables/book'
 import {
   initReader,
   lastPage,
@@ -11,9 +11,10 @@ import {
   progress,
 } from '../composables/reader'
 
+const { book } = useBook()
 onMounted(initReader)
 
-const target = computed(() => lastPage.value ?? firstPage)
+const target = computed(() => lastPage.value ?? book.value.pages[0])
 
 const link = computed(() => {
   if (!target.value) return withBase('/toc.html')

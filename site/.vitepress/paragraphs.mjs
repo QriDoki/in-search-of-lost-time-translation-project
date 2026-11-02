@@ -8,7 +8,7 @@ export function paragraphAnchorsPlugin(md) {
   const render = md.renderer.render.bind(md.renderer)
   md.renderer.render = (tokens, options, env) => {
     const html = render(tokens, options, env)
-    if (!env.relativePath?.startsWith('chapters/')) return html
+    if (!/(?:^|\/)chapters\//.test(env.relativePath ?? '')) return html
     let index = 0
     return html.replace(/<p(?=[\s>])([^>]*)>/gi, (_, attrs) => {
       const id = paragraphId(index++)

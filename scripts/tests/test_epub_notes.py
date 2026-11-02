@@ -1,6 +1,8 @@
 """使用真实内容模型和 Pandoc 验证注解转换与 EPUB 往返导航。"""
 
 import json
+import html
+import posixpath
 import subprocess
 import sys
 import tempfile
@@ -23,12 +25,16 @@ class EpubNotesTest(unittest.TestCase):
         chapters.mkdir(parents=True)
         publish = cls.root / 'publish'
         publish.mkdir()
+        assets = cls.root / 'assets/extra'
+        assets.mkdir(parents=True)
+        cls.image = b'<svg xmlns="http://www.w3.org/2000/svg" width="80" height="40"><rect width="80" height="40" fill="gold"/></svg>'
+        (assets / 'test.svg').write_bytes(cls.image)
         (publish / '版权页.md').write_text('# 版权页\n\n测试版权。\n', encoding='utf-8')
         (chapters / 'one.md').write_text(
             '## 第一章\n\n'
             '### 概要⊂词语⊃≼副题 *斜体* & 说明≽≼副题第二注≽\n\n'
             '他说：“⊂你好⊃≼原文为法语≽”≼紧邻注解≽。\n\n'
-            '另一段≼含有 **粗体** 和 *斜体* 的注解≽。\n', encoding='utf-8')
+            '另一段≼含有 **粗体** 和 *斜体* 的注解 ![灯罩图示](../../../assets/extra/test.svg)≽。\n', encoding='utf-8')
         (chapters / 'two.md').write_text('## 第二章\n\n正文≼第二章注解≽。\n', encoding='utf-8')
         (chapters / 'three.md').write_text('## 第三章\n\n正文≼第二卷注解≽。\n', encoding='utf-8')
         arrangement = {'book': {'title': '样例', 'children': [
@@ -46,6 +52,7 @@ class EpubNotesTest(unittest.TestCase):
         subprocess.run([
             'pandoc', '--from', 'markdown-smart+raw_html', '--to', 'epub3',
             '--split-level', '2', '--epub-title-page=false', '--metadata', 'title=注解测试',
+            '--resource-path', str(chapters),
             '--lua-filter', str(SCRIPTS / 'epub-notes.lua'),
             '--css', str(SCRIPTS / 'epub.css'), '--output', str(cls.epub),
         ], input=cls.markdown, text=True, check=True, capture_output=True)
@@ -57,16 +64,17 @@ class EpubNotesTest(unittest.TestCase):
         cls.temp.cleanup()
 
     @classmethod
-    def render(cls, style):
+    def render(cls, style, base='/'):
         code = r'''
           import { pathToFileURL } from 'node:url';
           const { buildBook } = await import(pathToFileURL(process.argv[1]));
-          const book = buildBook({ root: process.argv[2], version: '261027', annotationStyle: process.argv[3] });
+          const book = buildBook({ root: process.argv[2], version: '261027', annotationStyle: process.argv[3], assetBase: process.argv[4] });
+          if (book.warnings.some(warning => warning.includes('图片'))) throw new Error(book.warnings.join('\n'));
           process.stdout.write(book.pages.map(page => page.markdown).join('\n\n'));
         '''
         return subprocess.run([
             'node', '--input-type=module', '-e', code, str(SCRIPTS / 'lib/content.mjs'),
-            str(cls.root), style,
+            str(cls.root), style, base,
         ], check=True, capture_output=True, text=True).stdout
 
     def documents(self):
@@ -112,6 +120,24 @@ class EpubNotesTest(unittest.TestCase):
         self.assertEqual(markdown.count('class="reader-annotation__trigger"'), 7)
         self.assertNotIn('^[', markdown)
         self.assertNotIn('epub-note-ref-', markdown)
+
+    def test_local_image_is_embedded_in_epub_note(self):
+        for name, doc in self.documents().items():
+            for note in doc.iter():
+                if note.get(EPUB_TYPE) != 'footnote':
+                    continue
+                for image in note.iter(f'{XHTML}img'):
+                    target = posixpath.normpath(posixpath.join(posixpath.dirname(name), image.get('src')))
+                    self.assertEqual(self.entries[target], self.image)
+                    self.assertEqual(image.get('alt'), '灯罩图示')
+                    return
+        self.fail('注解中的本地图片未嵌入 EPUB')
+
+    def test_note_image_url_supports_site_base(self):
+        for base in ['/', '/reader/']:
+            markdown = html.unescape(self.render('popover', base))
+            self.assertIn(f'src="{base}assets/extra/test.svg"', markdown)
+            self.assertNotIn('src="../../../assets/', markdown)
 
     def test_validator_rejects_wrong_return_target(self):
         for name, content in self.entries.items():

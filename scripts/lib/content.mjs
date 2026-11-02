@@ -26,6 +26,16 @@ import { resolveContentVersion } from './content-version.mjs'
 import { annotationIsVisible, defaultAnnotationTypes, splitAnnotationTypes } from './annotation-types.mjs'
 
 const noteMarkdown = new MarkdownIt({ html: true })
+const renderNoteImage = noteMarkdown.renderer.rules.image
+noteMarkdown.renderer.rules.image = (tokens, index, options, env, renderer) => {
+  const image = tokens[index]
+  const src = image.attrGet('src') ?? ''
+  // 稿件位于 polish/{版本}/chapters，注解 HTML 不经过 Vite 的资源改写。
+  if (src.startsWith('../../../assets/extra/')) {
+    image.attrSet('src', `${env.assetBase}assets/extra/${src.slice('../../../assets/extra/'.length)}`)
+  }
+  return renderNoteImage(tokens, index, options, env, renderer)
+}
 
 /** 润色稿中用于切段的「黄瓜行」。 */
 const SEPARATOR_LINE = /^[ \t]*🥒+[ \t]*$/u
@@ -210,7 +220,7 @@ function formatInline(text, ctx, label) {
     if (ctx.annotationStyle === 'popover') {
       const anchored = match[3] === undefined
       const parsed = splitAnnotationTypes(anchored ? match[2] : match[3])
-      const note = noteMarkdown.renderInline(emphasisToHtml(parsed.note))
+      const note = noteMarkdown.renderInline(emphasisToHtml(parsed.note), { assetBase: ctx.assetBase })
       const hidden = annotationIsVisible(parsed.types, defaultAnnotationTypes) ? '' : ' is-note-hidden'
       const anchor = anchored
         ? `<span class="reader-annotation__anchor">${prose(match[1])}</span>`
@@ -248,7 +258,6 @@ function paragraphBlocks(text, ctx, label) {
     if (trimmed.includes(word)) ctx.warn(`${label}：正文出现应忽略的出版机构信息「${word}」`)
   }
   if (trimmed.includes('[TODO]')) ctx.warn(`${label}：正文残留 [TODO]`)
-  if (trimmed.includes('![')) ctx.warn(`${label}：正文包含图片，按规则不予打包`)
 
   const converted = formatInline(trimmed, ctx, label)
   if (isHazardousParagraph(converted)) {
@@ -491,13 +500,14 @@ export function buildBook(options = {}) {
   }
   const arrange = JSON.parse(fs.readFileSync(arrangePath, 'utf8'))
 
-  const resolved = resolveContentVersion(root, options.version)
+  const resolved = resolveContentVersion(root, options.version, { allowDev: options.allowDev })
   const buildVersion = resolved.version
   const readPart = createPartReader(resolved.chaptersDir)
 
   const warnings = []
   const ctx = {
     annotationStyle: options.annotationStyle ?? 'footnote',
+    assetBase: (options.assetBase ?? process.env.VITEPRESS_BASE ?? '/').replace(/\/?$/, '/'),
     warn(message) {
       if (!warnings.includes(message)) warnings.push(message)
     },
