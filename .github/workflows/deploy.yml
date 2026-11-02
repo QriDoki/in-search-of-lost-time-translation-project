@@ -8,6 +8,7 @@ on:
       - 'publish/**'
       - 'site/**'
       - 'scripts/**'
+      - 'assets/extra/**'
       - 'book.config.mjs'
       - 'package.json'
       - 'package-lock.json'

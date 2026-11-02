@@ -167,6 +167,11 @@ function siteManifest(book) {
 }
 
 async function main() {
+  // 注解通过 data-reader-note 动态显示，Vite 不会收集其中的图片。
+  const extraAssets = path.join(root, 'assets', 'extra')
+  const publicExtraAssets = path.join(siteRoot, 'public', 'assets', 'extra')
+  fs.rmSync(publicExtraAssets, { recursive: true, force: true })
+  if (fs.existsSync(extraAssets)) fs.cpSync(extraAssets, publicExtraAssets, { recursive: true })
   const versions = ['dev', ...listContentVersions(root)]
   const manifests = {}
   fs.rmSync(path.join(siteRoot, 'versions'), { recursive: true, force: true })
