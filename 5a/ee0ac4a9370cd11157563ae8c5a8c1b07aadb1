@@ -1,0 +1,25 @@
+site/.vitepress/theme/composables/reader.ts
+  s_026357e866b169::t_ea10591afc6c55 35,256-262,264-271,273
+site/.vitepress/theme/components/ReaderDock.vue
+  s_026357e866b169::t_ea10591afc6c55 294,297-298
+site/.vitepress/theme/components/ContinueReading.vue
+  s_026357e866b169::t_ea10591afc6c55 83
+DEVELOPMENT.md
+  s_026357e866b169::t_ea10591afc6c55 98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "5aee0ac4a9370cd11157563ae8c5a8c1b07aadb1",
+  "prompts": {},
+  "sessions": {
+    "s_026357e866b169": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19bf8-ff48-7cd3-9fde-57c8cd2a2071",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
