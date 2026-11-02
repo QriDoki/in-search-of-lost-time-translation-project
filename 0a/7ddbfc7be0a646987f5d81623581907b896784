@@ -1,0 +1,179 @@
+polish/dev/chapters/polished-vol11-1.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 8,22,28,62,82,102,112,118,138,192,468,510,534
+polish/dev/chapters/polished-vol1-3.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 7,11,13,37,67,73,107,159,265
+site/.vitepress/theme/components/ReaderVersionMenu.vue
+  s_b24c8260605fe5::t_662f5fa4184d7e 1-103
+polish/dev/chapters/polished-vol10-3.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 4,6,10
+scripts/build-epub.mjs
+  s_884f4af74a507e::t_9f2014c9e4f447 87,101-102,140
+polish/dev/chapters/polished-vol9-1.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 11,13,17,25,27,31,35,41
+polish/dev/chapters/polished-vol12-1.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 1,5,53,71,109
+polish/dev/chapters/polished-vol4-1.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 15,65,105,115,117,149,217,409,435,509,541
+DEVELOPMENT.md
+  s_c582941527b9ab::t_702af18d09e0e4 100
+  s_884f4af74a507e::t_d379c32d4f3eae 90-91
+polish/dev/chapters/polished-vol15-1.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 55,63,77,109,125,127,195,249,259,279,283,291
+polish/dev/chapters/polished-vol1-1.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 5,11,13,15,17,19,21,23,31,43,49,57,63,73,75,91,93
+site/.vitepress/theme/search.worker.ts
+  s_016d1821e27c85::t_626d077aee5132 4-11,15-18
+  s_016d1821e27c85::t_d98915f0bf8a95 3,12-14
+polish/dev/chapters/polished-vol7-1.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 5,9,13,149,157,227,293,469
+polish/dev/chapters/polished-vol8-1.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 63,65,101,131,183,225,483,597,601,625,761,807,815
+scripts/lib/content.mjs
+  s_884f4af74a507e::t_9f2014c9e4f447 29-38,223,510
+  s_016d1821e27c85::t_e20fa75e6ffa1d 503
+polish/dev/chapters/polished-vol14-1.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 6,26,30,32,34,46
+polish/dev/chapters/polished-vol7-3.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 18,24,44,56,86,130,218
+scripts/lib/content-version.mjs
+  s_016d1821e27c85::t_e20fa75e6ffa1d 19,23
+  s_b24c8260605fe5::t_662f5fa4184d7e 18
+polish/dev/chapters/polished-vol14-3.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 5,7,9,15,21
+site/.vitepress/theme/custom.css
+  s_b24c8260605fe5::t_662f5fa4184d7e 1572-1630,1633-1638
+  s_016d1821e27c85::t_d93d0dc0034233 1632
+  s_884f4af74a507e::t_9f2014c9e4f447 342-350
+polish/dev/chapters/polished-vol2-1.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 3,5,9,11,33,69,119,165,261,307,551,577,871,895,901
+  s_884f4af74a507e::t_5b900fbe9d78a6 17
+polish/dev/chapters/polished-vol13-2.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 3,11,29,91,97,117,123,129
+polish/dev/chapters/polished-vol5-1.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 35,67,75,113,139,227,235,317,323,407,471,477
+site/index.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 8
+site/.vitepress/theme/components/ChapterNav.vue
+  s_016d1821e27c85::t_626d077aee5132 4,7,10,31
+polish/dev/chapters/polished-vol9-4.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 5,7,13,17,27,29,33,45,51,55,57,59,81,89,133,163,167,179,183,189,193
+polish/dev/chapters/polished-vol11-2.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 3,5,7,13,23,25,27
+site/.vitepress/theme/components/ReaderDock.vue
+  s_016d1821e27c85::t_626d077aee5132 4,29,33,37,398
+polish/dev/chapters/polished-vol9-3.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 1,17,49,55,59,67,77,79,91
+site/.vitepress/theme/Layout.vue
+  s_016d1821e27c85::t_626d077aee5132 11-13,18
+  s_c582941527b9ab::t_702af18d09e0e4 44,55-56
+site/.vitepress/theme/composables/search.ts
+  s_016d1821e27c85::t_626d077aee5132 1-3,25-26,39
+scripts/tests/test_content_version.mjs
+  s_b24c8260605fe5::t_662f5fa4184d7e 97-104
+site/.vitepress/theme/composables/book.ts
+  s_016d1821e27c85::t_626d077aee5132 1-3,60-62,64-66,68-72,74-75,77-82,84-86,92-95
+polish/dev/chapters/polished-vol13-1.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 4,18,26,108,116,132,160,166,184
+polish/dev/chapters/polished-vol6-1.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 4,6,18,22,100,138,154,170,298,560,564,634,640,650,764
+polish/dev/chapters/polished-vol10-2.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 26,40,42,56,76,82,94
+polish/dev/chapters/polished-vol12-2.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 7,17,33,39,53,55,59,79,83,109,111,113
+polish/dev/chapters/polished-vol13-4.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 3,5,11,13,23,31,33,35,39,45
+.gitignore
+  s_884f4af74a507e::t_9f2014c9e4f447 45-48
+  s_016d1821e27c85::t_e20fa75e6ffa1d 7
+polish/dev/chapters/polished-vol14-2.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 7,11,13,17,25,33,53,57,85,91,107,123
+scripts/tests/test_search.mjs
+  s_b24c8260605fe5::t_662f5fa4184d7e 89-97
+polish/dev/chapters/polished-vol2-2.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 5,9,13,17,35,37,39,65,69,79,81,103,109,113,117,123,125,127,129
+scripts/tests/test_epub_notes.py
+  s_884f4af74a507e::t_d379c32d4f3eae 4-5,28-31,37,55,67,71-72,77,124-140
+polish/dev/chapters/polished-vol7-2.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 14,28,30,34,66,74,84,114,120
+site/.vitepress/paragraphs.mjs
+  s_016d1821e27c85::t_90302b8e274728 11
+polish/dev/chapters/polished-vol13-3.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 3,17,25,45,73,89,93,111,141
+site/.vitepress/theme/components/ReaderAIEdit.vue
+  s_68d19cfaa5c6b8::t_ff9eb4aa33f131 120,143,185
+.github/workflows/deploy.yml
+  s_016d1821e27c85::t_45f95209fd6f7c 30,109
+  s_884f4af74a507e::t_9f2014c9e4f447 11
+  s_b24c8260605fe5::t_662f5fa4184d7e 5
+polish/dev/chapters/polished-vol10-1.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 5,17,35,37,41,45,51,53,59,63,65,67
+polish/dev/chapters/polished-vol3-1.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 30,114,124,256,290,340,350,360,566,582
+polish/dev/chapters/polished-vol9-2.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 37,61,143,205,223,233,245,257
+polish/dev/chapters/polished-vol1-2.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 85,95,129,173,175,337,353,397,427,449,479,601,603,639,641
+site/.vitepress/config.mts
+  s_b24c8260605fe5::t_662f5fa4184d7e 29-31
+scripts/prepare-site.mjs
+  s_016d1821e27c85::t_626d077aee5132 200-202
+  s_016d1821e27c85::t_d98915f0bf8a95 72,196
+  s_016d1821e27c85::t_90302b8e274728 205
+  s_016d1821e27c85::t_e20fa75e6ffa1d 17,46,49,79,98,102,175-177,180-182,184-195,197-199,203-204,206-212
+  s_b24c8260605fe5::t_662f5fa4184d7e 6
+  s_884f4af74a507e::t_9f2014c9e4f447 170-174
+site/.vitepress/theme/components/ContinueReading.vue
+  s_016d1821e27c85::t_626d077aee5132 4,14,17
+README.md
+  s_b24c8260605fe5::t_662f5fa4184d7e 36,78,98,118,131,149,169
+scripts/epub.css
+  s_884f4af74a507e::t_9f2014c9e4f447 88-92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "0a7ddbfc7be0a646987f5d81623581907b896784",
+  "prompts": {},
+  "sessions": {
+    "s_016d1821e27c85": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18af3-a10f-70d2-b14d-2ac31278fb15",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    },
+    "s_68d19cfaa5c6b8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a188ef-3085-7422-a3c5-bfc34fe91850",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    },
+    "s_884f4af74a507e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19afc-9aa3-7173-b4af-52f453ea25be",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    },
+    "s_b24c8260605fe5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19bb7-9f25-7290-8413-bedb54360b05",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    },
+    "s_c582941527b9ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18b1b-288a-7420-b268-33c5c53be2c3",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
