@@ -1,0 +1,37 @@
+scripts/prepare-site.mjs
+  s_884f4af74a507e::t_9f2014c9e4f447 170-174
+scripts/epub.css
+  s_884f4af74a507e::t_9f2014c9e4f447 88-92
+.github/workflows/deploy.yml
+  s_884f4af74a507e::t_9f2014c9e4f447 11
+scripts/build-epub.mjs
+  s_884f4af74a507e::t_9f2014c9e4f447 87,101-102,140
+DEVELOPMENT.md
+  s_884f4af74a507e::t_d379c32d4f3eae 90-91
+site/.vitepress/theme/custom.css
+  s_884f4af74a507e::t_9f2014c9e4f447 342-350
+.gitignore
+  s_884f4af74a507e::t_9f2014c9e4f447 45-48
+scripts/lib/content.mjs
+  s_884f4af74a507e::t_9f2014c9e4f447 29-38,223,510
+polish/dev/chapters/polished-vol2-1.md
+  s_884f4af74a507e::t_5b900fbe9d78a6 17
+scripts/tests/test_epub_notes.py
+  s_884f4af74a507e::t_d379c32d4f3eae 4-5,28-31,37,55,67,71-72,77,124-140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "d3215d43baf33fe797a6e0dbe9a910bcc2f26934",
+  "prompts": {},
+  "sessions": {
+    "s_884f4af74a507e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19afc-9aa3-7173-b4af-52f453ea25be",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
