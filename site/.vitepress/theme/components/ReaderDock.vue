@@ -291,9 +291,11 @@ async function setupPage() {
       if (!mounted || generation !== setupGeneration || currentPageId.value !== nextId) return
       collectParagraphs()
       maybeResume()
-      // 同步段落位置但不写盘，避免初始化滚动把已有进度覆盖为页首。
+      // 恢复或锚点跳转完成后记录实际位置，章节跳转无需额外滚动即可保存。
       updateProgressFromScroll()
       settingUp = false
+      interacted = true
+      scheduleSave()
     })
   })
 }

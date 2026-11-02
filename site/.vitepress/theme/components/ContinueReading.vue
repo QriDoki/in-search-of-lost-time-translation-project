@@ -80,7 +80,7 @@ const readPages = computed(() => Object.keys(progress.pages).length)
 
       <p class="continue-reading__hint">
         <template v-if="hasProgress">
-          全书已读 {{ percent(overallProgress) }}，共读过 {{ readPages }} 页。
+          上次读到全书 {{ percent(overallProgress) }}，共读过 {{ readPages }} 页。
         </template>
         <template v-else>
           阅读进度、字号与主题都会保存在你自己的浏览器中。

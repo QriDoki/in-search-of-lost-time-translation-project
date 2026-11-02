@@ -32,7 +32,7 @@ export interface ReadingPosition {
   offset: number
   /** 当前滚动到的页面进度，0–1 */
   pageProgress: number
-  /** 该页读到的最大进度，用于总进度 */
+  /** 该页读到的最大进度，用于目录中的历史已读标记 */
   maxProgress: number
   updatedAt: string
 }
@@ -253,12 +253,24 @@ export function clearReadingProgress() {
 }
 
 export const overallProgress = computed(() => {
-  let weighted = 0
+  // 阅读页实时采用当前位置；首页、目录页采用最后保存的位置。
+  const position = reading.pageId
+    ? { pageId: reading.pageId, pageProgress: reading.pageProgress }
+    : progress.last
+  if (!position) return 0
+
+  let precedingChars = 0
   for (const page of pages) {
-    const saved = progress.pages[page.id]
-    weighted += pageWeight(page) * (saved?.maxProgress ?? 0)
+    if (page.id === position.pageId) {
+      return clamp(
+        (precedingChars + pageWeight(page) * position.pageProgress) / totalChars,
+        0,
+        1,
+      )
+    }
+    precedingChars += pageWeight(page)
   }
-  return clamp(weighted / totalChars, 0, 1)
+  return 0
 })
 
 export const lastPage = computed(() => pageAt(progress.last?.pageId))
