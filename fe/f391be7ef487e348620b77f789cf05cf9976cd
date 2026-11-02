@@ -1,0 +1,81 @@
+polish/dev/chapters/polished-vol7-2.md
+  s_026357e866b169::t_c8d7836bdb6738 8,16,46,64,74,94,102,122,130,132,136
+polish/dev/chapters/polished-vol12-2.md
+  s_026357e866b169::t_c8d7836bdb6738 3,5,9,33,55,57,91,111
+polish/dev/chapters/polished-vol1-1.md
+  s_026357e866b169::t_c8d7836bdb6738 7,13,31,39,47,49,55,59,63,67,79,91,103
+polish/dev/chapters/polished-vol1-3.md
+  s_026357e866b169::t_c8d7836bdb6738 3,31,43,107,125,151,159,221,227
+polish/dev/chapters/polished-vol14-1.md
+  s_026357e866b169::t_c8d7836bdb6738 6,12,16,22,30,44,46,50
+polish/dev/chapters/polished-vol7-3.md
+  s_026357e866b169::t_c8d7836bdb6738 12,16,46,86,160,192,198,214
+polish/dev/chapters/polished-vol7-1.md
+  s_026357e866b169::t_c8d7836bdb6738 3,7,161,579,717,881
+polish/dev/chapters/polished-vol9-3.md
+  s_026357e866b169::t_c8d7836bdb6738 5,19,49,75,91,93
+polish/dev/chapters/polished-vol11-2.md
+  s_026357e866b169::t_c8d7836bdb6738 5,7,19,21,27
+polish/dev/chapters/polished-vol13-2.md
+  s_026357e866b169::t_c8d7836bdb6738 3,5,15,21,33,41,45,61,115,121,133
+polish/dev/chapters/polished-vol10-3.md
+  s_026357e866b169::t_c8d7836bdb6738 4,6,8
+polish/dev/chapters/polished-vol8-1.md
+  s_026357e866b169::t_c8d7836bdb6738 3,15,21,109,129,727,745,817,1001
+polish/dev/chapters/polished-vol12-1.md
+  s_026357e866b169::t_c8d7836bdb6738 1,11,15,19,43,51,55,57,59,61,67,69,73,97,99,101,103,105,107,109
+polish/dev/chapters/polished-vol4-1.md
+  s_026357e866b169::t_c8d7836bdb6738 9,17,125,129,135,373,501
+polish/dev/chapters/polished-vol10-1.md
+  s_026357e866b169::t_c8d7836bdb6738 1,3,5,7,33,47,71
+polish/dev/chapters/polished-vol2-2.md
+  s_026357e866b169::t_c8d7836bdb6738 9,15,51,99,111,127,129
+polish/dev/chapters/polished-vol9-2.md
+  s_026357e866b169::t_c8d7836bdb6738 39,53,73,189,309,323
+polish/dev/chapters/polished-vol13-3.md
+  s_026357e866b169::t_c8d7836bdb6738 9,11,13,15,19,23,89,93,119,133,135
+polish/dev/chapters/polished-vol13-1.md
+  s_026357e866b169::t_c8d7836bdb6738 82,86,90,114,132,148,152,180
+polish/dev/chapters/polished-vol1-2.md
+  s_026357e866b169::t_c8d7836bdb6738 7,9,11,93,97,209,313,393,503
+polish/dev/chapters/polished-vol14-2.md
+  s_026357e866b169::t_c8d7836bdb6738 5,9,15,57,93,109,111,121
+polish/dev/chapters/polished-vol9-1.md
+  s_026357e866b169::t_c8d7836bdb6738 13,25,33,35,37
+polish/dev/chapters/polished-vol2-1.md
+  s_026357e866b169::t_c8d7836bdb6738 53,161,283,493,875,879
+polish/dev/chapters/polished-vol5-1.md
+  s_026357e866b169::t_c8d7836bdb6738 1,93,117,209,213,225,227,319,323,475,477
+polish/dev/chapters/polished-vol13-4.md
+  s_026357e866b169::t_c8d7836bdb6738 3,7,13,15,23,29,35,45,47
+polish/dev/chapters/polished-vol15-1.md
+  s_026357e866b169::t_c8d7836bdb6738 1,7,11,27,29,31,147
+polish/dev/chapters/polished-vol9-4.md
+  s_026357e866b169::t_c8d7836bdb6738 7,47,49,73,147
+polish/dev/chapters/polished-vol14-3.md
+  s_026357e866b169::t_c8d7836bdb6738 1,5,7,9,13,15
+polish/dev/chapters/polished-vol3-1.md
+  s_026357e866b169::t_c8d7836bdb6738 14,180,196,210,354,404,522,542
+polish/dev/chapters/polished-vol6-1.md
+  s_026357e866b169::t_c8d7836bdb6738 114,326,412,502,608,668,712,770,810
+polish/dev/chapters/polished-vol11-1.md
+  s_026357e866b169::t_c8d7836bdb6738 88,96,100,122,206,318,408,444,460,492,536
+polish/dev/chapters/polished-vol10-2.md
+  s_026357e866b169::t_c8d7836bdb6738 28,40,50,56,60,74,120,122,128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "fef391be7ef487e348620b77f789cf05cf9976cd",
+  "prompts": {},
+  "sessions": {
+    "s_026357e866b169": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19bf8-ff48-7cd3-9fde-57c8cd2a2071",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
