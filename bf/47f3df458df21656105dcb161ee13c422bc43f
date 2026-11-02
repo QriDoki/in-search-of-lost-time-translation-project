@@ -1,0 +1,21 @@
+DEVELOPMENT.md
+  s_c582941527b9ab::t_702af18d09e0e4 100
+site/.vitepress/theme/Layout.vue
+  s_c582941527b9ab::t_702af18d09e0e4 44,55-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "bf47f3df458df21656105dcb161ee13c422bc43f",
+  "prompts": {},
+  "sessions": {
+    "s_c582941527b9ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18b1b-288a-7420-b268-33c5c53be2c3",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
