@@ -87,6 +87,8 @@ site/.vitepress/heading-attrs.mjs  标题属性清理（`### 标题 {#id .class}
 
 注释语法见 [docs/标注.md](docs/标注.md)。
 
+注解可用标准 Markdown 图片语法引用随书附图，例如 `![灯罩参考照片](../../../assets/extra/lampshade-engraving.jpeg)`；路径相对于 `polish/{版本}/chapters/`。图片统一保存在并提交到 `assets/extra/`，来源与参考用途写在注解里。站点生成时复制到公共资源目录，并为注解图片加上 `VITEPRESS_BASE`；EPUB 从稿件目录解析图片并内嵌到电子书中，无需联网加载。注解浮层中的图片保持比例、自适应宽度，较长内容可滚动查看。
+
 ## 站点
 
 - 注解由 `buildBook({ annotationStyle: 'popover' })` 生成，正文与章内副题均支持。`ReaderAnnotations.vue` 通过事件委托管理一个浮层：鼠标悬停临时显示，移开隐藏；点击后固定显示并启用遮罩，点击遮罩关闭；触屏仅响应点击，也可按 Escape 关闭。浮层会在视口内定位，长注解可以滚动。

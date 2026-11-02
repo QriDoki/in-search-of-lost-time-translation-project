@@ -339,6 +339,15 @@ body {
   text-underline-offset: 3px;
 }
 
+.reader-annotation-popover__content img {
+  display: block;
+  width: 260px;
+  max-width: 100%;
+  height: auto;
+  margin: 8px auto;
+  border-radius: 4px;
+}
+
 @media (any-pointer: coarse) {
   .reader-annotation__trigger::after {
     position: absolute;

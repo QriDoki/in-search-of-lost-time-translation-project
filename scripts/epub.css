@@ -85,6 +85,11 @@ em {
   font-style: italic;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 /* 编号保持在原处，不撑大正文行距。弹窗交由阅读器处理。 */
 a.footnote-ref {
   vertical-align: super;

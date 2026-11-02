@@ -42,6 +42,10 @@ polish/prompt.md
 *.tiff
 *.svg
 
+# 随书附图需要在站点与 EPUB 中离线可用。
+!assets/extra/
+!assets/extra/**
+
 
 # 杂项
 .DS_Store
