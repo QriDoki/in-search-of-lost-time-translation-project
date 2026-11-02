@@ -41,7 +41,7 @@ function onScroll() {
       showHeader()
       return
     }
-    // 滚动只收起页头；重新显示由正文点击（含触屏轻点）触发。
+    // 滚动只收起页头；重新显示由整页点击（含触屏轻点）触发。
     if (Math.abs(y - lastScrollY) < 8) return
     if (y > lastScrollY && y > headerHeight) headerHidden.value = true
     lastScrollY = y
@@ -52,9 +52,8 @@ function onNavFocus(event: FocusEvent) {
   if (event.target instanceof Element && event.target.closest('.VPNav')) showHeader()
 }
 
-function onReaderClick(event: MouseEvent) {
-  if (!isReaderPage.value || !(event.target instanceof Element)) return
-  if (!event.target.closest('.VPDoc .vp-doc')) return
+function onReaderClick() {
+  if (!isReaderPage.value) return
   // 选取正文时保持阅读状态，触屏滑动由浏览器自动排除在 click 事件外。
   if (window.getSelection()?.isCollapsed === false) return
   showHeader()
