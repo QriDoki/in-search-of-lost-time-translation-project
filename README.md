@@ -2,13 +2,13 @@
 
 <p align="center">
   <br>
-  <a href="https://qridoki.github.io/in-search-of-lost-time-translation-project/">在线阅读</a> | <a href="https://github.com/QriDoki/in-search-of-lost-time-translation-project/releases/">下载EPUB</a>
+  <a href="https://qridoki.github.io/in-search-of-lost-time-translation-project/">在线阅读 (推荐, 更新比较勤)</a> | <a href="https://github.com/QriDoki/in-search-of-lost-time-translation-project/releases/">下载EPUB</a>
   <br><br>
 </p>
 
 ## LICENSE
 
-译文及本项目整理内容采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议， 详见 [LICENSE.md](LICENSE.md)。  
+译文及本项目整理内容采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议，详见 [LICENSE.md](LICENSE.md)。  
 
 即: 允许任何人免费复制、传播、修改、翻译和再创作，但必须**注明出处**、**不得用于商业用途**，并且改编作品必须**采用相同的许可协议**。
 
