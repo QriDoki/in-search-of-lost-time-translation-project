@@ -1,0 +1,25 @@
+polish/dev/chapters/polished-vol7-3.md
+  s_896cb75167cf0a::t_c4672bc04facee 6
+polish/dev/chapters/polished-vol7-1.md
+  s_896cb75167cf0a::t_c4672bc04facee 13
+polish/dev/chapters/polished-vol14-2.md
+  s_896cb75167cf0a::t_c4672bc04facee 27
+polish/dev/chapters/polished-vol4-1.md
+  s_896cb75167cf0a::t_c4672bc04facee 405
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "566c8f5a34b4cb09ffc7480aed1b34d8a3046390",
+  "prompts": {},
+  "sessions": {
+    "s_896cb75167cf0a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f75-e2e5-7282-98df-3e5e81e36541",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
