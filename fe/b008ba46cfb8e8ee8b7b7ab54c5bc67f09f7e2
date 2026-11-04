@@ -1,0 +1,21 @@
+raw-md/vol1/chapters/001.md
+  s_ab090a60682725::t_76358ee27dd508 41,59,63,93
+.gitignore
+  s_ab090a60682725::t_76358ee27dd508 64-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "feb008ba46cfb8e8ee8b7b7ab54c5bc67f09f7e2",
+  "prompts": {},
+  "sessions": {
+    "s_ab090a60682725": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a581-bf93-7882-90a2-d5996fe9f710",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
