@@ -1,0 +1,20 @@
+polish/dev/chapters/polished-vol1-3.md
+  s_f2337e940c07e6::t_39403f9e9c97a6 5,119
+  s_f2337e940c07e6::t_3be4fecb618a95 13,95,193,209,265
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "380de539b2e89b8f643747875e1b4ba18b2507dc",
+  "prompts": {},
+  "sessions": {
+    "s_f2337e940c07e6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1affd-20aa-76c3-a7e7-652a4ed01c23",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
