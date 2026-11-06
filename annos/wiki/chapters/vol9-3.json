@@ -1,0 +1,1600 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol9-3",
+  "book": 4,
+  "raw_file": "raw-md/vol9/chapters/003.md",
+  "translation_file": "polish/dev/chapters/polished-vol9-3.md",
+  "annotations": [
+    {
+      "id": "durer",
+      "kind": "artiste",
+      "label": "Albrecht Dürer (1471-1528), peintre et graveur allemand",
+      "href": "https://fr.wikipedia.org/wiki/Albrecht_D%C3%BCrer",
+      "wikidata": "Q5580",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dürer",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 3,
+                "text_excerpt": "…cet effort aboutit souvent à ne faire (au sens chimique) qu'un corps nouveau, qui peut ne durer que quelques instants. Ce soir-là, du moins, et pour longtemps encore, les deux éléments restèrent dissociés. Mais déjà, aux derniers mots entendus a…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "alexandre-benois",
+      "kind": "artiste",
+      "label": "Alexandre Benois, décorateur et peintre des Ballets russes",
+      "href": "https://fr.wikipedia.org/wiki/Alexandre_Benois",
+      "wikidata": "Q319861",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Benoist",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 15,
+                "raw_line": 31,
+                "text_excerpt": "…cence prodigieuse des ballets russes, révélatrice coup sur coup de Bakst, de Nijinski, de Benoist, du génie de Stravinski, la princesse Yourbeletieff, jeune marraine de tous ces grands hommes nouveaux, apparut portant sur la tête une immense aigre…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "alfred-dreyfus",
+      "kind": "personne",
+      "label": "Alfred Dreyfus, officier français, au centre de l'affaire Dreyfus",
+      "href": "https://fr.wikipedia.org/wiki/Alfred_Dreyfus",
+      "wikidata": "Q171826",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dreyfus",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 13,
+                "raw_line": 27,
+                "text_excerpt": "… antidreyfusisme sans nuances : « Hé bien, on ne nous parle plus de la révision du fameux Dreyfus », sa stupéfaction avait été grande d'entendre la princesse et ses belles-sœurs dire : « On n'en a jamais été si près. On ne peut pas retenir au bagn…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "… en ces véritables séances de salut public (si le monde avait pu s'intéresser à l'affaire Dreyfus) où chez M^me^ Verdurin se réunissaient Picquart, Clemenceau, Zola, Reinach et Labori.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "athalie-racine",
+      "kind": "scene",
+      "label": "Athalie — tragédie de Jean Racine (1691)",
+      "href": "https://fr.wikipedia.org/wiki/Athalie_(Racine)",
+      "wikidata": "Q754687",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Athalie",
+          "paragraphs": [
+            "t1-p0185",
+            "t2-p0751",
+            "t2-p0752",
+            "t4-p0210",
+            "t4-p0260",
+            "t4-p0268",
+            "t4-p0288"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 81,
+                "text_excerpt": "…uant M. de Charlus, mais d'autres vers de Racine, cette fois-ci non plus d'Esther, mais d'Athalie : car dès le hall, ce qu'au XVII^e^ siècle on appelait les Portiques, « un peuple florissant » de jeunes chasseurs se tenait, surtout à l'heure du go…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0210",
+                    "status": "located_by_text",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "bertrand-de-fenelon",
+      "kind": "personne",
+      "label": "Bertrand de Fénelon, diplomate français, ami de Proust, un des modèles de Saint-Loup, mort en 1914",
+      "href": "https://fr.wikipedia.org/wiki/Bertrand_de_Fénelon",
+      "wikidata": "Q2899727",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Bertrand de Fénelon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 38,
+                "raw_line": 79,
+                "text_excerpt": "…s cher l'être le plus intelligent, bon et brave, inoubliable à tous ceux qui l'ont connu, Bertrand de Fénelon -- et elle ne disait jamais que « Fénélon » trouvant que l'accent aigu ajoutait quelque mollesse. Le gendre, moins doux, de cette M^me^ Poussin, et d…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Fénélon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 38,
+                "raw_line": 79,
+                "text_excerpt": "…ller » ; elle eût eu peur de brusquer le doux chantre de Télémaque en l'appelant rudement Fénelon -- comme je faisais moi-même en connaissance de cause, ayant pour ami le plus cher l'être le plus intelligent, bon et brave, inoubliable à tous ceux …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "esther-racine",
+      "kind": "scene",
+      "label": "Esther — tragédie de Jean Racine (1689)",
+      "href": "https://fr.wikipedia.org/wiki/Esther_(Racine)",
+      "wikidata": "Q746818",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Esther",
+          "paragraphs": [
+            "t2-p0751",
+            "t2-p0752",
+            "t4-p0064",
+            "t4-p0210",
+            "t4-p0260",
+            "t4-p0268",
+            "t5-p0203",
+            "t6-p0040",
+            "t5-p0359"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 81,
+                "text_excerpt": "…d'ambassade saluant M. de Charlus, mais d'autres vers de Racine, cette fois-ci non plus d'Esther, mais d'Athalie : car dès le hall, ce qu'au XVII^e^ siècle on appelait les Portiques, « un peuple florissant » de jeunes chasseurs se tenait, surtout…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0210",
+                    "status": "located_by_text",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "famille-de-la-tremoille",
+      "kind": "personne",
+      "label": "Famille de La Trémoille, grande famille de la noblesse française, citée par contraste avec les Guermantes fictifs",
+      "href": "https://fr.wikipedia.org/wiki/Maison_de_La_Trémoille",
+      "wikidata": "Q762575",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "La Trémoïlle",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 37,
+                "raw_line": 77,
+                "text_excerpt": "…uc d'Orléans, de prince de Tarente ou de prince des Laumes, devient roi de France, duc de la Trémoïlle, duc de Guermantes, ainsi souvent, par un avènement d'un autre ordre et de plus profonde origine, le mort saisit le vif qui devient son successeur re…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "La Trémoille",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 37,
+                "raw_line": 77,
+                "text_excerpt": "…uc d'Orléans, de prince de Tarente ou de prince des Laumes, devient roi de France, duc de la Trémoïlle, duc de Guermantes, ainsi souvent, par un avènement d'un autre ordre et de plus profonde origine, le mort saisit le vif qui devient son successeur re…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "fernand-labori",
+      "kind": "personne",
+      "label": "Fernand Labori, avocat dreyfusard, 1860-1917",
+      "href": "https://fr.wikipedia.org/wiki/Fernand_Labori",
+      "wikidata": "Q922807",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Labori",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "…re Dreyfus) où chez M^me^ Verdurin se réunissaient Picquart, Clemenceau, Zola, Reinach et Labori.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "francis-jammes",
+      "kind": "personne",
+      "label": "Francis Jammes, poète",
+      "href": "https://fr.wikipedia.org/wiki/Francis_Jammes",
+      "wikidata": "Q353873",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Francis Jammes",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 30,
+                "raw_line": 63,
+                "text_excerpt": "…isserait voir. -- Tu sais bien pourtant que je vivrai toujours près d'elle, cerfs, cerfs, Francis Jammes, fourchette. » Mais déjà j'avais retraversé le fleuve aux ténébreux méandres, j'étais remonté à la surface où s'ouvre le monde des vivants, aussi si …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "boucher",
+      "kind": "artiste",
+      "label": "François Boucher (1703-1770), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Boucher",
+      "wikidata": "Q180932",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Boucher",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 30,
+                "raw_line": 63,
+                "text_excerpt": "…indifférente se complétait aussitôt par l'idée qu'elle ne les voyait pas ; j'aurais voulu boucher mes oreilles à leur bruit, car maintenant la plénitude lumineuse de la plage creusait un vide dans mon cœur ; tout semblait me dire comme ces allées …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "francois-de-salignac-de-la-mothe-fenelon",
+      "kind": "personne",
+      "label": "François de Salignac de La Mothe-Fénelon, écrivain et prélat, 1651-1715",
+      "href": "https://fr.wikipedia.org/wiki/Fénelon",
+      "wikidata": "Q310002",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Fénelon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 38,
+                "raw_line": 79,
+                "text_excerpt": "…ller » ; elle eût eu peur de brusquer le doux chantre de Télémaque en l'appelant rudement Fénelon -- comme je faisais moi-même en connaissance de cause, ayant pour ami le plus cher l'être le plus intelligent, bon et brave, inoubliable à tous ceux …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "georges-clemenceau",
+      "kind": "personne",
+      "label": "Georges Clemenceau, homme politique, 1841-1929",
+      "href": "https://fr.wikipedia.org/wiki/Georges_Clemenceau",
+      "wikidata": "Q171730",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Clemenceau",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "…ait pu s'intéresser à l'affaire Dreyfus) où chez M^me^ Verdurin se réunissaient Picquart, Clemenceau, Zola, Reinach et Labori.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Clémenceau",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "…ait pu s'intéresser à l'affaire Dreyfus) où chez M^me^ Verdurin se réunissaient Picquart, Clemenceau, Zola, Reinach et Labori.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "georges-picquart",
+      "kind": "personne",
+      "label": "Georges Picquart, officier, figure de l'affaire Dreyfus (1854-1914)",
+      "href": "https://fr.wikipedia.org/wiki/Marie-Georges_Picquart",
+      "wikidata": "Q717539",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Picquart",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "…e monde avait pu s'intéresser à l'affaire Dreyfus) où chez M^me^ Verdurin se réunissaient Picquart, Clemenceau, Zola, Reinach et Labori.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "giorgione",
+      "kind": "artiste",
+      "label": "Giorgione, peintre vénitien (v.1477-1510)",
+      "href": "https://fr.wikipedia.org/wiki/Giorgione",
+      "wikidata": "Q8459",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Giorgione",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 23,
+                "raw_line": 49,
+                "text_excerpt": "…urvu auprès des beautés rencontrées de cette lettre d'introduction que serait auprès du « Giorgione » d'avoir dîné le soir même, chez les Verdurin, avec sa maîtresse. D'ailleurs elle aurait peut-être meilleure idée de moi encore en sachant que je co…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "igor-stravinski",
+      "kind": "personne",
+      "label": "Igor Stravinski, compositeur russe",
+      "href": "https://fr.wikipedia.org/wiki/Igor_Stravinsky",
+      "wikidata": "Q7314",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Stravinski",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 15,
+                "raw_line": 31,
+                "text_excerpt": "… ballets russes, révélatrice coup sur coup de Bakst, de Nijinski, de Benoist, du génie de Stravinski, la princesse Yourbeletieff, jeune marraine de tous ces grands hommes nouveaux, apparut portant sur la tête une immense aigrette tremblante inconnue …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-de-la-fontaine",
+      "kind": "personne",
+      "label": "Jean de La Fontaine, fabuliste (1621-1695)",
+      "href": "https://fr.wikipedia.org/wiki/Jean_de_La_Fontaine",
+      "wikidata": "Q49496",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "La Fontaine",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 37,
+                "raw_line": 77,
+                "text_excerpt": "…avait pu supporter qu'on appelât cette dernière la « spirituelle marquise », pas plus que La Fontaine « le Bonhomme ». Mais quand elle lisait dans les lettres ces mots : « ma fille », elle croyait entendre sa mère lui parler.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-racine",
+      "kind": "personne",
+      "label": "Jean Racine, dramaturge (1639-1699)",
+      "href": "https://fr.wikipedia.org/wiki/Jean_Racine",
+      "wikidata": "Q742",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Racine",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 26,
+                "raw_line": 55,
+                "text_excerpt": "Mais j'avais depuis longtemps cessé de chercher à extraire d'une femme comme la racine carrée de son inconnu, lequel ne résistait pas souvent à une simple présentation. Du moins à Balbec, où je n'étais pas allé depuis longtemps, j'aurai…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 81,
+                "text_excerpt": "…ssi ne pouvais-je m'empêcher de me dire à moi-même, en les voyant, non certes les vers de Racine qui m'étaient venus à l'esprit chez la princesse de Guermantes tandis que M. de Vaugoubert regardait de jeunes secrétaires d'ambassade saluant M. de …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "joseph-caillaux",
+      "kind": "personne",
+      "label": "Joseph Caillaux, homme politique",
+      "href": "https://fr.wikipedia.org/wiki/Joseph_Caillaux",
+      "wikidata": "Q450463",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Caillaux",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 47,
+                "text_excerpt": "…ecteur n'avait encore lu que « le premier paraphe » (pour paragraphe). La politique de M. Caillaux y était bien arrangée. « Je trouve du reste qu'ils ont raison, dit-il. Il nous met trop sous la coupole de l'Allemagne » (sous la coupe). Comme ce ge…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "joseph-reinach",
+      "kind": "personne",
+      "label": "Joseph Reinach, homme politique dreyfusard, 1856-1921",
+      "href": "https://fr.wikipedia.org/wiki/Joseph_Reinach",
+      "wikidata": "Q172161",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Reinach",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "…r à l'affaire Dreyfus) où chez M^me^ Verdurin se réunissaient Picquart, Clemenceau, Zola, Reinach et Labori.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "gaulois",
+      "kind": "presse",
+      "label": "Le Gaulois — quotidien (1868-1929)",
+      "href": "https://fr.wikipedia.org/wiki/Le_Gaulois",
+      "wikidata": "Q26037434",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Gaulois",
+          "paragraphs": [
+            "t2-p0729",
+            "t3-p1170",
+            "t4-p0072",
+            "t4-p0076",
+            "t4-p0206",
+            "t5-p0263",
+            "t5-p0278",
+            "t6-p0240",
+            "t7-p0036"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 73,
+                "text_excerpt": "…la bonhomie un peu fade de la belle-mère. Déjà ils croyaient lire, au courrier mondain du Gaulois, l'entrefilet qu'ils cuisineraient eux-mêmes en famille, toutes portes fermées à clef, sur « le petit coin de Bretagne où l'on s'amuse ferme, la mati…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0206",
+                    "status": "located_by_text",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "reve-detaille",
+      "kind": "oeuvre",
+      "label": "Le Rêve — Édouard Detaille, 1888 (musée d’Orsay)",
+      "href": "https://commons.wikimedia.org/wiki/File:Detaille_Le_Rêve.jpg",
+      "wikidata": null,
+      "wikipedia": "https://fr.wikipedia.org/wiki/Le_Rêve_(Detaille)",
+      "location": "Musée d’Orsay, Paris",
+      "image": {
+        "src": "/assets/proust/oeuvres/reve-detaille.jpg",
+        "width": 1600,
+        "height": 1197,
+        "credit": "Édouard Detaille — domaine public, via Wikimedia Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:Detaille_Le_Rêve.jpg"
+      },
+      "targets": [
+        {
+          "match": "Rêve",
+          "paragraphs": [
+            "t4-p0023"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 47,
+                "text_excerpt": "… qu'en dehors de nous, un lieu réel possède plutôt les tableaux de la mémoire que ceux du rêve. Et puis, une réalité nouvelle nous fera peut-être oublier, détester même les désirs à cause desquels nous étions partis.",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0023",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 28,
+                "raw_line": 59,
+                "text_excerpt": "…u'un songe, comme un homme mal éveillé croit percevoir tout près de lui les bruits de son rêve qui s'enfuit. Je n'étais plus que cet être qui cherchait à se réfugier dans les bras de sa grand'mère, à effacer les traces de ses peines en lui donn…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0023",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "telemaque-fenelon",
+      "kind": "livre",
+      "label": "Les Aventures de Télémaque — Fénelon (1699)",
+      "href": "https://fr.wikipedia.org/wiki/Les_Aventures_de_T%C3%A9l%C3%A9maque",
+      "wikidata": "Q3230839",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Télémaque",
+          "paragraphs": [
+            "t4-p0209"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 38,
+                "raw_line": 79,
+                "text_excerpt": "…, et disait en conséquence « cueiller » ; elle eût eu peur de brusquer le doux chantre de Télémaque en l'appelant rudement Fénelon -- comme je faisais moi-même en connaissance de cause, ayant pour ami le plus cher l'être le plus intelligent, bon et …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0209",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "lettres-sevigne",
+      "kind": "livre",
+      "label": "Lettres de Madame de Sévigné (1671-1696)",
+      "href": "https://fr.wikipedia.org/wiki/Madame_de_S%C3%A9vign%C3%A9",
+      "wikidata": "Q237103",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Lettres",
+          "paragraphs": [
+            "t4-p0208",
+            "t2-p0542"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 37,
+                "raw_line": 77,
+                "text_excerpt": "…oujours avec elle, exemplaires que ma mère n'eût pas changés contre le manuscrit même des lettres. Elle plaisantait autrefois ma grand'mère qui ne lui écrivait jamais une fois sans citer une phrase de M^me^ de Sévigné ou de M^me^ de Beausergent. D…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0208",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "manuscrit même des lettres",
+          "paragraphs": [
+            "t4-p0208"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 4,
+            "locations": [
+              {
+                "chapter_paragraph": 37,
+                "raw_line": 77,
+                "text_excerpt": "… grand'mère avait toujours avec elle, exemplaires que ma mère n'eût pas changés contre le manuscrit même des lettres. Elle plaisantait autrefois ma grand'mère qui ne lui écrivait jamais une fois sans citer une phrase de M^me^ de Sévigné ou de M^me^ de Beausergent. D…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0208",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "dans les lettres",
+          "paragraphs": [
+            "t4-p0208"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 5,
+            "locations": [
+              {
+                "chapter_paragraph": 37,
+                "raw_line": 77,
+                "text_excerpt": "… spirituelle marquise », pas plus que La Fontaine « le Bonhomme ». Mais quand elle lisait dans les lettres ces mots : « ma fille », elle croyait entendre sa mère lui parler.",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0208",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-de-turenne",
+      "kind": "personne",
+      "label": "Louis de Turenne, comte, officier et explorateur, familier du salon d’Odette, 1843-1907",
+      "href": "https://fr.wikipedia.org/wiki/Louis_de_Turenne_d'Aynac",
+      "wikidata": "Q23767037",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Louis de Turenne",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 15,
+                "raw_line": 31,
+                "text_excerpt": "…uxquelles en ce moment, sous les yeux bienveillants d'Odette, le marquis du Lau, le comte Louis de Turenne, le prince Borghèse, le duc d'Estrées, portant l'orangeade et les petits fours, servaient de panetiers et d'échansons. La princesse d'Épinoy, comme e…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-xiv",
+      "kind": "personne",
+      "label": "Louis XIV, roi de France (1638-1715)",
+      "href": "https://fr.wikipedia.org/wiki/Louis_XIV",
+      "wikidata": "Q7742",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Louis XIV",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 81,
+                "text_excerpt": "… l'habitude, quittant pour cela ses moinesses, de venir partager l'hospitalité qu'offrait Louis XIV à cette autre Mortemart, sa maîtresse, M^me^ de Montespan ? Pour lui, c'était la première année qu'il était à Balbec ; il ne me connaissait pas encor…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "leon-bakst",
+      "kind": "artiste",
+      "label": "Léon Bakst, peintre et décorateur des Ballets russes, 1866-1924",
+      "href": "https://fr.wikipedia.org/wiki/Léon_Bakst",
+      "wikidata": "Q214666",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Bakst",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 15,
+                "raw_line": 31,
+                "text_excerpt": "… quand, avec l'efflorescence prodigieuse des ballets russes, révélatrice coup sur coup de Bakst, de Nijinski, de Benoist, du génie de Stravinski, la princesse Yourbeletieff, jeune marraine de tous ces grands hommes nouveaux, apparut portant sur …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "echo-de-paris",
+      "kind": "presse",
+      "label": "L’Écho de Paris — quotidien (1884-1944)",
+      "href": "https://fr.wikipedia.org/wiki/L%27%C3%89cho_de_Paris",
+      "wikidata": "Q3205139",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Écho de Paris",
+          "paragraphs": [
+            "t4-p0193",
+            "t7-p0029"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 47,
+                "text_excerpt": "…ut à cause de sa grande « impuissance ». On revenait du reste sur cette décoration dans l'Écho de Paris de la veille, dont le directeur n'avait encore lu que « le premier paraphe » (pour paragraphe). La politique de M. Caillaux y était bien arrangée. « …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0193",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "madame-de-montespan",
+      "kind": "personne",
+      "label": "Madame de Montespan, favorite de Louis XIV",
+      "href": "https://fr.wikipedia.org/wiki/Madame_de_Montespan",
+      "wikidata": "Q230982",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mme de Montespan",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 81,
+                "text_excerpt": "… venir partager l'hospitalité qu'offrait Louis XIV à cette autre Mortemart, sa maîtresse, M^me^ de Montespan ? Pour lui, c'était la première année qu'il était à Balbec ; il ne me connaissait pas encore, mais ayant entendu ses camarades plus anciens faire sui…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "madame-de-sevigne",
+      "kind": "personne",
+      "label": "Madame de Sévigné, épistolière (1626-1696)",
+      "href": "https://fr.wikipedia.org/wiki/Madame_de_Sévigné",
+      "wikidata": "Q237103",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Sévigné",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 37,
+                "raw_line": 77,
+                "text_excerpt": "…aient encore la ressemblance d'aspect entre elles deux, mais même des volumes de M^me^ de Sévigné que ma grand'mère avait toujours avec elle, exemplaires que ma mère n'eût pas changés contre le manuscrit même des lettres. Elle plaisantait autrefoi…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "paul-deschanel",
+      "kind": "personne",
+      "label": "Paul Deschanel, homme politique, président de la République",
+      "href": "https://fr.wikipedia.org/wiki/Paul_Deschanel",
+      "wikidata": "Q309995",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Deschanel",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 15,
+                "raw_line": 31,
+                "text_excerpt": "…aient tout leur espoir politique en certains républicains bon teint comme M. Doumer et M. Deschanel, tandis qu'elles voyaient la France aux abîmes si elle était confiée au personnel monarchiste qu'elles recevaient à dîner, aux Charette, aux Doudeauv…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "phedre-racine",
+      "kind": "scene",
+      "label": "Phèdre — tragédie de Jean Racine (1677)",
+      "href": "https://fr.wikipedia.org/wiki/Ph%C3%A8dre_(Racine)",
+      "wikidata": "Q969098",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Phèdre",
+          "paragraphs": [
+            "t1-p0185",
+            "t1-p0195",
+            "t2-p0006",
+            "t2-p0011",
+            "t2-p0012",
+            "t2-p0013",
+            "t2-p0014",
+            "t2-p0015",
+            "t2-p0024",
+            "t2-p0030",
+            "t2-p0088",
+            "t2-p0212",
+            "t2-p0215",
+            "t2-p0546",
+            "t2-p0547",
+            "t3-p0051",
+            "t3-p0055",
+            "t3-p0065",
+            "t3-p0066",
+            "t3-p0070",
+            "t3-p0074",
+            "t3-p0079",
+            "t3-p0082",
+            "t3-p0490",
+            "t3-p1207",
+            "t4-p0040",
+            "t4-p0163",
+            "t4-p0173",
+            "t4-p0328",
+            "t4-p0398",
+            "t6-p0031",
+            "t7-p0079",
+            "t7-p0092",
+            "t7-p0198"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 3,
+                "text_excerpt": "…e rue parisienne, traits perçants aussi et cruels d'une soirée inconnue qui, au sortir de Phèdre, avaient empêché Albertine de venir chez moi. « Je commence par vous prévenir que ce n'est pas pour que vous veniez, car, à cette heure-ci, vous me g…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0163",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t4-p0173",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "rene-duguay-trouin",
+      "kind": "personne",
+      "label": "René Duguay-Trouin, corsaire malouin, 1673-1736",
+      "href": "https://fr.wikipedia.org/wiki/René_Duguay-Trouin",
+      "wikidata": "Q552766",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Duguay-Trouin",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 81,
+                "text_excerpt": "…u Casino, de la rue où en l'attendant, le premier soir, j'étais allé jusqu'au monument de Duguay-Trouin, m'empêchait, comme un vent contre lequel on ne peut lutter, d'aller plus avant ; je baissais les yeux pour ne pas voir. Et après avoir repris quelqu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "revue-des-deux-mondes",
+      "kind": "presse",
+      "label": "Revue des Deux Mondes — revue fondée en 1829",
+      "href": "https://fr.wikipedia.org/wiki/Revue_des_Deux_Mondes",
+      "wikidata": "Q1569226",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Revue des Deux-Mondes",
+          "paragraphs": [
+            "t2-p0010",
+            "t3-p1323",
+            "t4-p0190",
+            "t4-p0292",
+            "t4-p0312",
+            "t4-p0379"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 19,
+                "raw_line": 39,
+                "text_excerpt": "…e si, au lieu d'aller à une fête, il avait chaussé des besicles pour s'enfermer à lire la Revue des Deux-Mondes, par le rite mystérieux qu'il avait l'air d'accomplir en venant voir Odette, M. de Bréauté lui-même semblait un homme nouveau. J'aurais beaucoup donn…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0190",
+                    "status": "located_by_text",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "serge-de-diaghilev",
+      "kind": "personne",
+      "label": "Serge de Diaghilev, impresario des Ballets russes",
+      "href": "https://fr.wikipedia.org/wiki/Serge_de_Diaghilev",
+      "wikidata": "Q211513",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Diaghilew",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 15,
+                "raw_line": 31,
+                "text_excerpt": "…gens du monde qui crurent aisément M^me^ Verdurin fraîchement débarquée avec la troupe de Diaghilew, que cette dame avait déjà existé dans des temps différents, et passé par divers avatars dont celui-là ne différait qu'en ce qu'il était le premier q…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "tristan-wagner",
+      "kind": "scene",
+      "label": "Tristan et Isolde — opéra de Richard Wagner (1865)",
+      "href": "https://fr.wikipedia.org/wiki/Tristan_und_Isolde",
+      "wikidata": "Q1324254",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Tristan",
+          "paragraphs": [
+            "t1-p0363",
+            "t3-p1208",
+            "t3-p1285",
+            "t4-p0173",
+            "t5-p0227",
+            "t5-p0229",
+            "t5-p0301"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 3,
+                "text_excerpt": "… moi, à côté de ma bibliothèque, j'entendis tout à coup, mécanique et sublime, comme dans Tristan l'écharpe agitée ou le chalumeau du pâtre, le bruit de toupie du téléphone. Je m'élançai, c'était Albertine. « Je ne vous dérange pas en vous télépho…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0173",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "vaslav-nijinski",
+      "kind": "personne",
+      "label": "Vaslav Nijinski, danseur et chorégraphe des Ballets russes",
+      "href": "https://fr.wikipedia.org/wiki/Vaslav_Nijinski",
+      "wikidata": "Q194363",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Nijinski",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 15,
+                "raw_line": 31,
+                "text_excerpt": "…ec l'efflorescence prodigieuse des ballets russes, révélatrice coup sur coup de Bakst, de Nijinski, de Benoist, du génie de Stravinski, la princesse Yourbeletieff, jeune marraine de tous ces grands hommes nouveaux, apparut portant sur la tête une i…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "emile-zola",
+      "kind": "personne",
+      "label": "Émile Zola, romancier, intervenant dans l'affaire Dreyfus (1840-1902)",
+      "href": "https://fr.wikipedia.org/wiki/Émile_Zola",
+      "wikidata": "Q504",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Zola",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "…éresser à l'affaire Dreyfus) où chez M^me^ Verdurin se réunissaient Picquart, Clemenceau, Zola, Reinach et Labori.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "etienne-maurice-falconet",
+      "kind": "artiste",
+      "label": "Étienne Maurice Falconet, sculpteur français",
+      "href": "https://fr.wikipedia.org/wiki/Étienne_Maurice_Falconet",
+      "wikidata": "Q289246",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Falconet",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 19,
+                "raw_line": 39,
+                "text_excerpt": "…pavillons que séparaient de petits jardins. Sous la voûte, une statuette, qu'on disait de Falconet, représentait une Source d'où, du reste, une humidité perpétuelle suintait. Un peu plus loin la concierge, toujours les yeux rouges, soit chagrin, so…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 38
+}

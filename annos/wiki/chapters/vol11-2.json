@@ -1,0 +1,576 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol11-2",
+  "book": 5,
+  "raw_file": "raw-md/vol11/chapters/002.md",
+  "translation_file": "polish/dev/chapters/polished-vol11-2.md",
+  "annotations": [
+    {
+      "id": "durer",
+      "kind": "artiste",
+      "label": "Albrecht Dürer (1471-1528), peintre et graveur allemand",
+      "href": "https://fr.wikipedia.org/wiki/Albrecht_D%C3%BCrer",
+      "wikidata": "Q5580",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dürer",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 10,
+                "raw_line": 21,
+                "text_excerpt": "…é intellectuelle et artistique ; et bien qu'il n'eût rien « produit » il eut la chance de durer un peu plus. Et pourtant, cher Charles Swann, que j'ai connu quand j'étais encore si jeune et vous près du tombeau, c'est parce que celui que vous de…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-vii",
+      "kind": "personne",
+      "label": "Charles VII, roi de France",
+      "href": "https://fr.wikipedia.org/wiki/Charles_VII_(roi_de_France)",
+      "wikidata": "Q133372",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Charles VII",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 14,
+                "raw_line": 29,
+                "text_excerpt": "…t des chefs-d'œuvre, Brichot ayant porté une fois celui d'un grand seigneur de la cour de Charles VII, avec des souliers à la *poulaine*, et une autre fois celui de Napoléon I^er^, où Elstir avait fait le grand cordon de la Légion d'honneur avec de la…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "duc-d-uzes",
+      "kind": "personne",
+      "label": "Duc d'Uzès, titulaire du plus ancien duché de France",
+      "href": "https://fr.wikipedia.org/wiki/Maison_de_Crussol",
+      "wikidata": "Q1142099",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "duc d’Uzès",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 10,
+                "raw_line": 21,
+                "text_excerpt": "… Sans doute c'est d'une façon anonyme, sans distinction d'individualité, qu'on demeure le duc d'Uzès. Mais la couronne ducale en tient quelque temps ensemble les éléments, comme ceux de ces glaces aux formes bien dessinées qu'appréciait Albertine, ta…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "famille-de-la-tremoille",
+      "kind": "personne",
+      "label": "Famille de La Trémoille, grande famille de la noblesse française, citée par contraste avec les Guermantes fictifs",
+      "href": "https://fr.wikipedia.org/wiki/Maison_de_La_Trémoille",
+      "wikidata": "Q762575",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "La Trémoïlle",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 10,
+                "raw_line": 21,
+                "text_excerpt": "…és ». Nous avons vu M^me^ de Guermantes parler de Cartier comme du meilleur ami du duc de La Trémoïlle, comme d'un homme très recherché dans les milieux aristocratiques. Pour la génération suivante, Cartier est devenu quelque chose de si informe qu'on …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "La Trémoille",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 10,
+                "raw_line": 21,
+                "text_excerpt": "…és ». Nous avons vu M^me^ de Guermantes parler de Cartier comme du meilleur ami du duc de La Trémoïlle, comme d'un homme très recherché dans les milieux aristocratiques. Pour la génération suivante, Cartier est devenu quelque chose de si informe qu'on …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "boucher",
+      "kind": "artiste",
+      "label": "François Boucher (1703-1770), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Boucher",
+      "wikidata": "Q180932",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Boucher",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 11,
+                "raw_line": 23,
+                "text_excerpt": "…les plus disparates : sur Ver Meer, sur M. de Mouchy, sur lui-même, sur une tapisserie de Boucher, sur Combray, questions sans doute peu pressantes puisque je les avais remises de jour en jour, mais qui me semblaient capitales depuis que, ses lèvr…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "gaston-de-galliffet",
+      "kind": "personne",
+      "label": "Gaston de Galliffet, général français, 1830-1909",
+      "href": "https://fr.wikipedia.org/wiki/Gaston_de_Galliffet",
+      "wikidata": "Q700951",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Galliffet",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 10,
+                "raw_line": 21,
+                "text_excerpt": "…e tableau de Tissot représentant le balcon du Cercle de la rue Royale, où vous êtes entre Galliffet, Edmond de Polignac et Saint-Maurice, on parle tant de vous, c'est parce qu'on voit qu'il y a quelques traits de vous dans le personnage de Swann.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "james-tissot",
+      "kind": "artiste",
+      "label": "James Tissot, peintre français, auteur du Cercle de la rue Royale",
+      "href": "https://fr.wikipedia.org/wiki/James_Tissot",
+      "wikidata": "Q381248",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Tissot",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 10,
+                "raw_line": 21,
+                "text_excerpt": "…, qu'on recommence à parler de vous et que peut-être vous vivrez ». Si dans le tableau de Tissot représentant le balcon du Cercle de la rue Royale, où vous êtes entre Galliffet, Edmond de Polignac et Saint-Maurice, on parle tant de vous, c'est pa…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "vermeer",
+      "kind": "artiste",
+      "label": "Johannes Vermeer, dit Vermeer de Delft (1632-1675), peintre néerlandais",
+      "href": "https://fr.wikipedia.org/wiki/Johannes_Vermeer",
+      "wikidata": "Q41264",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Ver Meer",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 11,
+                "raw_line": 23,
+                "text_excerpt": "…tant du fond de l'eau), que je voulais lui poser sur les sujets les plus disparates : sur Ver Meer, sur M. de Mouchy, sur lui-même, sur une tapisserie de Boucher, sur Combray, questions sans doute peu pressantes puisque je les avais remises de jour…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Vermeer",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 11,
+                "raw_line": 23,
+                "text_excerpt": "…tant du fond de l'eau), que je voulais lui poser sur les sujets les plus disparates : sur Ver Meer, sur M. de Mouchy, sur lui-même, sur une tapisserie de Boucher, sur Combray, questions sans doute peu pressantes puisque je les avais remises de jour…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cercle-de-la-rue-royale-tissot",
+      "kind": "oeuvre",
+      "label": "Le Cercle de la rue Royale — James Tissot, 1868 (musée d’Orsay)",
+      "href": "https://commons.wikimedia.org/wiki/File:James_Tissot_-_The_Circle_of_the_Rue_Royale_-_Google_Art_Project.jpg",
+      "wikidata": "Q656132",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Le_Cercle_de_la_rue_Royale",
+      "location": "Musée d’Orsay, Paris",
+      "image": {
+        "src": "/assets/proust/oeuvres/cercle-de-la-rue-royale-tissot.jpg",
+        "width": 1600,
+        "height": 999,
+        "credit": "James Tissot — domaine public, via Wikimedia Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:James_Tissot_-_The_Circle_of_the_Rue_Royale_-_Google_Art_Project.jpg"
+      },
+      "targets": [
+        {
+          "match": "tableau de Tissot",
+          "paragraphs": [
+            "t5-p0265"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 10,
+                "raw_line": 21,
+                "text_excerpt": "… ses romans, qu'on recommence à parler de vous et que peut-être vous vivrez ». Si dans le tableau de Tissot représentant le balcon du Cercle de la rue Royale, où vous êtes entre Galliffet, Edmond de Polignac et Saint-Maurice, on parle tant de vous, c'est pa…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t5-p0265",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "gaulois",
+      "kind": "presse",
+      "label": "Le Gaulois — quotidien (1868-1929)",
+      "href": "https://fr.wikipedia.org/wiki/Le_Gaulois",
+      "wikidata": "Q26037434",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Gaulois",
+          "paragraphs": [
+            "t2-p0729",
+            "t3-p1170",
+            "t4-p0072",
+            "t4-p0076",
+            "t4-p0206",
+            "t5-p0263",
+            "t5-p0278",
+            "t6-p0240",
+            "t7-p0036"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 8,
+                "raw_line": 17,
+                "text_excerpt": "…ayant eu lieu, il faut poser le cancer à nouveau. Puis vient le moment où on lit dans le *Gaulois* que la santé de Swann a inspiré des inquiétudes, mais que son indisposition est en parfaite voie de guérison. Alors, quelques minutes avant le derni…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t5-p0263",
+                    "status": "located_by_text",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "napoleon-ier",
+      "kind": "personne",
+      "label": "Napoléon Ier, empereur des Français (1769-1821)",
+      "href": "https://fr.wikipedia.org/wiki/Napoléon_Ier",
+      "wikidata": "Q517",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Napoléon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 14,
+                "raw_line": 29,
+                "text_excerpt": "… de la cour de Charles VII, avec des souliers à la *poulaine*, et une autre fois celui de Napoléon I^er^, où Elstir avait fait le grand cordon de la Légion d'honneur avec de la cire à cacheter. Bref Brichot, revoyant dans sa pensée le salon d'alors…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "otto-wegener",
+      "kind": "personne",
+      "label": "Otto Wegener, photographe mondain parisien, 1849-1924",
+      "href": "https://fr.wikipedia.org/wiki/Otto_Wegener",
+      "wikidata": "Q16028284",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Otto",
+          "paragraphs": [
+            "t5-p0269"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 14,
+                "raw_line": 29,
+                "text_excerpt": "…on moins brillant, comme les photographies « retouchées » qu'Odette avait fait faire chez Otto, où, élégante, elle était en grande robe princesse et ondulée par Lenthéric, ne plaisaient pas tant à Swann qu'une petite « carte album » faite à Nic…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t5-p0269",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "pecheur-d-islande-loti",
+      "kind": "livre",
+      "label": "Pêcheur d’Islande — roman de Pierre Loti (1886)",
+      "href": "https://fr.wikipedia.org/wiki/P%C3%AAcheur_d%27Islande",
+      "wikidata": "Q3412135",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Pêcheur d’Islande",
+          "paragraphs": [
+            "t5-p0259"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 9,
+                "text_excerpt": "…esse de Luxembourg m'avait dit qu'elle n'avait pas emporté de livre, j'allais lui prêter *Pêcheur d'Islande* et *Tartarin de Tarascon*, quand je compris ce qu'elle avait voulu dire : non qu'elle passerait le temps moins agréablement, mais que je pourrais pl…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t5-p0259",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "tartarin-daudet",
+      "kind": "livre",
+      "label": "Tartarin de Tarascon — roman d’Alphonse Daudet (1872)",
+      "href": "https://fr.wikipedia.org/wiki/Tartarin_de_Tarascon",
+      "wikidata": "Q4452166",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Tartarin de Tarascon",
+          "paragraphs": [
+            "t5-p0259"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 9,
+                "text_excerpt": "…ait dit qu'elle n'avait pas emporté de livre, j'allais lui prêter *Pêcheur d'Islande* et *Tartarin de Tarascon*, quand je compris ce qu'elle avait voulu dire : non qu'elle passerait le temps moins agréablement, mais que je pourrais plus difficilement mettre mo…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t5-p0259",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 14
+}

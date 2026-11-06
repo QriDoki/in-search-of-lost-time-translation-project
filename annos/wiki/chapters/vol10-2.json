@@ -1,0 +1,3443 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol10-2",
+  "book": 4,
+  "raw_file": "raw-md/vol10/chapters/002.md",
+  "translation_file": "polish/dev/chapters/polished-vol10-2.md",
+  "annotations": [
+    {
+      "id": "durer",
+      "kind": "artiste",
+      "label": "Albrecht Dürer (1471-1528), peintre et graveur allemand",
+      "href": "https://fr.wikipedia.org/wiki/Albrecht_D%C3%BCrer",
+      "wikidata": "Q5580",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dürer",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 32,
+                "raw_line": 67,
+                "text_excerpt": "…ade pour rentrer, Morel choisit un air de Bach avec des variations infinies pour la faire durer. Dès le retour elle alla à la remise, vit le brancard neuf et Howsler en sang. Elle allait lui dire, sans lui faire aucune observation, qu'elle n'ava…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…l'excès en tout est un défaut. Mais je reste bleu quand je pense que cela a suffi à faire durer le nom de Socrate jusqu'à nos jours. Qu'est-ce qu'il y a dans cette philosophie ? peu de chose en somme. Quand on pense que Charcot et d'autres ont f…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "alfred-dreyfus",
+      "kind": "personne",
+      "label": "Alfred Dreyfus, officier français, au centre de l'affaire Dreyfus",
+      "href": "https://fr.wikipedia.org/wiki/Alfred_Dreyfus",
+      "wikidata": "Q171826",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dreyfus",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 46,
+                "raw_line": 95,
+                "text_excerpt": "…ue qu'empreint de la satisfaction qu'auraient des dîneurs qui réussiraient à faire parler Dreyfus de sa propre affaire, ou l'Impératrice de son règne. On comptait bien le pousser un peu sur ce sujet, mais c'était déjà Doncières, où Morel nous rejo…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "andre-le-notre",
+      "kind": "artiste",
+      "label": "André Le Nôtre, architecte paysagiste",
+      "href": "https://fr.wikipedia.org/wiki/André_Le_Nôtre",
+      "wikidata": "Q273849",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Lenôtre",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 3,
+                "raw_line": 9,
+                "text_excerpt": "…ans le sommeil, lequel est comme un second appartement que nous aurions et où, délaissant le nôtre, nous serions allé dormir. Il a des sonneries à lui, et nous y sommes quelquefois violemment réveillés par un bruit de timbre, parfaitement entendu d…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "anne-hilarion-de-tourville",
+      "kind": "personne",
+      "label": "Anne Hilarion de Tourville, amiral, maréchal de France, 1642-1701",
+      "href": "https://fr.wikipedia.org/wiki/Anne_Hilarion_de_Costentin_de_Tourville",
+      "wikidata": "Q565409",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Tourville",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 21,
+                "raw_line": 45,
+                "text_excerpt": "… et Quetteholme, Saint-Mars-le-Vieux et Saint-Mars-le-Vêtu, Gourville et Balbec-le-Vieux, Tourville et Féterne, prisonniers aussi hermétiquement enfermés jusque-là dans la cellule de jours distincts que jadis Méséglise et Guermantes, et sur lesquels…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 64,
+                "raw_line": 131,
+                "text_excerpt": "…promenés de ce côté-là en voiture. Alors vous avez vu Incarville ou village de Wiscar, et Tourville, avant d'arriver chez M*me* Verdurin, c'est le village de Turold. D'ailleurs il n'y eut pas que des Normands. Il semble que des Allemands soient venu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "baruch-spinoza",
+      "kind": "personne",
+      "label": "Baruch Spinoza, philosophe néerlandais d'origine juive",
+      "href": "https://fr.wikipedia.org/wiki/Baruch_Spinoza",
+      "wikidata": "Q35802",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Spinoza",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 67,
+                "raw_line": 137,
+                "text_excerpt": "… ressort et je ne peux pas condamner en bloc, puisque Bloch il y a, une nation qui compte Spinoza parmi ses enfants illustres. Et j'admire trop Rembrandt pour ne pas savoir la beauté qu'on peut tirer de la fréquentation de la synagogue. Mais enfin…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "benjamin-godard",
+      "kind": "personne",
+      "label": "Benjamin Godard, compositeur français, 1849-1895",
+      "href": "https://fr.wikipedia.org/wiki/Benjamin_Godard",
+      "wikidata": "Q817524",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Benjamin Godard",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 30,
+                "raw_line": 63,
+                "text_excerpt": "…eautés de Balbec, Paris et Monte-Carlo, je lui dis (comme à un ténor qui vous excède avec Benjamin Godard, chantez-moi de préférence du Debussy) : « Mais qui est-ce qui est venu pour me voir ? -- C'est le monsieur avec qui vous êtes sorti hier. Je vais al…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "luini",
+      "kind": "artiste",
+      "label": "Bernardino Luini (vers 1480-1532), peintre lombard",
+      "href": "https://fr.wikipedia.org/wiki/Bernardino_Luini",
+      "wikidata": "Q8537",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Luini",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 43,
+                "raw_line": 89,
+                "text_excerpt": "… inutile ou d'une audace qui faisait sourire en cachette, elle n'avait pas encore eu pour lui ni ne devait avoir, à Balbec, de graves inconvénients. Un peu d'albumine, de sucre, d'arythmie cardiaque, n'empêche pas la vie de continuer normale pour…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "camille-stamaty",
+      "kind": "personne",
+      "label": "Camille Stamaty, pianiste et pédagogue français",
+      "href": "https://fr.wikipedia.org/wiki/Camille-Marie_Stamaty",
+      "wikidata": "Q1029284",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Stamati",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 51,
+                "text_excerpt": "…s entendu jouer Chopin, dit le baron, et pourtant j'aurais pu, je prenais des leçons avec Stamati, mais il me défendit d'aller entendre, chez ma tante Chimay, le Maître des Nocturnes. -- Quelle bêtise il a faite là, s'écria Morel. -- Au contraire,…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-augustin-sainte-beuve",
+      "kind": "personne",
+      "label": "Charles Augustin Sainte-Beuve, critique littéraire (1804-1869)",
+      "href": "https://fr.wikipedia.org/wiki/Charles-Augustin_Sainte-Beuve",
+      "wikidata": "Q1063392",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Sainte-Beuve",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 129,
+                "text_excerpt": "… y trouver la même dépravation du goût -- transposée dans l'ordre mondain -- qui poussait Sainte-Beuve à briser toutes les alliances de mots, à altérer toute expression un peu habituelle. Deux méthodes, enseignées sans doute par des maîtres différents,…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-baudelaire",
+      "kind": "personne",
+      "label": "Charles Baudelaire, poète (1821-1867)",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Baudelaire",
+      "wikidata": "Q501",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Baudelaire",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 10,
+                "raw_line": 23,
+                "text_excerpt": "…aturel et profond. Or, ce que j'oublie dans l'un et l'autre cas, ce n'est pas tel vers de Baudelaire qui me fatigue plutôt, « ainsi qu'un tympanon », ce n'est pas tel concept d'un des philosophes cités, c'est la réalité elle-même des choses vulgaires…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-bouchard",
+      "kind": "personne",
+      "label": "Charles Bouchard, pathologiste français, 1837-1915",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Bouchard_(médecin)",
+      "wikidata": "Q1063407",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Bouchard",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…exposition. Je cite toujours le γυωθι σεαυτου à mes élèves pour le premier cours. Le père Bouchard, qui l'a su, m'en a félicité. -- Je ne suis pas des tenants de la forme pour la forme, pas plus que je ne thésauriserais en poésie la rime millionnai…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-de-secondat-baron-de-montesquieu",
+      "kind": "personne",
+      "label": "Charles de Secondat, baron de Montesquieu, philosophe des Lumières, 1689-1755",
+      "href": "https://fr.wikipedia.org/wiki/Montesquieu",
+      "wikidata": "Q15975",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Montesquieu",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 62,
+                "raw_line": 127,
+                "text_excerpt": "…vrigny n'en usait pas ainsi, il disait Cornaglia et Dehelly, comme il eût dit Voltaire et Montesquieu. Car chez lui, à l'égard des acteurs comme de tout ce qui était parisien, le désir de se montrer dédaigneux qu'avait l'aristocrate était vaincu par c…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 129,
+                "text_excerpt": "…ourt, les La Rochefoucauld. Ajoutez encore les Noailles, malgré le comte de Toulouse, les Montesquieu, les Castellane et, sauf oubli, c'est tout. Quant à tous les petits messieurs qui s'appellent marquis de Cambremerde ou de Vatefairefiche, il n'y a a…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-de-sevigne",
+      "kind": "personne",
+      "label": "Charles de Sévigné, fils de la marquise de Sévigné, 1648-1713",
+      "href": "https://fr.wikipedia.org/wiki/Charles_de_Sévigné",
+      "wikidata": "Q5084035",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Charles de Sévigné",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 27,
+                "raw_line": 57,
+                "text_excerpt": "…t avec plus de force : « L'argent file. ») Tâche, continua maman, de ne pas devenir comme Charles de Sévigné, dont sa mère disait : « Sa main est un creuset où l'argent se fond. » Et puis je crois que tu es vraiment assez sorti avec Albertine. Je t'assure qu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-lamoureux",
+      "kind": "personne",
+      "label": "Charles Lamoureux, chef d'orchestre, fondateur des Concerts Lamoureux, 1834-1899",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Lamoureux",
+      "wikidata": "Q1065279",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Lamoureux",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 43,
+                "text_excerpt": "…ant de la force insensible et puissante qu'ont ces courants de la passion et par lesquels l'amoureux, comme un nageur entraîné sans s'en apercevoir, bien vite perd de vue la terre. Sans doute l'amour d'un homme normal peut aussi, quand l'amoureux, pa…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 28,
+                "raw_line": 59,
+                "text_excerpt": "…ociale, est l'équivalent de ce qu'est, dans l'amour, l'offre déguisée que fait à une dame l'amoureux qu'elle n'aime pas, de la voir le lendemain, tout en protestant qu'il n'y tient pas, ou même pas cette offre, mais une attitude de fausse froideur. A…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 67,
+                "raw_line": 137,
+                "text_excerpt": "…'ils vont mettre une seconde fois le Christ sur la Croix, au moins en effigie. Au concert Lamoureux, j'avais pour voisin, un jour, un riche banquier juif. On joua l'Enfance du Christ, de Berlioz, il était consterné. Mais il retrouva bientôt l'expres…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-x",
+      "kind": "personne",
+      "label": "Charles X, roi de France, 1757-1836",
+      "href": "https://fr.wikipedia.org/wiki/Charles_X",
+      "wikidata": "Q7758",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Charles X",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 67,
+                "raw_line": 137,
+                "text_excerpt": "…res, mais enfin c'est une race d'usurpateurs, qui a fait assassiner Louis XVI, dépouiller Charles X et Henri V. Ils ont, du reste, de qui tenir, ayant pour ancêtres Monsieur, qu'on appelait sans doute ainsi parce que c'était la plus étonnante des vi…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "christoph-willibald-gluck",
+      "kind": "personne",
+      "label": "Christoph Willibald Gluck, compositeur",
+      "href": "https://fr.wikipedia.org/wiki/Christoph_Willibald_Gluck",
+      "wikidata": "Q130759",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Gluck",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 67,
+                "raw_line": 137,
+                "text_excerpt": "… jours à Féterne où allaient se succéder une excellente musicienne qui me chanterait tout Gluck et un joueur d'échecs réputé avec qui je ferais d'excellentes parties qui ne feraient pas tort à celles de pêche et de yachting dans la baie, ni même…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "claude-debussy",
+      "kind": "personne",
+      "label": "Claude Debussy, compositeur (1862-1918)",
+      "href": "https://fr.wikipedia.org/wiki/Claude_Debussy",
+      "wikidata": "Q4700",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Debussy",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 30,
+                "raw_line": 63,
+                "text_excerpt": "… dis (comme à un ténor qui vous excède avec Benjamin Godard, chantez-moi de préférence du Debussy) : « Mais qui est-ce qui est venu pour me voir ? -- C'est le monsieur avec qui vous êtes sorti hier. Je vais aller chercher sa carte qui est chez mon…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "constant-coquelin",
+      "kind": "personne",
+      "label": "Constant Coquelin, acteur de la Comédie-Française, dit Coquelin aîné (1841-1909)",
+      "href": "https://fr.wikipedia.org/wiki/Coquelin_aîné",
+      "wikidata": "Q142310",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Coquelin",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 60,
+                "raw_line": 123,
+                "text_excerpt": "… qu'il parut comprendre, car il savait par moi que, les jours de grandes représentations, Coquelin aîné avait accepté des rôles de débutant, celui même d'un personnage qui ne dit qu'un mot ou ne dit rien. « C'est égal, je suis désolé pour vous. Qua…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "eugene-labiche",
+      "kind": "personne",
+      "label": "Eugène Labiche, auteur comique (1815-1888)",
+      "href": "https://fr.wikipedia.org/wiki/Eugène_Labiche",
+      "wikidata": "Q379929",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Labiche",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 51,
+                "raw_line": 105,
+                "text_excerpt": "…a, boissons qu'on ne trouve plus, comme curiosités archéologiques, que dans les pièces de Labiche et les cafés de Doncières. Un « gloria » serait assez convenable au lieu, n'est-ce pas, et aux circonstances, qu'en dites-vous ? -- Je suis président…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "famille-de-la-tremoille",
+      "kind": "personne",
+      "label": "Famille de La Trémoille, grande famille de la noblesse française, citée par contraste avec les Guermantes fictifs",
+      "href": "https://fr.wikipedia.org/wiki/Maison_de_La_Trémoille",
+      "wikidata": "Q762575",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "La Trémoïlle",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 129,
+                "text_excerpt": "… même grand'mère que le Roi ; fort au-dessous des Guermantes, on peut cependant citer les La Trémoïlle, descendants des rois de Naples et des comtes de Poitiers ; les d'Uzès, peu anciens comme famille mais qui sont les plus anciens pairs ; les Luynes, …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "La Trémoille",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 129,
+                "text_excerpt": "… même grand'mère que le Roi ; fort au-dessous des Guermantes, on peut cependant citer les La Trémoïlle, descendants des rois de Naples et des comtes de Poitiers ; les d'Uzès, peu anciens comme famille mais qui sont les plus anciens pairs ; les Luynes, …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "felix-mendelssohn",
+      "kind": "personne",
+      "label": "Felix Mendelssohn, compositeur",
+      "href": "https://fr.wikipedia.org/wiki/Felix_Mendelssohn",
+      "wikidata": "Q46096",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mendelssohn",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 25,
+                "raw_line": 53,
+                "text_excerpt": "…se intarissable que le virtuose berlinois (nous croyons que M. de Charlus désignait ainsi Mendelssohn) devait infatigablement imiter. C'est de cette façon, seule vraiment transcendante et animatrice, que je vous ferai jouer à Paris. » Quand M. de Char…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "francois-rabelais",
+      "kind": "personne",
+      "label": "François Rabelais, écrivain, v.1483-1553",
+      "href": "https://fr.wikipedia.org/wiki/François_Rabelais",
+      "wikidata": "Q131018",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Rabelais",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…i les autres. -- J'entends bien, répondit Brichot, que, pour parler comme Maître François Rabelais, vous voulez dire que je suis moult sorbonagre, sorbonicole et sorboniforme. Pourtant, tout autant que les camarades, j'aime qu'un livre donne l'impr…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "francois-rene-de-chateaubriand",
+      "kind": "personne",
+      "label": "François-René de Chateaubriand, écrivain (1768-1848)",
+      "href": "https://fr.wikipedia.org/wiki/François-René_de_Chateaubriand",
+      "wikidata": "Q49767",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Chateaubriand",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 33,
+                "raw_line": 69,
+                "text_excerpt": "…llez, devenez illustre, me dit-il. -- De qui est cela ? lui demandai-je. -- De Fontanes à Chateaubriand. » Il connaissait aussi une correspondance amoureuse de Napoléon. Bien, pensai-je, il est lettré. Mais cette phrase, qu'il avait lue je ne sais pas o…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…littérature en suivant la règle de l'Abbaye-aux-Bois dans l'obédience de M. le vicomte de Chateaubriand, grand maître du chiqué, selon la règle stricte des humanistes. M. le vicomte de Chateaubriand\\... -- Chateaubriand aux pommes ? interrompit le docte…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 67,
+                "raw_line": 137,
+                "text_excerpt": "… apparaître un quinquagénaire étrange, spirituel et fardé, avec qui je pourrais parler de Chateaubriand et de Balzac. Et maintenant, dans les brumes du soir, derrière cette falaise d'Incarville, qui m'avait tant fait rêver autrefois, ce que je voyais co…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "frederic-chopin",
+      "kind": "personne",
+      "label": "Frédéric Chopin, compositeur et pianiste (1810-1849)",
+      "href": "https://fr.wikipedia.org/wiki/Frédéric_Chopin",
+      "wikidata": "Q1268",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Chopin",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 51,
+                "text_excerpt": "« Je n'ai jamais entendu jouer Chopin, dit le baron, et pourtant j'aurais pu, je prenais des leçons avec Stamati, mais il me défendit d'aller entendre, chez ma tante Chimay, le Maître des…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "gaston-boissier",
+      "kind": "personne",
+      "label": "Gaston Boissier, historien et académicien, 1823-1908",
+      "href": "https://fr.wikipedia.org/wiki/Gaston_Boissier",
+      "wikidata": "Q607202",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Boissier",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 46,
+                "raw_line": 95,
+                "text_excerpt": "…ami Thureau-Dangin, qui avait avec elle d'anciennes relations de famille, et aussi Gaston Boissier, qu'elle a désiré connaître à la suite d'une étude qui l'intéressait tout particulièrement. Il y a dîné une fois et est revenu sous le charme. Encore…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "gaston-de-galliffet",
+      "kind": "personne",
+      "label": "Gaston de Galliffet, général français, 1830-1909",
+      "href": "https://fr.wikipedia.org/wiki/Gaston_de_Galliffet",
+      "wikidata": "Q700951",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Galliffet",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 47,
+                "text_excerpt": "…j'en avais connu à Paris de plus brillants chez la princesse de Guermantes, chez M*me* de Galliffet ou M*me* d'Arpajon. Mais justement, ici ce n'était plus Paris et le charme du cadre ne réagissait pas pour moi que sur l'agrément de la réunion, mais…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "geraud-duroc",
+      "kind": "personne",
+      "label": "Géraud Duroc, maréchal du palais de Napoléon Ier, duc de Frioul (1772-1813)",
+      "href": "https://fr.wikipedia.org/wiki/Géraud_Christophe_Michel_Duroc",
+      "wikidata": "Q550690",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Duroc",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 67,
+                "raw_line": 137,
+                "text_excerpt": "…îne, interrompue comme celle des collines bleuâtres, cachées parfois dans l'anfractuosité du roc ou derrière les tilleuls de l'avenue, mais déléguant à chaque relais un aimable gentilhomme qui venait, d'une poignée de main cordiale, interrompre m…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "hadrien",
+      "kind": "personne",
+      "label": "Hadrien, empereur romain, 76-138",
+      "href": "https://fr.wikipedia.org/wiki/Hadrien",
+      "wikidata": "Q1427",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Hadrien",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 47,
+                "text_excerpt": "…ays avoisinants, des plages ou des forêts, aperçus fort diminués par l'éloignement, comme Hadrien avait assemblé dans sa villa des réductions des monuments les plus célèbres des diverses contrées. Le nom qui suivait le mot « vue » n'était pas forc…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "hamlet",
+      "kind": "scene",
+      "label": "Hamlet — tragédie de William Shakespeare (vers 1600)",
+      "href": "https://fr.wikipedia.org/wiki/Hamlet",
+      "wikidata": "Q41567",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Hamlet",
+          "paragraphs": [
+            "t4-p0374"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 27,
+                "raw_line": 57,
+                "text_excerpt": "…'a pas assez de dédain pour les gens qui n'en sont pas. La question n'est pas, comme pour Hamlet, d'être ou de ne pas être, mais d'en être ou de ne pas en être. Tu en es, mon oncle Charlus en est. Que veux-tu ? moi je n'ai jamais aimé ça, ce n'es…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0374",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 75,
+                "text_excerpt": "…car dîner en ville, l'homme occupé le fait aussi), si votre divertissement était d'écrire Hamlet ou seulement de le lire. En quoi les hommes occupés manquent de réflexion. Car la culture désintéressée, qui leur paraît comique passe-temps d'oisifs…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0374",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "hector-berlioz",
+      "kind": "personne",
+      "label": "Hector Berlioz, compositeur",
+      "href": "https://fr.wikipedia.org/wiki/Hector_Berlioz",
+      "wikidata": "Q1151",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Berlioz",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 67,
+                "raw_line": 137,
+                "text_excerpt": "…ux, j'avais pour voisin, un jour, un riche banquier juif. On joua l'Enfance du Christ, de Berlioz, il était consterné. Mais il retrouva bientôt l'expression de béatitude qui lui est habituelle en entendant l'Enchantement du Vendredi-Saint. Votre a…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "henri-d-orleans-duc-d-aumale",
+      "kind": "personne",
+      "label": "Henri d'Orléans, duc d'Aumale, fils de Louis-Philippe, académicien, collectionneur",
+      "href": "https://fr.wikipedia.org/wiki/Henri_d'Orléans_(1822-1897)",
+      "wikidata": "Q712502",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "duc d’Aumale",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 129,
+                "text_excerpt": "…le regret qu'a le prince d'être souffrant (ainsi en usait M*me* de Clinchamp à l'égard du duc d'Aumale), Morel dit du ton le plus léger : « Le baron ne pourra pas venir. Il est un peu indisposé, du moins je crois que c'est pour cela\\... Je ne l'ai pas …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "henry-roujon",
+      "kind": "personne",
+      "label": "Henry Roujon, écrivain, secrétaire perpétuel de l'Académie des beaux-arts",
+      "href": "https://fr.wikipedia.org/wiki/Henry_Roujon",
+      "wikidata": "Q3133051",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Roujon",
+          "paragraphs": [
+            "t4-p0378"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 40,
+                "raw_line": 83,
+                "text_excerpt": "…vec nous ? Tenez, voici un livre que j'ai reçu, je pense qu'il vous intéressera. C'est de Roujon. Le titre est joli : « Parmi les hommes. »",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0378",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "hippolyte-taine",
+      "kind": "personne",
+      "label": "Hippolyte Taine, philosophe et historien, 1828-1893",
+      "href": "https://fr.wikipedia.org/wiki/Hippolyte_Taine",
+      "wikidata": "Q297726",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Taine",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…ce côté « hors de nature » de Balzac à Swann, il me disait : « Vous êtes du même avis que Taine. » Je n'avais pas l'honneur de connaître M. Taine, ajouta M. de Charlus (avec cette irritante habitude du « Monsieur » inutile qu'ont les gens du mon…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "honore-de-balzac",
+      "kind": "personne",
+      "label": "Honoré de Balzac, romancier (1799-1850)",
+      "href": "https://fr.wikipedia.org/wiki/Honoré_de_Balzac",
+      "wikidata": "Q9711",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Balzac",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 37,
+                "raw_line": 77,
+                "text_excerpt": "…e M. de Charlus, guidés par Cottard, toujours perplexe. Du coin où il lisait un volume de Balzac, M. de Charlus perçut cette hésitation ; il n'avait pourtant pas levé les yeux. Mais comme les sourds-muets reconnaissent à un courant d'air, insensi…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…'hésitait pas à l'appeler par son nom. Comme, après avoir regardé la belle reliure de son Balzac, je lui demandais ce qu'il préférait dans la Comédie Humaine, il me répondit, dirigeant sa pensée vers une idée fixe : « Tout l'un ou tout l'autre, l…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 46,
+                "raw_line": 95,
+                "text_excerpt": "Au mot tiré du grec dont M. de Charlus, parlant de Balzac, avait fait suivre l'allusion à la Tristesse d'Olympio dans Splendeurs et Misères, Ski, Brichot et Cottard s'étaient regardés avec un sourire peut-êt…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 47,
+                "raw_line": 97,
+                "text_excerpt": "…te. Et maintenant que depuis un instant il confondait sa situation avec celle décrite par Balzac, il se réfugiait en quelque sorte dans la nouvelle, et à l'infortune qui le menaçait peut-être, et ne laissait pas en tout cas de l'effrayer, il avai…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 60,
+                "raw_line": 123,
+                "text_excerpt": "…nt personne n'eût si bien pratiqué l'art de s'habiller fastueusement, comme un élégant de Balzac, s'il en avait eu les moyens), il se contentait, à cause de moi, d'inspecter de loin si tout allait bien, et d'un regard, de faire mettre une cale so…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 129,
+                "text_excerpt": "…ambouville, avaient fait à l'aller une partie du trajet avec nous : « Vous qui aimez tant Balzac et savez le reconnaître dans la société contemporaine, avais-je dit à M. de Charlus, vous devez trouver que ces Cambremer sont échappés des Scènes de…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 67,
+                "raw_line": 137,
+                "text_excerpt": "…uagénaire étrange, spirituel et fardé, avec qui je pourrais parler de Chateaubriand et de Balzac. Et maintenant, dans les brumes du soir, derrière cette falaise d'Incarville, qui m'avait tant fait rêver autrefois, ce que je voyais comme si son gr…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "horace",
+      "kind": "personne",
+      "label": "Horace, poète latin antique",
+      "href": "https://fr.wikipedia.org/wiki/Horace",
+      "wikidata": "Q6197",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Horace",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 61,
+                "raw_line": 125,
+                "text_excerpt": "…iste reprendrait pied et confiance dans la vie en entendant quelqu'un lui citer un vers d'Horace. Aussi, s'il ne quittait jamais le wagon sans me dire : « À quand notre petite réunion ? » c'était autant par avidité de parasite, par gourmandise d'…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "illusions-perdues-balzac",
+      "kind": "livre",
+      "label": "Illusions perdues — roman d’Honoré de Balzac (1837-1843)",
+      "href": "https://fr.wikipedia.org/wiki/Illusions_perdues",
+      "wikidata": "Q2092894",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Illusions Perdues",
+          "paragraphs": [
+            "t4-p0382"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…comme le Curé de Tours et la Femme abandonnée, ou les grandes fresques comme la série des Illusions perdues. Comment ! vous ne connaissez pas les Illusions perdues ? C'est si beau, le moment où Carlos Herrera demande le nom du château devant lequel passe sa…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0382",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Illusions perdues",
+          "paragraphs": [
+            "t4-p0382"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…comme le Curé de Tours et la Femme abandonnée, ou les grandes fresques comme la série des Illusions perdues. Comment ! vous ne connaissez pas les Illusions perdues ? C'est si beau, le moment où Carlos Herrera demande le nom du château devant lequel passe sa…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0382",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-de-la-fontaine",
+      "kind": "personne",
+      "label": "Jean de La Fontaine, fabuliste (1621-1695)",
+      "href": "https://fr.wikipedia.org/wiki/Jean_de_La_Fontaine",
+      "wikidata": "Q49496",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "La Fontaine",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 64,
+                "raw_line": 131,
+                "text_excerpt": "…e de ne plus vouloir aller chez ses cousins. Il y eut aussi des Saxons, comme en témoigne la fontaine de Sissonne (un des buts de promenade favoris de M*me* Verdurin et à juste titre), aussi bien qu'en Angleterre le Middlesex, le Wessex. Chose inexpli…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-racine",
+      "kind": "personne",
+      "label": "Jean Racine, dramaturge (1639-1699)",
+      "href": "https://fr.wikipedia.org/wiki/Jean_Racine",
+      "wikidata": "Q742",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Racine",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 14,
+                "raw_line": 31,
+                "text_excerpt": "…d'eux. « Prospérez, cher espoir d'une nation sainte », dit-il en se rappelant des vers de Racine, cités dans un tout autre sens. « Plaît-il ? » demanda le valet de pied, peu au courant des classiques. M. de Charlus ne lui répondit pas, car il met…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-martin-charcot",
+      "kind": "personne",
+      "label": "Jean-Martin Charcot, neurologue (1825-1893)",
+      "href": "https://fr.wikipedia.org/wiki/Jean-Martin_Charcot",
+      "wikidata": "Q20710",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Charcot",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…s. Qu'est-ce qu'il y a dans cette philosophie ? peu de chose en somme. Quand on pense que Charcot et d'autres ont fait des travaux mille fois plus remarquables et qui s'appuient, au moins, sur quelque chose, sur la suppression du réflexe pupillair…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 62,
+                "raw_line": 127,
+                "text_excerpt": "…prisant des « chansons de Mademoiselle Yvette Guilbert » et des « expériences de Monsieur Charcot ». M. de Chevrigny n'en usait pas ainsi, il disait Cornaglia et Dehelly, comme il eût dit Voltaire et Montesquieu. Car chez lui, à l'égard des acteur…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-sebastien-bach",
+      "kind": "personne",
+      "label": "Jean-Sébastien Bach, compositeur (1685-1750)",
+      "href": "https://fr.wikipedia.org/wiki/Jean-Sébastien_Bach",
+      "wikidata": "Q1339",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Bach",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 32,
+                "raw_line": 67,
+                "text_excerpt": "…vous me désolez. » Elle voulut abréger la promenade pour rentrer, Morel choisit un air de Bach avec des variations infinies pour la faire durer. Dès le retour elle alla à la remise, vit le brancard neuf et Howsler en sang. Elle allait lui dire,…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jules-verne",
+      "kind": "personne",
+      "label": "Jules Verne, écrivain français",
+      "href": "https://fr.wikipedia.org/wiki/Jules_Verne",
+      "wikidata": "Q33977",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Jules Verne",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 29,
+                "raw_line": 61,
+                "text_excerpt": "… ces courts instants, il avait l'air attentif et fiévreux d'un enfant qui lit un roman de Jules Verne, ou d'un dîneur assis non loin de vous, dans un restaurant, et qui, voyant qu'on vous découpe un faisan que lui-même ne peut pas ou ne veut pas s'off…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "comedie-humaine-balzac",
+      "kind": "livre",
+      "label": "La Comédie humaine — ensemble romanesque d’Honoré de Balzac",
+      "href": "https://fr.wikipedia.org/wiki/La_Com%C3%A9die_humaine",
+      "wikidata": "Q50188",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Comédie Humaine",
+          "paragraphs": [
+            "t4-p0382",
+            "t5-p0229"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…avoir regardé la belle reliure de son Balzac, je lui demandais ce qu'il préférait dans la Comédie Humaine, il me répondit, dirigeant sa pensée vers une idée fixe : « Tout l'un ou tout l'autre, les petites miniatures comme le Curé de Tours et la Femme aban…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0382",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Scènes de la vie de Province",
+          "paragraphs": [
+            "t4-p0401"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 2,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 129,
+                "text_excerpt": "…ine, avais-je dit à M. de Charlus, vous devez trouver que ces Cambremer sont échappés des Scènes de la vie de Province. » Mais M. de Charlus, absolument comme s'il avait été leur ami et si je l'eusse froissé par ma remarque, me coupa brusquement la parole : « Vous dit…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0401",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "fausse-maitresse-balzac",
+      "kind": "livre",
+      "label": "La Fausse Maîtresse — roman d’Honoré de Balzac (1841)",
+      "href": "https://fr.wikipedia.org/wiki/La_Fausse_Ma%C3%AEtresse",
+      "wikidata": "Q3104141",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Fausse Maîtresse",
+          "paragraphs": [
+            "t4-p0382"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…, Sarrazine, la Fille aux yeux d'or, Une passion dans le désert, même l'assez énigmatique Fausse Maîtresse, viennent à l'appui de mon dire. Quand je parlais de ce côté « hors de nature » de Balzac à Swann, il me disait : « Vous êtes du même avis que Taine.…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0382",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "femme-abandonnee-balzac",
+      "kind": "livre",
+      "label": "La Femme abandonnée — nouvelle d’Honoré de Balzac (1832)",
+      "href": "https://fr.wikipedia.org/wiki/La_Femme_abandonn%C3%A9e",
+      "wikidata": "Q3208668",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Femme abandonnée",
+          "paragraphs": [
+            "t4-p0382"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…e fixe : « Tout l'un ou tout l'autre, les petites miniatures comme le Curé de Tours et la Femme abandonnée, ou les grandes fresques comme la série des Illusions perdues. Comment ! vous ne connaissez pas les Illusions perdues ? C'est si beau, le moment où C…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0382",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "fille-aux-yeux-d-or-balzac",
+      "kind": "livre",
+      "label": "La Fille aux yeux d’or — roman d’Honoré de Balzac (1835)",
+      "href": "https://fr.wikipedia.org/wiki/La_Fille_aux_yeux_d%27or",
+      "wikidata": "Q2718047",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Fille aux yeux d’or",
+          "paragraphs": [
+            "t4-p0382"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…udie que pour les flétrir. Sans reparler des immortelles Illusions Perdues, Sarrazine, la Fille aux yeux d'or, Une passion dans le désert, même l'assez énigmatique Fausse Maîtresse, viennent à l'appui de mon dire. Quand je parlais de ce côté « hors de nature …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0382",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "muse-du-departement-balzac",
+      "kind": "livre",
+      "label": "La Muse du département — roman d’Honoré de Balzac (1843)",
+      "href": "https://fr.wikipedia.org/wiki/La_Muse_du_d%C3%A9partement",
+      "wikidata": "Q3210920",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Muse du département",
+          "paragraphs": [
+            "t4-p0401"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 129,
+                "text_excerpt": "…supérieure au mari, me dit-il d'un ton sec. -- Oh ! je ne voulais pas dire que c'était la Muse du département, ni Madame de Bargeton bien que\\... » M. de Charlus m'interrompit encore : « Dites plutôt M*me* de Mortsauf. » Le train s'arrêta et Brichot descendit…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0401",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cure-de-tours-balzac",
+      "kind": "livre",
+      "label": "Le Curé de Tours — roman d’Honoré de Balzac (1832)",
+      "href": "https://fr.wikipedia.org/wiki/Le_Cur%C3%A9_de_Tours",
+      "wikidata": "Q2718131",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Curé de Tours",
+          "paragraphs": [
+            "t4-p0382",
+            "t7-p0024"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "… pensée vers une idée fixe : « Tout l'un ou tout l'autre, les petites miniatures comme le Curé de Tours et la Femme abandonnée, ou les grandes fresques comme la série des Illusions perdues. Comment ! vous ne connaissez pas les Illusions perdues ? C'est …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0382",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "reve-detaille",
+      "kind": "oeuvre",
+      "label": "Le Rêve — Édouard Detaille, 1888 (musée d’Orsay)",
+      "href": "https://commons.wikimedia.org/wiki/File:Detaille_Le_Rêve.jpg",
+      "wikidata": null,
+      "wikipedia": "https://fr.wikipedia.org/wiki/Le_Rêve_(Detaille)",
+      "location": "Musée d’Orsay, Paris",
+      "image": {
+        "src": "/assets/proust/oeuvres/reve-detaille.jpg",
+        "width": 1600,
+        "height": 1197,
+        "credit": "Édouard Detaille — domaine public, via Wikimedia Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:Detaille_Le_Rêve.jpg"
+      },
+      "targets": [
+        {
+          "match": "Rêve",
+          "paragraphs": [
+            "t4-p0023"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 5,
+                "text_excerpt": "…n autre genre. Mais la position est superbe. S'il n'y avait pas les voyages, ce serait le rêve. Il n'y a que moi jusqu'ici qui suis resté sur le carreau. Mais on ne peut pas savoir. La chance est dans ma famille ; qui sait si je ne serai pas un…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0023",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 6,
+                "raw_line": 15,
+                "text_excerpt": "… On a eu du plaisir dans une autre vie qui n'est pas la nôtre. Souffrances et plaisirs du rêve (qui généralement s'évanouissent bien vite au réveil), si nous les faisons figurer dans un budget, ce n'est pas dans celui de la vie courante.",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0023",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 11,
+                "raw_line": 25,
+                "text_excerpt": "…avais sonné plusieurs fois, car je me rendais compte que je n'avais fait jusque-là que le rêve que je sonnais. J'étais effrayé pourtant de penser que ce rêve avait eu la netteté de la connaissance. La connaissance aurait-elle, réciproquement, l…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0023",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 13,
+                "raw_line": 29,
+                "text_excerpt": "…niblement sa fatigue, se dire : « Je me suis reposé » suffit à créer le repos. Or j'avais rêvé que M. de Charlus avait cent dix ans et venait de donner une paire de claques à sa propre mère ; de M*me* Verdurin, qu'elle avait acheté cinq milliar…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0023",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 23,
+                "raw_line": 49,
+                "text_excerpt": "…mettante pour lui-même (bien qu'elle fût en réalité plus immorale) les sens du baron, mon rêve, ce serait de trouver une jeune fille bien pure, de m'en faire aimer et de lui prendre sa virginité. » M. de Charlus ne put se retenir de pincer tend…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0023",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 67,
+                "raw_line": 137,
+                "text_excerpt": "…humidité du soir. Doncières ! Pour moi, même après l'avoir connu et m'être éveillé de mon rêve, combien il était resté longtemps, dans ce nom, des rues agréablement glaciales, des vitrines éclairées, des succulentes volailles ! Doncières ! Main…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0023",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "rayons-et-ombres-hugo",
+      "kind": "livre",
+      "label": "Les Rayons et les Ombres — recueil de Victor Hugo (1840), où figure Tristesse d’Olympio",
+      "href": "https://fr.wikipedia.org/wiki/Les_Rayons_et_les_Ombres",
+      "wikidata": "Q3235093",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Tristesse d’Olympio",
+          "paragraphs": [
+            "t4-p0382",
+            "t4-p0384"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…abbé alors de tomber dans une rêverie que Swann appelait, ce qui était bien spirituel, la Tristesse d'Olympio de la pédérastie. Et la mort de Lucien ! je ne me rappelle plus quel homme de goût avait eu cette réponse, à qui lui demandait quel événement l'avait…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0382",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  },
+                  {
+                    "source_paragraph": "t4-p0384",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 46,
+                "raw_line": 95,
+                "text_excerpt": "…mot tiré du grec dont M. de Charlus, parlant de Balzac, avait fait suivre l'allusion à la Tristesse d'Olympio dans Splendeurs et Misères, Ski, Brichot et Cottard s'étaient regardés avec un sourire peut-être moins ironique qu'empreint de la satisfaction qu'aur…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0384",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "secrets-princesse-cadignan-balzac",
+      "kind": "livre",
+      "label": "Les Secrets de la princesse de Cadignan — nouvelle d’Honoré de Balzac (1839)",
+      "href": "https://fr.wikipedia.org/wiki/Les_Secrets_de_la_princesse_de_Cadignan",
+      "wikidata": "Q3235378",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Les Secrets de la princesse de Cadignan",
+          "paragraphs": [
+            "t4-p0385"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 47,
+                "raw_line": 97,
+                "text_excerpt": "…sez indifférente. Il tomba dans une songerie profonde, et comme se parlant à soi-même : « Les Secrets de la princesse de Cadignan ! s'écria-t-il, quel chef-d'œuvre ! comme c'est profond, comme c'est douloureux, cette mauvaise réputation de Diane qui craint tant que l'homme qu'el…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0385",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-de-fontanes",
+      "kind": "personne",
+      "label": "Louis de Fontanes, écrivain et homme politique, correspondant de Chateaubriand",
+      "href": "https://fr.wikipedia.org/wiki/Louis_de_Fontanes",
+      "wikidata": "Q1296217",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Fontanes",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 33,
+                "raw_line": 69,
+                "text_excerpt": "… : « Travaillez, devenez illustre, me dit-il. -- De qui est cela ? lui demandai-je. -- De Fontanes à Chateaubriand. » Il connaissait aussi une correspondance amoureuse de Napoléon. Bien, pensai-je, il est lettré. Mais cette phrase, qu'il avait lue …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-de-rouvroy-duc-de-saint-simon",
+      "kind": "personne",
+      "label": "Louis de Rouvroy, duc de Saint-Simon, mémorialiste de la cour de Louis XIV (1675-1755)",
+      "href": "https://fr.wikipedia.org/wiki/Louis_de_Rouvroy_de_Saint-Simon",
+      "wikidata": "Q463728",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Saint-Simon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 30,
+                "raw_line": 63,
+                "text_excerpt": "…onne, avait de ces usurpations le même mécontentement qui éclate dans les « Mémoires » de Saint-Simon chaque fois qu'un seigneur qui n'y a pas droit saisit un prétexte de prendre la qualité d'« Altesse » dans un acte authentique, ou de ne pas rendre a…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-vi-de-france-dit-louis-le-gros",
+      "kind": "personne",
+      "label": "Louis VI de France, dit Louis le Gros, roi de France, 1081-1137",
+      "href": "https://fr.wikipedia.org/wiki/Louis_VI_le_Gros",
+      "wikidata": "Q165883",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Louis le Gros",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 129,
+                "text_excerpt": "…s surtout flatteur pour la Maison de France, car c'était à Aldonce de Guermantes et non à Louis le Gros, son frère consanguin mais puîné, qu'aurait dû revenir le trône de France. Sous Louis XIV, nous drapâmes à la mort de Monsieur, comme ayant la même g…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-xiii",
+      "kind": "personne",
+      "label": "Louis XIII, roi de France, 1601-1643",
+      "href": "https://fr.wikipedia.org/wiki/Louis_XIII",
+      "wikidata": "Q737533",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Louis XIII",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 67,
+                "raw_line": 137,
+                "text_excerpt": "…, par une réponse que lui adressait malgré lui son hérédité, un air de vieux mousquetaire Louis XIII à son visage redressé en arrière, je ne m'occupe de tout cela qu'au point de vue de l'art. La politique n'est pas de mon ressort et je ne peux pas co…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-xiv",
+      "kind": "personne",
+      "label": "Louis XIV, roi de France (1638-1715)",
+      "href": "https://fr.wikipedia.org/wiki/Louis_XIV",
+      "wikidata": "Q7742",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Louis XIV",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 129,
+                "text_excerpt": "…s le Gros, son frère consanguin mais puîné, qu'aurait dû revenir le trône de France. Sous Louis XIV, nous drapâmes à la mort de Monsieur, comme ayant la même grand'mère que le Roi ; fort au-dessous des Guermantes, on peut cependant citer les La Trém…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-xvi",
+      "kind": "personne",
+      "label": "Louis XVI, roi de France (1754-1793)",
+      "href": "https://fr.wikipedia.org/wiki/Louis_XVI",
+      "wikidata": "Q7732",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Louis XVI",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 67,
+                "raw_line": 137,
+                "text_excerpt": "…cousin le duc de Chartres, mais enfin c'est une race d'usurpateurs, qui a fait assassiner Louis XVI, dépouiller Charles X et Henri V. Ils ont, du reste, de qui tenir, ayant pour ancêtres Monsieur, qu'on appelait sans doute ainsi parce que c'était la…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "lucullus",
+      "kind": "personne",
+      "label": "Lucullus, général romain, célèbre pour ses festins",
+      "href": "https://fr.wikipedia.org/wiki/Lucullus",
+      "wikidata": "Q242819",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Lucullus",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 67,
+                "raw_line": 137,
+                "text_excerpt": "…ui me disait : « Hé bien ! vous ne me dites pas de jour pour notre prochaine réunion à la Lucullus ? Nous n'avons rien à nous dire ? permettez-moi de vous rappeler que nous avons laissé en train la question des deux familles de Montgommery. Il faut…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "aiglon-rostand",
+      "kind": "scene",
+      "label": "L’Aiglon — drame d’Edmond Rostand (1900), créé par Sarah Bernhardt",
+      "href": "https://fr.wikipedia.org/wiki/Edmond_Rostand",
+      "wikidata": "Q202749",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Aiglon",
+          "paragraphs": [
+            "t4-p0388"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 50,
+                "raw_line": 103,
+                "text_excerpt": "…n beau, nous dit-il sincèrement, en psalmodiant chaque terme. Voir Sarah Bernhardt dans l'Aiglon, qu'est-ce que c'est ? du caca. Mounet-Sully dans Oedipe ? caca. Tout au plus prend-il une certaine pâleur de transfiguration quand cela se passe dan…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0388",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "enfance-du-christ-berlioz",
+      "kind": "scene",
+      "label": "L’Enfance du Christ — trilogie sacrée d’Hector Berlioz (1854)",
+      "href": "https://fr.wikipedia.org/wiki/L%27Enfance_du_Christ",
+      "wikidata": "Q1516577",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Enfance du Christ",
+          "paragraphs": [
+            "t4-p0406"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 67,
+                "raw_line": 137,
+                "text_excerpt": "…ie. Au concert Lamoureux, j'avais pour voisin, un jour, un riche banquier juif. On joua l'Enfance du Christ, de Berlioz, il était consterné. Mais il retrouva bientôt l'expression de béatitude qui lui est habituelle en entendant l'Enchantement du Vendredi-Sa…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0406",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "madame-de-sevigne",
+      "kind": "personne",
+      "label": "Madame de Sévigné, épistolière (1626-1696)",
+      "href": "https://fr.wikipedia.org/wiki/Madame_de_Sévigné",
+      "wikidata": "Q237103",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Sévigné",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 27,
+                "raw_line": 57,
+                "text_excerpt": "… de force : « L'argent file. ») Tâche, continua maman, de ne pas devenir comme Charles de Sévigné, dont sa mère disait : « Sa main est un creuset où l'argent se fond. » Et puis je crois que tu es vraiment assez sorti avec Albertine. Je t'assure qu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "marie-magnier",
+      "kind": "personne",
+      "label": "Marie Magnier, actrice française, 1848-1913",
+      "href": "https://fr.wikipedia.org/wiki/Marie_Magnier",
+      "wikidata": "Q3292671",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Marie Magnier",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 62,
+                "raw_line": 127,
+                "text_excerpt": "… pas d'y aller, cela mérite d'être vu ; et puis c'est joué à ravir ; vous avez Frévalles, Marie Magnier, Baron fils » ; il me citait même des noms d'acteurs que je n'avais jamais entendu prononcer, et sans les faire précéder de Monsieur, Madame ou Madem…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "mgr-de-cabrieres",
+      "kind": "personne",
+      "label": "Mgr de Cabrières, évêque puis cardinal de Montpellier",
+      "href": "https://fr.wikipedia.org/wiki/Anatole_de_Cabrières",
+      "wikidata": "Q1450838",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mgr de Cabrières",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 62,
+                "raw_line": 127,
+                "text_excerpt": "…it quelquefois M. de Chevrigny, dont le nom, nous dit Brichot, signifiait, comme celui de Mgr de Cabrières, « lieu où s'assemblent les chèvres ». Il était parent des Cambremer et, à cause de cela et par une fausse appréciation de l'élégance, ceux-ci l'invi…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "moliere",
+      "kind": "personne",
+      "label": "Molière, dramaturge (1622-1673)",
+      "href": "https://fr.wikipedia.org/wiki/Molière",
+      "wikidata": "Q687",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Molière",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 25,
+                "raw_line": 53,
+                "text_excerpt": "…e ne savais pas. -- Je vois, du reste, que vous ne savez rien. Si vous n'avez même pas lu Molière\\... Hé bien, puisque vous ne devez pas savoir commander, plus que le reste, demandez tout simplement une poire qu'on recueille justement près d'ici, …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 50,
+                "raw_line": 103,
+                "text_excerpt": "… de Charlus, ne se tenant pas de joie, se mit à faire des contre-de-quarte qui, rappelant Molière, nous firent rapprocher prudemment de nous nos bocks, et craindre que les premiers croisements de fer blessassent les adversaires, le médecin et les …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "mounet-sully",
+      "kind": "personne",
+      "label": "Mounet-Sully, acteur de la Comédie-Française",
+      "href": "https://fr.wikipedia.org/wiki/Mounet-Sully",
+      "wikidata": "Q2657745",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mounet-Sully",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 50,
+                "raw_line": 103,
+                "text_excerpt": "…lmodiant chaque terme. Voir Sarah Bernhardt dans l'Aiglon, qu'est-ce que c'est ? du caca. Mounet-Sully dans Oedipe ? caca. Tout au plus prend-il une certaine pâleur de transfiguration quand cela se passe dans les Arènes de Nîmes. Mais qu'est-ce que c'e…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "memoires-saint-simon",
+      "kind": "livre",
+      "label": "Mémoires du duc de Saint-Simon (1739-1749, publiés au XIXe siècle)",
+      "href": "https://fr.wikipedia.org/wiki/Louis_de_Rouvroy_de_Saint-Simon",
+      "wikidata": "Q463728",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mémoires de Saint-Simon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 30,
+                "raw_line": 63,
+                "text_excerpt": "…troisième personne, avait de ces usurpations le même mécontentement qui éclate dans les « Mémoires » de Saint-Simon chaque fois qu'un seigneur qui n'y a pas droit saisit un prétexte de prendre la qualité d'« Altesse » dans un acte authentique, ou de ne pas rendre a…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "napoleon-ier",
+      "kind": "personne",
+      "label": "Napoléon Ier, empereur des Français (1769-1821)",
+      "href": "https://fr.wikipedia.org/wiki/Napoléon_Ier",
+      "wikidata": "Q517",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Napoléon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 33,
+                "raw_line": 69,
+                "text_excerpt": "…e. -- De Fontanes à Chateaubriand. » Il connaissait aussi une correspondance amoureuse de Napoléon. Bien, pensai-je, il est lettré. Mais cette phrase, qu'il avait lue je ne sais pas où, était sans doute la seule qu'il connût de toute la littérature…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "ovide",
+      "kind": "personne",
+      "label": "Ovide, poète latin antique",
+      "href": "https://fr.wikipedia.org/wiki/Ovide",
+      "wikidata": "Q7198",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Ovide",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…ar trop le contraire de ces œuvres où l'art excède le fond, comme dit cette bonne rosse d'Ovide. Et il est permis de préférer un sentier à mi-côte, qui mène à la cure de Meudon ou à l'Ermitage de Ferney, à égale distance de la Vallée-aux-Loups o…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "paul-thureau-dangin",
+      "kind": "personne",
+      "label": "Paul Thureau-Dangin, historien, académicien",
+      "href": "https://fr.wikipedia.org/wiki/Paul_Thureau-Dangin",
+      "wikidata": "Q736699",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Thureau-Dangin",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 46,
+                "raw_line": 95,
+                "text_excerpt": "…itut, n'a présenté aucun de nous à la marquise. Je ne sais de reçu par elle que notre ami Thureau-Dangin, qui avait avec elle d'anciennes relations de famille, et aussi Gaston Boissier, qu'elle a désiré connaître à la suite d'une étude qui l'intéressait …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "pelleas-debussy",
+      "kind": "scene",
+      "label": "Pelléas et Mélisande — drame lyrique de Claude Debussy (1902), d’après Maeterlinck",
+      "href": "https://fr.wikipedia.org/wiki/Pell%C3%A9as_et_M%C3%A9lisande_(op%C3%A9ra)",
+      "wikidata": "Q368019",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Pelléas et Mélisande",
+          "paragraphs": [
+            "t4-p0237",
+            "t4-p0400"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 62,
+                "raw_line": 127,
+                "text_excerpt": "…mmes allés une fois à l'Opéra-Comique, mais le spectacle n'est pas fameux. Cela s'appelle Pelléas et Mélisande. C'est insignifiant. Périer joue toujours bien, mais il vaut mieux le voir dans autre chose. En revanche, au Gymnase on donne La Châtelaine. Nous y s…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0400",
+                    "status": "located_by_text",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "phedre-racine",
+      "kind": "scene",
+      "label": "Phèdre — tragédie de Jean Racine (1677)",
+      "href": "https://fr.wikipedia.org/wiki/Ph%C3%A8dre_(Racine)",
+      "wikidata": "Q969098",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Phèdre",
+          "paragraphs": [
+            "t1-p0185",
+            "t1-p0195",
+            "t2-p0006",
+            "t2-p0011",
+            "t2-p0012",
+            "t2-p0013",
+            "t2-p0014",
+            "t2-p0015",
+            "t2-p0024",
+            "t2-p0030",
+            "t2-p0088",
+            "t2-p0212",
+            "t2-p0215",
+            "t2-p0546",
+            "t2-p0547",
+            "t3-p0051",
+            "t3-p0055",
+            "t3-p0065",
+            "t3-p0066",
+            "t3-p0070",
+            "t3-p0074",
+            "t3-p0079",
+            "t3-p0082",
+            "t3-p0490",
+            "t3-p1207",
+            "t4-p0040",
+            "t4-p0163",
+            "t4-p0173",
+            "t4-p0328",
+            "t4-p0398",
+            "t6-p0031",
+            "t7-p0079",
+            "t7-p0092",
+            "t7-p0198"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 60,
+                "raw_line": 123,
+                "text_excerpt": "… voir jusqu'ici Rome, Venise, Sienne, le Prado, le musée de Dresde, les Indes, Sarah dans Phèdre, je connaissais la résignation et que j'ajouterais son découpage des dindonneaux à ma liste. La comparaison avec l'art dramatique (Sarah dans Phèdre)…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0398",
+                    "status": "located_by_text",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "plotin",
+      "kind": "personne",
+      "label": "Plotin, philosophe néoplatonicien de l'Antiquité",
+      "href": "https://fr.wikipedia.org/wiki/Plotin",
+      "wikidata": "Q134189",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Plotin",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 10,
+                "raw_line": 23,
+                "text_excerpt": "… éveillé et sors à la suite d'un sommeil artificiel, non pas le système de Porphyre ou de Plotin, dont je puis discuter aussi bien qu'un autre jour, mais la réponse que j'ai promis de donner à une invitation, au souvenir de laquelle s'est substit…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "rembrandt",
+      "kind": "artiste",
+      "label": "Rembrandt (1606-1669), peintre et graveur néerlandais",
+      "href": "https://fr.wikipedia.org/wiki/Rembrandt",
+      "wikidata": "Q5598",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Rembrandt",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 67,
+                "raw_line": 137,
+                "text_excerpt": "…Bloch il y a, une nation qui compte Spinoza parmi ses enfants illustres. Et j'admire trop Rembrandt pour ne pas savoir la beauté qu'on peut tirer de la fréquentation de la synagogue. Mais enfin un ghetto est d'autant plus beau qu'il est plus homogèn…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "revue-des-deux-mondes",
+      "kind": "presse",
+      "label": "Revue des Deux Mondes — revue fondée en 1829",
+      "href": "https://fr.wikipedia.org/wiki/Revue_des_Deux_Mondes",
+      "wikidata": "Q1569226",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Revue des Deux-Mondes",
+          "paragraphs": [
+            "t2-p0010",
+            "t3-p1323",
+            "t4-p0190",
+            "t4-p0292",
+            "t4-p0312",
+            "t4-p0379"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 41,
+                "raw_line": 85,
+                "text_excerpt": "…'elles en mal, qu'on les méprise -- qu'un changement à vue s'était opéré. Plongée dans sa Revue des Deux-Mondes, M*me* Sherbatoff répondit à peine du bout des lèvres à mes questions et finit par me dire que je lui donnais la migraine. Je ne comprenais rien à mo…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0379",
+                    "status": "located_by_text",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "robert-ier-de-normandie",
+      "kind": "personne",
+      "label": "Robert Ier de Normandie, duc de Normandie, père de Guillaume le Conquérant",
+      "href": "https://fr.wikipedia.org/wiki/Robert_Ier_de_Normandie",
+      "wikidata": "Q41380",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Robert Ier",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 64,
+                "raw_line": 131,
+                "text_excerpt": "…me que je vous avais ôté dans Thorpehomme, baron. Soit dit sans pédantisme, une charte de Robert I*er* nous donne pour Orgeville Otgervilla, le domaine d'Otger. Tous ces noms sont ceux d'anciens seigneurs. Octeville la Venelle est pour l'Avenel. Les A…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "sarah-bernhardt",
+      "kind": "personne",
+      "label": "Sarah Bernhardt, actrice (1844-1923)",
+      "href": "https://fr.wikipedia.org/wiki/Sarah_Bernhardt",
+      "wikidata": "Q4605",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Sarah Bernhardt",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 50,
+                "raw_line": 103,
+                "text_excerpt": "…e crois que ce sera bien beau, nous dit-il sincèrement, en psalmodiant chaque terme. Voir Sarah Bernhardt dans l'Aiglon, qu'est-ce que c'est ? du caca. Mounet-Sully dans Oedipe ? caca. Tout au plus prend-il une certaine pâleur de transfiguration quand cel…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "sarrasine-balzac",
+      "kind": "livre",
+      "label": "Sarrasine — nouvelle d’Honoré de Balzac (1830)",
+      "href": "https://fr.wikipedia.org/wiki/Sarrasine",
+      "wikidata": "Q2704213",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Sarrazine",
+          "paragraphs": [
+            "t4-p0382"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…gnore, ou n'étudie que pour les flétrir. Sans reparler des immortelles Illusions Perdues, Sarrazine, la Fille aux yeux d'or, Une passion dans le désert, même l'assez énigmatique Fausse Maîtresse, viennent à l'appui de mon dire. Quand je parlais de c…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0382",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "socrate",
+      "kind": "personne",
+      "label": "Socrate, philosophe grec antique",
+      "href": "https://fr.wikipedia.org/wiki/Socrate",
+      "wikidata": "Q913",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Socrate",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…Le sage est forcément sceptique, répondit le docteur. Que sais-je ? γυωθι σεαυτου, disait Socrate. C'est très juste, l'excès en tout est un défaut. Mais je reste bleu quand je pense que cela a suffi à faire durer le nom de Socrate jusqu'à nos jour…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "splendeurs-et-miseres-balzac",
+      "kind": "livre",
+      "label": "Splendeurs et misères des courtisanes — roman d’Honoré de Balzac (1838-1847)",
+      "href": "https://fr.wikipedia.org/wiki/Splendeurs_et_mis%C3%A8res_des_courtisanes",
+      "wikidata": "Q1529231",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Splendeurs et Misères",
+          "paragraphs": [
+            "t4-p0382",
+            "t4-p0384"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…quel événement l'avait le plus affligé dans sa vie : « La mort de Lucien de Rubempré dans Splendeurs et Misères. » -- Je sais que Balzac se porte beaucoup cette année, comme l'an passé le pessimisme, interrompit Brichot. Mais, au risque de contrister les âmes e…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0382",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  },
+                  {
+                    "source_paragraph": "t4-p0384",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 46,
+                "raw_line": 95,
+                "text_excerpt": "…de Charlus, parlant de Balzac, avait fait suivre l'allusion à la Tristesse d'Olympio dans Splendeurs et Misères, Ski, Brichot et Cottard s'étaient regardés avec un sourire peut-être moins ironique qu'empreint de la satisfaction qu'auraient des dîneurs qui réuss…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0384",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "passion-dans-le-desert-balzac",
+      "kind": "livre",
+      "label": "Une passion dans le désert — nouvelle d’Honoré de Balzac (1830)",
+      "href": "https://fr.wikipedia.org/wiki/Une_passion_dans_le_d%C3%A9sert",
+      "wikidata": "Q3549692",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Une passion dans le désert",
+          "paragraphs": [
+            "t4-p0382"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 91,
+                "text_excerpt": "…trir. Sans reparler des immortelles Illusions Perdues, Sarrazine, la Fille aux yeux d'or, Une passion dans le désert, même l'assez énigmatique Fausse Maîtresse, viennent à l'appui de mon dire. Quand je parlais de ce côté « hors de nature » de Balzac à Swann, il me d…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0382",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "voltaire",
+      "kind": "personne",
+      "label": "Voltaire, écrivain et philosophe, 1694-1778",
+      "href": "https://fr.wikipedia.org/wiki/Voltaire",
+      "wikidata": "Q9068",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Voltaire",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 62,
+                "raw_line": 127,
+                "text_excerpt": "…». M. de Chevrigny n'en usait pas ainsi, il disait Cornaglia et Dehelly, comme il eût dit Voltaire et Montesquieu. Car chez lui, à l'égard des acteurs comme de tout ce qui était parisien, le désir de se montrer dédaigneux qu'avait l'aristocrate éta…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "yvette-guilbert",
+      "kind": "personne",
+      "label": "Yvette Guilbert, chanteuse de cabaret française",
+      "href": "https://fr.wikipedia.org/wiki/Yvette_Guilbert",
+      "wikidata": "Q239838",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Yvette Guilbert",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 62,
+                "raw_line": 127,
+                "text_excerpt": "…tes, lequel parlait du même ton cérémonieusement méprisant des « chansons de Mademoiselle Yvette Guilbert » et des « expériences de Monsieur Charcot ». M. de Chevrigny n'en usait pas ainsi, il disait Cornaglia et Dehelly, comme il eût dit Voltaire et Mont…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "manet",
+      "kind": "artiste",
+      "label": "Édouard Manet (1832-1883), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/%C3%89douard_Manet",
+      "wikidata": "Q40599",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Manet",
+          "paragraphs": [],
+          "exclude": [
+            "t4-p0387"
+          ],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 49,
+                "raw_line": 101,
+                "text_excerpt": "…rées et donnant rendez-vous au ciel à celui qui n'avait pas voulu de lui sur la terre : « Manet ultima cœlo », et, trouvant trop verte la grappe qu'il ne pouvait atteindre, feignant de n'avoir pas recherché ce qu'il n'avait pas obtenu, M. de Cha…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": [
+              "t4-p0387"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "elisabeth-de-clermont-tonnerre",
+      "kind": "personne",
+      "label": "Élisabeth de Clermont-Tonnerre, écrivaine française, née de Clermont-Tonnerre, 1875-1954",
+      "href": "https://fr.wikipedia.org/wiki/Élisabeth_de_Clermont-Tonnerre",
+      "wikidata": "Q3587932",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Clermont-Tonnerre",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 25,
+                "raw_line": 53,
+                "text_excerpt": "…e, vous devriez lire la page ravissante qu'a écrite sur cette poire la duchesse Émilie de Clermont-Tonnerre. -- Non, Monsieur, je n'en ai pas. -- Avez-vous du Triomphe de Jodoigne ? -- Non, Monsieur. -- De la Virginie-Dallet ? de la Passe-Colmar ? Non ? eh …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "emile-dehelly",
+      "kind": "personne",
+      "label": "Émile Dehelly, acteur de la Comédie-Française, 1871-1969",
+      "href": "https://fr.wikipedia.org/wiki/Émile_Dehelly",
+      "wikidata": "Q3588448",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dehelly",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 62,
+                "raw_line": 127,
+                "text_excerpt": "…ences de Monsieur Charcot ». M. de Chevrigny n'en usait pas ainsi, il disait Cornaglia et Dehelly, comme il eût dit Voltaire et Montesquieu. Car chez lui, à l'égard des acteurs comme de tout ce qui était parisien, le désir de se montrer dédaigneux…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "emilienne-d-alencon",
+      "kind": "personne",
+      "label": "Émilienne d'Alençon, danseuse et courtisane de la Belle Époque",
+      "href": "https://fr.wikipedia.org/wiki/Émilienne_d'Alençon",
+      "wikidata": "Q286884",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Émilienne d’Alençon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 61,
+                "raw_line": 125,
+                "text_excerpt": "…e de Crécy ; mais, bien que le duc d'Alençon n'eût pu se froisser qu'on parlât avec lui d'Émilienne d'Alençon, je ne me sentis pas assez lié avec M. de Crécy pour conduire avec lui la plaisanterie jusque-là. « Il est d'une très grande famille, me dit un jour …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 85
+}

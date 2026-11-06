@@ -1,0 +1,484 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol7-2",
+  "book": 3,
+  "raw_file": "raw-md/vol7/chapters/002.md",
+  "translation_file": "polish/dev/chapters/polished-vol7-2.md",
+  "annotations": [
+    {
+      "id": "durer",
+      "kind": "artiste",
+      "label": "Albrecht Dürer (1471-1528), peintre et graveur allemand",
+      "href": "https://fr.wikipedia.org/wiki/Albrecht_D%C3%BCrer",
+      "wikidata": "Q5580",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dürer",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 89,
+                "raw_line": 181,
+                "text_excerpt": "…l me semblait qu'on n'aurait pas dit cela pour une mourante ; que, si ce bon effet devait durer, c'est qu'on pouvait quelque chose sur sa vie. Le sifflement de l'oxygène cessa pendant quelques instants. Mais la plainte heureuse de la respiration…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "alphonse-de-lamartine",
+      "kind": "personne",
+      "label": "Alphonse de Lamartine, poète (1790-1869)",
+      "href": "https://fr.wikipedia.org/wiki/Alphonse_de_Lamartine",
+      "wikidata": "Q188697",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Lamartine",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 47,
+                "text_excerpt": "…sans dont il escomptait la stupéfaction, il entremêlait ses propres réflexions de vers de Lamartine, comme il eût dit : qui vivra verra, ou même : bonjour.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "andre-le-notre",
+      "kind": "artiste",
+      "label": "André Le Nôtre, architecte paysagiste",
+      "href": "https://fr.wikipedia.org/wiki/André_Le_Nôtre",
+      "wikidata": "Q273849",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Lenôtre",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 66,
+                "raw_line": 135,
+                "text_excerpt": "…uge d'instruction. D'ailleurs quel est l'ami, si cher soit-il, dans le passé, commun avec le nôtre, de qui il n'y ait pas de ces minutes dont nous ne trouvions plus commode de nous persuader qu'il a dû les oublier ?",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "watteau",
+      "kind": "artiste",
+      "label": "Antoine Watteau (1684-1721), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/Antoine_Watteau",
+      "wikidata": "Q183221",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Watteau",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 64,
+                "raw_line": 131,
+                "text_excerpt": "…n dit presque toujours : « la vieille duchesse de » ou tout au contraire, d'un air fin et Watteau, si elle est jeune, la « petite duchesse de »), préconisait presque mécaniquement, en clignant de l'œil, dans les cas graves « Dieulafoy, Dieulafoy »…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "renoir",
+      "kind": "artiste",
+      "label": "Auguste Renoir (1841-1919), peintre impressionniste français",
+      "href": "https://fr.wikipedia.org/wiki/Auguste_Renoir",
+      "wikidata": "Q39931",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Renoir",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 34,
+                "raw_line": 71,
+                "text_excerpt": "…quand c'était Fromentin qui les peignait et où on ne les reconnaissait plus quand c'était Renoir.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 73,
+                "text_excerpt": "Les gens de goût nous disent aujourd'hui que Renoir est un grand peintre du XVIII^e^ siècle. Mais en disant cela ils oublient le Temps et qu'il en a fallu beaucoup, même en plein XIX^e^, pour que Renoi…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "fromentin",
+      "kind": "artiste",
+      "label": "Eugène Fromentin (1820-1876), peintre et écrivain français",
+      "href": "https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Fromentin",
+      "wikidata": "Q353746",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Fromentin",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 34,
+                "raw_line": 71,
+                "text_excerpt": "…ut de l'insuffisance. Il y eut un temps où on reconnaissait bien les choses quand c'était Fromentin qui les peignait et où on ne les reconnaissait plus quand c'était Renoir.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "georges-dieulafoy",
+      "kind": "personne",
+      "label": "Georges Dieulafoy, médecin parisien célèbre de la Belle Époque (1839-1911)",
+      "href": "https://fr.wikipedia.org/wiki/Georges_Dieulafoy",
+      "wikidata": "Q138791",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dieulafoy",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 129,
+                "text_excerpt": "-- Avez-vous fait venir Dieulafoy ? Ah ! c'est une grave erreur. Et si vous me l'aviez demandé, il serait venu pour moi, il ne me refuse rien, bien qu'il ait refusé à la duchesse de C…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 64,
+                "raw_line": 131,
+                "text_excerpt": "…reste ne m'étonnait pas. Je savais que, chez les Guermantes, on citait toujours le nom de Dieulafoy (avec un peu plus de respect seulement) comme celui d'un « fournisseur » sans rival. Et la vieille duchesse de Mortemart, née Guermantes (il est impo…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 80,
+                "raw_line": 163,
+                "text_excerpt": "…ère se précipita, je crus qu'il y avait du mieux ou du pire. C'était seulement le docteur Dieulafoy qui venait d'arriver. Mon père alla le recevoir dans le salon voisin, comme l'acteur qui doit venir jouer. On l'avait fait demander non pour soigner,…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "homere",
+      "kind": "personne",
+      "label": "Homère, poète grec antique",
+      "href": "https://fr.wikipedia.org/wiki/Homère",
+      "wikidata": "Q6691",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Homère",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 75,
+                "text_excerpt": "…istinction que nous faisons toujours entre l'art, qui n'est pas plus avancé qu'au temps d'Homère, et la science aux progrès continus. Peut-être l'art ressemblait-il au contraire en cela à la science ; chaque nouvel écrivain original me semblait e…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "ludwig-van-beethoven",
+      "kind": "personne",
+      "label": "Ludwig van Beethoven, compositeur (1770-1827)",
+      "href": "https://fr.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "wikidata": "Q255",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Beethoven",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 83,
+                "raw_line": 169,
+                "text_excerpt": "-- Oui, Beethoven, on m'a dit ; c'est à encadrer, cela ne m'étonne pas.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "madame-de-sevigne",
+      "kind": "personne",
+      "label": "Madame de Sévigné, épistolière (1626-1696)",
+      "href": "https://fr.wikipedia.org/wiki/Madame_de_Sévigné",
+      "wikidata": "Q237103",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Sévigné",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 40,
+                "raw_line": 83,
+                "text_excerpt": "…adie de ma grand'mère, et maman elle-même, émue, reprenait tristement un mot de sa mère : Sévigné n'aurait pas mieux dit.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "moliere",
+      "kind": "personne",
+      "label": "Molière, dramaturge (1622-1673)",
+      "href": "https://fr.wikipedia.org/wiki/Molière",
+      "wikidata": "Q687",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Molière",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 5,
+                "text_excerpt": "…e encore. J'étais déjà seul. Et même ces allusions qu'elle avait faites aux Guermantes, à Molière, à nos conversations sur le petit noyau, prenaient un air sans appui, sans cause, fantastique, parce qu'elles sortaient du néant de ce même être qui,…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 80,
+                "raw_line": 163,
+                "text_excerpt": "…lle il tiendrait l'emploi, et quand la servante disait : M. Dieulafoy, on se croyait chez Molière. À la dignité de l'attitude concourait sans se laisser voir la souplesse d'une taille charmante. Un visage en soi-même trop beau était amorti par la …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "nicolas-ii-empereur-de-russie",
+      "kind": "personne",
+      "label": "Nicolas II, empereur de Russie, tsar de Russie",
+      "href": "https://fr.wikipedia.org/wiki/Nicolas_II",
+      "wikidata": "Q40787",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Nicolas II",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 41,
+                "raw_line": 85,
+                "text_excerpt": "…usses » « puisqu'on est alliancé », disait-elle. Elle ne trouvait pas cela délicat envers Nicolas II qui avait toujours eu « de si bonnes paroles pour nous » ; c'était un effet du même code qui l'eût empêchée de refuser à Jupien un petit verre, dont …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 12
+}

@@ -1,0 +1,1620 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol1-1",
+  "book": 1,
+  "raw_file": "raw-md/vol1/chapters/001.md",
+  "translation_file": "polish/dev/chapters/polished-vol1-1.md",
+  "annotations": [
+    {
+      "id": "abraham-et-agar-gozzoli",
+      "kind": "oeuvre",
+      "label": "Abraham et Agar — Benozzo Gozzoli, fresques du Camposanto de Pise (1468-1484), gravure de Carlo Lasinio",
+      "href": "https://commons.wikimedia.org/wiki/File:Conte_Carlo_Lasinio_-_Departure_of_Hagar_from_Abraham,_G2164.jpg",
+      "wikidata": null,
+      "wikipedia": null,
+      "location": "Camposanto, Pise",
+      "image": {
+        "src": "/assets/proust/oeuvres/abraham-et-agar-gozzoli.jpg",
+        "width": 1024,
+        "height": 690,
+        "credit": "Carlo Lasinio — domaine public, via Wikimedia Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:Conte_Carlo_Lasinio_-_Departure_of_Hagar_from_Abraham,_G2164.jpg"
+      },
+      "targets": [
+        {
+          "match": "gravure d’après Benozzo Gozzoli",
+          "paragraphs": [
+            "t1-p0035"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 34,
+                "raw_line": 71,
+                "text_excerpt": "…uait autour de sa tête depuis qu'il avait des névralgies, avec le geste d'Abraham dans la gravure d'après Benozzo Gozzoli que m'avait donnée M. Swann, disant à Sarah qu'elle a à se départir du côté d'Isaac. Il y a bien des années de cela. La muraille de l'escalier où je …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0035",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "durer",
+      "kind": "artiste",
+      "label": "Albrecht Dürer (1471-1528), peintre et graveur allemand",
+      "href": "https://fr.wikipedia.org/wiki/Albrecht_D%C3%BCrer",
+      "wikidata": "Q5580",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dürer",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 34,
+                "raw_line": 71,
+                "text_excerpt": "…us depuis longtemps. En moi aussi bien des choses ont été détruites que je croyais devoir durer toujours, et de nouvelles se sont édifiées donnant naissance à des peines et à des joies nouvelles que je n'aurais pu prévoir alors, de même que les …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "alfred-de-musset",
+      "kind": "personne",
+      "label": "Alfred de Musset, écrivain (1810-1857)",
+      "href": "https://fr.wikipedia.org/wiki/Alfred_de_Musset",
+      "wikidata": "Q179680",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Musset",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 73,
+                "text_excerpt": "…s *Maîtres Sonneurs*. Ma grand'mère, ai-je su depuis, avait d'abord choisi les poésies de Musset, un volume de Rousseau et *Indiana* ; car si elle jugeait les lectures futiles aussi malsaines que les bonbons et les pâtisseries, elles ne pensait p…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "amalie-materna",
+      "kind": "personne",
+      "label": "Amalie Materna, cantatrice wagnérienne",
+      "href": "https://fr.wikipedia.org/wiki/Amalie_Materna",
+      "wikidata": "Q2840970",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mme Materna",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 27,
+                "raw_line": 57,
+                "text_excerpt": "… réussir à avoir ce monsieur à dîner, continua Flora ; quand on le met sur Maubant ou sur M^me^ Materna, il parle des heures sans s'arrêter. » -- « Ce doit être délicieux », soupira mon grand-père dans l'esprit de qui la nature avait malheureusement aus…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "gozzoli",
+      "kind": "artiste",
+      "label": "Benozzo Gozzoli (vers 1420-1497), peintre florentin",
+      "href": "https://fr.wikipedia.org/wiki/Benozzo_Gozzoli",
+      "wikidata": "Q248615",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Benozzo Gozzoli",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 34,
+                "raw_line": 71,
+                "text_excerpt": "…a tête depuis qu'il avait des névralgies, avec le geste d'Abraham dans la gravure d'après Benozzo Gozzoli que m'avait donnée M. Swann, disant à Sarah qu'elle a à se départir du côté d'Isaac. Il y a bien des années de cela. La muraille de l'escalier où je …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Gozzoli",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 34,
+                "raw_line": 71,
+                "text_excerpt": "…epuis qu'il avait des névralgies, avec le geste d'Abraham dans la gravure d'après Benozzo Gozzoli que m'avait donnée M. Swann, disant à Sarah qu'elle a à se départir du côté d'Isaac. Il y a bien des années de cela. La muraille de l'escalier où je …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "blaise-pascal",
+      "kind": "personne",
+      "label": "Blaise Pascal, philosophe et savant (1623-1662)",
+      "href": "https://fr.wikipedia.org/wiki/Blaise_Pascal",
+      "wikidata": "Q1290",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Pascal",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 27,
+                "raw_line": 57,
+                "text_excerpt": "…rait changer les choses et mettre dans le journal, moi je ne sais pas, les\\... Pensées de Pascal ! (il détacha ce mot d'un ton d'emphase ironique pour ne pas avoir l'air pédant). Et c'est dans le volume doré sur tranches que nous n'ouvrons qu'une…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "corot",
+      "kind": "artiste",
+      "label": "Camille Corot (1796-1875), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/Camille_Corot",
+      "wikidata": "Q148475",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Corot",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 26,
+                "raw_line": 55,
+                "text_excerpt": "… tenant un numéro du *Figaro* où à côté du nom d'un tableau qui était à une Exposition de Corot, il y avait ces mots : « de la collection de M. Charles Swann », nous dit : « Vous avez vu que Swann a « les honneurs » du *Figaro ?* » -- « Mais je …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 27,
+                "raw_line": 57,
+                "text_excerpt": "…gréable\\... », interrompit ma tante Flora, pour montrer qu'elle avait lu la phrase sur le Corot de Swann dans le *Figaro*. « Quand ils parlent de choses ou de gens qui nous intéressent ! » enchérit ma tante Céline. « Je ne dis pas non, répondit …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 75,
+                "text_excerpt": "…as représentés, et préférait me donner des photographies de la Cathédrale de Chartres par Corot, des Grandes Eaux de Saint-Cloud par Hubert Robert, du Vésuve par Turner, ce qui faisait un degré d'art de plus. Mais si le photographe avait été éca…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-quint",
+      "kind": "personne",
+      "label": "Charles Quint, empereur du Saint-Empire",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Quint",
+      "wikidata": "Q32500",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Charles-Quint",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 5,
+                "text_excerpt": "…e ce dont parlait l'ouvrage : une église, un quatuor, la rivalité de François I^er^ et de Charles-Quint. Cette croyance survivait pendant quelques secondes à mon réveil ; elle ne choquait pas ma raison, mais pesait comme des écailles sur mes yeux et les…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "boucher",
+      "kind": "artiste",
+      "label": "François Boucher (1703-1770), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Boucher",
+      "wikidata": "Q180932",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Boucher",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 28,
+                "raw_line": 59,
+                "text_excerpt": "… -- de l'odeur de vernis particulière à cet escalier. Une fois dans ma chambre, il fallut boucher toutes les issues, fermer les volets, creuser mon propre tombeau, en défaisant mes couvertures, revêtir le suaire de ma chemise de nuit. Mais avant d…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "francois-ier",
+      "kind": "personne",
+      "label": "François Ier, roi de France, 1494-1547",
+      "href": "https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)",
+      "wikidata": "Q129857",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "François Ier",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 5,
+                "text_excerpt": "…t que j'étais moi-même ce dont parlait l'ouvrage : une église, un quatuor, la rivalité de François I^er^ et de Charles-Quint. Cette croyance survivait pendant quelques secondes à mon réveil ; elle ne choquait pas ma raison, mais pesait comme des écaille…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "francois-le-champi-sand",
+      "kind": "livre",
+      "label": "François le Champi — roman de George Sand (1848)",
+      "href": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_le_Champi",
+      "wikidata": "Q3086357",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "François le Champi",
+          "paragraphs": [
+            "t1-p0036",
+            "t1-p0038",
+            "t7-p0106",
+            "t7-p0108",
+            "t7-p0245"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 73,
+                "text_excerpt": "… couleurs du Jour de l'An et les vers à soie de l'an dernier. C'était *la Mare au Diable, François le Champi,* la *Petite Fadette* et les *Maîtres Sonneurs*. Ma grand'mère, ai-je su depuis, avait d'abord choisi les poésies de Musset, un volume de Rousseau et…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0036",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 37,
+                "raw_line": 77,
+                "text_excerpt": "Maman s'assit à côté de mon lit ; elle avait pris *François le Champi* à qui sa couverture rougeâtre et son titre incompréhensible donnaient pour moi une personnalité distincte et un attrait mystérieux. Je n'avais jamai…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0038",
+                    "status": "located_by_text",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "george-sand",
+      "kind": "personne",
+      "label": "George Sand, romancière (1804-1876)",
+      "href": "https://fr.wikipedia.org/wiki/George_Sand",
+      "wikidata": "Q3816",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "George Sand",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 73,
+                "text_excerpt": "…a laisser se fatiguer ainsi) et elle s'était rabattue sur les quatre romans champêtres de George Sand. « Ma fille, disait-elle à maman, je ne pourrais me décider à donner à cet enfant quelque chose de mal écrit. »",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 75,
+                "text_excerpt": "…notre moderne langage, par l'usure de l'habitude. Or, justement, les romans champêtres de George Sand qu'elle me donnait pour ma fête, étaient pleins, ainsi qu'un mobilier ancien, d'expressions tombées en désuétude et redevenues imagées, comme on n'en…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 37,
+                "raw_line": 77,
+                "text_excerpt": "…attrait mystérieux. Je n'avais jamais lu encore de vrais romans. J'avais entendu dire que George Sand était le type du romancier. Cela me disposait déjà à imaginer dans *François le Champi* quelque chose d'indéfinissable et de délicieux. Les procédés …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "hubert-robert",
+      "kind": "artiste",
+      "label": "Hubert Robert (1733-1808), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/Hubert_Robert",
+      "wikidata": "Q548205",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Hubert Robert",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 75,
+                "text_excerpt": "…photographies de la Cathédrale de Chartres par Corot, des Grandes Eaux de Saint-Cloud par Hubert Robert, du Vésuve par Turner, ce qui faisait un degré d'art de plus. Mais si le photographe avait été écarté de la représentation du chef-d'œuvre ou de la n…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "indiana-sand",
+      "kind": "livre",
+      "label": "Indiana — roman de George Sand (1832)",
+      "href": "https://fr.wikipedia.org/wiki/Indiana_(roman)",
+      "wikidata": "Q2534897",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Indiana",
+          "paragraphs": [
+            "t1-p0036"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 73,
+                "text_excerpt": "…e, ai-je su depuis, avait d'abord choisi les poésies de Musset, un volume de Rousseau et *Indiana* ; car si elle jugeait les lectures futiles aussi malsaines que les bonbons et les pâtisseries, elles ne pensait pas que les grands souffles du génie…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0036",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-baptiste-prosper-bressant",
+      "kind": "personne",
+      "label": "Jean-Baptiste Prosper Bressant, acteur de la Comédie-Française, 1815-1886",
+      "href": "https://fr.wikipedia.org/wiki/Prosper_Bressant",
+      "wikidata": "Q3407771",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Bressant",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 16,
+                "raw_line": 35,
+                "text_excerpt": "…, aux yeux verts, sous un haut front entouré de cheveux blonds presque roux, coiffés à la Bressant, parce que nous gardions le moins de lumière possible au jardin pour ne pas attirer les moustiques et j'allais, sans en avoir l'air, dire qu'on appor…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-jacques-rousseau",
+      "kind": "personne",
+      "label": "Jean-Jacques Rousseau, écrivain et philosophe",
+      "href": "https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau",
+      "wikidata": "Q6527",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Rousseau",
+          "paragraphs": [
+            "t1-p0036"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 73,
+                "text_excerpt": "… Ma grand'mère, ai-je su depuis, avait d'abord choisi les poésies de Musset, un volume de Rousseau et *Indiana* ; car si elle jugeait les lectures futiles aussi malsaines que les bonbons et les pâtisseries, elles ne pensait pas que les grands souff…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0036",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "barbe-bleue-perrault",
+      "kind": "livre",
+      "label": "La Barbe bleue — conte de Charles Perrault (1697)",
+      "href": "https://fr.wikipedia.org/wiki/La_Barbe_bleue",
+      "wikidata": "Q161138",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Barbe-Bleue",
+          "paragraphs": [
+            "t1-p0013"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 12,
+                "raw_line": 27,
+                "text_excerpt": "… courir à la salle à manger, où la grosse lampe de la suspension, ignorante de Golo et de Barbe-Bleue, et qui connaissait mes parents et le bœuf à la casserole, donnait sa lumière de tous les soirs, et de tomber dans les bras de maman que les malheurs…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0013",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cathedrale-de-chartres-corot",
+      "kind": "oeuvre",
+      "label": "La Cathédrale de Chartres — Camille Corot, 1830 (musée du Louvre)",
+      "href": "https://commons.wikimedia.org/wiki/File:Corot_-_La_cathédrale_de_Chartres._RF_1614.jpg",
+      "wikidata": null,
+      "wikipedia": null,
+      "location": "Musée du Louvre, Paris",
+      "image": {
+        "src": "/assets/proust/oeuvres/cathedrale-de-chartres-corot.jpg",
+        "width": 1215,
+        "height": 1500,
+        "credit": "Jean-Baptiste Camille Corot — domaine public, via Wikimedia Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:Corot_-_La_cathédrale_de_Chartres._RF_1614.jpg"
+      },
+      "targets": [
+        {
+          "match": "Cathédrale de Chartres par Corot",
+          "paragraphs": [
+            "t1-p0037"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 75,
+                "text_excerpt": "…rand peintre ne les avait pas représentés, et préférait me donner des photographies de la Cathédrale de Chartres par Corot, des Grandes Eaux de Saint-Cloud par Hubert Robert, du Vésuve par Turner, ce qui faisait un degré d'art de plus. Mais si le photographe avait été éca…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0037",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cene-leonard",
+      "kind": "oeuvre",
+      "label": "La Cène — Léonard de Vinci, 1495-1498 (Santa Maria delle Grazie, Milan)",
+      "href": "https://cenacolovinciano.org/",
+      "wikidata": "Q128910",
+      "wikipedia": "https://fr.wikipedia.org/wiki/La_Cène_(Léonard_de_Vinci)",
+      "location": "Santa Maria delle Grazie, Milan",
+      "image": {
+        "src": "/assets/proust/oeuvres/cene-leonard.jpg",
+        "width": 1600,
+        "height": 833,
+        "credit": "Leonardo da Vinci — domaine public, via Wikimedia Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_(1452-1519)_-_The_Last_Supper_(1495-1498).jpg"
+      },
+      "targets": [
+        {
+          "match": "Cène",
+          "paragraphs": [
+            "t1-p0037",
+            "t1-p0336"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 75,
+                "text_excerpt": "…d'œuvre dans un état où nous ne pouvons plus le voir aujourd'hui (comme la gravure de la *Cène* de Léonard avant sa dégradation, par Morgan). Il faut dire que les résultats de cette manière de comprendre l'art de faire un cadeau ne furent pas t…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0037",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Cène de Léonard",
+          "paragraphs": [
+            "t1-p0037"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 75,
+                "text_excerpt": "…d'œuvre dans un état où nous ne pouvons plus le voir aujourd'hui (comme la gravure de la *Cène* de Léonard avant sa dégradation, par Morgan). Il faut dire que les résultats de cette manière de comprendre l'art de faire un cadeau ne furent pas toujours très…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0037",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "mare-au-diable-sand",
+      "kind": "livre",
+      "label": "La Mare au Diable — roman de George Sand (1846)",
+      "href": "https://fr.wikipedia.org/wiki/La_Mare_au_diable",
+      "wikidata": "Q3210542",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mare au Diable",
+          "paragraphs": [
+            "t1-p0036"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 73,
+                "text_excerpt": "… déjà la boîte à couleurs du Jour de l'An et les vers à soie de l'an dernier. C'était *la Mare au Diable, François le Champi,* la *Petite Fadette* et les *Maîtres Sonneurs*. Ma grand'mère, ai-je su depuis, avait d'abord choisi les poésies de Musset, un v…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0036",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "petite-fadette-sand",
+      "kind": "livre",
+      "label": "La Petite Fadette — roman de George Sand (1849)",
+      "href": "https://fr.wikipedia.org/wiki/La_Petite_Fadette",
+      "wikidata": "Q2735124",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Petite Fadette",
+          "paragraphs": [
+            "t1-p0036",
+            "t5-p0055"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 73,
+                "text_excerpt": "… et les vers à soie de l'an dernier. C'était *la Mare au Diable, François le Champi,* la *Petite Fadette* et les *Maîtres Sonneurs*. Ma grand'mère, ai-je su depuis, avait d'abord choisi les poésies de Musset, un volume de Rousseau et *Indiana* ; car si e…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0036",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "figaro",
+      "kind": "presse",
+      "label": "Le Figaro — quotidien fondé en 1826",
+      "href": "https://fr.wikipedia.org/wiki/Le_Figaro",
+      "wikidata": "Q216047",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Figaro",
+          "paragraphs": [
+            "t1-p0027",
+            "t1-p0028",
+            "t2-p0264",
+            "t3-p0995",
+            "t3-p1124",
+            "t4-p0045",
+            "t4-p0076",
+            "t5-p0011",
+            "t5-p0203",
+            "t5-p0221",
+            "t6-p0112",
+            "t6-p0113",
+            "t6-p0116",
+            "t6-p0117",
+            "t6-p0120",
+            "t6-p0132",
+            "t6-p0146",
+            "t7-p0009",
+            "t7-p0036",
+            "t7-p0061",
+            "t7-p0230"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 26,
+                "raw_line": 55,
+                "text_excerpt": "…eur avait personnellement envoyé une caisse de vin d'Asti, ma tante, tenant un numéro du *Figaro* où à côté du nom d'un tableau qui était à une Exposition de Corot, il y avait ces mots : « de la collection de M. Charles Swann », nous dit : « Vous…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0027",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 27,
+                "raw_line": 57,
+                "text_excerpt": "…it ma tante Flora, pour montrer qu'elle avait lu la phrase sur le Corot de Swann dans le *Figaro*. « Quand ils parlent de choses ou de gens qui nous intéressent ! » enchérit ma tante Céline. « Je ne dis pas non, répondit Swann étonné. Ce que je r…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0027",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t1-p0028",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "vesuve-turner",
+      "kind": "oeuvre",
+      "label": "Le Vésuve en éruption — William Turner, aquarelle, vers 1817-1820 (Yale Center for British Art)",
+      "href": "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_Vesuvius_in_Eruption_-_Google_Art_Project.jpg",
+      "wikidata": null,
+      "wikipedia": null,
+      "location": "Yale Center for British Art, New Haven",
+      "image": {
+        "src": "/assets/proust/oeuvres/vesuve-turner.jpg",
+        "width": 1600,
+        "height": 1153,
+        "credit": "J. M. W. Turner — domaine public, via Wikimedia Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_Vesuvius_in_Eruption_-_Google_Art_Project.jpg"
+      },
+      "targets": [
+        {
+          "match": "Vésuve par Turner",
+          "paragraphs": [
+            "t1-p0037"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 75,
+                "text_excerpt": "…a Cathédrale de Chartres par Corot, des Grandes Eaux de Saint-Cloud par Hubert Robert, du Vésuve par Turner, ce qui faisait un degré d'art de plus. Mais si le photographe avait été écarté de la représentation du chef-d'œuvre ou de la nature et remplacé par …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0037",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "maitres-sonneurs-sand",
+      "kind": "livre",
+      "label": "Les Maîtres sonneurs — roman de George Sand (1853)",
+      "href": "https://fr.wikipedia.org/wiki/Les_Ma%C3%AEtres_sonneurs",
+      "wikidata": "Q3233798",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Maîtres Sonneurs",
+          "paragraphs": [
+            "t1-p0036"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 73,
+                "text_excerpt": "…'an dernier. C'était *la Mare au Diable, François le Champi,* la *Petite Fadette* et les *Maîtres Sonneurs*. Ma grand'mère, ai-je su depuis, avait d'abord choisi les poésies de Musset, un volume de Rousseau et *Indiana* ; car si elle jugeait les lectures f…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0036",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-de-rouvroy-duc-de-saint-simon",
+      "kind": "personne",
+      "label": "Louis de Rouvroy, duc de Saint-Simon, mémorialiste de la cour de Louis XIV (1675-1755)",
+      "href": "https://fr.wikipedia.org/wiki/Louis_de_Rouvroy_de_Saint-Simon",
+      "wikidata": "Q463728",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Saint-Simon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 27,
+                "raw_line": 57,
+                "text_excerpt": "…car sur certains points les choses n'ont pas énormément changé. Je relisais ce matin dans Saint-Simon quelque chose qui vous aurait amusé. C'est dans le volume sur son ambassade d'Espagne ; ce n'est pas un des meilleurs, ce n'est guère qu'un journal m…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-xvi",
+      "kind": "personne",
+      "label": "Louis XVI, roi de France (1754-1793)",
+      "href": "https://fr.wikipedia.org/wiki/Louis_XVI",
+      "wikidata": "Q7732",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Louis XVI",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 8,
+                "raw_line": 19,
+                "text_excerpt": "…ir, comme la mésange balancée par la brise à la pointe d'un rayon -- ; parfois la chambre Louis XVI, si gaie que même le premier soir je n'y avais pas été trop malheureux, et où les colonnettes qui soutenaient légèrement le plafond s'écartaient avec…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-philippe-ier",
+      "kind": "personne",
+      "label": "Louis-Philippe Ier, roi des Français (1773-1850)",
+      "href": "https://fr.wikipedia.org/wiki/Louis-Philippe_Ier",
+      "wikidata": "Q7771",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Louis-Philippe",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 25,
+                "raw_line": 53,
+                "text_excerpt": "… X\\..., dont le père et l'oncle avaient été les hommes d'État les plus en vue du règne de Louis-Philippe. Or mon grand-père était curieux de tous les petits faits qui pouvaient l'aider à entrer par la pensée dans la vie privée d'hommes comme Molé, comme …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "leonard-de-vinci",
+      "kind": "artiste",
+      "label": "Léonard de Vinci (1452-1519), peintre, ingénieur et savant florentin",
+      "href": "https://fr.wikipedia.org/wiki/L%C3%A9onard_de_Vinci",
+      "wikidata": "Q762",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Léonard",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 75,
+                "text_excerpt": "…ans un état où nous ne pouvons plus le voir aujourd'hui (comme la gravure de la *Cène* de Léonard avant sa dégradation, par Morgan). Il faut dire que les résultats de cette manière de comprendre l'art de faire un cadeau ne furent pas toujours très…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "madame-de-sevigne",
+      "kind": "personne",
+      "label": "Madame de Sévigné, épistolière (1626-1696)",
+      "href": "https://fr.wikipedia.org/wiki/Madame_de_Sévigné",
+      "wikidata": "Q237103",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Sévigné",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 23,
+                "raw_line": 49,
+                "text_excerpt": "…ial. Elle s'extasiait sur une réponse que le giletier lui avait faite, disant à maman : « Sévigné n'aurait pas mieux dit ! » et, en revanche, d'un neveu de M^me^ de Villeparisis qu'elle avait rencontré chez elle : « Ah ! ma fille, comme il est com…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "maubant",
+      "kind": "personne",
+      "label": "Maubant, acteur de la Comédie-Française à l'époque de Proust",
+      "href": "https://fr.wikipedia.org/wiki/Maubant",
+      "wikidata": "Q3300073",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Maubant",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 27,
+                "raw_line": 57,
+                "text_excerpt": "… mon temps non plus. J'ai rencontré chez M. Vinteuil un vieux savant qui connaît beaucoup Maubant, et à qui Maubant a expliqué dans le plus grand détail comment il s'y prend pour composer un rôle. C'est tout ce qu'il y a de plus intéressant. C'est…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "moliere",
+      "kind": "personne",
+      "label": "Molière, dramaturge (1622-1673)",
+      "href": "https://fr.wikipedia.org/wiki/Molière",
+      "wikidata": "Q687",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Molière",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 28,
+                "raw_line": 59,
+                "text_excerpt": "…ue nous nous efforçons deux cents fois de suite de tirer de l'eau ou que comme un vers de Molière que nous nous répétons sans arrêter, c'est un grand soulagement de nous réveiller et que notre intelligence puisse débarrasser l'idée de rage de dent…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "patrice-de-mac-mahon",
+      "kind": "personne",
+      "label": "Patrice de Mac-Mahon, maréchal et président de la République, 1808-1893",
+      "href": "https://fr.wikipedia.org/wiki/Patrice_de_Mac_Mahon",
+      "wikidata": "Q158838",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mac-Mahon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 51,
+                "text_excerpt": "…Comment ! elle connaît Swann ? Pour une personne que tu prétendais parente du maréchal de Mac-Mahon ! » Cette opinion de mes parents sur les relations de Swann leur parut ensuite confirmée par son mariage avec une femme de la pire société, presque u…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Mac Mahon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 51,
+                "text_excerpt": "…Comment ! elle connaît Swann ? Pour une personne que tu prétendais parente du maréchal de Mac-Mahon ! » Cette opinion de mes parents sur les relations de Swann leur parut ensuite confirmée par son mariage avec une femme de la pire société, presque u…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "pensees-pascal",
+      "kind": "livre",
+      "label": "Pensées — Blaise Pascal (posthume, 1670)",
+      "href": "https://fr.wikipedia.org/wiki/Pens%C3%A9es_(Pascal)",
+      "wikidata": "Q17360856",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Pensées",
+          "paragraphs": [
+            "t6-p0092",
+            "t1-p0028"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 27,
+                "raw_line": 57,
+                "text_excerpt": "… que je dardais sur ma mère, ne se laissait pénétrer par aucune impression étrangère. Les pensées entraient bien en lui, mais à condition de laisser dehors tout élément de beauté ou simplement de drôlerie qui m'eût touché ou distrait. Comme un mal…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0028",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "raffaello-morghen",
+      "kind": "artiste",
+      "label": "Raffaello Morghen, graveur italien, gravure de la Cène, 1758-1833",
+      "href": "https://fr.wikipedia.org/wiki/Raffaello_Morghen",
+      "wikidata": "Q2275991",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Morgan",
+          "paragraphs": [
+            "t1-p0037"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 75,
+                "text_excerpt": "…s le voir aujourd'hui (comme la gravure de la *Cène* de Léonard avant sa dégradation, par Morgan). Il faut dire que les résultats de cette manière de comprendre l'art de faire un cadeau ne furent pas toujours très brillants. L'idée que je pris de…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0037",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "titien",
+      "kind": "artiste",
+      "label": "Titien (vers 1488-1576), peintre vénitien",
+      "href": "https://fr.wikipedia.org/wiki/Titien",
+      "wikidata": "Q47551",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Titien",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 75,
+                "text_excerpt": "… ne furent pas toujours très brillants. L'idée que je pris de Venise d'après un dessin du Titien qui est censé avoir pour fond la lagune, était certainement beaucoup moins exacte que celle que m'eussent donnée de simples photographies. On ne pouv…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "virgile",
+      "kind": "personne",
+      "label": "Virgile, poète latin antique",
+      "href": "https://fr.wikipedia.org/wiki/Virgile",
+      "wikidata": "Q1398",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Virgile",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 19,
+                "raw_line": 41,
+                "text_excerpt": "…nger au sein des royaumes de Thétis, dans un empire soustrait aux yeux des mortels, et où Virgile nous le montre reçu à bras ouverts ; ou, pour s'en tenir à une image qui avait plus de chance de lui venir à l'esprit, car elle l'avait vue peinte su…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "turner",
+      "kind": "artiste",
+      "label": "William Turner (1775-1851), peintre britannique",
+      "href": "https://fr.wikipedia.org/wiki/William_Turner",
+      "wikidata": "Q159758",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Turner",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 75,
+                "text_excerpt": "…e de Chartres par Corot, des Grandes Eaux de Saint-Cloud par Hubert Robert, du Vésuve par Turner, ce qui faisait un degré d'art de plus. Mais si le photographe avait été écarté de la représentation du chef-d'œuvre ou de la nature et remplacé par …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "edouard-vii",
+      "kind": "personne",
+      "label": "Édouard VII, roi du Royaume-Uni",
+      "href": "https://fr.wikipedia.org/wiki/Édouard_VII",
+      "wikidata": "Q20875",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "prince de Galles",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 3,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 37,
+                "text_excerpt": "…d -- un des membres les plus élégants du Jockey-Club, ami préféré du comte de Paris et du prince de Galles, un des hommes les plus choyés de la haute société du faubourg Saint-Germain.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "etienne-denis-pasquier",
+      "kind": "personne",
+      "label": "Étienne-Denis Pasquier, chancelier de France, 1767-1862",
+      "href": "https://fr.wikipedia.org/wiki/Étienne-Denis_Pasquier",
+      "wikidata": "Q289113",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Pasquier",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 25,
+                "raw_line": 53,
+                "text_excerpt": "…aient l'aider à entrer par la pensée dans la vie privée d'hommes comme Molé, comme le duc Pasquier, comme le duc de Broglie. Il fut enchanté d'apprendre que Swann fréquentait des gens qui les avaient connus. Ma grand'tante au contraire interpréta c…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 27,
+                "raw_line": 57,
+                "text_excerpt": "…ou observer les efforts que mon grand-père faisait pour parler à Swann du duc d'Audiffret-Pasquier, sans que les premiers me fissent éprouver aucune émotion, les seconds aucune gaîté. Ces efforts furent infructueux. À peine mon grand-père eut-il po…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 39
+}

@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol10-3",
+  "book": 4,
+  "raw_file": "raw-md/vol10/chapters/003.md",
+  "translation_file": "polish/dev/chapters/polished-vol10-3.md",
+  "annotations": [
+    {
+      "id": "celeste-albaret",
+      "kind": "personne",
+      "label": "Céleste Albaret, gouvernante de Marcel Proust, citée sous son vrai nom, 1891-1984",
+      "href": "https://fr.wikipedia.org/wiki/Céleste_Albaret",
+      "wikidata": "Q3010047",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Céleste Albaret",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 5,
+                "text_excerpt": "…voir à lutter contre des prières du même genre, dans l'hôtel d'abord, où Marie Gineste et Céleste Albaret avaient les yeux rouges. Marie, du reste, faisait entendre le sanglot pressé d'un torrent. Céleste, plus molle, lui recommandait le calme ; mais Mari…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "reve-detaille",
+      "kind": "oeuvre",
+      "label": "Le Rêve — Édouard Detaille, 1888 (musée d’Orsay)",
+      "href": "https://commons.wikimedia.org/wiki/File:Detaille_Le_Rêve.jpg",
+      "wikidata": null,
+      "wikipedia": "https://fr.wikipedia.org/wiki/Le_Rêve_(Detaille)",
+      "location": "Musée d’Orsay, Paris",
+      "image": {
+        "src": "/assets/proust/oeuvres/reve-detaille.jpg",
+        "width": 1600,
+        "height": 1197,
+        "credit": "Édouard Detaille — domaine public, via Wikimedia Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:Detaille_Le_Rêve.jpg"
+      },
+      "targets": [
+        {
+          "match": "Rêve",
+          "paragraphs": [
+            "t4-p0023"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 11,
+                "text_excerpt": "…ritions que j'avais déjà eues, mais seulement en dormant. Tout cela n'était-il donc qu'un rêve ? Hélas, j'étais bien éveillé. « Tu trouves que je ressemble à ta pauvre grand'mère », me dit maman -- car c'était elle -- avec douceur, comme pour c…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0023",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "robert-guiscard",
+      "kind": "personne",
+      "label": "Robert Guiscard, chef normand du XIe siècle",
+      "href": "https://fr.wikipedia.org/wiki/Robert_Guiscard",
+      "wikidata": "Q203792",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Guiscard",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 5,
+                "text_excerpt": "…le wagon, à chaque station je craignais de voir apparaître, plus terribles qu'Heribald ou Guiscard, M. de Crécy implorant d'être invité, ou, plus redoutable encore, M*me* Verdurin tenant à m'inviter. Mais cela ne devait arriver que dans quelques he…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "stances-et-poemes-sully-prudhomme",
+      "kind": "livre",
+      "label": "« Ici-bas tous les lilas meurent » — poème de Sully Prudhomme (Stances et Poèmes, 1865)",
+      "href": "https://fr.wikipedia.org/wiki/Sully_Prudhomme",
+      "wikidata": "Q42247",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Ici-bas tous les lilas meurent",
+          "paragraphs": [
+            "t4-p0276",
+            "t4-p0407"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 5,
+                "text_excerpt": "…lle, lui recommandait le calme ; mais Marie ayant murmuré les seuls vers qu'elle connût : Ici-bas tous les lilas meurent, Céleste ne put se retenir et une nappe de larmes s'épandit sur sa figure couleur de lilas ; je pense, du reste, qu'elles m'oublièrent dès le soir mê…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t4-p0407",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 4
+}

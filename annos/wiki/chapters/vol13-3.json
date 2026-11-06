@@ -1,0 +1,825 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol13-3",
+  "book": 6,
+  "raw_file": "raw-md/vol13/chapters/003.md",
+  "translation_file": "polish/dev/chapters/polished-vol13-3.md",
+  "annotations": [
+    {
+      "id": "adolphe-thiers",
+      "kind": "personne",
+      "label": "Adolphe Thiers, homme d'État, historien",
+      "href": "https://fr.wikipedia.org/wiki/Adolphe_Thiers",
+      "wikidata": "Q5738",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Thiers",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 54,
+                "raw_line": 109,
+                "text_excerpt": "…l'époque précédente étaient démenties par celle-ci, comme il était arrivé autrefois de M. Thiers disant que les chemins de fer ne pourraient jamais réussir. Les titres dont M. de Norpois nous avait dit : « Leur revenu n'est pas très élevé sans do…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "andre-le-notre",
+      "kind": "artiste",
+      "label": "André Le Nôtre, architecte paysagiste",
+      "href": "https://fr.wikipedia.org/wiki/André_Le_Nôtre",
+      "wikidata": "Q273849",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Lenôtre",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 6,
+                "raw_line": 13,
+                "text_excerpt": "…maman avait invitée, nous voulûmes un soir essayer de dîner dans un hôtel qui n'était pas le nôtre et où l'on prétendait que la cuisine était meilleure. Tandis que ma mère payait le gondolier et entrait avec M^me^ Sazerat dans le salon qu'elle avai…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "corriere-della-sera",
+      "kind": "presse",
+      "label": "Corriere della Sera — quotidien milanais fondé en 1876",
+      "href": "https://fr.wikipedia.org/wiki/Corriere_della_Sera",
+      "wikidata": "Q309135",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Corriere della Sera",
+          "paragraphs": [
+            "t6-p0190"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "« Tenez, je vous apporte des journaux, le *Corriere della Sera*, la *Gazzetta del Popolo*, etc. Est-ce que vous savez qu'il est fortement question d'un mouvement diplomatique dont le premier bouc émissaire serait…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0190",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cesar-franck",
+      "kind": "personne",
+      "label": "César Franck, compositeur",
+      "href": "https://fr.wikipedia.org/wiki/César_Franck",
+      "wikidata": "Q50187",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Franck",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 89,
+                "text_excerpt": "…uir, si la voix revenait, qu'en un chant innocent et mélodieux de Mendelssohn ou de César Franck. Le prince pensait aussi que ce silence était dû à la réserve d'un Français qui, devant un Italien, ne veut pas parler des affaires de l'Italie. Or l…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "emilio-visconti-venosta",
+      "kind": "personne",
+      "label": "Emilio Visconti-Venosta, homme d'État et diplomate italien (1829-1914)",
+      "href": "https://fr.wikipedia.org/wiki/Emilio_Visconti-Venosta",
+      "wikidata": "Q1231904",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Visconti-Venosta",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 46,
+                "raw_line": 93,
+                "text_excerpt": "…ssitôt il télégraphiait à Paris : « Je me suis entretenu une heure durant avec le marquis Visconti-Venosta, etc. » Ses secrétaires étaient sur les dents.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "felix-mendelssohn",
+      "kind": "personne",
+      "label": "Felix Mendelssohn, compositeur",
+      "href": "https://fr.wikipedia.org/wiki/Felix_Mendelssohn",
+      "wikidata": "Q46096",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mendelssohn",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 89,
+                "text_excerpt": "…blait ne pouvoir s'épanouir, si la voix revenait, qu'en un chant innocent et mélodieux de Mendelssohn ou de César Franck. Le prince pensait aussi que ce silence était dû à la réserve d'un Français qui, devant un Italien, ne veut pas parler des affaire…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "francois-achille-bazaine",
+      "kind": "personne",
+      "label": "François Achille Bazaine, maréchal de France (1811-1888)",
+      "href": "https://fr.wikipedia.org/wiki/François_Achille_Bazaine",
+      "wikidata": "Q81518",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Bazaine",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 51,
+                "raw_line": 103,
+                "text_excerpt": "…aris afin de conférer avec le marquis de Norpois, le ministre de la Guerre et le maréchal Bazaine en qui l'opinion publique a une confiance particulière. S. M. l'Empereur a décommandé le dîner qu'il devait offrir à sa belle-sœur la duchesse d'Albe…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "gazzetta-del-popolo",
+      "kind": "presse",
+      "label": "Gazzetta del Popolo — quotidien turinois (1848-1983)",
+      "href": "https://fr.wikipedia.org/wiki/Gazzetta_del_Popolo",
+      "wikidata": "Q3759098",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Gazzetta del Popolo",
+          "paragraphs": [
+            "t6-p0190"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "« Tenez, je vous apporte des journaux, le *Corriere della Sera*, la *Gazzetta del Popolo*, etc. Est-ce que vous savez qu'il est fortement question d'un mouvement diplomatique dont le premier bouc émissaire serait Paléologue, notoirement i…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0190",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "giotto",
+      "kind": "artiste",
+      "label": "Giotto di Bondone (vers 1267-1337), peintre et architecte florentin",
+      "href": "https://fr.wikipedia.org/wiki/Giotto_di_Bondone",
+      "wikidata": "Q7814",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Giotto",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 61,
+                "raw_line": 123,
+                "text_excerpt": "… après avoir traversé en plein soleil le jardin de l'Arena, j'entrai dans la chapelle des Giotto, où la voûte entière et le fond des fresques sont si bleus qu'il semble que la radieuse journée ait passé le seuil, elle aussi, avec le visiteur et s…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "giovanni-giolitti",
+      "kind": "personne",
+      "label": "Giovanni Giolitti, homme d'État italien, plusieurs fois président du Conseil (1842-1928)",
+      "href": "https://fr.wikipedia.org/wiki/Giovanni_Giolitti",
+      "wikidata": "Q297190",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Giolitti",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 45,
+                "raw_line": 91,
+                "text_excerpt": "…e brièveté moindre, demanda finement : « Et est-ce que personne n'a prononcé le nom de M. Giolitti » À ces mots les écailles du prince Foggi tombèrent ; il entendit un murmure céleste. Puis aussitôt M. de Norpois se mit à parler de choses et autres…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 46,
+                "raw_line": 93,
+                "text_excerpt": "…s d'État sur le chef qu'il convenait de donner au nouveau cabinet. Puis il fit appeler M. Giolitti, qui accepta. Trois mois après, un journal raconta l'entrevue du prince Foggi avec M. de Norpois. La conversation était rapportée comme nous l'avons …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "henri-loze",
+      "kind": "personne",
+      "label": "Henri Lozé, préfet et diplomate français, 1850-1915",
+      "href": "https://fr.wikipedia.org/wiki/Henri_Lozé",
+      "wikidata": "Q3131524",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Lozé",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "…e serait Paléologue, notoirement insuffisant en Serbie ? Il serait peut-être remplacé par Lozé et il y aurait à pourvoir au poste de Constantinople. Mais, s'empressa d'ajouter avec âcreté M. de Norpois, pour une ambassade d'une telle envergure …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "chardin",
+      "kind": "artiste",
+      "label": "Jean Siméon Chardin (1699-1779), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/Jean_Sim%C3%A9on_Chardin",
+      "wikidata": "Q207447",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Chardin",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 2,
+                "raw_line": 5,
+                "text_excerpt": "…rbre, éclaboussées à tout moment d'un éclair de soleil glauque, et qui à l'utile leçon de Chardin, reçue autrefois, ajoutaient celle de Véronèse. Et puisque à Venise ce sont des œuvres d'art, des choses magnifiques, qui sont chargées de nous donne…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-sebastien-bach",
+      "kind": "personne",
+      "label": "Jean-Sébastien Bach, compositeur (1685-1750)",
+      "href": "https://fr.wikipedia.org/wiki/Jean-Sébastien_Bach",
+      "wikidata": "Q1339",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Bach",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 45,
+                "raw_line": 91,
+                "text_excerpt": "…craignit pas de faire quelque bruit, comme, lorsque la dernière note d'un sublime aria de Bach est terminée, on ne craint plus de parler à haute voix, d'aller chercher ses vêtements au vestiaire. Il rendit même la cassure plus nette en priant l…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "mille-et-une-nuits",
+      "kind": "livre",
+      "label": "Les Mille et Une Nuits — recueil de contes arabes, traduit par Antoine Galland (1704-1717)",
+      "href": "https://fr.wikipedia.org/wiki/Les_Mille_et_Une_Nuits",
+      "wikidata": "Q8258",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mille et une Nuits",
+          "paragraphs": [
+            "t3-p0213",
+            "t4-p0254",
+            "t5-p0221",
+            "t7-p0020",
+            "t7-p0070",
+            "t7-p0191",
+            "t7-p0242",
+            "t1-p0110",
+            "t2-p0744",
+            "t5-p0296",
+            "t5-p0298",
+            "t6-p0225",
+            "t7-p0079",
+            "t7-p0100"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 58,
+                "raw_line": 117,
+                "text_excerpt": "…ville enchantée où je me trouvais au milieu de quartiers nouveaux comme un personnage des Mille et une Nuits. Il était bien rare que je ne découvrisse pas au hasard de mes promenades quelque place inconnue et spacieuse dont aucun guide, aucun voyageur ne m'a…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0225",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "vices-et-vertus-giotto",
+      "kind": "oeuvre",
+      "label": "Les Vices et les Vertus — fresques de Giotto, chapelle des Scrovegni (Padoue), vers 1305 ; au registre inférieur, les Vertus à gauche (la Charité est la deuxième figure en partant du Jugement dernier) et les Vices à droite",
+      "href": "https://www.cappelladegliscrovegni.it/",
+      "wikidata": "Q963954",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Chapelle_des_Scrovegni",
+      "location": "Chapelle des Scrovegni, Padoue",
+      "image": {
+        "src": "/assets/proust/oeuvres/vices-et-vertus-giotto-scrovegni.jpg",
+        "width": 1600,
+        "height": 1189,
+        "credit": "Photo : Zairon — CC BY-SA 4.0, via Wikimedia Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:Padova_Cappella_degli_Scrovegni_Innen_Langhaus_West_4.jpg"
+      },
+      "targets": [
+        {
+          "match": "Vices et ces Vertus",
+          "paragraphs": [
+            "t6-p0228"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 61,
+                "raw_line": 123,
+                "text_excerpt": "La veille de notre départ, nous voulûmes pousser jusqu'à Padoue où se trouvaient ces Vices et ces Vertus dont Swann m'avait donné les reproductions ; après avoir traversé en plein soleil le jardin de l'Arena, j'entrai dans la chapelle des Giotto, où la v…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0228",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "maurice-barres",
+      "kind": "personne",
+      "label": "Maurice Barrès, écrivain et homme politique nationaliste, 1862-1923",
+      "href": "https://fr.wikipedia.org/wiki/Maurice_Barrès",
+      "wikidata": "Q314957",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Barrès",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 70,
+                "raw_line": 141,
+                "text_excerpt": "…incipalement, quand elle écrivait une ligne, à faire figurer dans la ligne supérieure les barres de T qui avaient l'air de souligner les mots, ou les points sur les I qui avaient l'air d'interrompre les phrases de la ligne d'au-dessus, et en reva…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "maurice-paleologue",
+      "kind": "personne",
+      "label": "Maurice Paléologue, diplomate, ambassadeur de France (1859-1944)",
+      "href": "https://fr.wikipedia.org/wiki/Maurice_Paléologue",
+      "wikidata": "Q2164102",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Paléologue",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "… est fortement question d'un mouvement diplomatique dont le premier bouc émissaire serait Paléologue, notoirement insuffisant en Serbie ? Il serait peut-être remplacé par Lozé et il y aurait à pourvoir au poste de Constantinople. Mais, s'empressa d'a…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "maxime-dethomas",
+      "kind": "artiste",
+      "label": "Maxime Dethomas, peintre et illustrateur français (1867-1929)",
+      "href": "https://fr.wikipedia.org/wiki/Maxime_Dethomas",
+      "wikidata": "Q3302549",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Maxime Dethomas",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 2,
+                "raw_line": 5,
+                "text_excerpt": "… sa partie la plus célèbre, qu'en représenter seulement (exceptons les superbes études de Maxime Dethomas) les aspects misérables, là où ce qui fait sa splendeur s'efface, et pour rendre Venise plus intime et plus vraie lui donner de la ressemblance avec …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "veronese",
+      "kind": "artiste",
+      "label": "Paul Véronèse (1528-1588), peintre vénitien",
+      "href": "https://fr.wikipedia.org/wiki/Paul_V%C3%A9ron%C3%A8se",
+      "wikidata": "Q9440",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Véronèse",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 2,
+                "raw_line": 5,
+                "text_excerpt": "…e soleil glauque, et qui à l'utile leçon de Chardin, reçue autrefois, ajoutaient celle de Véronèse. Et puisque à Venise ce sont des œuvres d'art, des choses magnifiques, qui sont chargées de nous donner les impressions familières de la vie, c'est e…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "roland-garros",
+      "kind": "personne",
+      "label": "Roland Garros, aviateur français (1888-1918)",
+      "href": "https://fr.wikipedia.org/wiki/Roland_Garros",
+      "wikidata": "Q207709",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Garros",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 61,
+                "raw_line": 123,
+                "text_excerpt": "…teur, et ils font beaucoup plutôt penser à une variété d'oiseaux ou à de jeunes élèves de Garros s'exerçant au vol plané qu'aux anges de l'art de la Renaissance et des époques suivantes, dont les ailes ne sont plus que des emblèmes et dont le mai…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "titien",
+      "kind": "artiste",
+      "label": "Titien (vers 1488-1576), peintre vénitien",
+      "href": "https://fr.wikipedia.org/wiki/Titien",
+      "wikidata": "Q47551",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Titien",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 54,
+                "raw_line": 109,
+                "text_excerpt": "…er d'elle. La beauté de ses dix-sept ans était si noble, si radieuse, que c'était un vrai Titien à acquérir avant de s'en aller. Et le peu qui me restait de fortune suffirait-il à la tenter assez pour qu'elle quittât son pays et vînt vivre à Pari…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "turner",
+      "kind": "artiste",
+      "label": "William Turner (1775-1851), peintre britannique",
+      "href": "https://fr.wikipedia.org/wiki/William_Turner",
+      "wikidata": "Q159758",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Turner",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 64,
+                "raw_line": 129,
+                "text_excerpt": "…oxygène, éternelle, aveugle, antérieure et extérieure à Venise, ignorante des Doges et de Turner. Et cependant ce lieu quelconque était étrange comme un lieu où on vient d'arriver, qui ne vous connaît pas encore -- comme un lieu d'où l'on est par…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 22
+}

@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol9-1",
+  "book": 4,
+  "raw_file": "raw-md/vol9/chapters/001.md",
+  "translation_file": "polish/dev/chapters/polished-vol9-1.md",
+  "annotations": [
+    {
+      "id": "alfred-de-vigny",
+      "kind": "personne",
+      "label": "Alfred de Vigny, écrivain (1797-1863)",
+      "href": "https://fr.wikipedia.org/wiki/Alfred_de_Vigny",
+      "wikidata": "Q309702",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Vigny",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 3,
+                "raw_line": 9,
+                "text_excerpt": "ALFRED DE VIGNY.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "alfred-dreyfus",
+      "kind": "personne",
+      "label": "Alfred Dreyfus, officier français, au centre de l'affaire Dreyfus",
+      "href": "https://fr.wikipedia.org/wiki/Alfred_Dreyfus",
+      "wikidata": "Q171826",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dreyfus",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 7,
+                "raw_line": 17,
+                "text_excerpt": "… moi qui me suis battu plusieurs fois en duel sans aucune crainte, au moment de l'affaire Dreyfus, le seul fer que j'aie à craindre est celui du regard des voisins qui ont autre chose à faire qu'à regarder dans la cour. »",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 15,
+                "raw_line": 33,
+                "text_excerpt": "…fortune où le plus grand nombre se rallie autour de la victime, comme les Juifs autour de Dreyfus, de la sympathie -- parfois de la société -- de leurs semblables, auxquels ils donnent le dégoût de voir ce qu'ils sont, dépeint dans un miroir qui, …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-baudelaire",
+      "kind": "personne",
+      "label": "Charles Baudelaire, poète (1821-1867)",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Baudelaire",
+      "wikidata": "Q501",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Baudelaire",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 37,
+                "text_excerpt": "…quand ce qu'il éprouve il en reconnaît la substance en lisant M^me^ de Lafayette, Racine, Baudelaire, Walter Scott, alors qu'il est encore trop peu capable de s'observer soi-même pour se rendre compte de ce qu'il ajoute de son cru, et que si le senti…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-darwin",
+      "kind": "personne",
+      "label": "Charles Darwin, naturaliste, 1809-1882",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Darwin",
+      "wikidata": "Q1035",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Darwin",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 19,
+                "raw_line": 41,
+                "text_excerpt": "…et de M. de Charlus aussi curieuse que ces gestes tentateurs adressés aux insectes, selon Darwin, non seulement par les fleurs dites composées, haussant les demi-fleurons de leurs capitules pour être vues de plus loin, comme certaine hétérostylée…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-lamoureux",
+      "kind": "personne",
+      "label": "Charles Lamoureux, chef d'orchestre, fondateur des Concerts Lamoureux, 1834-1899",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Lamoureux",
+      "wikidata": "Q1065279",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Lamoureux",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 19,
+                "raw_line": 41,
+                "text_excerpt": "…se ou que la nature leur fait paraître telle, leur bonheur, bien plus encore que celui de l'amoureux normal, a quelque chose d'extraordinaire, de sélectionné, de profondément nécessaire. La haine des Capulet et des Montaigu n'était rien auprès des em…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "diane-de-poitiers",
+      "kind": "personne",
+      "label": "Diane de Poitiers, favorite d'Henri II",
+      "href": "https://fr.wikipedia.org/wiki/Diane_de_Poitiers",
+      "wikidata": "Q276010",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Diane de Poitiers",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 12,
+                "raw_line": 27,
+                "text_excerpt": "…n'eus pour consolation, en attendant le train qui me ramènerait à Paris, que la maison de Diane de Poitiers. Elle a eu beau charmer un de mes ancêtres royaux, j'eusse préféré une beauté plus vivante. C'est pour cela, pour remédier à l'ennui de ces retours s…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-racine",
+      "kind": "personne",
+      "label": "Jean Racine, dramaturge (1639-1699)",
+      "href": "https://fr.wikipedia.org/wiki/Jean_Racine",
+      "wikidata": "Q742",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Racine",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 37,
+                "text_excerpt": "…à tous, quand ce qu'il éprouve il en reconnaît la substance en lisant M^me^ de Lafayette, Racine, Baudelaire, Walter Scott, alors qu'il est encore trop peu capable de s'observer soi-même pour se rendre compte de ce qu'il ajoute de son cru, et que…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jules-michelet",
+      "kind": "personne",
+      "label": "Jules Michelet, historien, 1798-1874",
+      "href": "https://fr.wikipedia.org/wiki/Jules_Michelet",
+      "wikidata": "Q310791",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Michelet",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 19,
+                "raw_line": 41,
+                "text_excerpt": "… que mon instinct, la méduse me répugnait à Balbec ; mais si je savais la regarder, comme Michelet, du point de vue de l'histoire naturelle et de l'esthétique, je voyais une délicieuse girandole d'azur. Ne sont-elles pas, avec le velours transparen…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "ludwig-van-beethoven",
+      "kind": "personne",
+      "label": "Ludwig van Beethoven, compositeur (1770-1827)",
+      "href": "https://fr.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "wikidata": "Q255",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Beethoven",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 6,
+                "raw_line": 15,
+                "text_excerpt": "…ément posée à Jupien dans l'œillade de M. de Charlus, comme ces phrases interrogatives de Beethoven, répétées indéfiniment, à intervalles égaux, et destinées -- avec un luxe exagéré de préparations -- à amener un nouveau motif, un changement de ton,…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "marie-madeleine-de-la-fayette",
+      "kind": "personne",
+      "label": "Marie-Madeleine de La Fayette, romancière, auteur de La Princesse de Clèves, 1634-1693",
+      "href": "https://fr.wikipedia.org/wiki/Madame_de_La_Fayette",
+      "wikidata": "Q237090",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mme de Lafayette",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 37,
+                "text_excerpt": "…l n'être pas pareil à tous, quand ce qu'il éprouve il en reconnaît la substance en lisant M^me^ de Lafayette, Racine, Baudelaire, Walter Scott, alors qu'il est encore trop peu capable de s'observer soi-même pour se rendre compte de ce qu'il ajoute de son cru…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Mme de la Fayette",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 37,
+                "text_excerpt": "…l n'être pas pareil à tous, quand ce qu'il éprouve il en reconnaît la substance en lisant M^me^ de Lafayette, Racine, Baudelaire, Walter Scott, alors qu'il est encore trop peu capable de s'observer soi-même pour se rendre compte de ce qu'il ajoute de son cru…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Mme de La Fayette",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 2,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 37,
+                "text_excerpt": "…l n'être pas pareil à tous, quand ce qu'il éprouve il en reconnaît la substance en lisant M^me^ de Lafayette, Racine, Baudelaire, Walter Scott, alors qu'il est encore trop peu capable de s'observer soi-même pour se rendre compte de ce qu'il ajoute de son cru…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "socrate",
+      "kind": "personne",
+      "label": "Socrate, philosophe grec antique",
+      "href": "https://fr.wikipedia.org/wiki/Socrate",
+      "wikidata": "Q913",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Socrate",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 15,
+                "raw_line": 33,
+                "text_excerpt": "…n médecin l'appendicite, l'inversion jusque dans l'histoire, ayant plaisir à rappeler que Socrate était l'un d'eux, comme les Israélites disent de Jésus, sans songer qu'il n'y avait pas d'anormaux quand l'homosexualité était la norme, pas d'antich…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "walter-scott",
+      "kind": "personne",
+      "label": "Walter Scott, romancier écossais",
+      "href": "https://fr.wikipedia.org/wiki/Walter_Scott",
+      "wikidata": "Q79025",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Walter Scott",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 37,
+                "text_excerpt": "…il éprouve il en reconnaît la substance en lisant M^me^ de Lafayette, Racine, Baudelaire, Walter Scott, alors qu'il est encore trop peu capable de s'observer soi-même pour se rendre compte de ce qu'il ajoute de son cru, et que si le sentiment est le mê…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "william-shakespeare",
+      "kind": "personne",
+      "label": "William Shakespeare, dramaturge anglais, 1564-1616",
+      "href": "https://fr.wikipedia.org/wiki/William_Shakespeare",
+      "wikidata": "Q692",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Shakespeare",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 37,
+                "text_excerpt": "…moins d'un goût particulier) au même désappointement que celles qui, dans les comédies de Shakespeare, sont déçues par une jeune fille déguisée qui se fait passer pour un adolescent. La tromperie est égale, l'inverti même le sait, il devine la désillu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 13
+}

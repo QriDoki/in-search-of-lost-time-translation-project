@@ -1,0 +1,1068 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol13-2",
+  "book": 6,
+  "raw_file": "raw-md/vol13/chapters/002.md",
+  "translation_file": "polish/dev/chapters/polished-vol13-2.md",
+  "annotations": [
+    {
+      "id": "alfred-de-musset",
+      "kind": "personne",
+      "label": "Alfred de Musset, écrivain (1810-1857)",
+      "href": "https://fr.wikipedia.org/wiki/Alfred_de_Musset",
+      "wikidata": "Q179680",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Musset",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 38,
+                "raw_line": 77,
+                "text_excerpt": "… qui n'est pourtant pas le doute, qui réserve une possibilité à ce qu'on souhaite et dont Musset donne un exemple quand il parle de l'Espoir en Dieu. « Je ne la connais pas personnellement », reprit Gilberte. Avait-elle pourtant, en se faisant ap…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "alfred-dreyfus",
+      "kind": "personne",
+      "label": "Alfred Dreyfus, officier français, au centre de l'affaire Dreyfus",
+      "href": "https://fr.wikipedia.org/wiki/Alfred_Dreyfus",
+      "wikidata": "Q171826",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dreyfus",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 19,
+                "raw_line": 39,
+                "text_excerpt": "…e des plus riches héritières de France. Mais c'était le moment où des suites de l'affaire Dreyfus était né un mouvement antisémite parallèle à un mouvement plus abondant de pénétration du monde par les Israélites. Les politiciens n'avaient pas eu …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 21,
+                "raw_line": 43,
+                "text_excerpt": "…'elle m'aide à empêcher ça. Sans cela il n'y a plus de société. C'est très joli l'affaire Dreyfus. Mais alors l'épicière du coin n'a qu'à se dire nationaliste et à vouloir en échange être reçue chez nous. » Et j'avais eu de ce propos, si frivole a…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "van-dyck",
+      "kind": "artiste",
+      "label": "Antoine van Dyck (1599-1641), peintre flamand",
+      "href": "https://fr.wikipedia.org/wiki/Antoine_van_Dyck",
+      "wikidata": "Q150679",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Van Dyck",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 5,
+                "raw_line": 11,
+                "text_excerpt": "…quelque sorte historique et de curiosité, comme celle que le tableau de Charles I^er^ par Van Dyck, déjà si beau par lui-même, acquiert encore du fait qu'il est entré dans les collections nationales, par la volonté de M^me^ du Barry d'impressionner…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "arthur-rimbaud",
+      "kind": "personne",
+      "label": "Arthur Rimbaud, poète",
+      "href": "https://fr.wikipedia.org/wiki/Arthur_Rimbaud",
+      "wikidata": "Q493",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Rimbaud",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 66,
+                "raw_line": 133,
+                "text_excerpt": "… classe parce que, pendant que le professeur disait des banalités sur Cicéron, lui lisait Rimbaud ou Gœthe. Certes, rien ne laissait soupçonner cette hypothèse quand je le rencontrai à Balbec, où ses préoccupations me parurent s'attacher uniquemen…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "lundis-sainte-beuve",
+      "kind": "livre",
+      "label": "Causeries du lundi — Charles-Augustin Sainte-Beuve (1851-1862)",
+      "href": "https://fr.wikipedia.org/wiki/Charles-Augustin_Sainte-Beuve",
+      "wikidata": "Q1063392",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Lundis",
+          "paragraphs": [
+            "t6-p0113"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 14,
+                "raw_line": 29,
+                "text_excerpt": "…st la tare originelle de ce genre de littérature, dont ne sont pas exceptés les célèbres *Lundis*, que leur valeur réside dans l'impression qu'elle produit sur les lecteurs. C'est une Vénus collective, dont on n'a qu'un membre mutilé si l'on s'en…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0113",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-augustin-sainte-beuve",
+      "kind": "personne",
+      "label": "Charles Augustin Sainte-Beuve, critique littéraire (1804-1869)",
+      "href": "https://fr.wikipedia.org/wiki/Charles-Augustin_Sainte-Beuve",
+      "wikidata": "Q1063392",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Sainte-Beuve",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 14,
+                "raw_line": 29,
+                "text_excerpt": "…, ce cachet dernier qu'elle lui donne garde toujours quelque chose d'un peu commun. Ainsi Sainte-Beuve, le lundi, pouvait se représenter M^me^ de Boigne dans son lit à huit colonnes lisant son article du *Constitutionnel,* appréciant telle jolie pensée…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-ier-d-angleterre",
+      "kind": "personne",
+      "label": "Charles Ier d'Angleterre, roi d'Angleterre, sujet d'un portrait de Van Dyck (1600-1649)",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Ier_(roi_d'Angleterre)",
+      "wikidata": "Q81506",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Charles Ier",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 5,
+                "raw_line": 11,
+                "text_excerpt": "…us, une valeur en quelque sorte historique et de curiosité, comme celle que le tableau de Charles I^er^ par Van Dyck, déjà si beau par lui-même, acquiert encore du fait qu'il est entré dans les collections nationales, par la volonté de M^me^ du Barry d…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-ier-a-la-chasse-van-dyck",
+      "kind": "oeuvre",
+      "label": "Charles Ier à la chasse — Antoine van Dyck, vers 1635 (musée du Louvre)",
+      "href": "https://collections.louvre.fr/ark:/53355/cl010062167",
+      "wikidata": "Q3937485",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Charles_Ier_à_la_chasse",
+      "location": "Musée du Louvre, Paris",
+      "image": {
+        "src": "/assets/proust/oeuvres/charles-ier-a-la-chasse-van-dyck.jpg",
+        "width": 1247,
+        "height": 1600,
+        "credit": "Anthony van Dyck — domaine public, via Wikimedia Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:Anthony_van_Dyck_-_Charles_I_at_the_Hunt.jpg"
+      },
+      "targets": [
+        {
+          "match": "tableau de Charles Ier par Van Dyck",
+          "paragraphs": [
+            "t6-p0104"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 5,
+                "raw_line": 11,
+                "text_excerpt": "…aleur de plus, une valeur en quelque sorte historique et de curiosité, comme celle que le tableau de Charles I^er^ par Van Dyck, déjà si beau par lui-même, acquiert encore du fait qu'il est entré dans les collections nationales, par la volonté de M^me^ du Barry d'impressionner…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0104",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "ciceron",
+      "kind": "personne",
+      "label": "Cicéron, orateur et homme d'État romain (106-43 av. J.-C.)",
+      "href": "https://fr.wikipedia.org/wiki/Cicéron",
+      "wikidata": "Q1541",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Cicéron",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 66,
+                "raw_line": 133,
+                "text_excerpt": "…cient, et dernier en classe parce que, pendant que le professeur disait des banalités sur Cicéron, lui lisait Rimbaud ou Gœthe. Certes, rien ne laissait soupçonner cette hypothèse quand je le rencontrai à Balbec, où ses préoccupations me parurent …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "claude-henri-de-fusee-de-voisenon",
+      "kind": "personne",
+      "label": "Claude-Henri de Fusée de Voisenon, abbé et écrivain du XVIIIe siècle",
+      "href": "https://fr.wikipedia.org/wiki/Claude-Henri_de_Fusée_de_Voisenon",
+      "wikidata": "Q2976734",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Voisenon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 29,
+                "raw_line": 59,
+                "text_excerpt": "…it non seulement un grand ami à mon beau-frère Charlus, mais aussi il était très ami avec Voisenon (le château du prince de Guermantes) », comme si le fait de connaître M. de Charlus et le prince avait été pour Swann un hasard, comme si le beau-frè…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "francois-rene-de-chateaubriand",
+      "kind": "personne",
+      "label": "François-René de Chateaubriand, écrivain (1768-1848)",
+      "href": "https://fr.wikipedia.org/wiki/François-René_de_Chateaubriand",
+      "wikidata": "Q49767",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Chateaubriand",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 43,
+                "raw_line": 87,
+                "text_excerpt": "…e de ce style où il y avait « de l'emphase, des métaphores comme dans la prose démodée de Chateaubriand » ; par contre il me félicita sans réserve de « m'occuper » : « J'aime qu'on fasse quelque chose de ses dix doigts. Je n'aime pas les inutiles qui so…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-racine",
+      "kind": "personne",
+      "label": "Jean Racine, dramaturge (1639-1699)",
+      "href": "https://fr.wikipedia.org/wiki/Jean_Racine",
+      "wikidata": "Q742",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Racine",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 8,
+                "raw_line": 17,
+                "text_excerpt": "…ui fut cause que je ne me contentai pas de les considérer un instant, mais, qu'ayant pris racine, je les contemplai avec ces regards qui, par leur fixité impossible à distraire, leur application comme à un problème, semblent avoir conscience qu'i…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "johann-wolfgang-von-goethe",
+      "kind": "personne",
+      "label": "Johann Wolfgang von Goethe, écrivain allemand, 1749-1832",
+      "href": "https://fr.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe",
+      "wikidata": "Q5879",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Gœthe",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 66,
+                "raw_line": 133,
+                "text_excerpt": "…ce que, pendant que le professeur disait des banalités sur Cicéron, lui lisait Rimbaud ou Gœthe. Certes, rien ne laissait soupçonner cette hypothèse quand je le rencontrai à Balbec, où ses préoccupations me parurent s'attacher uniquement à la co…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "constitutionnel",
+      "kind": "presse",
+      "label": "Le Constitutionnel — quotidien (1815-1914)",
+      "href": "https://fr.wikipedia.org/wiki/Le_Constitutionnel",
+      "wikidata": "Q3221742",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Constitutionnel",
+          "paragraphs": [
+            "t6-p0113"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 14,
+                "raw_line": 29,
+                "text_excerpt": "…ouvait se représenter M^me^ de Boigne dans son lit à huit colonnes lisant son article du *Constitutionnel,* appréciant telle jolie pensée dans laquelle il s'était longtemps complu et qui ne serait peut-être jamais sortie de lui s'il n'avait jugé à propos …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0113",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "figaro",
+      "kind": "presse",
+      "label": "Le Figaro — quotidien fondé en 1826",
+      "href": "https://fr.wikipedia.org/wiki/Le_Figaro",
+      "wikidata": "Q216047",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Figaro",
+          "paragraphs": [
+            "t1-p0027",
+            "t1-p0028",
+            "t2-p0264",
+            "t3-p0995",
+            "t3-p1124",
+            "t4-p0045",
+            "t4-p0076",
+            "t5-p0011",
+            "t5-p0203",
+            "t5-p0221",
+            "t6-p0112",
+            "t6-p0113",
+            "t6-p0116",
+            "t6-p0117",
+            "t6-p0120",
+            "t6-p0132",
+            "t6-p0146",
+            "t7-p0009",
+            "t7-p0036",
+            "t7-p0061",
+            "t7-p0230"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 13,
+                "raw_line": 27,
+                "text_excerpt": "J'ouvris le *Figaro*. Quel ennui ! Justement le premier article avait le même titre que celui que j'avais envoyé et qui n'avait pas paru, mais pas seulement le même titr…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0112",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 14,
+                "raw_line": 29,
+                "text_excerpt": "…e je cessasse un moment d'en être l'auteur, que je fusse l'un quelconque des lecteurs du *Figaro*. Mais d'abord une première inquiétude. Le lecteur non prévenu verrait-il cet article ? Je déplie distraitement le journal comme ferait ce lecteur no…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0112",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0113",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  },
+                  {
+                    "source_paragraph": "t6-p0116",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0117",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0120",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0132",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0146",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "…lication de ma pensée, et lire, comme si j'étais un autre Monsieur qui vient d'ouvrir le *Figaro*, dans un autre numéro les mêmes phrases. Il y avait justement un temps infini que je n'avais vu les Guermantes, je devais leur faire, le lendemain, …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0116",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0117",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0120",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0132",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0146",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 18,
+                "raw_line": 37,
+                "text_excerpt": "…nt me permettre d'imaginer ce qu'avait pu penser le public -- abonnés et acheteurs -- du *Figaro*. Ce n'est pas, du reste, sans plaisir que j'allais chez M^me^ de Guermantes. J'avais beau me dire que ce qui différenciait pour moi ce salon des aut…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0116",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0117",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0120",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0132",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0146",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 21,
+                "raw_line": 43,
+                "text_excerpt": "… frivole auprès de celui que j'attendais, l'étonnement du lecteur qui, cherchant dans le *Figaro*, à la place habituelle, les dernières nouvelles de la guerre russo-japonaise, tombe au lieu de cela sur la liste des personnes qui ont fait des cade…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0116",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0117",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0120",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0132",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0146",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 33,
+                "raw_line": 67,
+                "text_excerpt": "… bien mieux que dans ce couloir. À propos d'Elstir je l'ai nommé hier dans un article du *Figaro*. Est-ce que vous l'avez lu ? -- Vous avez écrit un article dans le *Figaro* ? s'écria M. de Guermantes avec la même violence que s'il s'était écrié …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0116",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0117",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0120",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0132",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0146",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 47,
+                "raw_line": 95,
+                "text_excerpt": "… n'avais pas trois fois adressé la parole. Un cabinet de lecture lui avait communiqué le *Figaro*. Ainsi, quand quelque chose vous arrive dans la vie qui retentit un peu, des nouvelles nous viennent de personnes situées si loin de nos relations e…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0116",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0117",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0120",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0132",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t6-p0146",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-de-rouvroy-duc-de-saint-simon",
+      "kind": "personne",
+      "label": "Louis de Rouvroy, duc de Saint-Simon, mémorialiste de la cour de Louis XIV (1675-1755)",
+      "href": "https://fr.wikipedia.org/wiki/Louis_de_Rouvroy_de_Saint-Simon",
+      "wikidata": "Q463728",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Saint-Simon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 40,
+                "raw_line": 81,
+                "text_excerpt": "…i avec Bréauté. C'est le vrai grand seigneur du Périgord. Du reste, Mémé cite une page de Saint-Simon sur un marquis d'Ollemans, c'est tout à fait ça. » Je citai les premiers mots du portrait : « M. d'Ollemans, qui était un homme fort distingué parmi …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "madame-du-barry",
+      "kind": "personne",
+      "label": "Madame du Barry, favorite de Louis XV",
+      "href": "https://fr.wikipedia.org/wiki/Madame_du_Barry",
+      "wikidata": "Q230677",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mme du Barry",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 5,
+                "raw_line": 11,
+                "text_excerpt": "…cquiert encore du fait qu'il est entré dans les collections nationales, par la volonté de M^me^ du Barry d'impressionner le Roi. Quand la petite phrase, avant de disparaître tout à fait, se défit en ses divers éléments, où elle flotta encore un instant é…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Mme Du Barry",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 5,
+                "raw_line": 11,
+                "text_excerpt": "…cquiert encore du fait qu'il est entré dans les collections nationales, par la volonté de M^me^ du Barry d'impressionner le Roi. Quand la petite phrase, avant de disparaître tout à fait, se défit en ses divers éléments, où elle flotta encore un instant é…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Dubarry",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 2,
+            "locations": [
+              {
+                "chapter_paragraph": 5,
+                "raw_line": 11,
+                "text_excerpt": "…t encore du fait qu'il est entré dans les collections nationales, par la volonté de M^me^ du Barry d'impressionner le Roi. Quand la petite phrase, avant de disparaître tout à fait, se défit en ses divers éléments, où elle flotta encore un instant é…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "maurice-rouvier",
+      "kind": "personne",
+      "label": "Maurice Rouvier, homme politique, président du Conseil (1842-1911)",
+      "href": "https://fr.wikipedia.org/wiki/Maurice_Rouvier",
+      "wikidata": "Q471293",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Rouvier",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 21,
+                "raw_line": 43,
+                "text_excerpt": "…de Guermantes l'imitât. Un des jours les plus graves de la crise où, pendant le ministère Rouvier, on crut qu'il allait y avoir la guerre entre la France et l'Allemagne, comme je dînais seul chez M^me^ de Guermantes avec M. de Bréauté, j'avais tro…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "mme-de-boigne",
+      "kind": "personne",
+      "label": "Mme de Boigne, comtesse de Boigne, mémorialiste et salonnière",
+      "href": "https://fr.wikipedia.org/wiki/Adèle_d'Osmond",
+      "wikidata": "Q2825439",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mme de Boigne",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 14,
+                "raw_line": 29,
+                "text_excerpt": "…jours quelque chose d'un peu commun. Ainsi Sainte-Beuve, le lundi, pouvait se représenter M^me^ de Boigne dans son lit à huit colonnes lisant son article du *Constitutionnel,* appréciant telle jolie pensée dans laquelle il s'était longtemps complu et qui …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "rene-descartes",
+      "kind": "personne",
+      "label": "René Descartes, philosophe et mathématicien (1596-1650)",
+      "href": "https://fr.wikipedia.org/wiki/René_Descartes",
+      "wikidata": "Q9191",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Descartes",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 34,
+                "raw_line": 69,
+                "text_excerpt": "On apporta des cartes qu'un valet de pied venait de déposer. « Je ne sais pas ce qui lui prend, je ne la connais pas. C'est à vous que je dois ça, Basin. Ça ne vous a pour…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "edouard-vii",
+      "kind": "personne",
+      "label": "Édouard VII, roi du Royaume-Uni",
+      "href": "https://fr.wikipedia.org/wiki/Édouard_VII",
+      "wikidata": "Q20875",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "roi Édouard",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 40,
+                "raw_line": 81,
+                "text_excerpt": "…e d'aller ôter ses bottines et mettre de gros chaussons de laine. Hé bien, la présence du Roi Edouard et de tous les grands-ducs ne le gênait en rien, il descendait dans le grand salon de Guermantes avec ses chaussons de laine, il trouvait qu'il était…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Roi Édouard",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 2,
+            "locations": [
+              {
+                "chapter_paragraph": 40,
+                "raw_line": 81,
+                "text_excerpt": "…e d'aller ôter ses bottines et mettre de gros chaussons de laine. Hé bien, la présence du Roi Edouard et de tous les grands-ducs ne le gênait en rien, il descendait dans le grand salon de Guermantes avec ses chaussons de laine, il trouvait qu'il était…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 21
+}

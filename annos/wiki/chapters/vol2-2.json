@@ -1,0 +1,919 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol2-2",
+  "book": 1,
+  "raw_file": "raw-md/vol2/chapters/002.md",
+  "translation_file": "polish/dev/chapters/polished-vol2-2.md",
+  "annotations": [
+    {
+      "id": "constant-coquelin",
+      "kind": "personne",
+      "label": "Constant Coquelin, acteur de la Comédie-Française, dit Coquelin aîné (1841-1909)",
+      "href": "https://fr.wikipedia.org/wiki/Coquelin_aîné",
+      "wikidata": "Q142310",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Coquelin",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 55,
+                "raw_line": 111,
+                "text_excerpt": "…re, que vous ne pouvez pas vous tenir de parler ! Est-ce que je m'occupe de vous, moi ! » Coquelin passait en discourant au milieu d'amis qui l'écoutaient et faisait avec la main, à des personnes en voiture, un large bonjour de théâtre. Mais je ne …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "constantin-guys",
+      "kind": "personne",
+      "label": "Constantin Guys, dessinateur et illustrateur",
+      "href": "https://fr.wikipedia.org/wiki/Constantin_Guys",
+      "wikidata": "Q662943",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Constantin Guys",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 55,
+                "raw_line": 111,
+                "text_excerpt": "…le vol de deux chevaux ardents, minces et contournés comme on en voit dans les dessins de Constantin Guys, portant établi sur son siège un énorme cocher fourré comme un cosaque, à côté d'un petit groom rappelant le « tigre » de « feu Baudenord », je voyai…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "fra-angelico",
+      "kind": "artiste",
+      "label": "Fra Angelico, peintre italien, 1395-1455",
+      "href": "https://fr.wikipedia.org/wiki/Fra_Angelico",
+      "wikidata": "Q5664",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Angelico",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 9,
+                "text_excerpt": "…'anémones les champs de Fiesole et éblouissait Florence de fonds d'or pareils à ceux de l'Angelico. Dès lors, seuls les rayons, les parfums, les couleurs me semblaient avoir du prix ; car l'alternance des images avait amené en moi un changement de …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "giorgione",
+      "kind": "artiste",
+      "label": "Giorgione, peintre vénitien (v.1477-1510)",
+      "href": "https://fr.wikipedia.org/wiki/Giorgione",
+      "wikidata": "Q8459",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Giorgione",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 7,
+                "raw_line": 15,
+                "text_excerpt": "…étais, donnant ainsi tant de valeur à ce que j'allais voir, que Venise était « l'école de Giorgione, la demeure du Titien, le plus complet musée de l'architecture domestique au moyen âge », je me sentais heureux. Je l'étais pourtant davantage quand,…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "giotto",
+      "kind": "artiste",
+      "label": "Giotto di Bondone (vers 1267-1337), peintre et architecte florentin",
+      "href": "https://fr.wikipedia.org/wiki/Giotto_di_Bondone",
+      "wikidata": "Q7814",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Giotto",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 7,
+                "raw_line": 15,
+                "text_excerpt": "… par certains parfums printaniers, de ce que je croyais être, en son essence, le génie de Giotto. Tout au plus -- et parce qu'on ne peut pas faire tenir dans un nom beaucoup plus de durée que d'espace -- comme certains tableaux de Giotto eux-même…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-racine",
+      "kind": "personne",
+      "label": "Jean Racine, dramaturge (1639-1699)",
+      "href": "https://fr.wikipedia.org/wiki/Jean_Racine",
+      "wikidata": "Q742",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Racine",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…ssique, je lui avais demandé si elle ne possédait pas une brochure où Bergotte parlait de Racine, et qui ne se trouvait plus dans le commerce. Elle m'avait prié de lui en rappeler le titre exact, et le soir je lui avais adressé un petit télégramm…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 34,
+                "raw_line": 69,
+                "text_excerpt": "…e venait d'elle, cette page de Bergotte sur la beauté des vieux mythes dont s'est inspiré Racine, et que, à côté de la bille d'agathe, je gardais toujours auprès de moi. J'étais attendri par la bonté de mon amie qui me l'avait fait rechercher ; e…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "journal-des-debats",
+      "kind": "presse",
+      "label": "Journal des débats — quotidien (1789-1944)",
+      "href": "https://fr.wikipedia.org/wiki/Journal_des_d%C3%A9bats",
+      "wikidata": "Q2565164",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Débats",
+          "paragraphs": [
+            "t1-p0956",
+            "t1-p0957",
+            "t1-p0966",
+            "t1-p0967",
+            "t1-p0982"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 13,
+                "raw_line": 27,
+                "text_excerpt": "…ses parents. Pendant que ses petits-enfants jouaient plus loin, elle lisait toujours les *Débats* qu'elle appelait « mes vieux Débats » et, par genre aristocratique, disait en parlant du sergent de ville ou de la loueuse de chaises : « Mon vieil …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0956",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t1-p0957",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t1-p0966",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t1-p0967",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 14,
+                "raw_line": 29,
+                "text_excerpt": "…jouté qui semblait l'explication de son geste. La vieille dame elle-même, ayant plié ses *Débats*, demanda l'heure à une bonne d'enfants qui passait et qu'elle remercia en lui disant : « Comme vous êtes aimable ! » puis, priant le cantonnier de d…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0956",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t1-p0957",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t1-p0966",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t1-p0967",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 23,
+                "raw_line": 47,
+                "text_excerpt": "… portait et qui ruisselait de rayons à la bénédiction du soleil. La vieille lectrice des *Débats* était assise sur son fauteuil, toujours à la même place, elle interpellait un gardien à qui elle faisait un geste amical de la main en lui criant : …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0956",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t1-p0957",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t1-p0966",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t1-p0967",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 49,
+                "text_excerpt": "…j'apercevais Gilberte, si vive et brusque avec nous, faisant une révérence à la dame aux *Débats* (qui lui disait : « Quel beau soleil, on dirait du feu »), lui parlant avec un sourire timide, d'un air compassé qui m'évoquait la jeune fille diffé…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0956",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t1-p0957",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t1-p0966",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t1-p0967",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…nt à tout jamais vivre avec nous. Je reprenais l'éloge de la vieille dame qui lisait les *Débats* (j'avais insinué à mes parents que c'était une ambassadrice ou peut-être une altesse) et je continuais à célébrer sa beauté, sa magnificence, sa nob…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0982",
+                    "status": "located_by_text",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "chartreuse-de-parme-stendhal",
+      "kind": "livre",
+      "label": "La Chartreuse de Parme — roman de Stendhal (1839)",
+      "href": "https://fr.wikipedia.org/wiki/La_Chartreuse_de_Parme",
+      "wikidata": "Q1165714",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "la Chartreuse",
+          "paragraphs": [
+            "t1-p0948",
+            "t3-p1159",
+            "t3-p1469"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 5,
+                "raw_line": 11,
+                "text_excerpt": "…nts. Le nom de Parme, une des villes où je désirais le plus aller, depuis que j'avais lu *la Chartreuse*, m'apparaissant compact, lisse, mauve et doux ; si on me parlait d'une maison quelconque de Parme dans laquelle je serais reçu, on me causait le pla…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0948",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "creation-des-astres-michel-ange",
+      "kind": "oeuvre",
+      "label": "La Création des astres et des plantes — Michel-Ange, voûte de la chapelle Sixtine, 1511",
+      "href": "https://commons.wikimedia.org/wiki/File:Michelangelo,_Creation_of_the_Sun,_Moon,_and_Plants_01.jpg",
+      "wikidata": null,
+      "wikipedia": "https://fr.wikipedia.org/wiki/Plafond_de_la_chapelle_Sixtine",
+      "location": "Chapelle Sixtine, Vatican",
+      "image": {
+        "src": "/assets/proust/oeuvres/creation-des-astres-michel-ange.jpg",
+        "width": 1319,
+        "height": 670,
+        "credit": "Michelangelo — domaine public, via Wikimedia Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:Michelangelo,_Creation_of_the_Sun,_Moon,_and_Plants_01.jpg"
+      },
+      "targets": [
+        {
+          "match": "Création de Michel-Ange",
+          "paragraphs": [
+            "t1-p1006"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 127,
+                "text_excerpt": "… gui qui étaient semées au faîte des peupliers, rondes comme le soleil et la lune dans la Création de Michel-Ange. Mais forcés depuis tant d'années par une sorte de greffe à vivre en commun avec la femme, ils m'évoquaient la dryade, la belle mondaine rapide et co…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p1006",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "le-greco",
+      "kind": "artiste",
+      "label": "Le Greco, peintre",
+      "href": "https://fr.wikipedia.org/wiki/Le_Greco",
+      "wikidata": "Q301",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Greco",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 127,
+                "text_excerpt": "… Au lieu des belles robes dans lesquelles Mme Swann avait l'air d'une reine, des tuniques gréco-saxonnes relevaient avec les plis des Tanagra, et quelquefois dans le style du Directoire, des chiffrons liberty semés de fleurs comme un papier pein…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-xvi",
+      "kind": "personne",
+      "label": "Louis XVI, roi de France (1754-1793)",
+      "href": "https://fr.wikipedia.org/wiki/Louis_XVI",
+      "wikidata": "Q7732",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Louis XVI",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 64,
+                "raw_line": 129,
+                "text_excerpt": "…es retrouver tels que je me les rappelais. Hélas ! il n'y avait plus que des appartements Louis XVI tout blancs, émaillés d'hortensias bleus. D'ailleurs, on ne revenait plus à Paris que très tard. Mme Swann m'eût répondu d'un château qu'elle ne rent…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "eneide",
+      "kind": "livre",
+      "label": "L’Énéide — épopée de Virgile",
+      "href": "https://fr.wikipedia.org/wiki/%C3%89n%C3%A9ide",
+      "wikidata": "Q60220",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Énéide",
+          "paragraphs": [
+            "t1-p0997"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 54,
+                "raw_line": 109,
+                "text_excerpt": "… promeneuse rapide -- il était le Jardin des femmes ; et -- comme l'allée de Myrtes de l'*Énéide* -- plantée pour elles d'arbres d'une seule essence, l'allée des Acacias était fréquentée par les Beautés célèbres. Comme, de loin, la culmination du…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0997",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "maurice-barres",
+      "kind": "personne",
+      "label": "Maurice Barrès, écrivain et homme politique nationaliste, 1862-1923",
+      "href": "https://fr.wikipedia.org/wiki/Maurice_Barrès",
+      "wikidata": "Q314957",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Barrès",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 10,
+                "raw_line": 21,
+                "text_excerpt": "…es amies, si bien qu'une fois où elles ne se trouvèrent pas en nombre pour leur partie de barres elle me fit demander si je voulais compléter leur camp, et je jouai désormais avec elle chaque fois qu'elle était là. Mais ce n'était pas tous les jo…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 12,
+                "raw_line": 25,
+                "text_excerpt": "…mps-Élysées, et dès que j'y arriverais me dirait : « Commençons tout de suite à jouer aux barres, vous êtes dans mon camp » ; fragile, emportée par un souffle, mais aussi en rapport non pas avec la saison, mais avec l'heure ; promesse du bonheur …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 15,
+                "raw_line": 31,
+                "text_excerpt": "… tristement commencé devait finir dans la joie, comme je m'approchais, avant de jouer aux barres, de l'amie à la voix brève que j'avais entendue le premier jour crier le nom de Gilberte, elle me dit : « Non, non, on sait bien que vous aimez mieux…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 49,
+                "text_excerpt": "…e Gilberte est arrivée. Elle va repartir bientôt. On vous attend pour faire une partie de barres. » Pendant que je montais l'avenue des Champs-Élysées, Gilberte était venue par la rue Boissy-d'Anglas, Mademoiselle ayant profité du beau temps pour…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "michel-strogoff-verne",
+      "kind": "livre",
+      "label": "Michel Strogoff — roman de Jules Verne (1876)",
+      "href": "https://fr.wikipedia.org/wiki/Michel_Strogoff",
+      "wikidata": "Q1121567",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Michel Strogoff",
+          "paragraphs": [
+            "t1-p0972"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 29,
+                "raw_line": 59,
+                "text_excerpt": "…oir de ses fenêtres l'arrivée du roi Théodose, ce sera superbe, et le lendemain encore à *Michel Strogoff* et puis après, cela va être bientôt Noël et les vacances du jour de l'An. Peut-être on va m'emmener dans le midi. Ce que ce serait chic ! quoique ce…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t1-p0972",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "michel-ange",
+      "kind": "artiste",
+      "label": "Michel-Ange (1475-1564), sculpteur, peintre et architecte florentin",
+      "href": "https://fr.wikipedia.org/wiki/Michel-Ange",
+      "wikidata": "Q5592",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Michel-Ange",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 127,
+                "text_excerpt": "…ient semées au faîte des peupliers, rondes comme le soleil et la lune dans la Création de Michel-Ange. Mais forcés depuis tant d'années par une sorte de greffe à vivre en commun avec la femme, ils m'évoquaient la dryade, la belle mondaine rapide et co…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "poussin",
+      "kind": "artiste",
+      "label": "Nicolas Poussin (1594-1665), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/Nicolas_Poussin",
+      "wikidata": "Q41554",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Poussin",
+          "paragraphs": [],
+          "exclude": [
+            "t4-p0209"
+          ],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 9,
+                "raw_line": 19,
+                "text_excerpt": "…it nuage d'une couleur précieuse, pareil à celui qui, bombé au-dessus d'un beau jardin du Poussin, reflète minutieusement comme un nuage d'opéra, plein de chevaux et de chars, quelque apparition de la vie des dieux ; -- jetant enfin, sur cette her…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "patrice-de-mac-mahon",
+      "kind": "personne",
+      "label": "Patrice de Mac-Mahon, maréchal et président de la République, 1808-1893",
+      "href": "https://fr.wikipedia.org/wiki/Patrice_de_Mac_Mahon",
+      "wikidata": "Q158838",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mac-Mahon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 58,
+                "raw_line": 117,
+                "text_excerpt": "…a première jeunesse ! Je me rappelle que j'ai couché avec elle le jour de la démission de Mac-Mahon.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Mac Mahon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 58,
+                "raw_line": 117,
+                "text_excerpt": "…a première jeunesse ! Je me rappelle que j'ai couché avec elle le jour de la démission de Mac-Mahon.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "philippe-d-orleans-comte-de-paris",
+      "kind": "personne",
+      "label": "Philippe d'Orléans, comte de Paris, prétendant orléaniste au trône de France, 1838-1894",
+      "href": "https://fr.wikipedia.org/wiki/Philippe_d'Orléans_(1838-1894)",
+      "wikidata": "Q354477",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Philippe VII",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 25,
+                "raw_line": 51,
+                "text_excerpt": "… s'asseyant comme tout le monde sur une chaise de fer payait son ticket de cette main que Philippe VII avait si souvent retenue dans la sienne, tandis que nous commencions à jouer sur la pelouse, faisant envoler les pigeons, dont les beaux corps irisés…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "titien",
+      "kind": "artiste",
+      "label": "Titien (vers 1488-1576), peintre vénitien",
+      "href": "https://fr.wikipedia.org/wiki/Titien",
+      "wikidata": "Q47551",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Titien",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 7,
+                "raw_line": 15,
+                "text_excerpt": "… de valeur à ce que j'allais voir, que Venise était « l'école de Giorgione, la demeure du Titien, le plus complet musée de l'architecture domestique au moyen âge », je me sentais heureux. Je l'étais pourtant davantage quand, sorti pour une course…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "edouard-vii",
+      "kind": "personne",
+      "label": "Édouard VII, roi du Royaume-Uni",
+      "href": "https://fr.wikipedia.org/wiki/Édouard_VII",
+      "wikidata": "Q20875",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "prince de Galles",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 3,
+            "locations": [
+              {
+                "chapter_paragraph": 59,
+                "raw_line": 119,
+                "text_excerpt": "… le lui rappeler. Elle est maintenant Mme Swann, la femme d'un monsieur du Jockey, ami du prince de Galles. Elle est du reste encore superbe.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 20
+}

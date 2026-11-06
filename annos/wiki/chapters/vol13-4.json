@@ -1,0 +1,565 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol13-4",
+  "book": 6,
+  "raw_file": "raw-md/vol13/chapters/004.md",
+  "translation_file": "polish/dev/chapters/polished-vol13-4.md",
+  "annotations": [
+    {
+      "id": "antoine-arnauld",
+      "kind": "personne",
+      "label": "Antoine Arnauld, théologien janséniste (1612-1694)",
+      "href": "https://fr.wikipedia.org/wiki/Antoine_Arnauld_(1612-1694)",
+      "wikidata": "Q353887",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Arnauld",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 2,
+                "raw_line": 5,
+                "text_excerpt": "…ntir, quand ils y foulent un pavé presque pensant, qu'il recouvre la dernière poussière d'Arnauld ou de Pascal ; ou tout simplement qu'à déchiffrer, imaginant peut-être l'image d'une fraîche paroissienne, sur la plaque de cuivre du prie-Dieu de bo…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "blaise-pascal",
+      "kind": "personne",
+      "label": "Blaise Pascal, philosophe et savant (1623-1662)",
+      "href": "https://fr.wikipedia.org/wiki/Blaise_Pascal",
+      "wikidata": "Q1290",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Pascal",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 2,
+                "raw_line": 5,
+                "text_excerpt": "…s y foulent un pavé presque pensant, qu'il recouvre la dernière poussière d'Arnauld ou de Pascal ; ou tout simplement qu'à déchiffrer, imaginant peut-être l'image d'une fraîche paroissienne, sur la plaque de cuivre du prie-Dieu de bois, les noms …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "…n certain genre de petites filles aux cheveux dorés était aussi imaginaire que l'abîme de Pascal, et que je trouvai poétique à cause de la longue série d'années au fond de laquelle il me fallut l'accomplir. J'eus un sursaut de désir et de regret …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "diane-d-andoins-dite-la-belle-corisande",
+      "kind": "personne",
+      "label": "Diane d'Andoins, dite la belle Corisande, favorite d'Henri IV (1554-1620)",
+      "href": "https://fr.wikipedia.org/wiki/Diane_d'Andoins",
+      "wikidata": "Q93945",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Corisande",
+          "paragraphs": [
+            "t6-p0237"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 3,
+                "text_excerpt": "…s filles de la maison de Gramont, qui furent de véritables saintes, aient porté le nom de Corisande en mémoire de la liaison d'une aïeule avec Henri IV. Ce sont des choses qui se font peut-être aussi dans la bourgeoisie, mais on les cache davantage.…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0237",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "george-sand",
+      "kind": "personne",
+      "label": "George Sand, romancière (1804-1876)",
+      "href": "https://fr.wikipedia.org/wiki/George_Sand",
+      "wikidata": "Q3816",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mme Sand",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 3,
+                "text_excerpt": "…as possible ! -- C'est la récompense de la vertu. C'est un mariage à la fin d'un roman de M^me^ Sand », dit ma mère. « C'est le prix du vice, c'est un mariage à la fin d'un roman de Balzac », pensai-je. « Après tout, dis-je à ma mère, en y réfléchiss…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "henri-d-orleans-duc-d-aumale",
+      "kind": "personne",
+      "label": "Henri d'Orléans, duc d'Aumale, fils de Louis-Philippe, académicien, collectionneur",
+      "href": "https://fr.wikipedia.org/wiki/Henri_d'Orléans_(1822-1897)",
+      "wikidata": "Q712502",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "duc d’Aumale",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 3,
+                "text_excerpt": "…le avait faites à la maîtresse du prince de Condé pour qu'elle le fît tester en faveur du duc d'Aumale. Tu te souviens, elle était choquée que, depuis des siècles, des filles de la maison de Gramont, qui furent de véritables saintes, aient porté le nom…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "henri-iv",
+      "kind": "personne",
+      "label": "Henri IV, roi de France, 1553-1610",
+      "href": "https://fr.wikipedia.org/wiki/Henri_IV_(roi_de_France)",
+      "wikidata": "Q936976",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Henri IV",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 3,
+                "text_excerpt": "…ables saintes, aient porté le nom de Corisande en mémoire de la liaison d'une aïeule avec Henri IV. Ce sont des choses qui se font peut-être aussi dans la bourgeoisie, mais on les cache davantage. Crois-tu que cela l'eût amusée, ta pauvre grand'mèr…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "honore-de-balzac",
+      "kind": "personne",
+      "label": "Honoré de Balzac, romancier (1799-1850)",
+      "href": "https://fr.wikipedia.org/wiki/Honoré_de_Balzac",
+      "wikidata": "Q9711",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Balzac",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 3,
+                "text_excerpt": "…me^ Sand », dit ma mère. « C'est le prix du vice, c'est un mariage à la fin d'un roman de Balzac », pensai-je. « Après tout, dis-je à ma mère, en y réfléchissant, c'est assez naturel. Voilà les Cambremer ancrés dans ce clan des Guermantes où ils …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "gaulois",
+      "kind": "presse",
+      "label": "Le Gaulois — quotidien (1868-1929)",
+      "href": "https://fr.wikipedia.org/wiki/Le_Gaulois",
+      "wikidata": "Q26037434",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Gaulois",
+          "paragraphs": [
+            "t2-p0729",
+            "t3-p1170",
+            "t4-p0072",
+            "t4-p0076",
+            "t4-p0206",
+            "t5-p0263",
+            "t5-p0278",
+            "t6-p0240",
+            "t7-p0036"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 9,
+                "text_excerpt": "… -- où M. de Charlus avait surpris Morel et où la « sous-maîtresse », grande lectrice du *Gaulois*, commentait les nouvelles mondaines, cette patronne, parlant à un gros Monsieur qui venait chez elle, sans arrêter, boire du Champagne avec des jeun…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0240",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-xiv",
+      "kind": "personne",
+      "label": "Louis XIV, roi de France (1638-1715)",
+      "href": "https://fr.wikipedia.org/wiki/Louis_XIV",
+      "wikidata": "Q7742",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Louis XIV",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 6,
+                "raw_line": 13,
+                "text_excerpt": "…e jeune Cambremer épouserait quelque chose comme M^lle^ de Nantes, une de ces bâtardes de Louis XIV qui ne furent dédaignées ni par le duc d'Orléans, ni par le prince de Conti.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "madame-de-sevigne",
+      "kind": "personne",
+      "label": "Madame de Sévigné, épistolière (1626-1696)",
+      "href": "https://fr.wikipedia.org/wiki/Madame_de_Sévigné",
+      "wikidata": "Q237103",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Sévigné",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 3,
+                "text_excerpt": "…extraordinaire, je ne te dirai pas la plus grande, la plus petite, car cette situation de Sévigné faite par tous les gens qui ne savent que cela d'elle écœurait ta grand'mère autant que « la jolie chose que c'est de fumer ». Nous ne daignons pas r…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "marie-amelie-de-bourbon-siciles",
+      "kind": "personne",
+      "label": "Marie-Amélie de Bourbon-Siciles, reine des Français, épouse de Louis-Philippe Ier",
+      "href": "https://fr.wikipedia.org/wiki/Marie-Amélie_de_Bourbon-Siciles",
+      "wikidata": "Q231457",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Marie-Amélie",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 3,
+                "text_excerpt": "…nde aristocratie faisait des choses qui choqueraient de petits bourgeois, et que la reine Marie-Amélie lui était gâtée par les avances qu'elle avait faites à la maîtresse du prince de Condé pour qu'elle le fît tester en faveur du duc d'Aumale. Tu te so…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "marie-antoinette",
+      "kind": "personne",
+      "label": "Marie-Antoinette, reine de France (1755-1793)",
+      "href": "https://fr.wikipedia.org/wiki/Marie-Antoinette_d'Autriche",
+      "wikidata": "Q47365",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Marie-Antoinette",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 8,
+                "raw_line": 17,
+                "text_excerpt": "…ations et qui ne connaissaient pas les situations réelles, outre qu'ils pouvaient prendre Marie-Antoinette d'Oloron, marquise de Cambremer, pour une dame de la plus haute naissance, auraient pu commettre bien d'autres erreurs en lisant cette lettre de fair…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "mlle-de-nantes-louise-francoise-de-bourbon",
+      "kind": "personne",
+      "label": "Mlle de Nantes (Louise-Françoise de Bourbon), fille légitimée de Louis XIV (1673-1743)",
+      "href": "https://fr.wikipedia.org/wiki/Louise-Françoise_de_Bourbon_(1673-1743)",
+      "wikidata": "Q240261",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mlle de Nantes",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 6,
+                "raw_line": 13,
+                "text_excerpt": "…on pour montrer à Legrandin qu'en somme le jeune Cambremer épouserait quelque chose comme M^lle^ de Nantes, une de ces bâtardes de Louis XIV qui ne furent dédaignées ni par le duc d'Orléans, ni par le prince de Conti.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "richard-wagner",
+      "kind": "personne",
+      "label": "Richard Wagner, compositeur (1813-1883)",
+      "href": "https://fr.wikipedia.org/wiki/Richard_Wagner",
+      "wikidata": "Q1511",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Wagner",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 15,
+                "raw_line": 31,
+                "text_excerpt": "…it pas plus contenue dans le banal envoi de ma lettre que quelqu'un qui ne connaîtrait de Wagner que le duo de Lohengrin ne pourrait prévoir le prélude de Tristan. Certes, pour les hommes, les choses n'offrent qu'un nombre restreint de leurs inno…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "robert-le-fort",
+      "kind": "personne",
+      "label": "Robert le Fort, marquis de Neustrie, ancêtre des Capétiens (mort en 866)",
+      "href": "https://fr.wikipedia.org/wiki/Robert_le_Fort",
+      "wikidata": "Q433440",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Robert le Fort",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 9,
+                "text_excerpt": "…qui ne fit que m'attrister -- comme s'il était devenu quelqu'un d'autre, le descendant de Robert le Fort, plutôt que l'ami qui s'était mis si peu de temps auparavant sur le strapontin de la voiture afin que je fusse mieux au fond ; le fait de n'avoir pas…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 15
+}

@@ -1,0 +1,1836 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol14-1",
+  "book": 7,
+  "raw_file": "raw-md/vol14/chapters/001.md",
+  "translation_file": "polish/dev/chapters/polished-vol14-1.md",
+  "annotations": [
+    {
+      "id": "durer",
+      "kind": "artiste",
+      "label": "Albrecht Dürer (1471-1528), peintre et graveur allemand",
+      "href": "https://fr.wikipedia.org/wiki/Albrecht_D%C3%BCrer",
+      "wikidata": "Q5580",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dürer",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 18,
+                "raw_line": 37,
+                "text_excerpt": "… d'autre obstacle que ma mort et n'imaginant pas celle de l'église qui me semblait devoir durer longtemps après ma mort comme elle avait duré longtemps avant ma naissance.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "renoir",
+      "kind": "artiste",
+      "label": "Auguste Renoir (1841-1919), peintre impressionniste français",
+      "href": "https://fr.wikipedia.org/wiki/Auguste_Renoir",
+      "wikidata": "Q39931",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Renoir",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 26,
+                "raw_line": 53,
+                "text_excerpt": "…trouvera-t-elle pas plutôt, pour la postérité, dans le salon de l'éditeur Charpentier par Renoir que dans le portrait de la princesse de Sagan ou de la comtesse de la Rochefoucauld par Cotte ou Chaplin ? Les artistes qui nous ont donné les plus g…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charlemagne",
+      "kind": "personne",
+      "label": "Charlemagne, roi des Francs, empereur d'Occident",
+      "href": "https://fr.wikipedia.org/wiki/Charlemagne",
+      "wikidata": "Q3044",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Charlemagne",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 21,
+                "raw_line": 43,
+                "text_excerpt": "…santeries de professeur de seconde qui fraye avec les premiers de sa classe pour la Saint-Charlemagne, et c'est Brichot, l'universitaire. À mon nom prononcé par Verdurin, il n'a pas une parole qui marque qu'il connaisse nos livres, et c'est en moi un …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-augustin-sainte-beuve",
+      "kind": "personne",
+      "label": "Charles Augustin Sainte-Beuve, critique littéraire (1804-1869)",
+      "href": "https://fr.wikipedia.org/wiki/Charles-Augustin_Sainte-Beuve",
+      "wikidata": "Q1063392",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Sainte-Beuve",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…ême pas que le mari eût jamais écrit, lui parlaient de Charles Blanc, de Saint-Victor, de Sainte-Beuve, de Burty, comme d'individus auxquels ils le croyaient, lui, tout à fait inférieur. « Voyons, vous Goncourt, vous savez bien, et Gautier le savait au…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 25,
+                "raw_line": 51,
+                "text_excerpt": "…uelques mois après vous font un grand éloge de leur femme. Une des plus jolies poésies de Sainte-Beuve est consacrée à l'apparition devant une fontaine d'une jeune enfant couronnée de tous les dons et de toutes les grâces, la jeune Mlle de Champlâtreux…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 26,
+                "raw_line": 53,
+                "text_excerpt": "…ac les peignait dans ses livres ou les leur dédiait en hommage d'admiration, sur lesquels Sainte-Beuve ou Baudelaire firent leurs plus jolis vers, si, à plus forte raison, toutes les Récamier, toutes les Pompadour ne m'eussent pas paru d'insignifiantes…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-baudelaire",
+      "kind": "personne",
+      "label": "Charles Baudelaire, poète (1821-1867)",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Baudelaire",
+      "wikidata": "Q501",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Baudelaire",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 26,
+                "raw_line": 53,
+                "text_excerpt": "…dans ses livres ou les leur dédiait en hommage d'admiration, sur lesquels Sainte-Beuve ou Baudelaire firent leurs plus jolis vers, si, à plus forte raison, toutes les Récamier, toutes les Pompadour ne m'eussent pas paru d'insignifiantes personnes, so…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-blanc",
+      "kind": "personne",
+      "label": "Charles Blanc, critique et historien de l'art (1813-1882)",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Blanc",
+      "wikidata": "Q1063751",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Charles Blanc",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "… du salon de sa femme, ne sachant même pas que le mari eût jamais écrit, lui parlaient de Charles Blanc, de Saint-Victor, de Sainte-Beuve, de Burty, comme d'individus auxquels ils le croyaient, lui, tout à fait inférieur. « Voyons, vous Goncourt, vous s…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-fourier",
+      "kind": "personne",
+      "label": "Charles Fourier, philosophe et théoricien socialiste utopiste (1772-1837)",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Fourier",
+      "wikidata": "Q181707",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Fourier",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 14,
+                "raw_line": 29,
+                "text_excerpt": "…savoir ce que c'était, comme dans une conversation on prend un air entendu si on parle de Fourier ou de Tobolsk encore qu'on ne sache pas ce que c'est. Elle avait peut-être vécu près de l'amie de Mlle Vinteuil et d'Andrée, séparée par une cloison …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-lamoureux",
+      "kind": "personne",
+      "label": "Charles Lamoureux, chef d'orchestre, fondateur des Concerts Lamoureux, 1834-1899",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Lamoureux",
+      "wikidata": "Q1065279",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Lamoureux",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…loriage artiste de l'original Américain est souvent rendu avec une grande délicatesse par l'amoureux de tous les raffinements, de toutes les *joliesses* de la chose peinte qu'est Verdurin. Et tandis que je m'habille pour le suivre, c'est, de sa part,…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "denis-diderot",
+      "kind": "personne",
+      "label": "Denis Diderot, philosophe des Lumières, 1713-1784",
+      "href": "https://fr.wikipedia.org/wiki/Denis_Diderot",
+      "wikidata": "Q448",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Diderot",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "…rieures, mêlées de petits jeux, me refaisant penser à celles qu'évoque ce chef-d'œuvre de Diderot, les lettres à Mademoiselle Volland. Puis, après le déjeuner, tout le monde sortait, même les jours de grains dans le coup de soleil, le rayonnement …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "edmond-et-jules-de-goncourt",
+      "kind": "personne",
+      "label": "Edmond et Jules de Goncourt, écrivains, tenue d'un Journal célèbre (le « Journal des Goncourt » pastiché par Proust)",
+      "href": "https://fr.wikipedia.org/wiki/Frères_Goncourt",
+      "wikidata": "Q622283",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Goncourt",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "… me produisit une impression assez vive et mêlée. C'était un volume du journal inédit des Goncourt.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…, comme d'individus auxquels ils le croyaient, lui, tout à fait inférieur. « Voyons, vous Goncourt, vous savez bien, et Gautier le savait aussi, que mes salons étaient autre chose que ces piteux *Maîtres d'autrefois* crus un chef-d'œuvre dans la fa…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "…éremptoire : « Mais c'est tout à fait un grand écrivain, Stevenson, je vous assure, M. de Goncourt, un très grand, l'égal des plus grands. » Et comme, sur mon émerveillement des plafonds à caissons écussonnés provenant de l'ancien palazzo Barberini…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 23,
+                "raw_line": 47,
+                "text_excerpt": "…nt de siècles, nous ne savons pas grand'chose là-dessus. -- Je fermai donc le journal des Goncourt. Prestige de la littérature ! J'aurais voulu revoir les Cottard, leur demander tant de détails sur Elstir, aller voir la boutique du Petit Dunkerque …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 49,
+                "text_excerpt": "…côté les objections qu'avaient pu faire naître en moi contre la littérature ces pages des Goncourt. Même en mettant de côté l'indice individuel de naïveté qui est frappant chez le mémorialiste, je pouvais d'ailleurs me rassurer à divers points de v…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 25,
+                "raw_line": 51,
+                "text_excerpt": "…atière inépuisable, divertissement des soirées solitaires pour le lecteur, du journal des Goncourt, lui avaient été contées par ces convives que nous eussions à travers ces pages envié de connaître et qui ne m'avaient pas laissé à moi trace d'un so…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "fromentin",
+      "kind": "artiste",
+      "label": "Eugène Fromentin (1820-1876), peintre et écrivain français",
+      "href": "https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Fromentin",
+      "wikidata": "Q353746",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Fromentin",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…onfession sur le renoncement à écrire aussitôt après son mariage avec la « Madeleine » de Fromentin, renoncement qui serait dû à l'habitude de la morphine et aurait eu cet effet, au dire de Verdurin, que la plupart des habitués du salon de sa femme,…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "guardi",
+      "kind": "artiste",
+      "label": "Francesco Guardi (1712-1793), peintre vénitien",
+      "href": "https://fr.wikipedia.org/wiki/Francesco_Guardi",
+      "wikidata": "Q318769",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Guardi",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "… lequel la coupole silhouettée de l'Institut fait penser à la Salute dans les tableaux de Guardi, j'ai un peu l'illusion d'être au bord du Grand Canal. L'illusion est entretenue par la construction de l'hôtel où du premier étage on ne voit pas le…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "gabriel-de-saint-aubin",
+      "kind": "artiste",
+      "label": "Gabriel de Saint-Aubin, dessinateur et peintre français (1724-1780)",
+      "href": "https://fr.wikipedia.org/wiki/Gabriel_de_Saint-Aubin",
+      "wikidata": "Q3094033",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Gabriel de Saint-Aubin",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…es rares boutiques survivant ailleurs que vignettées dans le crayonnage et les frottis de Gabriel de Saint-Aubin, où le XVIIIe siècle curieux venait asseoir ses moments d'oisiveté pour le marchandage des jolités françaises et étrangères et « tout ce que les arts…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "georges-charpentier",
+      "kind": "personne",
+      "label": "Georges Charpentier, éditeur français, hôte d'un salon peint par Renoir (1846-1905)",
+      "href": "https://fr.wikipedia.org/wiki/Georges_Charpentier",
+      "wikidata": "Q3102457",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "éditeur Charpentier",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 26,
+                "raw_line": 53,
+                "text_excerpt": "…es de notre temps ne se trouvera-t-elle pas plutôt, pour la postérité, dans le salon de l'éditeur Charpentier par Renoir que dans le portrait de la princesse de Sagan ou de la comtesse de la Rochefoucauld par Cotte ou Chaplin ? Les artistes qui nous ont donné…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "gustave-flaubert",
+      "kind": "personne",
+      "label": "Gustave Flaubert, romancier (1821-1880)",
+      "href": "https://fr.wikipedia.org/wiki/Gustave_Flaubert",
+      "wikidata": "Q43444",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Flaubert",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 21,
+                "raw_line": 43,
+                "text_excerpt": "…la mer que vous connaissez, proteste ma voisine frénétiquement, en réponse à mon dire que Flaubert nous avait menés, mon frère et moi, à Trouville, rien, absolument rien, il faudra venir avec moi, sans cela vous ne saurez jamais -- ils rentraient, …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "fantin-latour",
+      "kind": "artiste",
+      "label": "Henri Fantin-Latour (1836-1904), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/Henri_Fantin-Latour",
+      "wikidata": "Q310715",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Fantin-Latour",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "…s que les amateurs d'art nous citent aujourd'hui comme le premier, comme supérieur même à Fantin-Latour, n'aurait peut-être jamais, sans la femme qui est là, su peindre un jasmin. « Oui, ma parole, le jasmin ; toutes les roses qu'il a faites, c'est chez…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "henriette-d-angleterre",
+      "kind": "personne",
+      "label": "Henriette d'Angleterre, princesse anglaise, duchesse d'Orléans (1644-1670)",
+      "href": "https://fr.wikipedia.org/wiki/Henriette_d'Angleterre",
+      "wikidata": "Q230921",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Henriette d’Angleterre",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "…hes, à la vente d'un descendant de Mme de La Fayette à qui elles auraient été données par Henriette d'Angleterre, perles devenues noires à la suite d'un incendie qui détruisit une partie de la maison que les Verdurin habitaient dans une rue dont je ne me rappell…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "honore-de-balzac",
+      "kind": "personne",
+      "label": "Honoré de Balzac, romancier (1799-1850)",
+      "href": "https://fr.wikipedia.org/wiki/Honoré_de_Balzac",
+      "wikidata": "Q9711",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Balzac",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 16,
+                "raw_line": 33,
+                "text_excerpt": "-- Justement, reprit Gilberte, le livre que je tiens parle de ces choses. C'est un vieux Balzac que je pioche pour me mettre à la hauteur de mes oncles, *la Fille aux yeux d'Or*. Mais c'est absurde, invraisemblable, un beau cauchemar. D'ailleurs…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 49,
+                "text_excerpt": "…t venu pour Elstir et comme cela arrive rarement) à un bon goût supérieur. Les lettres de Balzac, par exemple, ne sont-elles pas semées de termes vulgaires que Swann eût souffert mille morts d'employer ? Et cependant il est probable que Swann, si…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 26,
+                "raw_line": 53,
+                "text_excerpt": "…était à se demander si tous les gens que nous regrettons de ne pas avoir connus parce que Balzac les peignait dans ses livres ou les leur dédiait en hommage d'admiration, sur lesquels Sainte-Beuve ou Baudelaire firent leurs plus jolis vers, si, à…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jacopo-sansovino",
+      "kind": "artiste",
+      "label": "Jacopo Sansovino, sculpteur et architecte italien (1486-1570)",
+      "href": "https://fr.wikipedia.org/wiki/Jacopo_Sansovino",
+      "wikidata": "Q202267",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Sansovino",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…résentant un couronnement de la Vierge que Verdurin soutient être absolument du plus beau Sansovino et qui servirait, pour leurs invités, à jeter la cendre de leurs cigares. Et ma foi, quand nous arrivons, dans le glauque et le diffus d'un clair de …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "whistler",
+      "kind": "artiste",
+      "label": "James Abbott McNeill Whistler (1834-1903), peintre américain",
+      "href": "https://fr.wikipedia.org/wiki/James_Abbott_McNeill_Whistler",
+      "wikidata": "Q203643",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Whistler",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…emmener dîner chez lui, Verdurin, l'ancien critique de la Revue, l'auteur de ce livre sur Whistler où vraiment le faire, le coloriage artiste de l'original Américain est souvent rendu avec une grande délicatesse par l'amoureux de tous les raffineme…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "juliette-recamier",
+      "kind": "personne",
+      "label": "Juliette Récamier, salonnière",
+      "href": "https://fr.wikipedia.org/wiki/Juliette_Récamier",
+      "wikidata": "Q236442",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Récamier",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 26,
+                "raw_line": 53,
+                "text_excerpt": "…nte-Beuve ou Baudelaire firent leurs plus jolis vers, si, à plus forte raison, toutes les Récamier, toutes les Pompadour ne m'eussent pas paru d'insignifiantes personnes, soit par une infirmité de ma nature, ce qui me faisait alors enrager d'être m…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cousine-bette-balzac",
+      "kind": "livre",
+      "label": "La Cousine Bette — roman d’Honoré de Balzac (1846)",
+      "href": "https://fr.wikipedia.org/wiki/La_Cousine_Bette",
+      "wikidata": "Q2712800",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Cousine Bette",
+          "paragraphs": [
+            "t7-p0024"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 49,
+                "text_excerpt": "…le que Swann, si fin, si purgé de tout ridicule haïssable, eût été incapable d'écrire la *Cousine Bette* et le *Curé de Tours*. Que ce soit donc les Mémoires qui aient tort de donner du charme à leur société alors qu'elle nous a déplu est un problème de…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0024",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "fille-aux-yeux-d-or-balzac",
+      "kind": "livre",
+      "label": "La Fille aux yeux d’or — roman d’Honoré de Balzac (1835)",
+      "href": "https://fr.wikipedia.org/wiki/La_Fille_aux_yeux_d%27or",
+      "wikidata": "Q2718047",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Fille aux yeux d’Or",
+          "paragraphs": [
+            "t7-p0016",
+            "t7-p0017"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 16,
+                "raw_line": 33,
+                "text_excerpt": "…hoses. C'est un vieux Balzac que je pioche pour me mettre à la hauteur de mes oncles, *la Fille aux yeux d'Or*. Mais c'est absurde, invraisemblable, un beau cauchemar. D'ailleurs, une femme peut, peut-être, être surveillée ainsi par une autre femme, jamais pa…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0016",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  },
+                  {
+                    "source_paragraph": "t7-p0017",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "Je ne voulus pas emprunter à Gilberte *la Fille aux yeux d'Or* puisqu'elle le lisait. Mais elle me prêta, le dernier soir que je passai chez elle, un livre qui me produisit une impression assez vive et mêlée. C'…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0016",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  },
+                  {
+                    "source_paragraph": "t7-p0017",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cure-de-tours-balzac",
+      "kind": "livre",
+      "label": "Le Curé de Tours — roman d’Honoré de Balzac (1832)",
+      "href": "https://fr.wikipedia.org/wiki/Le_Cur%C3%A9_de_Tours",
+      "wikidata": "Q2718131",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Curé de Tours",
+          "paragraphs": [
+            "t4-p0382",
+            "t7-p0024"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 49,
+                "text_excerpt": "…si purgé de tout ridicule haïssable, eût été incapable d'écrire la *Cousine Bette* et le *Curé de Tours*. Que ce soit donc les Mémoires qui aient tort de donner du charme à leur société alors qu'elle nous a déplu est un problème de peu d'importance, pui…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0024",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "figaro",
+      "kind": "presse",
+      "label": "Le Figaro — quotidien fondé en 1826",
+      "href": "https://fr.wikipedia.org/wiki/Le_Figaro",
+      "wikidata": "Q216047",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Figaro",
+          "paragraphs": [
+            "t1-p0027",
+            "t1-p0028",
+            "t2-p0264",
+            "t3-p0995",
+            "t3-p1124",
+            "t4-p0045",
+            "t4-p0076",
+            "t5-p0011",
+            "t5-p0203",
+            "t5-p0221",
+            "t6-p0112",
+            "t6-p0113",
+            "t6-p0116",
+            "t6-p0117",
+            "t6-p0120",
+            "t6-p0132",
+            "t6-p0146",
+            "t7-p0009",
+            "t7-p0036",
+            "t7-p0061",
+            "t7-p0230"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 9,
+                "raw_line": 19,
+                "text_excerpt": "…ns le Midi, je compris brusquement que c'était lui qui m'avait écrit pour mon article du *Figaro* cette lettre, d'une écriture populaire et d'un langage charmant, dont le nom du signataire m'était alors inconnu.",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0009",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  },
+                  {
+                    "source_paragraph": "t7-p0230",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "maitres-d-autrefois-fromentin",
+      "kind": "livre",
+      "label": "Les Maîtres d’autrefois — Eugène Fromentin (1876)",
+      "href": "https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Fromentin",
+      "wikidata": "Q353746",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Maîtres d’autrefois",
+          "paragraphs": [
+            "t7-p0020"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…avez bien, et Gautier le savait aussi, que mes salons étaient autre chose que ces piteux *Maîtres d'autrefois* crus un chef-d'œuvre dans la famille de ma femme. » Puis, par un crépuscule où il y a près des tours du Trocadéro comme le dernier allumement d'une …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0020",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "mille-et-une-nuits",
+      "kind": "livre",
+      "label": "Les Mille et Une Nuits — recueil de contes arabes, traduit par Antoine Galland (1704-1717)",
+      "href": "https://fr.wikipedia.org/wiki/Les_Mille_et_Une_Nuits",
+      "wikidata": "Q8258",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mille et une Nuits",
+          "paragraphs": [
+            "t3-p0213",
+            "t4-p0254",
+            "t5-p0221",
+            "t7-p0020",
+            "t7-p0070",
+            "t7-p0191",
+            "t7-p0242",
+            "t1-p0110",
+            "t2-p0744",
+            "t5-p0296",
+            "t5-p0298",
+            "t6-p0225",
+            "t7-p0079",
+            "t7-p0100"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…fumoir dont Verdurin me parle comme d'une salle transportée telle quelle, à la façon des *Mille et une Nuits*, d'un célèbre palazzo, dont j'oublie le nom, *palazzo* à la margelle du puits représentant un couronnement de la Vierge que Verdurin soutient être a…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0020",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  },
+                  {
+                    "source_paragraph": "t7-p0242",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "plaideurs-racine",
+      "kind": "scene",
+      "label": "Les Plaideurs — comédie de Jean Racine (1668)",
+      "href": "https://fr.wikipedia.org/wiki/Les_Plaideurs",
+      "wikidata": "Q583392",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Plaideurs",
+          "paragraphs": [
+            "t7-p0020"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…gues ayant l'air d'une illustration de l'Édition des Fermiers Généraux de l'Huître et des Plaideurs. La maîtresse de la maison, qui va me placer à côté d'elle, me dit aimablement avoir fleuri sa table rien qu'avec des chrysanthèmes japonais, mais de…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0020",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-xv",
+      "kind": "personne",
+      "label": "Louis XV, roi de France (1710-1774)",
+      "href": "https://fr.wikipedia.org/wiki/Louis_XV",
+      "wikidata": "Q7738",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Louis XV",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…e et qui est bien un des volants chefs-d'œuvre de papier ornementé sur lequel le règne de Louis XV faisait ses comptes, avec son en-tête représentant une mer toute vagueuse, chargée de vaisseaux, une mer aux vagues ayant l'air d'une illustration de…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "madame-de-pompadour",
+      "kind": "personne",
+      "label": "Madame de Pompadour, favorite de Louis XV",
+      "href": "https://fr.wikipedia.org/wiki/Madame_de_Pompadour",
+      "wikidata": "Q188965",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Pompadour",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 26,
+                "raw_line": 53,
+                "text_excerpt": "…re firent leurs plus jolis vers, si, à plus forte raison, toutes les Récamier, toutes les Pompadour ne m'eussent pas paru d'insignifiantes personnes, soit par une infirmité de ma nature, ce qui me faisait alors enrager d'être malade et de ne pouvoir…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "madame-du-barry",
+      "kind": "personne",
+      "label": "Madame du Barry, favorite de Louis XV",
+      "href": "https://fr.wikipedia.org/wiki/Madame_du_Barry",
+      "wikidata": "Q230677",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dubarry",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 2,
+            "locations": [
+              {
+                "chapter_paragraph": 21,
+                "raw_line": 43,
+                "text_excerpt": "…'or -- enfin toute une argenterie où courent ces myrtes de Luciennes que reconnaîtrait la Dubarry. Et ce qui est peut-être aussi rare, c'est la qualité vraiment tout à fait remarquable des choses qui sont servies là dedans, un manger finement mijo…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "madame-charpentier-renoir",
+      "kind": "oeuvre",
+      "label": "Madame Georges Charpentier et ses enfants — Auguste Renoir, 1878 (Metropolitan Museum of Art, New York)",
+      "href": "https://www.metmuseum.org/art/collection/search/438815",
+      "wikidata": null,
+      "wikipedia": "https://fr.wikipedia.org/wiki/Madame_Charpentier_et_ses_enfants",
+      "location": "Metropolitan Museum of Art, New York",
+      "image": {
+        "src": "/assets/proust/oeuvres/madame-charpentier-renoir.jpg",
+        "width": 1600,
+        "height": 1290,
+        "credit": "Metropolitan Museum of Art (Open Access) — CC0, via Wikimedia Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:Madame_Georges_Charpentier_(Marguérite-Louise_Lemonnier,_1848–1904)_and_Her_Children,_Georgette-Berthe_(1872–1945)_and_Paul-Émile-Charles_(1875–1895)_MET_DT49.jpg"
+      },
+      "targets": [
+        {
+          "match": "salon de l’éditeur Charpentier par Renoir",
+          "paragraphs": [
+            "t7-p0026"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 26,
+                "raw_line": 53,
+                "text_excerpt": "…les toilettes de notre temps ne se trouvera-t-elle pas plutôt, pour la postérité, dans le salon de l'éditeur Charpentier par Renoir que dans le portrait de la princesse de Sagan ou de la comtesse de la Rochefoucauld par Cotte ou Chaplin ? Les artistes qui nous ont donné les plus g…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0026",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "marie-madeleine-de-la-fayette",
+      "kind": "personne",
+      "label": "Marie-Madeleine de La Fayette, romancière, auteur de La Princesse de Clèves, 1634-1693",
+      "href": "https://fr.wikipedia.org/wiki/Madame_de_La_Fayette",
+      "wikidata": "Q237090",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mme de Lafayette",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "…îtresse de la maison et achetées par elle, toutes blanches, à la vente d'un descendant de Mme de La Fayette à qui elles auraient été données par Henriette d'Angleterre, perles devenues noires à la suite d'un incendie qui détruisit une partie de la maison qu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Mme de la Fayette",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "…îtresse de la maison et achetées par elle, toutes blanches, à la vente d'un descendant de Mme de La Fayette à qui elles auraient été données par Henriette d'Angleterre, perles devenues noires à la suite d'un incendie qui détruisit une partie de la maison qu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Mme de La Fayette",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 2,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "…îtresse de la maison et achetées par elle, toutes blanches, à la vente d'un descendant de Mme de La Fayette à qui elles auraient été données par Henriette d'Angleterre, perles devenues noires à la suite d'un incendie qui détruisit une partie de la maison qu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "napoleon-ier",
+      "kind": "personne",
+      "label": "Napoléon Ier, empereur des Français (1769-1821)",
+      "href": "https://fr.wikipedia.org/wiki/Napoléon_Ier",
+      "wikidata": "Q517",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Napoléon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "… Swann, ayant raconté que des taches pareilles attestent sur les livres ayant appartenu à Napoléon Ier, livres possédés, malgré ses opinions antibonapartistes, par le duc de Guermantes, que l'empereur chiquait, Cottard, qui se révèle un curieux vra…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "paul-de-saint-victor",
+      "kind": "personne",
+      "label": "Paul de Saint-Victor, écrivain et critique français (1825-1881)",
+      "href": "https://fr.wikipedia.org/wiki/Paul_de_Saint-Victor",
+      "wikidata": "Q3372509",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Saint-Victor",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…mme, ne sachant même pas que le mari eût jamais écrit, lui parlaient de Charles Blanc, de Saint-Victor, de Sainte-Beuve, de Burty, comme d'individus auxquels ils le croyaient, lui, tout à fait inférieur. « Voyons, vous Goncourt, vous savez bien, et Gau…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "philippe-burty",
+      "kind": "personne",
+      "label": "Philippe Burty, critique d'art et collectionneur (1830-1890)",
+      "href": "https://fr.wikipedia.org/wiki/Philippe_Burty",
+      "wikidata": "Q3379474",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Burty",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…ri eût jamais écrit, lui parlaient de Charles Blanc, de Saint-Victor, de Sainte-Beuve, de Burty, comme d'individus auxquels ils le croyaient, lui, tout à fait inférieur. « Voyons, vous Goncourt, vous savez bien, et Gautier le savait aussi, que m…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "pierre-gouthiere",
+      "kind": "personne",
+      "label": "Pierre Gouthière, bronzier et ciseleur français (1732-1813)",
+      "href": "https://fr.wikipedia.org/wiki/Pierre_Gouthière",
+      "wikidata": "Q2093498",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Gouthière",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 21,
+                "raw_line": 43,
+                "text_excerpt": "…e, fait penser à la libre retombée d'une branche fleurie dans le bronze d'une applique de Gouthière, une Normandie qui serait absolument insoupçonnée des Parisiens en vacances et que protège la barrière de chacun de ses clos, barrières que les Verdu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "princesse-de-sagan",
+      "kind": "personne",
+      "label": "Princesse de Sagan, figure de la haute société parisienne de la Belle Époque",
+      "href": "https://fr.wikipedia.org/wiki/Jeanne_Seillière",
+      "wikidata": "Q30228557",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "princesse de Sagan",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 26,
+                "raw_line": 53,
+                "text_excerpt": "…a postérité, dans le salon de l'éditeur Charpentier par Renoir que dans le portrait de la princesse de Sagan ou de la comtesse de la Rochefoucauld par Cotte ou Chaplin ? Les artistes qui nous ont donné les plus grandes visions d'élégance en ont recueilli les…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "robert-louis-stevenson",
+      "kind": "personne",
+      "label": "Robert Louis Stevenson, écrivain écossais (1850-1894)",
+      "href": "https://fr.wikipedia.org/wiki/Robert_Louis_Stevenson",
+      "wikidata": "Q1512",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Stevenson",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "…été mise en œuvre par un amateur qui est le favori des soirées de ses enfants, l'Écossais Stevenson, un nom qui met dans la bouche de Swann cette affirmation péremptoire : « Mais c'est tout à fait un grand écrivain, Stevenson, je vous assure, M. de …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "rodolphe-d-autriche",
+      "kind": "personne",
+      "label": "Rodolphe d'Autriche, archiduc, prince héritier d'Autriche-Hongrie",
+      "href": "https://fr.wikipedia.org/wiki/Rodolphe_d'Autriche",
+      "wikidata": "Q152923",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "archiduc Rodolphe",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…pe, et Cottard me souffle à l'oreille que c'est elle qui aurait tiré à bout portant sur l'archiduc Rodolphe et d'après qui j'aurais en Galicie et dans tout le nord de la Pologne une situation absolument exceptionnelle, une jeune fille ne consentant jamais à…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "sophie-volland",
+      "kind": "personne",
+      "label": "Sophie Volland, correspondante et amie de Diderot (1716-1784)",
+      "href": "https://fr.wikipedia.org/wiki/Sophie_Volland",
+      "wikidata": "Q2302879",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mademoiselle Volland",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "…ts jeux, me refaisant penser à celles qu'évoque ce chef-d'œuvre de Diderot, les lettres à Mademoiselle Volland. Puis, après le déjeuner, tout le monde sortait, même les jours de grains dans le coup de soleil, le rayonnement d'une ondée lignant de son filtrage …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "thomas-lawrence",
+      "kind": "artiste",
+      "label": "Thomas Lawrence, peintre anglais, évoqué par comparaison pour l'élégance d'un parc (1769-1830)",
+      "href": "https://fr.wikipedia.org/wiki/Thomas_Lawrence",
+      "wikidata": "Q312096",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Lawrence",
+          "paragraphs": [
+            "t7-p0021"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 21,
+                "raw_line": 43,
+                "text_excerpt": "…e Normandie qui serait un immense parc anglais, à la fragrance de ses hautes futaies à la Lawrence, au velours cryptomeria, dans leur bordure porcelainée d'hortensias roses, de ses pelouses naturelles, au chiffonnage de roses soufre dont la retombé…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0021",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "theophile-gautier",
+      "kind": "personne",
+      "label": "Théophile Gautier, écrivain et critique d'art (1811-1872)",
+      "href": "https://fr.wikipedia.org/wiki/Théophile_Gautier",
+      "wikidata": "Q183713",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Gautier",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…ls le croyaient, lui, tout à fait inférieur. « Voyons, vous Goncourt, vous savez bien, et Gautier le savait aussi, que mes salons étaient autre chose que ces piteux *Maîtres d'autrefois* crus un chef-d'œuvre dans la famille de ma femme. » Puis, pa…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "titien",
+      "kind": "artiste",
+      "label": "Titien (vers 1488-1576), peintre vénitien",
+      "href": "https://fr.wikipedia.org/wiki/Titien",
+      "wikidata": "Q47551",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Titien",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 26,
+                "raw_line": 53,
+                "text_excerpt": "…traîne de velours et de dentelles est un morceau de peinture comparable aux plus beaux du Titien. Si j'avais compris jadis que ce n'est pas le plus spirituel, le plus instruit, le mieux relationné des hommes, mais celui qui sait devenir miroir et…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "yongzheng",
+      "kind": "personne",
+      "label": "Yongzheng, empereur de Chine de la dynastie Qing, 1678-1735",
+      "href": "https://fr.wikipedia.org/wiki/Yongzheng",
+      "wikidata": "Q317839",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Yung-Tsching",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 21,
+                "raw_line": 43,
+                "text_excerpt": "…illée d'un amateur écoute le plus complaisamment le bavardage artiste -- des assiettes de Yung-Tsching à la couleur capucine de leurs rebords, au bleuâtre, à l'effeuillé turgide de leurs iris d'eau, à la traversée, vraiment décoratoire, par l'aurore d'…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 45
+}

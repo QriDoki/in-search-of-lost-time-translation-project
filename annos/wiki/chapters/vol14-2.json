@@ -1,0 +1,4766 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol14-2",
+  "book": 7,
+  "raw_file": "raw-md/vol14/chapters/002.md",
+  "translation_file": "polish/dev/chapters/polished-vol14-2.md",
+  "annotations": [
+    {
+      "id": "aimee-de-coigny",
+      "kind": "personne",
+      "label": "Aimée de Coigny, figure de la Révolution, inspiratrice de La Jeune Captive",
+      "href": "https://fr.wikipedia.org/wiki/Aimée_de_Coigny",
+      "wikidata": "Q2828114",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Aimée de Coigny",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…peut-être même pour la forme du gouvernement. Vous m'avez fait lire autrefois l'admirable Aimée de Coigny de Maurras. Je serais fort surpris que quelque Aimée de Coigny n'attendît pas du développement de la guerre que fait la République ce qu'en 1812 Aimé…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "decamps",
+      "kind": "artiste",
+      "label": "Alexandre-Gabriel Decamps (1803-1860), peintre orientaliste français",
+      "href": "https://fr.wikipedia.org/wiki/Alexandre-Gabriel_Decamps",
+      "wikidata": "Q458288",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Decamps",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 45,
+                "raw_line": 91,
+                "text_excerpt": "…se trompait, il péchait par excès de contact et de regards. « Est-ce que tout l'Orient de Decamps, de Fromentin, d'Ingres, de Delacroix n'est pas là dedans ? me dit-il, encore immobilisé par le passage du Sénégalais. Vous savez, moi, je ne m'intér…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "alfred-de-vigny",
+      "kind": "personne",
+      "label": "Alfred de Vigny, écrivain (1797-1863)",
+      "href": "https://fr.wikipedia.org/wiki/Alfred_de_Vigny",
+      "wikidata": "Q309702",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Vigny",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 16,
+                "raw_line": 33,
+                "text_excerpt": "…rist, ou barbares qui étaient déjà pétris de grandeur avant que s'en fussent servis Hugo, Vigny, ou les autres. Je dis que le peuple est ce qu'il y a de mieux, mais tout le monde est bien. Le pauvre Vaugoubert, le fils de l'ambassadeur, a été se…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "alfred-dreyfus",
+      "kind": "personne",
+      "label": "Alfred Dreyfus, officier français, au centre de l'affaire Dreyfus",
+      "href": "https://fr.wikipedia.org/wiki/Alfred_Dreyfus",
+      "wikidata": "Q171826",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dreyfus",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 3,
+                "raw_line": 7,
+                "text_excerpt": "…ps que son mari eût joué un rôle, âprement critiqué par l'*Écho de Paris*, dans l'affaire Dreyfus ? Toute la Chambre étant à un certain moment devenue révisionniste, c'était forcément parmi d'anciens révisionnistes, comme parmi d'anciens socialist…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 13,
+                "raw_line": 27,
+                "text_excerpt": "…stes que je les avais entendu accuser, pendant que j'étais à Doncières, en pleine affaire Dreyfus, d'être des sans-patrie. Le patriotisme des militaires, aussi sincère, aussi profond, avait pris une forme définie qu'ils croyaient intangible et sur…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 73,
+                "text_excerpt": "…a femme, couple remarquablement lettré avec lequel il se lia, comme au temps de l'affaire Dreyfus avec les trois dames charmantes ; que dès le premier jour il eut la stupéfaction, parlant de Caillaux dont il estimait la condamnation certaine et le…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…l était fou de faire la séparation de l'Église. Elle a passé comme une lettre à la poste. Dreyfus a été réhabilité, Picquart ministre de la guerre, sans qu'on crie ouf. Pourtant que ne peut-on pas craindre d'un surmenage pareil à celui d'une guerr…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 60,
+                "raw_line": 121,
+                "text_excerpt": "…re, il avait trouvé un moyen, plus efficace encore que l'expulsion des sœurs et l'affaire Dreyfus, de la torturer. Ce soir-là, et chaque fois que j'allais auprès d'eux pendant les quelques jours que je passai encore à Paris, j'entendis le maître d…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "alphonse-xiii-d-espagne",
+      "kind": "personne",
+      "label": "Alphonse XIII d'Espagne, roi d'Espagne, moqué sous le nom de « Fonfonse » (1886-1941)",
+      "href": "https://fr.wikipedia.org/wiki/Alphonse_XIII",
+      "wikidata": "Q18363",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Fonfonse",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 9,
+                "text_excerpt": "…yant été inventée par lui, comme quand jadis, pour parler du Roi d'Espagne, il disait : « Fonfonse ». On peut remarquer, d'ailleurs, qu'au fur et à mesure qu'augmenta le nombre des gens brillants qui firent des avances à Mme Verdurin, le nombre de …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "anatole-france",
+      "kind": "personne",
+      "label": "Anatole France, écrivain, 1844-1924",
+      "href": "https://fr.wikipedia.org/wiki/Anatole_France",
+      "wikidata": "Q42443",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Anatole France",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 38,
+                "raw_line": 77,
+                "text_excerpt": "…mbes, encore qu'il n'ait pas eu de préface de notre doux maître en scepticisme délicieux, Anatole France, qui fut si je ne me trompe mon adversaire\\... avant le Déluge, a dit que le *moi* est toujours haïssable. » À partir de ce moment Brichot remplaça *…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "watteau",
+      "kind": "artiste",
+      "label": "Antoine Watteau (1684-1721), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/Antoine_Watteau",
+      "wikidata": "Q183221",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Watteau",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 71,
+                "text_excerpt": "…, que dans les palais historiques, ou pour Goncourt mettant Diderot au-dessus d'Homère et Watteau au-dessus de Raphaël, ne cesse de nous répéter que les Thermopyles, qu'Austerlitz même, ce n'était rien à côté de Vauquois. Cette fois, du reste, le …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "apollonios-de-tyane",
+      "kind": "personne",
+      "label": "Apollonios de Tyane, philosophe néopythagoricien grec (Ier s.)",
+      "href": "https://fr.wikipedia.org/wiki/Apollonios_de_Tyane",
+      "wikidata": "Q297040",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Apollonius de Tyane",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 38,
+                "raw_line": 77,
+                "text_excerpt": "…rappeler tout ce qu'il avait dit il y avait quelques années, et ce que Clausewitz, Ovide, Apollonius de Tyane avaient dit il y avait plus ou moins de siècles, Brichot aurait pu constituer aisément la matière d'un fort volume. Il est à regretter qu'il n'en ait…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "armand-du-paty-de-clam",
+      "kind": "personne",
+      "label": "Armand du Paty de Clam, officier, instructeur du dossier Dreyfus (1853-1916)",
+      "href": "https://fr.wikipedia.org/wiki/Armand_du_Paty_de_Clam",
+      "wikidata": "Q532404",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Paty de Clam",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "…vec cette pointe de coquetterie à citer un ennemi que mettait, par exemple, le colonel du Paty de Clam, dans la salle des témoins de l'affaire Zola, à réciter en passant devant Pierre Quillard, poète dreyfusard de la plus extrême violence et que, d'ail…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 71,
+                "text_excerpt": "…rrégularités du général de Boisdeffre, les travestissements et machinations du colonel du Paty de Clam, le faux du colonel Henry. Par quelle volte-face extraordinaire (et qui n'était en réalité qu'une autre face de la même passion fort noble, la passio…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "arthur-meyer",
+      "kind": "personne",
+      "label": "Arthur Meyer, journaliste, directeur du Gaulois",
+      "href": "https://fr.wikipedia.org/wiki/Arthur_Meyer",
+      "wikidata": "Q2865261",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Arthur Meyer",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 49,
+                "text_excerpt": "…rchiste impénitent à qui on ferait avaler des carpes comme Mme Molé ou des escarpes comme Arthur Meyer, pourvu que carpes et escarpes fussent à la Chambord. Par haine du drapeau tricolore, je crois qu'il se rangerait plutôt sous le torchon du Bonnet ro…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 64,
+                "raw_line": 129,
+                "text_excerpt": "…ançaise. L'élection de Saint-Loup, à cause de sa « sainte » famille, eût fait verser à M. Arthur Meyer des flots de larmes et d'encre. Mais peut-être aimait-il trop sincèrement le peuple pour arriver à conquérir les suffrages du peuple, lequel pourtant…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "arthur-schopenhauer",
+      "kind": "personne",
+      "label": "Arthur Schopenhauer, philosophe",
+      "href": "https://fr.wikipedia.org/wiki/Arthur_Schopenhauer",
+      "wikidata": "Q38193",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Schopenhauer",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 13,
+                "raw_line": 27,
+                "text_excerpt": "…ois, à considérer la femme comme une personne malgré tout remarquable, connaissant à fond Schopenhauer et ayant accès, en somme, dans un milieu intellectuel qui était fermé à son grossier époux, que je fus d'abord étonné d'entendre Saint-Loup répondre …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "auguste-ii-de-pologne",
+      "kind": "personne",
+      "label": "Auguste II de Pologne, roi de Pologne, électeur de Saxe, dit « le Fort » (1670-1733)",
+      "href": "https://fr.wikipedia.org/wiki/Auguste_II",
+      "wikidata": "Q53437",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Auguste de Pologne",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…ce lieutenant anglais qui vient pour la première fois et sera peut-être tué demain. Quand Auguste de Pologne, comme raconte le charmant Morand, l'auteur délicieux de *Clarisse*, échangea un de ses régiments contre une collection de potiches chinoises, il fit…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "renoir",
+      "kind": "artiste",
+      "label": "Auguste Renoir (1841-1919), peintre impressionniste français",
+      "href": "https://fr.wikipedia.org/wiki/Auguste_Renoir",
+      "wikidata": "Q39931",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Renoir",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 28,
+                "raw_line": 57,
+                "text_excerpt": "…uisant les élégances du XVIIIe aurait pu désoler un peintre de Fêtes galantes ou affliger Renoir la disparition de Montmartre et du Moulin de la Galette ; mais surtout en M. Verdurin il voyait disparaître les yeux, le cerveau, qui avaient eu de s…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "renoir-bal-du-moulin-de-la-galette",
+      "kind": "oeuvre",
+      "label": "Bal du moulin de la Galette — Pierre-Auguste Renoir, 1876 (Musée d’Orsay, Paris)",
+      "href": "https://fr.wikipedia.org/wiki/Bal_du_moulin_de_la_Galette_(Renoir)",
+      "wikidata": null,
+      "wikipedia": "https://fr.wikipedia.org/wiki/Bal_du_moulin_de_la_Galette_(Renoir)",
+      "location": "Musée d'Orsay, Paris (131 × 175 cm)",
+      "image": {
+        "src": "/assets/proust/oeuvres/renoir-bal-du-moulin-de-la-galette.jpg",
+        "width": 1280,
+        "height": 951,
+        "credit": "Pierre-Auguste Renoir — domaine public (Google Art Project), via Wikimedia Commons",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Auguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Google_Art_Project.jpg/1280px-Auguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Google_Art_Project.jpg"
+      },
+      "targets": [
+        {
+          "match": "Moulin de la Galette",
+          "paragraphs": [
+            "t7-p0054"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 28,
+                "raw_line": 57,
+                "text_excerpt": "…ésoler un peintre de Fêtes galantes ou affliger Renoir la disparition de Montmartre et du Moulin de la Galette ; mais surtout en M. Verdurin il voyait disparaître les yeux, le cerveau, qui avaient eu de sa peinture la vision la plus juste, où cette peinture, à…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0054",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "carl-von-clausewitz",
+      "kind": "personne",
+      "label": "Carl von Clausewitz, théoricien militaire prussien, auteur De la guerre (1780-1831)",
+      "href": "https://fr.wikipedia.org/wiki/Carl_von_Clausewitz",
+      "wikidata": "Q76430",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Clausewitz",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 38,
+                "raw_line": 77,
+                "text_excerpt": "…l ne dirait pas, à rappeler tout ce qu'il avait dit il y avait quelques années, et ce que Clausewitz, Ovide, Apollonius de Tyane avaient dit il y avait plus ou moins de siècles, Brichot aurait pu constituer aisément la matière d'un fort volume. Il es…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-lamoureux",
+      "kind": "personne",
+      "label": "Charles Lamoureux, chef d'orchestre, fondateur des Concerts Lamoureux, 1834-1899",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Lamoureux",
+      "wikidata": "Q1065279",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Lamoureux",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 41,
+                "raw_line": 83,
+                "text_excerpt": "…e cause plus que jamais avec l'Allemagne et que les pourparlers sont même engagés » et de l'amoureux que les pires rebuffades n'ont pas persuadé. « En tout cas, s'il le veut il n'a qu'à le dire, je suis plus vieux que lui, ce n'est pas à moi à faire …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 47,
+                "raw_line": 95,
+                "text_excerpt": "…mme ou que la nature peu sensuelle de l'amour qu'elle inspire. Cette raison peut être que l'amoureux, trop impatient par l'excès même de son amour, ne sait pas attendre avec une feinte suffisante d'indifférence le moment où il obtiendra ce qu'il dési…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-mangin",
+      "kind": "personne",
+      "label": "Charles Mangin, général français",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Mangin",
+      "wikidata": "Q508659",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mangin",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 49,
+                "text_excerpt": "…, ou une future révélation. » Il aurait fallu, au lieu de ménager l'ennemi, laisser faire Mangin, abattre l'Autriche et l'Allemagne et européaniser la Turquie au lieu de montégriniser la France. « Mais nous aurons l'aide des États-Unis, lui dis-j…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "charles-maurras",
+      "kind": "personne",
+      "label": "Charles Maurras, écrivain, théoricien de l'Action française",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Maurras",
+      "wikidata": "Q3048",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Maurras",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "… la forme du gouvernement. Vous m'avez fait lire autrefois l'admirable Aimée de Coigny de Maurras. Je serais fort surpris que quelque Aimée de Coigny n'attendît pas du développement de la guerre que fait la République ce qu'en 1812 Aimée de Coigny…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 46,
+                "raw_line": 93,
+                "text_excerpt": "… l'Action Française (il eût, d'ailleurs, été incapable de comprendre une ligne de Charles Maurras ou de Léon Daudet), fût bien avec les ministres, flattés d'être invités à ses chasses, Jupien n'aurait pas osé lui demander le moindre appui dans ses…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "clarisse-harlowe-richardson",
+      "kind": "livre",
+      "label": "Clarisse Harlowe — roman de Samuel Richardson (1748)",
+      "href": "https://fr.wikipedia.org/wiki/Clarisse_Harlowe",
+      "wikidata": "Q980534",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Clarisse",
+          "paragraphs": [
+            "t7-p0064"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…emain. Quand Auguste de Pologne, comme raconte le charmant Morand, l'auteur délicieux de *Clarisse*, échangea un de ses régiments contre une collection de potiches chinoises, il fit à mon avis une mauvaise affaire. Pensez que tous ces grands valets…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0064",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "monet",
+      "kind": "artiste",
+      "label": "Claude Monet (1840-1926), peintre impressionniste français",
+      "href": "https://fr.wikipedia.org/wiki/Claude_Monet",
+      "wikidata": "Q296",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Monet",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 28,
+                "raw_line": 57,
+                "text_excerpt": "…me Swann, comme M. Verdurin, reçu des leçons de goût de Whistler, des leçons de vérité de Monet, leur permettant de juger Elstir avec justice. Aussi celui-ci se sentait-il plus seul à la mort de M. Verdurin avec lequel il était pourtant brouillé…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 33,
+                "raw_line": 67,
+                "text_excerpt": "…re pas compris en Art que le « ce n'est pas la même chose » opposé par les détracteurs de Monet à ceux qui leur disent « on a dit la même chose pour Delacroix », répondait à la même tournure d'esprit. Enfin M. de Charlus était pitoyable, l'idée …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "constantin-ier-de-grece",
+      "kind": "personne",
+      "label": "Constantin Ier de Grèce, roi des Hellènes, 1868-1923",
+      "href": "https://fr.wikipedia.org/wiki/Constantin_Ier_(roi_des_Hellènes)",
+      "wikidata": "Q152099",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Constantin de Grèce",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 29,
+                "raw_line": 59,
+                "text_excerpt": "…e laissais aucune parole juste en apparence de Guillaume II, de Ferdinand de Bulgarie, de Constantin de Grèce, tromper mon instinct qui devinait ce que machinait chacun d'eux. Et sans doute mes querelles avec Françoise, avec Albertine, n'avaient été que des q…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 73,
+                "text_excerpt": "…ui, que les gens haïssaient maintenant François-Joseph, d'après leur journal. Pour le roi Constantin de Grèce et le tzar de Bulgarie, le public a oscillé, à diverses reprises, entre l'aversion et la sympathie, parce qu'on disait tour à tour qu'ils se mettaien…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 60,
+                "raw_line": 121,
+                "text_excerpt": "…r le maître d'hôtel, lequel, voyant que sa camarade avait un certain penchant pour le roi Constantin de Grèce, n'avait cessé de le lui représenter comme privé par nous de nourriture jusqu'au jour où il céderait. Aussi l'abdication du souverain avait-elle ému …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Tino",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 9,
+                "text_excerpt": "…arlait du roi de Grèce, était capable, grâce aux journaux, de dire comme Guillaume II : « Tino », tandis que jusque-là sa familiarité avec les rois était restée plus vulgaire, ayant été inventée par lui, comme quand jadis, pour parler du Roi d'…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "dante-alighieri",
+      "kind": "personne",
+      "label": "Dante Alighieri, poète italien, 1265-1321",
+      "href": "https://fr.wikipedia.org/wiki/Dante_Alighieri",
+      "wikidata": "Q1067",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dante",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…as. On n'ose lui répondre que les « Dames » des chevaliers au moyen âge et la Béatrice de Dante étaient peut-être placées sur un trône aussi élevé que les héroïnes de M. Becque. Je m'attends un de ces jours à me voir placé à table après un révol…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "david-lloyd-george",
+      "kind": "personne",
+      "label": "David Lloyd George, Premier ministre britannique (1863-1945)",
+      "href": "https://fr.wikipedia.org/wiki/David_Lloyd_George",
+      "wikidata": "Q134982",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Lloyd George",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 73,
+                "text_excerpt": "…arbarie scientifique -- si nous voulons gagner la guerre, selon la forte expression de M. Lloyd George -- enfin ça ne se compte plus, et le mordant des troupes, et le cran des troupes. Même la syntaxe de l'excellent Norpois subit du fait de la guerre u…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "denis-diderot",
+      "kind": "personne",
+      "label": "Denis Diderot, philosophe des Lumières, 1713-1784",
+      "href": "https://fr.wikipedia.org/wiki/Denis_Diderot",
+      "wikidata": "Q448",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Diderot",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 71,
+                "text_excerpt": "…énage d'ouvriers, dans la mine, que dans les palais historiques, ou pour Goncourt mettant Diderot au-dessus d'Homère et Watteau au-dessus de Raphaël, ne cesse de nous répéter que les Thermopyles, qu'Austerlitz même, ce n'était rien à côté de Vauqu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "edmond-et-jules-de-goncourt",
+      "kind": "personne",
+      "label": "Edmond et Jules de Goncourt, écrivains, tenue d'un Journal célèbre (le « Journal des Goncourt » pastiché par Proust)",
+      "href": "https://fr.wikipedia.org/wiki/Frères_Goncourt",
+      "wikidata": "Q622283",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Goncourt",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 71,
+                "text_excerpt": "… poésie dans un ménage d'ouvriers, dans la mine, que dans les palais historiques, ou pour Goncourt mettant Diderot au-dessus d'Homère et Watteau au-dessus de Raphaël, ne cesse de nous répéter que les Thermopyles, qu'Austerlitz même, ce n'était rien…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "eleftherios-venizelos",
+      "kind": "personne",
+      "label": "Elefthérios Venizélos, homme d'État grec",
+      "href": "https://fr.wikipedia.org/wiki/Elefthérios_Venizélos",
+      "wikidata": "Q205545",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Venizelos",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 73,
+                "text_excerpt": "…lle les Empires centraux. C'est comme quand il nous répète à tout moment que « l'heure de Venizelos va sonner ». Je ne doute pas que M. Venizelos soit un homme d'État plein de capacité, mais qui nous dit que les Grecs désirent tant que cela Venizelo…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "delacroix",
+      "kind": "artiste",
+      "label": "Eugène Delacroix (1798-1863), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix",
+      "wikidata": "Q33477",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Delacroix",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 33,
+                "raw_line": 67,
+                "text_excerpt": "… opposé par les détracteurs de Monet à ceux qui leur disent « on a dit la même chose pour Delacroix », répondait à la même tournure d'esprit. Enfin M. de Charlus était pitoyable, l'idée d'un vaincu lui faisait mal, il était toujours pour le faible, …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 45,
+                "raw_line": 91,
+                "text_excerpt": "… contact et de regards. « Est-ce que tout l'Orient de Decamps, de Fromentin, d'Ingres, de Delacroix n'est pas là dedans ? me dit-il, encore immobilisé par le passage du Sénégalais. Vous savez, moi, je ne m'intéresse jamais aux choses et aux êtres qu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "fromentin",
+      "kind": "artiste",
+      "label": "Eugène Fromentin (1820-1876), peintre et écrivain français",
+      "href": "https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Fromentin",
+      "wikidata": "Q353746",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Fromentin",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 45,
+                "raw_line": 91,
+                "text_excerpt": "… il péchait par excès de contact et de regards. « Est-ce que tout l'Orient de Decamps, de Fromentin, d'Ingres, de Delacroix n'est pas là dedans ? me dit-il, encore immobilisé par le passage du Sénégalais. Vous savez, moi, je ne m'intéresse jamais au…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "ferdinand-foch",
+      "kind": "personne",
+      "label": "Ferdinand Foch, maréchal de France (1851-1929)",
+      "href": "https://fr.wikipedia.org/wiki/Ferdinand_Foch",
+      "wikidata": "Q192615",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Foch",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 16,
+                "raw_line": 33,
+                "text_excerpt": "…ent morts. Pau avait quitté le service actif presque au début de la guerre. De Joffre, de Foch, de Castelnau, de Pétain, nous n'avions jamais parlé. « Mon petit, m'écrivait Robert, si tu voyais tout ce monde, surtout les gens du peuple, les ouv…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "ferdinand-ier-de-bulgarie",
+      "kind": "personne",
+      "label": "Ferdinand Ier de Bulgarie, prince puis tsar de Bulgarie, 1861-1948",
+      "href": "https://fr.wikipedia.org/wiki/Ferdinand_Ier_(roi_des_Bulgares)",
+      "wikidata": "Q151667",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Ferdinand de Bulgarie",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 29,
+                "raw_line": 59,
+                "text_excerpt": "…es n'exprimaient pas, je ne laissais aucune parole juste en apparence de Guillaume II, de Ferdinand de Bulgarie, de Constantin de Grèce, tromper mon instinct qui devinait ce que machinait chacun d'eux. Et sans doute mes querelles avec Françoise, avec Albertine,…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Ferdinand de Cobourg",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 37,
+                "raw_line": 75,
+                "text_excerpt": "…chever la phrase que voici : « Comme il y a de fortes présomptions du même genre que pour Ferdinand de Cobourg à l'égard de l'Empereur Guillaume, cela pourrait être la cause pour laquelle le tzar Ferdinand s'est mis du côté des « Empires de proie ». Dame, au f…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "tzar Ferdinand",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 2,
+            "locations": [
+              {
+                "chapter_paragraph": 37,
+                "raw_line": 75,
+                "text_excerpt": "…e Cobourg à l'égard de l'Empereur Guillaume, cela pourrait être la cause pour laquelle le tzar Ferdinand s'est mis du côté des « Empires de proie ». Dame, au fond, c'est très compréhensible, on est indulgent pour une *sœur*, on ne lui refuse rien. Je tro…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "fiodor-dostoievski",
+      "kind": "personne",
+      "label": "Fiodor Dostoïevski, romancier russe (1821-1881)",
+      "href": "https://fr.wikipedia.org/wiki/Fiodor_Dostoïevski",
+      "wikidata": "Q991",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dostoïewski",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 33,
+                "raw_line": 67,
+                "text_excerpt": "…r ; tandis qu'il savait que des gens tarés, des fripouilles comme certains personnages de Dostoïewski peuvent être meilleurs, et je n'ai jamais pu comprendre pourquoi il leur identifiait les Allemands, le mensonge et la ruse ne leur suffisant pas pour…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "firmin-d-amiens",
+      "kind": "personne",
+      "label": "Firmin d'Amiens, saint, évêque martyr, statue de la cathédrale d’Amiens",
+      "href": "https://fr.wikipedia.org/wiki/Firmin_d'Amiens",
+      "wikidata": "Q468206",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Saint Firmin",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…nt la pureté de la statuaire antique, ou de celle d'Amiens. Je ne sais si le bras levé de Saint Firmin est aujourd'hui brisé. Dans ce cas la plus haute affirmation de la foi et de l'énergie a disparu de ce monde. -- Son symbole, Monsieur, lui répondis-…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "boucher",
+      "kind": "artiste",
+      "label": "François Boucher (1703-1770), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Boucher",
+      "wikidata": "Q180932",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Boucher",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 14,
+                "raw_line": 29,
+                "text_excerpt": "…le tempérait ses larmes d'un sourire. Au moins était-elle heureuse que son nouveau garçon boucher qui, malgré son métier, était assez craintif (il avait cependant commencé dans les abattoirs) ne fût pas d'âge à partir. Sans quoi elle eût été capab…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 19,
+                "raw_line": 39,
+                "text_excerpt": "…bord voulu se précipiter sur lui, espérant qu'il pourrait faire réformer le timide garçon boucher, dont, dans un an, la classe allait partir. Mais elle fut arrêtée elle-même en pensant à l'inutilité de cette démarche, car depuis longtemps le timid…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "francois-oscar-de-negrier",
+      "kind": "personne",
+      "label": "François Oscar de Négrier, général français, 1839-1913",
+      "href": "https://fr.wikipedia.org/wiki/François_de_Négrier",
+      "wikidata": "Q3086290",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Négrier",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 16,
+                "raw_line": 33,
+                "text_excerpt": "…lus de valeur dans une guerre, qui conduisaient celle-ci. Geslin de Bourgogne, Galliffet, Négrier étaient morts. Pau avait quitté le service actif presque au début de la guerre. De Joffre, de Foch, de Castelnau, de Pétain, nous n'avions jamais par…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "francois-joseph-talma",
+      "kind": "personne",
+      "label": "François-Joseph Talma, acteur tragédien (1763-1826)",
+      "href": "https://fr.wikipedia.org/wiki/François-Joseph_Talma",
+      "wikidata": "Q393983",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Talma",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 2,
+                "raw_line": 5,
+                "text_excerpt": "…», sur des jupes très courtes, elles chaussaient des lanières rappelant le cothurne selon Talma, ou de hautes guêtres rappelant celles de nos chers combattants ; c'est, disaient-elles, parce qu'elles n'oubliaient pas qu'elles devaient réjouir le…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "francois-rene-de-chateaubriand",
+      "kind": "personne",
+      "label": "François-René de Chateaubriand, écrivain (1768-1848)",
+      "href": "https://fr.wikipedia.org/wiki/François-René_de_Chateaubriand",
+      "wikidata": "Q49767",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Chateaubriand",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 3,
+                "raw_line": 7,
+                "text_excerpt": "…e que les plus grandes dates de la Révolution et de l'Empire. Ils ont cependant inspiré à Chateaubriand, dans les *Mémoires d'Outre-tombe*, des pages d'une valeur infiniment plus grande.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "friedrich-nietzsche",
+      "kind": "personne",
+      "label": "Friedrich Nietzsche, philosophe allemand (1844-1900)",
+      "href": "https://fr.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "wikidata": "Q9358",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Nietzsche",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "…n et l'autre et ne craignait pas de faire allusion à une page de Romain Rolland, voire de Nietzsche, avec cette indépendance des gens du front qui n'avaient pas la même peur de prononcer un nom allemand que ceux de l'arrière, et même avec cette poin…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 71,
+                "text_excerpt": "…preuve ? Mais croyez bien que je n'exagère pas. Qu'il s'agisse du plus grand Allemand, de Nietzsche, de Gœthe, vous entendrez Brichot dire : « Avec l'habituel manque de psychologie qui caractérise la race teutonne ». Il y a évidemment dans la guerre…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "friedrich-schiller",
+      "kind": "personne",
+      "label": "Friedrich Schiller, écrivain allemand, 1759-1805",
+      "href": "https://fr.wikipedia.org/wiki/Friedrich_Schiller",
+      "wikidata": "Q22670",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Schiller",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 38,
+                "raw_line": 77,
+                "text_excerpt": "…en dire du tout (les Allemands ne pourront plus regarder en face la statue de Beethoven ; Schiller a dû frémir dans son tombeau ; l'encre qui avait paraphé la neutralité de la Belgique était à peine séchée ; Lénine parle, mais autant en emporte le …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 57,
+                "raw_line": 115,
+                "text_excerpt": "… les osât présenter un brevet de civisme. Un professeur écrivait un livre remarquable sur Schiller et on en rendait compte dans les journaux. Mais avant de parler de l'auteur du livre on inscrivait comme un permis d'imprimer qu'il avait été à la Ma…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "gaston-boissier",
+      "kind": "personne",
+      "label": "Gaston Boissier, historien et académicien, 1823-1908",
+      "href": "https://fr.wikipedia.org/wiki/Gaston_Boissier",
+      "wikidata": "Q607202",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Boissier",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 49,
+                "raw_line": 99,
+                "text_excerpt": "…isir gratis -- comme quand j'étais petit et que ma mère venait de faire une commande chez Boissier ou chez Gouache, je prenais, sur l'offre d'une des dames du comptoir, un bonbon extrait d'un des vases de verre entre lesquels elle trônait -- prenan…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "gaston-de-galliffet",
+      "kind": "personne",
+      "label": "Gaston de Galliffet, général français, 1830-1909",
+      "href": "https://fr.wikipedia.org/wiki/Gaston_de_Galliffet",
+      "wikidata": "Q700951",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Galliffet",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 8,
+                "raw_line": 17,
+                "text_excerpt": "…e et avaient l'appui des généraux, comme ceux-ci au temps de l'affaire avaient été contre Galliffet. À ces réunions, Mme Verdurin invitait quelques dames un peu récentes, connues par les œuvres et qui les premières fois venaient avec des toilettes é…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 16,
+                "raw_line": 33,
+                "text_excerpt": "…raient le plus de valeur dans une guerre, qui conduisaient celle-ci. Geslin de Bourgogne, Galliffet, Négrier étaient morts. Pau avait quitté le service actif presque au début de la guerre. De Joffre, de Foch, de Castelnau, de Pétain, nous n'avions j…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "georg-wilhelm-friedrich-hegel",
+      "kind": "personne",
+      "label": "Georg Wilhelm Friedrich Hegel, philosophe allemand (1770-1831)",
+      "href": "https://fr.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+      "wikidata": "Q9235",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Hegel",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 16,
+                "raw_line": 33,
+                "text_excerpt": "…nt fait autant d'obstacles. « La guerre, disait-il, n'échappe pas aux lois de notre vieil Hegel. Elle est en état de perpétuel devenir. » C'était peu auprès de ce que j'aurais voulu savoir. Mais ce qui me fâchait davantage encore c'est qu'il n'a…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "georges-cuvier",
+      "kind": "personne",
+      "label": "Georges Cuvier, naturaliste français (1769-1832)",
+      "href": "https://fr.wikipedia.org/wiki/Georges_Cuvier",
+      "wikidata": "Q171969",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Cuvier",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 38,
+                "raw_line": 77,
+                "text_excerpt": "…t-ce que vous avez dit du Brichot de ce soir ? J'ai pensé à vous en lisant la citation de Cuvier. Ma parole, je crois qu'il devient fou. -- Je ne l'ai pas encore lu, disait un fidèle. -- Comment, vous ne l'avez pas encore lu ? Mais vous ne savez …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "georges-picquart",
+      "kind": "personne",
+      "label": "Georges Picquart, officier, figure de l'affaire Dreyfus (1854-1914)",
+      "href": "https://fr.wikipedia.org/wiki/Marie-Georges_Picquart",
+      "wikidata": "Q717539",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Picquart",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…paration de l'Église. Elle a passé comme une lettre à la poste. Dreyfus a été réhabilité, Picquart ministre de la guerre, sans qu'on crie ouf. Pourtant que ne peut-on pas craindre d'un surmenage pareil à celui d'une guerre ininterrompue pendant plu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "giovanni-giolitti",
+      "kind": "personne",
+      "label": "Giovanni Giolitti, homme d'État italien, plusieurs fois président du Conseil (1842-1928)",
+      "href": "https://fr.wikipedia.org/wiki/Giovanni_Giolitti",
+      "wikidata": "Q297190",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Giolitti",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 73,
+                "text_excerpt": "…a déposition, avait dit en regardant Caillaux atterré : « Monsieur Caillaux, vous êtes le Giolitti de la France. » Mais le couple charmant avait souri, tourné M. de Norpois en ridicule, cité des preuves de son gâtisme et conclu qu'il avait dit cela…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "grand-duc-vladimir-alexandrovitch-de-russie",
+      "kind": "personne",
+      "label": "Grand-duc Vladimir Alexandrovitch de Russie, grand-duc de Russie (et son épouse la grande-duchesse Vladimir)",
+      "href": "https://fr.wikipedia.org/wiki/Vladimir_Alexandrovitch_de_Russie",
+      "wikidata": "Q312819",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Wladimir",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 127,
+                "text_excerpt": "…vait, l'année même qui avait précédé la guerre, considérablement agacé la grande-duchesse Wladimir en appelant toujours la comtesse de Hohenfelsen, femme morganatique du grand-duc Paul, « la Grande-Duchesse Paul ». Il n'empêche que la Révolution ru…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "grigori-raspoutine",
+      "kind": "personne",
+      "label": "Grigori Raspoutine, mystique russe influent à la cour du tsar (1869-1916)",
+      "href": "https://fr.wikipedia.org/wiki/Grigori_Raspoutine",
+      "wikidata": "Q43989",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Raspoutine",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 33,
+                "raw_line": 67,
+                "text_excerpt": "…éduisant et écrasant la vertueuse laideur. Il en fut encore ainsi au moment du meurtre de Raspoutine, meurtre auquel on fut surpris, d'ailleurs, de trouver un si fort cachet de couleur russe, dans un souper à la Dostoïewski (impression qui eût été en…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "guillaume-dubufe",
+      "kind": "artiste",
+      "label": "Guillaume Dubufe, peintre et décorateur français, 1853-1909",
+      "href": "https://fr.wikipedia.org/wiki/Guillaume_Dubufe",
+      "wikidata": "Q3119817",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dubufe",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 5,
+                "raw_line": 11,
+                "text_excerpt": "…: « Il a sa maison décorée par Bakst ; comment peut-on dormir là dedans, j'aimerais mieux Dubufe. »",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "guillaume-ii",
+      "kind": "personne",
+      "label": "Guillaume II, empereur allemand (1859-1941)",
+      "href": "https://fr.wikipedia.org/wiki/Guillaume_II_(empereur_allemand)",
+      "wikidata": "Q2677",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Guillaume II",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 9,
+                "text_excerpt": "… exemple, si on parlait du roi de Grèce, était capable, grâce aux journaux, de dire comme Guillaume II : « Tino », tandis que jusque-là sa familiarité avec les rois était restée plus vulgaire, ayant été inventée par lui, comme quand jadis, pour parler …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 13,
+                "raw_line": 27,
+                "text_excerpt": "… beaucoup qu'il est mort. » À la Bourse tout souverain malade, que ce soit Edouard VII ou Guillaume II, est mort, toute ville sur le point d'être assiégée est prise. « On ne le cache, ajouta Bloch, que pour ne pas déprimer l'opinion chez les Boches. Ma…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 29,
+                "raw_line": 59,
+                "text_excerpt": "…es projets qu'elles n'exprimaient pas, je ne laissais aucune parole juste en apparence de Guillaume II, de Ferdinand de Bulgarie, de Constantin de Grèce, tromper mon instinct qui devinait ce que machinait chacun d'eux. Et sans doute mes querelles avec …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 61,
+                "raw_line": 123,
+                "text_excerpt": "… quant à l'empereur, pour des raisons particulières, et peut-être fausses, il pensait que Guillaume II avait plutôt cherché à empêcher la guerre qu'à la déchaîner). Pas de haine du Germanisme non plus ; les derniers mots que j'avais entendus sortir de …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Kaiser",
+          "paragraphs": [
+            "t7-p0039"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 13,
+                "raw_line": 27,
+                "text_excerpt": "…n restait pas moins une source de premier ordre. Aussi Bloch nous annonça-t-il la mort du Kaiser d'un air mystérieux et important, mais aussi rageur. Il était surtout particulièrement exaspéré d'entendre Robert dire : « l'Empereur Guillaume ». Je…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0039",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "henri-bidou",
+      "kind": "personne",
+      "label": "Henri Bidou, journaliste, chroniqueur militaire",
+      "href": "https://fr.wikipedia.org/wiki/Henry_Bidou",
+      "wikidata": "Q18011880",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Bidou",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 23,
+                "raw_line": 47,
+                "text_excerpt": "…itable sur les lacs de Mazurie est imitée d'un plan de Napoléon de 1812. » Tu vois que M. Bidou reproduit presque les paroles que tu me rappelles et que j'avais oubliées. Et comme la guerre n'est pas finie, ces ruses-là se reproduiront encore et…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "henri-didon",
+      "kind": "personne",
+      "label": "Henri Didon, religieux dominicain et prédicateur, dit « Père Didon » (1840-1900)",
+      "href": "https://fr.wikipedia.org/wiki/Henri_Didon",
+      "wikidata": "Q915727",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Père Didon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…dîner au restaurant quand j'y suis servi par de vieux bouffons moussus qui ressemblent au Père Didon, si ce n'est pas par des femmes en cornette qui me font croire que je suis entré au bouillon Duval. Parfaitement, mon cher, et je crois que j'ai le d…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "henri-poincare",
+      "kind": "personne",
+      "label": "Henri Poincaré, mathématicien et physicien français, 1854-1912",
+      "href": "https://fr.wikipedia.org/wiki/Henri_Poincaré",
+      "wikidata": "Q81082",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Poincaré",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 13,
+                "raw_line": 27,
+                "text_excerpt": "…nt peu chez une même personne. Le maître d'hôtel ayant pris l'habitude de déclarer que M. Poincaré était mal intentionné, pas pour l'argent, mais parce qu'il avait voulu absolument la guerre, il redisait cela sept à huit fois par jour devant le mêm…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…us est contre nous », je ne sais pas si cette phrase est de l'Empereur Guillaume ou de M. Poincaré, car ils l'ont, à quelques variantes près, prononcée vingt fois l'un et l'autre, bien qu'à vrai dire je doive confesser que l'Empereur ait été en ce …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "homere",
+      "kind": "personne",
+      "label": "Homère, poète grec antique",
+      "href": "https://fr.wikipedia.org/wiki/Homère",
+      "wikidata": "Q6691",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Homère",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 71,
+                "text_excerpt": "…ns la mine, que dans les palais historiques, ou pour Goncourt mettant Diderot au-dessus d'Homère et Watteau au-dessus de Raphaël, ne cesse de nous répéter que les Thermopyles, qu'Austerlitz même, ce n'était rien à côté de Vauquois. Cette fois, du…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "hubert-joseph-henry",
+      "kind": "personne",
+      "label": "Hubert-Joseph Henry, officier, faussaire dans l'affaire Dreyfus (1846-1898)",
+      "href": "https://fr.wikipedia.org/wiki/Hubert_Henry",
+      "wikidata": "Q981772",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "colonel Henry",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 71,
+                "text_excerpt": "…e Boisdeffre, les travestissements et machinations du colonel du Paty de Clam, le faux du colonel Henry. Par quelle volte-face extraordinaire (et qui n'était en réalité qu'une autre face de la même passion fort noble, la passion patriotique, obligée, de…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "haroun-ar-rachid",
+      "kind": "personne",
+      "label": "Hâroun ar-Rachîd, calife abbasside (v. 763-809)",
+      "href": "https://fr.wikipedia.org/wiki/Hâroun_ar-Rachîd",
+      "wikidata": "Q131002",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Haroun Al Raschid",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 45,
+                "raw_line": 91,
+                "text_excerpt": "…t aimées, et, me perdant peu à peu dans le lacis de ces rues noires, je pensais au calife Haroun Al Raschid en quête d'aventures dans les quartiers perdus de Bagdad. D'autre part, la chaleur du temps et de la marche m'avait donné soif, mais depuis longtemps…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "whistler",
+      "kind": "artiste",
+      "label": "James Abbott McNeill Whistler (1834-1903), peintre américain",
+      "href": "https://fr.wikipedia.org/wiki/James_Abbott_McNeill_Whistler",
+      "wikidata": "Q203643",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Whistler",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 28,
+                "raw_line": 57,
+                "text_excerpt": "…peinture, et qui n'avaient pas comme Swann, comme M. Verdurin, reçu des leçons de goût de Whistler, des leçons de vérité de Monet, leur permettant de juger Elstir avec justice. Aussi celui-ci se sentait-il plus seul à la mort de M. Verdurin avec le…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-de-poitiers-seigneur-de-saint-vallier",
+      "kind": "personne",
+      "label": "Jean de Poitiers, seigneur de Saint-Vallier, gentilhomme français, père de Diane de Poitiers",
+      "href": "https://fr.wikipedia.org/wiki/Jean_de_Poitiers-Valentinois",
+      "wikidata": "Q3175646",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Saint-Vallier",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…ée à la décapitation. En parlant à ce moment-là, M. de Charlus, noble comme une espèce de Saint-Vallier ou de Saint-Mégrin, était droit, rigide, solennel, parlait gravement, ne faisait pour un moment aucune des manières où se révèlent ceux de sa sorte. …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-racine",
+      "kind": "personne",
+      "label": "Jean Racine, dramaturge (1639-1699)",
+      "href": "https://fr.wikipedia.org/wiki/Jean_Racine",
+      "wikidata": "Q742",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Racine",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 20,
+                "raw_line": 41,
+                "text_excerpt": "…is, l'habitude était venue qui retranche aux choses que nous avons vues plusieurs fois la racine d'impression profonde et de pensée qui leur donne leur sens réel), il semblait presque qu'il y eût quelque chose de cruel dans ces permissions donnée…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "ingres",
+      "kind": "artiste",
+      "label": "Jean-Auguste-Dominique Ingres (1780-1867), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/Jean-Auguste-Dominique_Ingres",
+      "wikidata": "Q23380",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Ingres",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 45,
+                "raw_line": 91,
+                "text_excerpt": "…ar excès de contact et de regards. « Est-ce que tout l'Orient de Decamps, de Fromentin, d'Ingres, de Delacroix n'est pas là dedans ? me dit-il, encore immobilisé par le passage du Sénégalais. Vous savez, moi, je ne m'intéresse jamais aux choses e…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-baptiste-prosper-bressant",
+      "kind": "personne",
+      "label": "Jean-Baptiste Prosper Bressant, acteur de la Comédie-Française, 1815-1886",
+      "href": "https://fr.wikipedia.org/wiki/Prosper_Bressant",
+      "wikidata": "Q3407771",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Bressant",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 49,
+                "text_excerpt": "… autre génération, sur une autre tige, comme un acteur qui reprend le rôle joué jadis par Bressant ou Delaunay, il était comme un successeur -- rose, blond et doré, alors que l'autre était mi-partie très noir et tout blanc -- de M. de Charlus. Il a…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "johann-wolfgang-von-goethe",
+      "kind": "personne",
+      "label": "Johann Wolfgang von Goethe, écrivain allemand, 1749-1832",
+      "href": "https://fr.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe",
+      "wikidata": "Q5879",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Gœthe",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 71,
+                "text_excerpt": "…croyez bien que je n'exagère pas. Qu'il s'agisse du plus grand Allemand, de Nietzsche, de Gœthe, vous entendrez Brichot dire : « Avec l'habituel manque de psychologie qui caractérise la race teutonne ». Il y a évidemment dans la guerre des chose…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "johannes-gutenberg",
+      "kind": "personne",
+      "label": "Johannes Gutenberg, inventeur de l'imprimerie",
+      "href": "https://fr.wikipedia.org/wiki/Johannes_Gutenberg",
+      "wikidata": "Q8958",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Gutenberg",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 10,
+                "raw_line": 21,
+                "text_excerpt": "… ce moyen enfantin et restreint, digne des premiers âges, et antérieur à la découverte de Gutenberg, être vu à la table de Mme Verdurin. Après le dîner on montait dans les salons de la Patronne, puis les téléphonages commençaient. Mais beaucoup de g…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "joseph-caillaux",
+      "kind": "personne",
+      "label": "Joseph Caillaux, homme politique",
+      "href": "https://fr.wikipedia.org/wiki/Joseph_Caillaux",
+      "wikidata": "Q450463",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Caillaux",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 73,
+                "text_excerpt": "…l était, de plus, aussi anglophile que M. de Charlus était anglophobe. Enfin il tenait M. Caillaux pour un traître qui méritait mille fois d'être fusillé. Quand son frère lui demandait des preuves de cette trahison, M. de Guermantes répondait que s…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "joseph-joffre",
+      "kind": "personne",
+      "label": "Joseph Joffre, maréchal de France, généralissime en 1914 (1852-1931)",
+      "href": "https://fr.wikipedia.org/wiki/Joseph_Joffre",
+      "wikidata": "Q207958",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Joffre",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 14,
+                "raw_line": 29,
+                "text_excerpt": "…sait avec un rire sympathique, en parlant des Allemands : « Ça doit chauffer, notre vieux Joffre est en train de leur tirer des plans sur la comète. » Françoise ne comprenait pas trop de quelle comète il s'agissait, mais n'en sentait pas moins qu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 16,
+                "raw_line": 33,
+                "text_excerpt": "…égrier étaient morts. Pau avait quitté le service actif presque au début de la guerre. De Joffre, de Foch, de Castelnau, de Pétain, nous n'avions jamais parlé. « Mon petit, m'écrivait Robert, si tu voyais tout ce monde, surtout les gens du peuple…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 46,
+                "raw_line": 93,
+                "text_excerpt": "… m'engage, j'ai envie d'aller y taper un peu dans le tas à tous ces sales Boches. -- Mais Joffre, c'est un homme qui couche avec les femmes des Ministres, c'est pas un homme qui a fait quelque chose. -- C'est malheureux d'entendre des choses pare…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jules-michelet",
+      "kind": "personne",
+      "label": "Jules Michelet, historien, 1798-1874",
+      "href": "https://fr.wikipedia.org/wiki/Jules_Michelet",
+      "wikidata": "Q310791",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Michelet",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 38,
+                "raw_line": 77,
+                "text_excerpt": "…ait pas voulu être entendu d'elle, reniait lâchement Brichot qu'elle égalait en réalité à Michelet. Elle donnait raison à Mme Verdurin, et pour terminer pourtant par quelque chose qui lui paraissait incontestable, disait : « Ce qu'on ne peut pas lu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "chevauchee-des-walkyries-wagner",
+      "kind": "scene",
+      "label": "La Chevauchée des Walkyries — Richard Wagner (La Walkyrie, acte III)",
+      "href": "https://fr.wikipedia.org/wiki/Chevauch%C3%A9e_des_Walkyries",
+      "wikidata": "Q1464243",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Chevauchée",
+          "paragraphs": [
+            "t7-p0048"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "…ar des raisons purement musicales : « Dame, c'est que la musique des sirènes était d'une *Chevauchée*. Il faut décidément l'arrivée des Allemands pour qu'on puisse entendre du Wagner à Paris. » À certains points de vue la comparaison n'était pas faus…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0048",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "figaro",
+      "kind": "presse",
+      "label": "Le Figaro — quotidien fondé en 1826",
+      "href": "https://fr.wikipedia.org/wiki/Le_Figaro",
+      "wikidata": "Q216047",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Figaro",
+          "paragraphs": [
+            "t1-p0027",
+            "t1-p0028",
+            "t2-p0264",
+            "t3-p0995",
+            "t3-p1124",
+            "t4-p0045",
+            "t4-p0076",
+            "t5-p0011",
+            "t5-p0203",
+            "t5-p0221",
+            "t6-p0112",
+            "t6-p0113",
+            "t6-p0116",
+            "t6-p0117",
+            "t6-p0120",
+            "t6-p0132",
+            "t6-p0146",
+            "t7-p0009",
+            "t7-p0036",
+            "t7-p0061",
+            "t7-p0230"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 10,
+                "raw_line": 21,
+                "text_excerpt": "…ns doute dans les temps habituels de la paix une note mondaine subrepticement envoyée au *Figaro* ou au *Gaulois* aurait fait savoir à plus de monde que n'en pouvait tenir la salle à manger du Majestic que Brichot avait dîné avec la duchesse de D…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0009",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  },
+                  {
+                    "source_paragraph": "t7-p0036",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  },
+                  {
+                    "source_paragraph": "t7-p0230",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 73,
+                "text_excerpt": "…uves de son gâtisme et conclu qu'il avait dit cela devant M. Caillaux atterré, disait le *Figaro*, mais probablement, en réalité, devant M. Caillaux narquois. Les opinions du duc de Guermantes n'avaient pas tardé à changer. Attribuer ce changemen…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0009",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  },
+                  {
+                    "source_paragraph": "t7-p0061",
+                    "status": "located_by_text",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t7-p0230",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "gaulois",
+      "kind": "presse",
+      "label": "Le Gaulois — quotidien (1868-1929)",
+      "href": "https://fr.wikipedia.org/wiki/Le_Gaulois",
+      "wikidata": "Q26037434",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Gaulois",
+          "paragraphs": [
+            "t2-p0729",
+            "t3-p1170",
+            "t4-p0072",
+            "t4-p0076",
+            "t4-p0206",
+            "t5-p0263",
+            "t5-p0278",
+            "t6-p0240",
+            "t7-p0036"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 10,
+                "raw_line": 21,
+                "text_excerpt": "…es temps habituels de la paix une note mondaine subrepticement envoyée au *Figaro* ou au *Gaulois* aurait fait savoir à plus de monde que n'en pouvait tenir la salle à manger du Majestic que Brichot avait dîné avec la duchesse de Duras. Mais depui…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0036",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "le-greco",
+      "kind": "artiste",
+      "label": "Le Greco, peintre",
+      "href": "https://fr.wikipedia.org/wiki/Le_Greco",
+      "wikidata": "Q301",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Greco",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "…'apocalypse dans le ciel, voir sur la terre, comme dans l'enterrement du comte d'Orgaz du Greco où ces différents plans sont parallèles, un vrai vaudeville joué par des personnages en chemise de nuit, lesquels, à cause de leurs noms célèbres, eu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "mille-et-une-nuits",
+      "kind": "livre",
+      "label": "Les Mille et Une Nuits — recueil de contes arabes, traduit par Antoine Galland (1704-1717)",
+      "href": "https://fr.wikipedia.org/wiki/Les_Mille_et_Une_Nuits",
+      "wikidata": "Q8258",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mille et une Nuits",
+          "paragraphs": [
+            "t3-p0213",
+            "t4-p0254",
+            "t5-p0221",
+            "t7-p0020",
+            "t7-p0070",
+            "t7-p0191",
+            "t7-p0242",
+            "t1-p0110",
+            "t2-p0744",
+            "t5-p0296",
+            "t5-p0298",
+            "t6-p0225",
+            "t7-p0079",
+            "t7-p0100"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 45,
+                "raw_line": 91,
+                "text_excerpt": "…mença de hanter mon imagination quand le baron m'eut quitté, mais le vieil Orient de ces *Mille et une Nuits* que j'avais tant aimées, et, me perdant peu à peu dans le lacis de ces rues noires, je pensais au calife Haroun Al Raschid en quête d'aventures dans…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0070",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t7-p0242",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 54,
+                "raw_line": 109,
+                "text_excerpt": "…scène, reconstituée, visible, c'est un vrai pandémonium. J'avais cru, comme le calife des Mille et une Nuits, arriver à point au secours d'un homme qu'on frappait, et c'est un autre conte des *Mille et une Nuits* que j'ai vu réaliser devant moi, celui où une…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0070",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  },
+                  {
+                    "source_paragraph": "t7-p0242",
+                    "status": "candidate",
+                    "method": "match_within_book"
+                  },
+                  {
+                    "source_paragraph": "t7-p0079",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-antoine-de-bourbon-conde-duc-d-enghien",
+      "kind": "personne",
+      "label": "Louis Antoine de Bourbon-Condé, duc d'Enghien, prince du sang, exécuté sur ordre de Napoléon (1772-1804)",
+      "href": "https://fr.wikipedia.org/wiki/Louis-Antoine_de_Bourbon-Condé",
+      "wikidata": "Q222606",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "duc d’Enghien",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…usillé dans les fossés de Vincennes ? La même chose est bien arrivée à mon grand-oncle le duc d'Enghien. La soif du sang noble affole une certaine populace qui en cela se montre plus raffinée que les lions. Vous savez que pour ces animaux il suffirait p…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-de-rouvroy-duc-de-saint-simon",
+      "kind": "personne",
+      "label": "Louis de Rouvroy, duc de Saint-Simon, mémorialiste de la cour de Louis XIV (1675-1755)",
+      "href": "https://fr.wikipedia.org/wiki/Louis_de_Rouvroy_de_Saint-Simon",
+      "wikidata": "Q463728",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Saint-Simon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 54,
+                "raw_line": 109,
+                "text_excerpt": "…s grands ancêtres, le duc de La Rochefoucauld, le prince d'Harcourt, le duc de Berry, que Saint-Simon nous montre passant leur vie avec leurs laquais, qui tiraient d'eux des sommes énormes, partageant leurs jeux, au point qu'on était gêné pour ces gra…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-delaunay",
+      "kind": "personne",
+      "label": "Louis Delaunay, acteur de la Comédie-Française, 1826-1903",
+      "href": "https://fr.wikipedia.org/wiki/Louis-Arsène_Delaunay",
+      "wikidata": "Q1532164",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Delaunay",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 49,
+                "text_excerpt": "…ation, sur une autre tige, comme un acteur qui reprend le rôle joué jadis par Bressant ou Delaunay, il était comme un successeur -- rose, blond et doré, alors que l'autre était mi-partie très noir et tout blanc -- de M. de Charlus. Il avait beau ne…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "ludwig-van-beethoven",
+      "kind": "personne",
+      "label": "Ludwig van Beethoven, compositeur (1770-1827)",
+      "href": "https://fr.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "wikidata": "Q255",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Beethoven",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 25,
+                "raw_line": 51,
+                "text_excerpt": "… Un morceau d'un caractère poétique avait ce titre emprunté à certains airs de danse dans Beethoven : « Une Allemande ». Enfin deux nouvelles : « Oncle d'Amérique et Tante de Francfort » et « Gaillard d'arrière » lues en épreuves dans le petit clan,…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 38,
+                "raw_line": 77,
+                "text_excerpt": "…voulaient rien dire du tout (les Allemands ne pourront plus regarder en face la statue de Beethoven ; Schiller a dû frémir dans son tombeau ; l'encre qui avait paraphé la neutralité de la Belgique était à peine séchée ; Lénine parle, mais autant en …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "lenine",
+      "kind": "personne",
+      "label": "Lénine, révolutionnaire et homme d'État russe (1870-1924)",
+      "href": "https://fr.wikipedia.org/wiki/Vladimir_Ilitch_Lénine",
+      "wikidata": "Q1394",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Lénine",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 38,
+                "raw_line": 77,
+                "text_excerpt": "…n tombeau ; l'encre qui avait paraphé la neutralité de la Belgique était à peine séchée ; Lénine parle, mais autant en emporte le vent de la steppe), c'étaient des trivialités telles que : « Vingt mille prisonniers, c'est un chiffre » ; « Notre c…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "leon-bakst",
+      "kind": "artiste",
+      "label": "Léon Bakst, peintre et décorateur des Ballets russes, 1866-1924",
+      "href": "https://fr.wikipedia.org/wiki/Léon_Bakst",
+      "wikidata": "Q214666",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Bakst",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 5,
+                "raw_line": 11,
+                "text_excerpt": "…tre les Ballets russes, elle disait du marquis de Polignac : « Il a sa maison décorée par Bakst ; comment peut-on dormir là dedans, j'aimerais mieux Dubufe. »",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "leon-daudet",
+      "kind": "personne",
+      "label": "Léon Daudet, écrivain et journaliste français, 1867-1942",
+      "href": "https://fr.wikipedia.org/wiki/Léon_Daudet",
+      "wikidata": "Q92562",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Léon Daudet",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 46,
+                "raw_line": 93,
+                "text_excerpt": "…çaise (il eût, d'ailleurs, été incapable de comprendre une ligne de Charles Maurras ou de Léon Daudet), fût bien avec les ministres, flattés d'être invités à ses chasses, Jupien n'aurait pas osé lui demander le moindre appui dans ses démêlés avec la p…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "echo-de-paris",
+      "kind": "presse",
+      "label": "L’Écho de Paris — quotidien (1884-1944)",
+      "href": "https://fr.wikipedia.org/wiki/L%27%C3%89cho_de_Paris",
+      "wikidata": "Q3205139",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Écho de Paris",
+          "paragraphs": [
+            "t4-p0193",
+            "t7-p0029"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 3,
+                "raw_line": 7,
+                "text_excerpt": "…t pu tenir rigueur à Mme Bontemps que son mari eût joué un rôle, âprement critiqué par l'*Écho de Paris*, dans l'affaire Dreyfus ? Toute la Chambre étant à un certain moment devenue révisionniste, c'était forcément parmi d'anciens révisionnistes, comme …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0029",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "madame-tallien",
+      "kind": "personne",
+      "label": "Madame Tallien, figure du Directoire, dite « Notre-Dame de Thermidor » (1773-1835)",
+      "href": "https://fr.wikipedia.org/wiki/Thérésa_Tallien",
+      "wikidata": "Q255635",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mme Tallien",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 2,
+                "raw_line": 5,
+                "text_excerpt": "…e jour coiffées de hauts turbans cylindriques comme aurait pu l'être une contemporaine de Mme Tallien. Par civisme, ayant des tuniques égyptiennes droites, sombres, très « guerre », sur des jupes très courtes, elles chaussaient des lanières rappelant …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Madame Tallien",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 3,
+                "raw_line": 7,
+                "text_excerpt": "… Les dames du Premier Directoire avaient une reine qui était jeune et belle et s'appelait Madame Tallien. Celles du second en avaient deux qui étaient vieilles et laides et qui s'appelaient Mme Verdurin et Mme Bontemps. Qui eût pu tenir rigueur à Mme Bon…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "marie-antoinette",
+      "kind": "personne",
+      "label": "Marie-Antoinette, reine de France (1755-1793)",
+      "href": "https://fr.wikipedia.org/wiki/Marie-Antoinette_d'Autriche",
+      "wikidata": "Q47365",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Marie-Antoinette",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…nsidérée comme toujours aussi noble et pas plus dégradée que ne nous apparaît aujourd'hui Marie-Antoinette d'avoir été condamnée à la décapitation. En parlant à ce moment-là, M. de Charlus, noble comme une espèce de Saint-Vallier ou de Saint-Mégrin, était …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "maurice-barres",
+      "kind": "personne",
+      "label": "Maurice Barrès, écrivain et homme politique nationaliste, 1862-1923",
+      "href": "https://fr.wikipedia.org/wiki/Maurice_Barrès",
+      "wikidata": "Q314957",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Barrès",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…re. Beaucoup sont chez eux maintenant. Mais précisément cet art déraciné, comme dirait M. Barrès, est tout le contraire de ce qui faisait l'agrément délicieux de la France. Le château expliquait l'église qui, elle-même, parce qu'elle avait été un…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "maurice-paleologue",
+      "kind": "personne",
+      "label": "Maurice Paléologue, diplomate, ambassadeur de France (1859-1944)",
+      "href": "https://fr.wikipedia.org/wiki/Maurice_Paléologue",
+      "wikidata": "Q2164102",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Paléologue",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 127,
+                "text_excerpt": "…e que la Révolution russe n'eut pas plutôt éclaté que notre ambassadeur à Pétersbourg, M. Paléologue (« Paléo » pour le monde diplomatique, qui a ses abréviations prétendues spirituelles comme l'autre), fut harcelé des dépêches de la duchesse de Guer…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Paléo",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 127,
+                "text_excerpt": "…ution russe n'eut pas plutôt éclaté que notre ambassadeur à Pétersbourg, M. Paléologue (« Paléo » pour le monde diplomatique, qui a ses abréviations prétendues spirituelles comme l'autre), fut harcelé des dépêches de la duchesse de Guermantes qu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "memoires-d-outre-tombe",
+      "kind": "livre",
+      "label": "Mémoires d’outre-tombe — François-René de Chateaubriand (1849-1850)",
+      "href": "https://fr.wikipedia.org/wiki/M%C3%A9moires_d%27outre-tombe",
+      "wikidata": "Q2263221",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mémoires d’Outre-tombe",
+          "paragraphs": [
+            "t7-p0029"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 3,
+                "raw_line": 7,
+                "text_excerpt": "…tes de la Révolution et de l'Empire. Ils ont cependant inspiré à Chateaubriand, dans les *Mémoires d'Outre-tombe*, des pages d'une valeur infiniment plus grande.",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0029",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "napoleon-ier",
+      "kind": "personne",
+      "label": "Napoléon Ier, empereur des Français (1769-1821)",
+      "href": "https://fr.wikipedia.org/wiki/Napoléon_Ier",
+      "wikidata": "Q517",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Napoléon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 23,
+                "raw_line": 47,
+                "text_excerpt": "…Varsovie pour masquer l'attaque véritable sur les lacs de Mazurie est imitée d'un plan de Napoléon de 1812. » Tu vois que M. Bidou reproduit presque les paroles que tu me rappelles et que j'avais oubliées. Et comme la guerre n'est pas finie, ces ru…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…l l'empereur Guillaume ? J'en doute fort. Et si c'est lui, qu'a-t-il fait autre chose que Napoléon par exemple, chose que moi je trouve abominable mais que je m'étonne de voir inspirer tant d'horreurs aux thuriféraires de Napoléon, aux gens qui, le…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 47,
+                "raw_line": 95,
+                "text_excerpt": "…e qu'eux, les Allemands, eussent souhaité d'obtenir, la paix et la réconciliation ? Ainsi Napoléon entrait en Russie et demandait magnanimement aux autorités de venir vers lui. Mais personne ne se présentait.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "nicolas-ii-empereur-de-russie",
+      "kind": "personne",
+      "label": "Nicolas II, empereur de Russie, tsar de Russie",
+      "href": "https://fr.wikipedia.org/wiki/Nicolas_II",
+      "wikidata": "Q40787",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Empereur Nicolas",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 2,
+            "locations": [
+              {
+                "chapter_paragraph": 36,
+                "raw_line": 73,
+                "text_excerpt": "…it diadoque, Constantin de Grèce, qui était une pure merveille. J'ai toujours pensé que l'Empereur Nicolas avait eu un énorme sentiment pour lui. En tout bien tout honneur, bien entendu. La princesse Christian en parlait ouvertement, mais c'est une gale. Q…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "poussin",
+      "kind": "artiste",
+      "label": "Nicolas Poussin (1594-1665), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/Nicolas_Poussin",
+      "wikidata": "Q41554",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Poussin",
+          "paragraphs": [],
+          "exclude": [
+            "t4-p0209"
+          ],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 9,
+                "text_excerpt": "…u'on ne connaissait pas et qui n'étonnaient pas plus que des débris de coquille autour du poussin, ceux qui savaient l'œuf d'où Mme Bontemps était sortie. Mais dès le quinzième jour, elle les avait secoués, et avant la fin du premier mois, quand e…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "noel-de-castelnau",
+      "kind": "personne",
+      "label": "Noël de Castelnau, général français (1851-1944)",
+      "href": "https://fr.wikipedia.org/wiki/Édouard_de_Castelnau",
+      "wikidata": "Q1079578",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Castelnau",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 16,
+                "raw_line": 33,
+                "text_excerpt": "…. Pau avait quitté le service actif presque au début de la guerre. De Joffre, de Foch, de Castelnau, de Pétain, nous n'avions jamais parlé. « Mon petit, m'écrivait Robert, si tu voyais tout ce monde, surtout les gens du peuple, les ouvriers, les pet…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "olga-karnovitch-princesse-paley",
+      "kind": "personne",
+      "label": "Olga Karnovitch, princesse Paley, épouse morganatique du grand-duc Paul de Russie, 1865-1929",
+      "href": "https://fr.wikipedia.org/wiki/Olga_Karnovitch_Paley",
+      "wikidata": "Q265478",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Hohenfelsen",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 63,
+                "raw_line": 127,
+                "text_excerpt": "…e, considérablement agacé la grande-duchesse Wladimir en appelant toujours la comtesse de Hohenfelsen, femme morganatique du grand-duc Paul, « la Grande-Duchesse Paul ». Il n'empêche que la Révolution russe n'eut pas plutôt éclaté que notre ambassadeu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "othenin-d-haussonville",
+      "kind": "personne",
+      "label": "Othenin d'Haussonville, académicien, comte d'Haussonville, gendre du duc de Broglie (1843-1924)",
+      "href": "https://fr.wikipedia.org/wiki/Othenin_d'Haussonville",
+      "wikidata": "Q345822",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Haussonville",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 9,
+                "text_excerpt": "… répondit : « Le comte, ma chère », à Mme Bontemps qui lui disait : « C'est bien le duc d'Haussonville que vous venez de me présenter », soit par entière ignorance et absence de toute association entre le nom Haussonville et un titre quelconque, soit, …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "ovide",
+      "kind": "personne",
+      "label": "Ovide, poète latin antique",
+      "href": "https://fr.wikipedia.org/wiki/Ovide",
+      "wikidata": "Q7198",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Ovide",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 38,
+                "raw_line": 77,
+                "text_excerpt": "…pas, à rappeler tout ce qu'il avait dit il y avait quelques années, et ce que Clausewitz, Ovide, Apollonius de Tyane avaient dit il y avait plus ou moins de siècles, Brichot aurait pu constituer aisément la matière d'un fort volume. Il est à reg…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "paul-deschanel",
+      "kind": "personne",
+      "label": "Paul Deschanel, homme politique, président de la République",
+      "href": "https://fr.wikipedia.org/wiki/Paul_Deschanel",
+      "wikidata": "Q309995",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Deschanel",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 25,
+                "raw_line": 51,
+                "text_excerpt": "…attention, et qui, elles, plus intelligentes, couraient à la Sorbonne ou à la Chambre, si Deschanel devait parler. Bref, les gens du monde s'étaient désengoués de M. de Charlus, non pas pour avoir trop pénétré, mais sans avoir pénétré jamais sa rare…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "paul-morand",
+      "kind": "personne",
+      "label": "Paul Morand, écrivain et diplomate français, auteur de Clarisse (1888-1976)",
+      "href": "https://fr.wikipedia.org/wiki/Paul_Morand",
+      "wikidata": "Q272",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Morand",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…re fois et sera peut-être tué demain. Quand Auguste de Pologne, comme raconte le charmant Morand, l'auteur délicieux de *Clarisse*, échangea un de ses régiments contre une collection de potiches chinoises, il fit à mon avis une mauvaise affaire. …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "paul-von-hindenburg",
+      "kind": "personne",
+      "label": "Paul von Hindenburg, maréchal puis président allemand, 1847-1934",
+      "href": "https://fr.wikipedia.org/wiki/Paul_von_Hindenburg",
+      "wikidata": "Q2667",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Hindenburg",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 23,
+                "raw_line": 47,
+                "text_excerpt": "… les Alpes, mais à appuyer les armées engagées sur les théâtres septentrionaux. La ruse d'Hindenburg attaquant Varsovie pour masquer l'attaque véritable sur les lacs de Mazurie est imitée d'un plan de Napoléon de 1812. » Tu vois que M. Bidou reprodui…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        },
+        {
+          "match": "Hindenbourg",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 49,
+                "text_excerpt": "…éateur du rôle » comment on pouvait exceller dans l'emploi de raisonneur. « Il paraît que Hindenbourg c'est une révélation, lui dis-je. -- Une vieille révélation, me répondit-il du « tac au tac », ou une future révélation. » Il aurait fallu, au lieu d…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "phidias",
+      "kind": "artiste",
+      "label": "Phidias, sculpteur grec antique",
+      "href": "https://fr.wikipedia.org/wiki/Phidias",
+      "wikidata": "Q177302",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Phidias",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 33,
+                "raw_line": 67,
+                "text_excerpt": "…s Marocains, mais surtout des Anglo-Saxons en qui il voyait comme des statues vivantes de Phidias. Or, chez lui, le plaisir n'allait pas sans une certaine idée cruelle dont je ne savais pas encore à ce moment-là toute la force ; l'homme qu'il aima…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "philippe-petain",
+      "kind": "personne",
+      "label": "Philippe Pétain, maréchal de France (1856-1951)",
+      "href": "https://fr.wikipedia.org/wiki/Philippe_Pétain",
+      "wikidata": "Q5721",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Pétain",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 16,
+                "raw_line": 33,
+                "text_excerpt": "…itté le service actif presque au début de la guerre. De Joffre, de Foch, de Castelnau, de Pétain, nous n'avions jamais parlé. « Mon petit, m'écrivait Robert, si tu voyais tout ce monde, surtout les gens du peuple, les ouvriers, les petits commerç…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "phedre-racine",
+      "kind": "scene",
+      "label": "Phèdre — tragédie de Jean Racine (1677)",
+      "href": "https://fr.wikipedia.org/wiki/Ph%C3%A8dre_(Racine)",
+      "wikidata": "Q969098",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Phèdre",
+          "paragraphs": [
+            "t1-p0185",
+            "t1-p0195",
+            "t2-p0006",
+            "t2-p0011",
+            "t2-p0012",
+            "t2-p0013",
+            "t2-p0014",
+            "t2-p0015",
+            "t2-p0024",
+            "t2-p0030",
+            "t2-p0088",
+            "t2-p0212",
+            "t2-p0215",
+            "t2-p0546",
+            "t2-p0547",
+            "t3-p0051",
+            "t3-p0055",
+            "t3-p0065",
+            "t3-p0066",
+            "t3-p0070",
+            "t3-p0074",
+            "t3-p0079",
+            "t3-p0082",
+            "t3-p0490",
+            "t3-p1207",
+            "t4-p0040",
+            "t4-p0163",
+            "t4-p0173",
+            "t4-p0328",
+            "t4-p0398",
+            "t6-p0031",
+            "t7-p0079",
+            "t7-p0092",
+            "t7-p0198"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 54,
+                "raw_line": 109,
+                "text_excerpt": "…il me faut ou les princesses de la tragédie classique ou la grosse farce. Pas de milieu, *Phèdre* ou *Les Saltimbanques*. » Mais enfin l'équilibre entre ces deux snobismes avait été rompu. Peut-être fatigue de vieillard, ou extension de la sensua…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0079",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "pierre-quillard",
+      "kind": "personne",
+      "label": "Pierre Quillard, poète symboliste et militant dreyfusard (1864-1912)",
+      "href": "https://fr.wikipedia.org/wiki/Pierre_Quillard",
+      "wikidata": "Q3106785",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Pierre Quillard",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "…du Paty de Clam, dans la salle des témoins de l'affaire Zola, à réciter en passant devant Pierre Quillard, poète dreyfusard de la plus extrême violence et que, d'ailleurs, il ne connaissait pas, des vers de son drame symboliste : *La Fille aux mains coupé…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "pisanello",
+      "kind": "artiste",
+      "label": "Pisanello (vers 1395-vers 1455), peintre et médailleur italien",
+      "href": "https://fr.wikipedia.org/wiki/Pisanello",
+      "wikidata": "Q311082",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Pisanello",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 2,
+                "raw_line": 5,
+                "text_excerpt": "… sa cagna, une patine si belle que le profil de la reine Victoria y avait l'air tracé par Pisanello ; c'est encore parce qu'elles y pensaient sans cesse, disaient-elles, qu'elles portaient à peine le deuil quand l'un des leurs tombait, sous le préte…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "platon",
+      "kind": "personne",
+      "label": "Platon, philosophe grec antique",
+      "href": "https://fr.wikipedia.org/wiki/Platon",
+      "wikidata": "Q859",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Platon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 44,
+                "raw_line": 89,
+                "text_excerpt": "…hlètes de la Grèce, vous entendez bien, de la Grèce, mon cher, ce sont les jeunes gens de Platon, ou plutôt des Spartiates. J'ai un ami qui est allé à Rouen où ils ont leur camp, il a vu des merveilles, de pures merveilles dont on n'a pas idée. C…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "pyrrhus",
+      "kind": "personne",
+      "label": "Pyrrhus, roi d'Épire, victoire à la Pyrrhus",
+      "href": "https://fr.wikipedia.org/wiki/Pyrrhus_Ier",
+      "wikidata": "Q172353",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Pyrrhus",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…tte solution, mais je vois surtout beaucoup de victoires sur le papier, de victoires à la Pyrrhus, avec un coût qui ne nous est pas dit) et que les Boches ne se croient plus sûrs de vaincre, on voit l'Allemagne chercher à hâter la paix, la France …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "raoul-de-boisdeffre",
+      "kind": "personne",
+      "label": "Raoul de Boisdeffre, chef d'état-major, figure de l'affaire Dreyfus (1839-1919)",
+      "href": "https://fr.wikipedia.org/wiki/Raoul_Le_Mouton_de_Boisdeffre",
+      "wikidata": "Q1887774",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Boisdeffre",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 71,
+                "text_excerpt": "…Alors tout ce que faisait un militaire était bien, fût-ce les irrégularités du général de Boisdeffre, les travestissements et machinations du colonel du Paty de Clam, le faux du colonel Henry. Par quelle volte-face extraordinaire (et qui n'était en r…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "raphael",
+      "kind": "artiste",
+      "label": "Raphaël (1483-1520), peintre et architecte de la Renaissance",
+      "href": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_(peintre)",
+      "wikidata": "Q5597",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Raphaël",
+          "paragraphs": [
+            "t2-p0531",
+            "t5-p0229",
+            "t7-p0038",
+            "t7-p0060"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 12,
+                "raw_line": 25,
+                "text_excerpt": "…la délicatesse qu'elles ont dans certaines peintures japonaises ou dans certains fonds de Raphaël ; elles étaient allongées à terre au pied de l'arbre lui-même, comme on les voit souvent dans la nature au soleil couchant, quand celui-ci inonde et …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0038",
+                    "status": "located_by_text",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 71,
+                "text_excerpt": "… historiques, ou pour Goncourt mettant Diderot au-dessus d'Homère et Watteau au-dessus de Raphaël, ne cesse de nous répéter que les Thermopyles, qu'Austerlitz même, ce n'était rien à côté de Vauquois. Cette fois, du reste, le public, qui avait rés…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0060",
+                    "status": "located_by_text",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "reims",
+      "kind": "lieu",
+      "label": "Reims",
+      "href": "https://fr.wikipedia.org/wiki/Reims",
+      "wikidata": null,
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Reims",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 39,
+                "raw_line": 79,
+                "text_excerpt": "…es journaux que sa classe est rappelée. Quant aux monuments, un chef-d'œuvre unique comme Reims par la qualité n'est pas tellement ce dont la disparition m'épouvante, c'est surtout de voir anéantis une telle quantité d'ensembles qui rendaient le…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 58,
+                "raw_line": 117,
+                "text_excerpt": "…ne église de Milan -- ville où elle n'irait probablement jamais -- ou de la cathédrale de Reims -- fût-ce même de celle d'Arras ! -- qu'elle ne pourrait voir puisqu'elles étaient plus ou moins détruites, enviait les riches qui peuvent s'offrir l…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "richard-wagner",
+      "kind": "personne",
+      "label": "Richard Wagner, compositeur (1813-1883)",
+      "href": "https://fr.wikipedia.org/wiki/Richard_Wagner",
+      "wikidata": "Q1511",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Wagner",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 22,
+                "raw_line": 45,
+                "text_excerpt": "…ne *Chevauchée*. Il faut décidément l'arrivée des Allemands pour qu'on puisse entendre du Wagner à Paris. » À certains points de vue la comparaison n'était pas fausse. La ville semblait une masse informe et noire qui tout d'un coup passait des pr…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 33,
+                "raw_line": 67,
+                "text_excerpt": "…z eux, se complaisaient à les dénoncer chez les souverains des « Empires de proie », chez Wagner, etc. Il brûlait de se trouver face à face avec eux, de leur mettre le nez dans leur propre vice devant tout le monde et de laisser ces insulteurs d'…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "robert-schumann",
+      "kind": "personne",
+      "label": "Robert Schumann, compositeur, 1810-1856",
+      "href": "https://fr.wikipedia.org/wiki/Robert_Schumann",
+      "wikidata": "Q7351",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Schumann",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "…rame symboliste : *La Fille aux mains coupées*. Saint-Loup me parlait-il d'une mélodie de Schumann, il n'en donnait le titre qu'en allemand et ne prenait aucune circonlocution pour me dire que quand, à l'aube, il avait entendu un premier gazouillem…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 61,
+                "raw_line": 123,
+                "text_excerpt": "…endus sortir de sa bouche, il y avait six jours, c'étaient ceux qui commencent un lied de Schumann et que sur mon escalier il me fredonnait, en allemand, si bien qu'à cause des voisins je l'avais fait taire. Habitué par une bonne éducation suprême …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "romain-rolland",
+      "kind": "personne",
+      "label": "Romain Rolland, écrivain, prix Nobel de littérature (1866-1944)",
+      "href": "https://fr.wikipedia.org/wiki/Romain_Rolland",
+      "wikidata": "Q47162",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Romain Rolland",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "…eaux que nous aimions l'un et l'autre et ne craignait pas de faire allusion à une page de Romain Rolland, voire de Nietzsche, avec cette indépendance des gens du front qui n'avaient pas la même peur de prononcer un nom allemand que ceux de l'arrière, et …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "sarah-bernhardt",
+      "kind": "personne",
+      "label": "Sarah Bernhardt, actrice (1844-1923)",
+      "href": "https://fr.wikipedia.org/wiki/Sarah_Bernhardt",
+      "wikidata": "Q4605",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Sarah Bernhardt",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 49,
+                "raw_line": 99,
+                "text_excerpt": "…l bout, dit mélancoliquement le baron qui était « pessimiste ». -- Vous n'avez pas vu que Sarah Bernhardt l'a dit sur les journaux : La France, elle ira jusqu'au bout. Les Français, ils se feront tuer plutôt jusqu'au dernier. -- Je ne doute pas un seul in…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "socrate",
+      "kind": "personne",
+      "label": "Socrate, philosophe grec antique",
+      "href": "https://fr.wikipedia.org/wiki/Socrate",
+      "wikidata": "Q913",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Socrate",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 54,
+                "raw_line": 109,
+                "text_excerpt": "…n ne juge pas coupables ? Vous êtes plus instruit que moi et vous me direz sans doute que Socrate ne croyait pas pouvoir recevoir d'argent pour ses leçons. Mais de notre temps les professeurs de philosophie ne pensent pas ainsi, ni les médecins, n…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "sesame-et-les-lys-ruskin",
+      "kind": "livre",
+      "label": "Sésame et les Lys — John Ruskin (1865), traduit par Marcel Proust (1906)",
+      "href": "https://fr.wikipedia.org/wiki/S%C3%A9same_et_les_Lys",
+      "wikidata": "Q30740811",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Sésame et les Lys",
+          "paragraphs": [
+            "t7-p0079"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 54,
+                "raw_line": 109,
+                "text_excerpt": "…n livre que je crois avoir aperçu chez le baron (il faisait allusion à une traduction de *Sésame et les Lys*, de Ruskin, que j'avais envoyée à M. de Charlus). Si jamais vous étiez curieux, un soir, de voir, je ne dis pas quarante, mais une dizaine de voleur…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0079",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "talleyrand",
+      "kind": "personne",
+      "label": "Talleyrand, diplomate et homme d'État (1754-1838)",
+      "href": "https://fr.wikipedia.org/wiki/Charles-Maurice_de_Talleyrand-Périgord",
+      "wikidata": "Q160499",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Talleyrand",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 24,
+                "raw_line": 49,
+                "text_excerpt": "…ut faire au trône de François-Joseph. Il se dit, d'ailleurs, en cela dans la tradition de Talleyrand et du Congrès de Vienne. -- L'ère du Congrès de Vienne est révolue, me répondit-il ; à la diplomatie secrète il faut opposer la diplomatie concrète. …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "victor-hugo",
+      "kind": "personne",
+      "label": "Victor Hugo, écrivain (1802-1885)",
+      "href": "https://fr.wikipedia.org/wiki/Victor_Hugo",
+      "wikidata": "Q535",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Hugo",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 16,
+                "raw_line": 33,
+                "text_excerpt": "… ou Christ, ou barbares qui étaient déjà pétris de grandeur avant que s'en fussent servis Hugo, Vigny, ou les autres. Je dis que le peuple est ce qu'il y a de mieux, mais tout le monde est bien. Le pauvre Vaugoubert, le fils de l'ambassadeur, a…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "virgile",
+      "kind": "personne",
+      "label": "Virgile, poète latin antique",
+      "href": "https://fr.wikipedia.org/wiki/Virgile",
+      "wikidata": "Q1398",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Virgile",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 13,
+                "raw_line": 27,
+                "text_excerpt": "…econnaîtraient à ces traces d'éducation, comme deux latinistes citeraient correctement du Virgile. Saint-Loup n'eût jamais pu, même torturé par les Allemands, dire autrement que « l'Empereur Guillaume ». Et ce savoir-vivre est malgré tout l'indice…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "carpaccio",
+      "kind": "artiste",
+      "label": "Vittore Carpaccio (vers 1465-1525/1526), peintre vénitien",
+      "href": "https://fr.wikipedia.org/wiki/Vittore_Carpaccio",
+      "wikidata": "Q5581",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Carpaccio",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 25,
+                "raw_line": 51,
+                "text_excerpt": "… arbitrairement chimérique en ce qui concernait le décor, comme de la ville où il vivait, Carpaccio fit une Jérusalem ou une Constantinople en y assemblant une foule dont la merveilleuse bigarrure n'était pas plus colorée que celle-ci. Marchant derr…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "voltaire",
+      "kind": "personne",
+      "label": "Voltaire, écrivain et philosophe, 1694-1778",
+      "href": "https://fr.wikipedia.org/wiki/Voltaire",
+      "wikidata": "Q9068",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Voltaire",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 25,
+                "raw_line": 51,
+                "text_excerpt": "…nte exemplaires pour pouvoir la prêter à ses connaissances, et M. Verdurin, déclarant que Voltaire même n'écrivait pas mieux, en donnait lecture à haute voix. Depuis la guerre le ton avait changé. L'inversion du baron n'était pas seule dénoncée, ma…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "detaille",
+      "kind": "artiste",
+      "label": "Édouard Detaille (1848-1912), peintre militaire français",
+      "href": "https://fr.wikipedia.org/wiki/%C3%89douard_Detaille",
+      "wikidata": "Q724148",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Detaille",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 49,
+                "raw_line": 99,
+                "text_excerpt": "…olité dont il fit preuve devant ce harem qui semblait presque l'intimider, ces hochements de taille et de tête, ces affinements du regard qui m'avaient frappé le soir de sa première entrée à la Raspelière, grâces héritées de quelque grand'mère que j…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "edouard-vii",
+      "kind": "personne",
+      "label": "Édouard VII, roi du Royaume-Uni",
+      "href": "https://fr.wikipedia.org/wiki/Édouard_VII",
+      "wikidata": "Q20875",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Edouard VII",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 13,
+                "raw_line": 27,
+                "text_excerpt": "…: « On dit même beaucoup qu'il est mort. » À la Bourse tout souverain malade, que ce soit Edouard VII ou Guillaume II, est mort, toute ville sur le point d'être assiégée est prise. « On ne le cache, ajouta Bloch, que pour ne pas déprimer l'opinion che…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "emile-zola",
+      "kind": "personne",
+      "label": "Émile Zola, romancier, intervenant dans l'affaire Dreyfus (1840-1902)",
+      "href": "https://fr.wikipedia.org/wiki/Émile_Zola",
+      "wikidata": "Q504",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Zola",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 17,
+                "raw_line": 35,
+                "text_excerpt": "… mettait, par exemple, le colonel du Paty de Clam, dans la salle des témoins de l'affaire Zola, à réciter en passant devant Pierre Quillard, poète dreyfusard de la plus extrême violence et que, d'ailleurs, il ne connaissait pas, des vers de son…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 35,
+                "raw_line": 71,
+                "text_excerpt": "…un partisan aveugle de l'Antiquité comme Brichot, qui n'avait pas assez de sarcasmes pour Zola trouvant plus de poésie dans un ménage d'ouvriers, dans la mine, que dans les palais historiques, ou pour Goncourt mettant Diderot au-dessus d'Homère…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 116
+}

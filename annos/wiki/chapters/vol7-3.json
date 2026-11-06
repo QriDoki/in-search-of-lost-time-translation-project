@@ -1,0 +1,506 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol7-3",
+  "book": 3,
+  "raw_file": "raw-md/vol7/chapters/003.md",
+  "translation_file": "polish/dev/chapters/polished-vol7-3.md",
+  "annotations": [
+    {
+      "id": "charles-darwin",
+      "kind": "personne",
+      "label": "Charles Darwin, naturaliste, 1809-1882",
+      "href": "https://fr.wikipedia.org/wiki/Charles_Darwin",
+      "wikidata": "Q1035",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Darwin",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 18,
+                "raw_line": 39,
+                "text_excerpt": "…né de l'adjectif « naturel », avec un texte antérieur de plusieurs siècles aux travaux de Darwin. « Laps de temps » me sembla de meilleur augure encore. Enfin m'apparut l'évidence de bouleversements que je ne connaissais pas mais propres à autori…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "fernand-labori",
+      "kind": "personne",
+      "label": "Fernand Labori, avocat dreyfusard, 1860-1917",
+      "href": "https://fr.wikipedia.org/wiki/Fernand_Labori",
+      "wikidata": "Q922807",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Labori",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 108,
+                "raw_line": 219,
+                "text_excerpt": "…descendre par petites saccades coupées de repos, pendant au moins dix minutes ? » ou d'un Labori : « Pourquoi, dès qu'il a ouvert la bouche, a-t-il émis ces sons tragiques, inattendus, pour dire la chose la plus simple ? » Mais comme tout le mond…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "franz-schubert",
+      "kind": "personne",
+      "label": "Franz Schubert, compositeur autrichien, 1797-1828",
+      "href": "https://fr.wikipedia.org/wiki/Franz_Schubert",
+      "wikidata": "Q7312",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Schubert",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 75,
+                "raw_line": 153,
+                "text_excerpt": "…e mal auquel je renonçais ; j'avais chanté des heures de suite en pleurant l'« Adieu » de Schubert :",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "frederick-lemaitre",
+      "kind": "personne",
+      "label": "Frédérick Lemaître, acteur français, 1800-1876",
+      "href": "https://fr.wikipedia.org/wiki/Frédérick_Lemaître",
+      "wikidata": "Q654231",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Frédéric Lemaître",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 34,
+                "raw_line": 71,
+                "text_excerpt": "…our faire parler ainsi un objet inanimé, l'art à la fois génial et patient d'Irving et de Frédéric Lemaître. En ce moment, tenant au-dessus d'Albertine et de moi la lampe allumée qui ne laissait dans l'ombre aucune des dépressions encore visibles que le cor…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "henry-irving",
+      "kind": "personne",
+      "label": "Henry Irving, acteur britannique, 1838-1905",
+      "href": "https://fr.wikipedia.org/wiki/Henry_Irving",
+      "wikidata": "Q32505",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Irving",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 34,
+                "raw_line": 71,
+                "text_excerpt": "…Elle avait, pour faire parler ainsi un objet inanimé, l'art à la fois génial et patient d'Irving et de Frédéric Lemaître. En ce moment, tenant au-dessus d'Albertine et de moi la lampe allumée qui ne laissait dans l'ombre aucune des dépressions en…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-racine",
+      "kind": "personne",
+      "label": "Jean Racine, dramaturge (1639-1699)",
+      "href": "https://fr.wikipedia.org/wiki/Jean_Racine",
+      "wikidata": "Q742",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Racine",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 11,
+                "raw_line": 25,
+                "text_excerpt": "…elle avait mis tant d'ardeur à imposer son idée de faire écrire par Sophocle : « Mon cher Racine », elle fut la première à rire de bon cœur. « C'est Andrée qui avait raison, j'étais stupide, dit-elle, il fallait que Sophocle écrive : « Monsieur »…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "madone-du-magnificat-botticelli",
+      "kind": "oeuvre",
+      "label": "La Madone du Magnificat — Sandro Botticelli, vers 1483 (Galerie des Offices, Florence)",
+      "href": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Madonna_del_Magnificat_C.jpg",
+      "wikidata": "Q2551625",
+      "wikipedia": "https://fr.wikipedia.org/wiki/La_Madone_du_Magnificat",
+      "location": "Galerie des Offices, Florence",
+      "image": {
+        "src": "/assets/proust/oeuvres/madone-du-magnificat-botticelli.jpg",
+        "width": 1600,
+        "height": 1600,
+        "credit": "Sandro Botticelli — domaine public, via Wikimedia Commons",
+        "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Madonna_del_Magnificat_C.jpg"
+      },
+      "targets": [
+        {
+          "match": "Magnificat",
+          "paragraphs": [
+            "t2-p0305",
+            "t3-p1011"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 21,
+                "raw_line": 45,
+                "text_excerpt": "…tées dans ces cas-là par une sorte de tradition bourgeoise presque aussi ancienne que le *Magnificat* lui-même, et qu'une jeune fille un peu en colère et sûre de son droit emploie ce qu'on appelle « tout naturellement », c'est-à-dire parce qu'elle le…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t3-p1011",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "figaro",
+      "kind": "presse",
+      "label": "Le Figaro — quotidien fondé en 1826",
+      "href": "https://fr.wikipedia.org/wiki/Le_Figaro",
+      "wikidata": "Q216047",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Figaro",
+          "paragraphs": [
+            "t1-p0027",
+            "t1-p0028",
+            "t2-p0264",
+            "t3-p0995",
+            "t3-p1124",
+            "t4-p0045",
+            "t4-p0076",
+            "t5-p0011",
+            "t5-p0203",
+            "t5-p0221",
+            "t6-p0112",
+            "t6-p0113",
+            "t6-p0116",
+            "t6-p0117",
+            "t6-p0120",
+            "t6-p0132",
+            "t6-p0146",
+            "t7-p0009",
+            "t7-p0036",
+            "t7-p0061",
+            "t7-p0230"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 5,
+                "raw_line": 13,
+                "text_excerpt": "… lesquels les promeneurs dominicaux semblaient s'argenter. J'avais rejeté à mes pieds le *Figaro* que tous les jours je faisais acheter consciencieusement depuis que j'y avais envoyé un article qui n'y avait pas paru ; malgré l'absence de soleil,…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t3-p0995",
+                    "status": "located_by_text",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-d-esther",
+      "kind": "livre",
+      "label": "Le Livre d’Esther — livre de la Bible",
+      "href": "https://fr.wikipedia.org/wiki/Livre_d%27Esther",
+      "wikidata": "Q131068",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Livre d’Esther",
+          "paragraphs": [
+            "t3-p1091"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 102,
+                "raw_line": 207,
+                "text_excerpt": "Peut-être parfois, quand, à l'imitation des princes persans qui, au dire du *Livre d'Esther*, se faisaient lire les registres où étaient inscrits les noms de ceux de leurs sujets qui leur avaient témoigné du zèle, M^me^ de Guermantes consult…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t3-p1091",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "marie-amelie-de-bourbon-siciles",
+      "kind": "personne",
+      "label": "Marie-Amélie de Bourbon-Siciles, reine des Français, épouse de Louis-Philippe Ier",
+      "href": "https://fr.wikipedia.org/wiki/Marie-Amélie_de_Bourbon-Siciles",
+      "wikidata": "Q231457",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Marie-Amélie",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 106,
+                "raw_line": 215,
+                "text_excerpt": "…l aurait voulu que son frère et sa belle-sœur disent de lui : « Charlus », comme la reine Marie-Amélie ou le duc d'Orléans pouvaient dire de leurs fils, petits-fils, neveux et frères : « Joinville, Nemours, Chartres, Paris ».",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "platon",
+      "kind": "personne",
+      "label": "Platon, philosophe grec antique",
+      "href": "https://fr.wikipedia.org/wiki/Platon",
+      "wikidata": "Q859",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Platon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 32,
+                "raw_line": 67,
+                "text_excerpt": "…). Encore ses erreurs tenaient-elles plutôt, comme les leurs, comme les fables auxquelles Platon croyait, à une fausse conception du monde et à des idées préconçues qu'à l'insuffisance des ressources matérielles. C'est ainsi que, de nos jours enc…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "sophocle",
+      "kind": "personne",
+      "label": "Sophocle, dramaturge grec antique",
+      "href": "https://fr.wikipedia.org/wiki/Sophocle",
+      "wikidata": "Q7235",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Sophocle",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 11,
+                "raw_line": 25,
+                "text_excerpt": "…i reparlai du jour où elle avait mis tant d'ardeur à imposer son idée de faire écrire par Sophocle : « Mon cher Racine », elle fut la première à rire de bon cœur. « C'est Andrée qui avait raison, j'étais stupide, dit-elle, il fallait que Sophocle é…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "cinquieme-symphonie-beethoven",
+      "kind": "scene",
+      "label": "Symphonie nº 5 en ut mineur — Ludwig van Beethoven (1808)",
+      "href": "https://fr.wikipedia.org/wiki/Symphonie_no_5_de_Beethoven",
+      "wikidata": "Q188709",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Symphonie en ut mineur",
+          "paragraphs": [
+            "t3-p0991"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 1,
+                "raw_line": 5,
+                "text_excerpt": "…pe avec autant d'émotion que si, pareils aux fameux coups d'archet par lesquels débute la Symphonie en ut mineur, ils avaient été les appels irrésistibles d'un mystérieux destin. Tout changement à vue de la nature nous offre une transformation semblable, en adap…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t3-p0991",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 13
+}

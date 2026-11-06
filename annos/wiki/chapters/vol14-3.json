@@ -1,0 +1,263 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol14-3",
+  "book": 7,
+  "raw_file": "raw-md/vol14/chapters/003.md",
+  "translation_file": "polish/dev/chapters/polished-vol14-3.md",
+  "annotations": [
+    {
+      "id": "edmond-et-jules-de-goncourt",
+      "kind": "personne",
+      "label": "Edmond et Jules de Goncourt, écrivains, tenue d'un Journal célèbre (le « Journal des Goncourt » pastiché par Proust)",
+      "href": "https://fr.wikipedia.org/wiki/Frères_Goncourt",
+      "wikidata": "Q622283",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Goncourt",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 2,
+                "raw_line": 5,
+                "text_excerpt": "…er cette propriété j'avais à peu près identifiée, en lisant quelques pages du journal des Goncourt, à la vanité, au mensonge de la littérature, cette pensée, moins douloureuse peut-être, plus morne encore, si je lui donnais comme objet non ma propr…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jacques-benigne-bossuet",
+      "kind": "personne",
+      "label": "Jacques-Bénigne Bossuet, prélat et écrivain, 1627-1704",
+      "href": "https://fr.wikipedia.org/wiki/Jacques-Bénigne_Bossuet",
+      "wikidata": "Q294100",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Bossuet",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 9,
+                "text_excerpt": "…lèrent tout le temps qu'il laissa sa tête découverte par déférence, avec l'éloquence d'un Bossuet. Quand Jupien eut aidé le baron à descendre et que j'eus salué celui-ci, il me parla très vite, d'une voix si imperceptible que je ne pus distinguer …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "domino-noir-auber",
+      "kind": "scene",
+      "label": "Le Domino noir — opéra-comique de Daniel-François-Esprit Auber (1837)",
+      "href": "https://fr.wikipedia.org/wiki/Le_Domino_noir",
+      "wikidata": "Q255938",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Domino noir",
+          "paragraphs": [
+            "t7-p0092"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 1,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 9,
+                "text_excerpt": "…euses, pour regarder, toutes fraîches encore de colle, l'affiche de *Phèdre* et celle du *Domino noir*. Arrivé aux Champs-Élysées, comme je n'étais pas très désireux d'entendre tout le concert qui était donné chez les Guermantes, je fis arrêter la voi…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0092",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "phedre-racine",
+      "kind": "scene",
+      "label": "Phèdre — tragédie de Jean Racine (1677)",
+      "href": "https://fr.wikipedia.org/wiki/Ph%C3%A8dre_(Racine)",
+      "wikidata": "Q969098",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Phèdre",
+          "paragraphs": [
+            "t1-p0185",
+            "t1-p0195",
+            "t2-p0006",
+            "t2-p0011",
+            "t2-p0012",
+            "t2-p0013",
+            "t2-p0014",
+            "t2-p0015",
+            "t2-p0024",
+            "t2-p0030",
+            "t2-p0088",
+            "t2-p0212",
+            "t2-p0215",
+            "t2-p0546",
+            "t2-p0547",
+            "t3-p0051",
+            "t3-p0055",
+            "t3-p0065",
+            "t3-p0066",
+            "t3-p0070",
+            "t3-p0074",
+            "t3-p0079",
+            "t3-p0082",
+            "t3-p0490",
+            "t3-p1207",
+            "t4-p0040",
+            "t4-p0163",
+            "t4-p0173",
+            "t4-p0328",
+            "t4-p0398",
+            "t6-p0031",
+            "t7-p0079",
+            "t7-p0092",
+            "t7-p0198"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 9,
+                "text_excerpt": "… si hâtives, si fiévreuses, pour regarder, toutes fraîches encore de colle, l'affiche de *Phèdre* et celle du *Domino noir*. Arrivé aux Champs-Élysées, comme je n'étais pas très désireux d'entendre tout le concert qui était donné chez les Guerman…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t7-p0092",
+                    "status": "located_by_text",
+                    "method": "same_source_paragraph_cooccurrence"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "sophocle",
+      "kind": "personne",
+      "label": "Sophocle, dramaturge grec antique",
+      "href": "https://fr.wikipedia.org/wiki/Sophocle",
+      "wikidata": "Q7235",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Sophocle",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 9,
+                "text_excerpt": "…ait toujours ; son intelligence n'était pas atteinte. Et plus que n'eût fait tel chœur de Sophocle sur l'orgueil abaissé d'Œdipe, plus que la mort même, et toute oraison funèbre sur la mort, le salut empressé et humble du baron à Mme de Sainte-Euve…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "talleyrand",
+      "kind": "personne",
+      "label": "Talleyrand, diplomate et homme d'État (1754-1838)",
+      "href": "https://fr.wikipedia.org/wiki/Charles-Maurice_de_Talleyrand-Périgord",
+      "wikidata": "Q160499",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Talleyrand",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 4,
+                "raw_line": 9,
+                "text_excerpt": "… Antoine de Mouchy, mort ! Charles Swann, mort ! Adalbert de Montmorency, mort ! Baron de Talleyrand, mort ! Sosthène de Doudeauville, mort ! » Et chaque fois, ce mot « mort » semblait tomber sur ces défunts comme une pelletée de terre plus lourde, l…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 6
+}

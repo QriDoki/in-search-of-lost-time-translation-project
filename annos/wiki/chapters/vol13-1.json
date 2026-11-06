@@ -1,0 +1,1014 @@
+{
+  "schema_version": 1,
+  "work_id": "recherche-du-temps-perdu",
+  "notice": "Liens posés à l’affichage par la Société des Amis de Marcel Proust ; ils ne font pas partie de la transcription Wikisource, dont le texte n’est pas modifié.",
+  "generated_at": "2026-11-03T17:41:44+01:00",
+  "split_schema_version": 1,
+  "source_file": "annos/wiki/wiki.json",
+  "mapping_notice": "本地文本匹配结果；candidate 须核对语境。外部段落编号不等于本地段号；text_excerpt 来自 raw-md，全文按 raw_file/raw_line 查阅。原始 targets 限制保留，排除编号未定位时见 unresolved_excludes。",
+  "chapter_id": "vol13-1",
+  "book": 6,
+  "raw_file": "raw-md/vol13/chapters/001.md",
+  "translation_file": "polish/dev/chapters/polished-vol13-1.md",
+  "annotations": [
+    {
+      "id": "durer",
+      "kind": "artiste",
+      "label": "Albrecht Dürer (1471-1528), peintre et graveur allemand",
+      "href": "https://fr.wikipedia.org/wiki/Albrecht_D%C3%BCrer",
+      "wikidata": "Q5580",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Dürer",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 6,
+                "raw_line": 13,
+                "text_excerpt": "… au point extrême de l'oscillation du pendule. La femme se dit : « Non, cela ne peut plus durer ainsi », justement parce que l'homme ne parle que de la quitter, ou y pense ; et c'est elle qui quitte. Alors, le pendule revenant à son autre point …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 10,
+                "raw_line": 21,
+                "text_excerpt": "…s que font l'amour et la jalousie, sans parler de la souffrance. Si pour attendre, pour « durer », je laissais Albertine rester loin de moi plusieurs jours, plusieurs semaines peut-être, je ruinais ce qui avait été mon but pendant plus d'une ann…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 48,
+                "raw_line": 97,
+                "text_excerpt": "…rmie, qu'elle s'efforçait, avec ce qui lui restait de forces dans le sommeil, de le faire durer), aurait pu s'accuser et s'accusait en effet de ne pas regretter sa mère, dont la mort la tuait mais dont les traits se dérobaient à son souvenir.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 53,
+                "raw_line": 107,
+                "text_excerpt": "…le habileté, je l'avais trop bien convaincue. En tous cas maintenant cela ne pouvait plus durer ainsi, je ne pouvais pas la laisser en Touraine avec ces jeunes filles, avec cette actrice ; je ne pouvais supporter la pensée de cette vie qui m'éch…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 82,
+                "raw_line": 165,
+                "text_excerpt": "… curiosités étaient absolument pareilles, sans valeur en elles-mêmes, sans possibilité de durer, mais je continuais à tout sacrifier à la cruelle satisfaction de ces curiosités passagères, bien que je susse d'avance que ma séparation forcée d'av…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 102,
+                "raw_line": 205,
+                "text_excerpt": "…et la douleur. Mais le plus souvent ces occasions -- car une maladie, une guerre, peuvent durer bien au delà de ce que la sagesse la plus prévoyante avait supputé -- naissaient à mon insu et me causaient des chocs si violents que je songeais bie…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "blaise-pascal",
+      "kind": "personne",
+      "label": "Blaise Pascal, philosophe et savant (1623-1662)",
+      "href": "https://fr.wikipedia.org/wiki/Blaise_Pascal",
+      "wikidata": "Q1290",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Pascal",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 105,
+                "raw_line": 211,
+                "text_excerpt": "… est dangereux, et on peut faire d'aussi précieuses découvertes que dans les *Pensées* de Pascal dans une réclame pour un savon.",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "esther-racine",
+      "kind": "scene",
+      "label": "Esther — tragédie de Jean Racine (1689)",
+      "href": "https://fr.wikipedia.org/wiki/Esther_(Racine)",
+      "wikidata": "Q746818",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Esther",
+          "paragraphs": [
+            "t2-p0751",
+            "t2-p0752",
+            "t4-p0064",
+            "t4-p0210",
+            "t4-p0260",
+            "t4-p0268",
+            "t5-p0203",
+            "t6-p0040",
+            "t5-p0359"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 52,
+                "raw_line": 105,
+                "text_excerpt": "…r. Mais j'admirai aussi comme la cycliste, la golfeuse de Balbec, qui n'avait rien lu qu'*Esther* avant de me connaître, était douée et combien j'avais eu raison de trouver qu'elle s'était chez moi enrichie de qualités nouvelles qui la faisaient …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0040",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "boucher",
+      "kind": "artiste",
+      "label": "François Boucher (1703-1770), peintre français",
+      "href": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Boucher",
+      "wikidata": "Q180932",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Boucher",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 59,
+                "raw_line": 119,
+                "text_excerpt": "… même abîme, elle était morte. Ce n'était plus assez de fermer les rideaux, je tâchais de boucher les yeux et les oreilles de ma mémoire, pour ne pas voir cette bande orangée du couchant, pour ne pas entendre ces invisibles oiseaux qui se répondai…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "gabriel-faure",
+      "kind": "personne",
+      "label": "Gabriel Fauré, compositeur, 1845-1924",
+      "href": "https://fr.wikipedia.org/wiki/Gabriel_Fauré",
+      "wikidata": "Q104919",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Fauré",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 105,
+                "raw_line": 211,
+                "text_excerpt": "…y attendais le moins je me trouvais devant un nouveau souvenir. Le titre de la mélodie de Fauré, *le Secret*, m'avait mené au « secret du Roi » du duc de Broglie, le nom de Broglie à celui de Chaumont, ou bien le mot de Vendredi-Saint m'avait fa…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "honore-de-balzac",
+      "kind": "personne",
+      "label": "Honoré de Balzac, romancier (1799-1850)",
+      "href": "https://fr.wikipedia.org/wiki/Honoré_de_Balzac",
+      "wikidata": "Q9711",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Balzac",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 79,
+                "raw_line": 159,
+                "text_excerpt": "…es retardements, interruptions et hésitations du début, comme dans certaines nouvelles de Balzac ou quelques ballades de Schumann, le dénouement précipité ! C'est dans le cours de cette dernière année, longue pour moi comme un siècle -- tant Albe…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jacques-doucet",
+      "kind": "personne",
+      "label": "Jacques Doucet, grand couturier parisien, 1853-1929",
+      "href": "https://fr.wikipedia.org/wiki/Jacques_Doucet_(couturier)",
+      "wikidata": "Q1259209",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Doucet",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 80,
+                "raw_line": 161,
+                "text_excerpt": "… après avoir englouti un être, s'étend, sans même un remous à cette place-là, une réalité d'où cet être est exclu, où n'existe plus aucun vouloir, aucune connaissance, et de laquelle il est aussi difficile de remonter à l'idée que cet être a vécu, …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "jean-racine",
+      "kind": "personne",
+      "label": "Jean Racine, dramaturge (1639-1699)",
+      "href": "https://fr.wikipedia.org/wiki/Jean_Racine",
+      "wikidata": "Q742",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Racine",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 43,
+                "raw_line": 87,
+                "text_excerpt": "…, en réduisant la part de tous les scrupules « jansénistes », comme eût dit Bergotte, que Racine a donnés à Phèdre pour la faire paraître moins coupable, que m'apparaissait cette scène, sorte de prophétie des épisodes amoureux de ma propre existe…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-de-rouvroy-duc-de-saint-simon",
+      "kind": "personne",
+      "label": "Louis de Rouvroy, duc de Saint-Simon, mémorialiste de la cour de Louis XIV (1675-1755)",
+      "href": "https://fr.wikipedia.org/wiki/Louis_de_Rouvroy_de_Saint-Simon",
+      "wikidata": "Q463728",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Saint-Simon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 95,
+                "raw_line": 191,
+                "text_excerpt": "…é, cela n'empêchait pas qu'il y en eût eu d'autres, celle qui aimait à causer avec moi de Saint-Simon dans sa chambre ; celle qui, le soir où je lui avais dit qu'il fallait nous séparer, avait dit si tristement : « Ce pianola, cette chambre, penser qu…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 112,
+                "raw_line": 225,
+                "text_excerpt": "…elles. Elles ne m'avaient jamais parlé, elles, de la musique de Vinteuil, des Mémoires de Saint-Simon, elles n'avaient pas mis un parfum trop fort pour venir me voir, elles n'avaient pas joué à mêler leurs cils aux miens, toutes choses importantes par…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "louis-xv",
+      "kind": "personne",
+      "label": "Louis XV, roi de France (1710-1774)",
+      "href": "https://fr.wikipedia.org/wiki/Louis_XV",
+      "wikidata": "Q7738",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Louis XV",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 74,
+                "raw_line": 149,
+                "text_excerpt": "…ouver plus de plaisir que tous les ortolans, lapereaux et bartavelles qui furent servis à Louis XV, et la pointe de l'herbe qui à quelques centimètres frémit devant notre œil, tandis que nous sommes couchés sur la montagne, peut nous cacher la vert…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 111,
+                "raw_line": 223,
+                "text_excerpt": "…uvoir en se contentant du rôle d'entremetteuses, parait pour moi, comme la Pompadour pour Louis XV, de nouvelles fillettes. Même autrefois, mon temps était divisé par périodes où je désirais telle femme, ou telle autre. Quand les plaisirs violents …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "madame-de-pompadour",
+      "kind": "personne",
+      "label": "Madame de Pompadour, favorite de Louis XV",
+      "href": "https://fr.wikipedia.org/wiki/Madame_de_Pompadour",
+      "wikidata": "Q188965",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Pompadour",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 111,
+                "raw_line": 223,
+                "text_excerpt": "…servent leur pouvoir en se contentant du rôle d'entremetteuses, parait pour moi, comme la Pompadour pour Louis XV, de nouvelles fillettes. Même autrefois, mon temps était divisé par périodes où je désirais telle femme, ou telle autre. Quand les plai…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "marie-antoinette",
+      "kind": "personne",
+      "label": "Marie-Antoinette, reine de France (1755-1793)",
+      "href": "https://fr.wikipedia.org/wiki/Marie-Antoinette_d'Autriche",
+      "wikidata": "Q47365",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Marie-Antoinette",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 58,
+                "raw_line": 117,
+                "text_excerpt": "…savait que je n'avais pas mes habitudes, et que pendant qu'à tout hasard je l'attendais à Marie-Antoinette où on m'avait dit : « Nous ne l'avons pas vue aujourd'hui », elle usait avec son amie des mêmes mots qu'avec moi quand nous sortions tous les deux : …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "maurice-barres",
+      "kind": "personne",
+      "label": "Maurice Barrès, écrivain et homme politique nationaliste, 1862-1923",
+      "href": "https://fr.wikipedia.org/wiki/Maurice_Barrès",
+      "wikidata": "Q314957",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Barrès",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 104,
+                "raw_line": 209,
+                "text_excerpt": "… lit de Balbec, autour du cadre de cuivre duquel, comme autour d'un pivot immuable, d'une barres fixe, s'était déplacée, avait évolué ma vie, appuyant successivement à lui de gaies conversations avec ma grand'mère, l'horreur de sa mort, les douce…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "memoires-saint-simon",
+      "kind": "livre",
+      "label": "Mémoires du duc de Saint-Simon (1739-1749, publiés au XIXe siècle)",
+      "href": "https://fr.wikipedia.org/wiki/Louis_de_Rouvroy_de_Saint-Simon",
+      "wikidata": "Q463728",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mémoires de Saint-Simon",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 112,
+                "raw_line": 225,
+                "text_excerpt": "…trouvais en elles. Elles ne m'avaient jamais parlé, elles, de la musique de Vinteuil, des Mémoires de Saint-Simon, elles n'avaient pas mis un parfum trop fort pour venir me voir, elles n'avaient pas joué à mêler leurs cils aux miens, toutes choses importantes par…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "pensees-pascal",
+      "kind": "livre",
+      "label": "Pensées — Blaise Pascal (posthume, 1670)",
+      "href": "https://fr.wikipedia.org/wiki/Pens%C3%A9es_(Pascal)",
+      "wikidata": "Q17360856",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Pensées",
+          "paragraphs": [
+            "t6-p0092",
+            "t1-p0028"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 66,
+                "raw_line": 133,
+                "text_excerpt": "… que je n'avais pas connue : sa vie en Touraine -- était en contradiction avec toutes mes pensées relatives à Albertine, mes désirs, mes regrets, mon attendrissement, ma fureur, ma jalousie. Une telle richesse de souvenirs empruntés au répertoire …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0092",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 79,
+                "raw_line": 159,
+                "text_excerpt": "…e, grâce à une vie toute différente ensemble et où n'avait pu se glisser, dans un bloc de pensées où une douloureuse préoccupation maintenait une cohésion permanente, aucune fissure de distraction et d'oubli, son corps vivant n'avait point, comme …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0092",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 81,
+                "raw_line": 163,
+                "text_excerpt": "… conscience, car en moi mon amie existait trop, en moi où tous les sentiments, toutes les pensées se rapportaient à sa vie. Peut-être, si elle l'avait su, eût-elle été touchée de voir que son ami ne l'oubliait pas, maintenant que sa vie à elle éta…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0092",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 82,
+                "raw_line": 165,
+                "text_excerpt": "…e vie qui n'a rien d'une immortalité véritable mais qui fait qu'il continue à occuper nos pensées de la même manière que quand il vivait. Il est comme en voyage. C'est une survie très païenne. Inversement, quand on a cessé d'aimer, les curiosités …",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0092",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 83,
+                "raw_line": 167,
+                "text_excerpt": "…ne plus vivre, et cet amour pour un être devenu si lointain était comme une religion, mes pensées montaient vers elle comme des prières. Le désir est bien fort, il engendre la croyance, j'avais cru qu'Albertine ne partirait pas parce que je le dés…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0092",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 94,
+                "raw_line": 189,
+                "text_excerpt": "…i peu changé mes préoccupations. Quand notre maîtresse est vivante, une grande partie des pensées qui forment ce que nous appelons notre amour nous viennent pendant les heures où elle n'est pas à côté de nous. Ainsi l'on prend l'habitude d'avoir p…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0092",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 97,
+                "raw_line": 195,
+                "text_excerpt": "…ntale qu'il reflétait au-delà de la mort. Car je sentais bien que si je pouvais entre mes pensées pour Albertine mettre quelque intervalle, d'autre part, si j'en avais mis trop, je ne l'aurais plus aimée ; elle me fût par cette coupure devenue ind…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0092",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 105,
+                "raw_line": 211,
+                "text_excerpt": "…fécond, tout est dangereux, et on peut faire d'aussi précieuses découvertes que dans les *Pensées* de Pascal dans une réclame pour un savon.",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0092",
+                    "status": "candidate",
+                    "method": "match_between_unique_text_anchors"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "phedre-racine",
+      "kind": "scene",
+      "label": "Phèdre — tragédie de Jean Racine (1677)",
+      "href": "https://fr.wikipedia.org/wiki/Ph%C3%A8dre_(Racine)",
+      "wikidata": "Q969098",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Phèdre",
+          "paragraphs": [
+            "t1-p0185",
+            "t1-p0195",
+            "t2-p0006",
+            "t2-p0011",
+            "t2-p0012",
+            "t2-p0013",
+            "t2-p0014",
+            "t2-p0015",
+            "t2-p0024",
+            "t2-p0030",
+            "t2-p0088",
+            "t2-p0212",
+            "t2-p0215",
+            "t2-p0546",
+            "t2-p0547",
+            "t3-p0051",
+            "t3-p0055",
+            "t3-p0065",
+            "t3-p0066",
+            "t3-p0070",
+            "t3-p0074",
+            "t3-p0079",
+            "t3-p0082",
+            "t3-p0490",
+            "t3-p1207",
+            "t4-p0040",
+            "t4-p0163",
+            "t4-p0173",
+            "t4-p0328",
+            "t4-p0398",
+            "t6-p0031",
+            "t7-p0079",
+            "t7-p0092",
+            "t7-p0198"
+          ],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 43,
+                "raw_line": 87,
+                "text_excerpt": "…ntation de la Berma. Alors je me souvins des deux façons différentes dont j'avais écouté *Phèdre,* et ce fut maintenant d'une troisième que je pensai à la scène de la déclaration. Il me semblait que ce que je m'étais si souvent récité à moi-même,…",
+                "evidence": [
+                  {
+                    "source_paragraph": "t6-p0031",
+                    "status": "located_by_text",
+                    "method": "match_within_book"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "richard-wagner",
+      "kind": "personne",
+      "label": "Richard Wagner, compositeur (1813-1883)",
+      "href": "https://fr.wikipedia.org/wiki/Richard_Wagner",
+      "wikidata": "Q1511",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Wagner",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 64,
+                "raw_line": 129,
+                "text_excerpt": "… que je n'avais plus eu -- me livrant sans la restriction d'un seul souci à la musique de Wagner -- qu'à attendre l'arrivée certaine d'Albertine, sans fièvre, avec un manque entier d'impatience où je n'avais pas su reconnaître le bonheur. Et ce b…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "robert-schumann",
+      "kind": "personne",
+      "label": "Robert Schumann, compositeur, 1810-1856",
+      "href": "https://fr.wikipedia.org/wiki/Robert_Schumann",
+      "wikidata": "Q7351",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Schumann",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 79,
+                "raw_line": 159,
+                "text_excerpt": "…et hésitations du début, comme dans certaines nouvelles de Balzac ou quelques ballades de Schumann, le dénouement précipité ! C'est dans le cours de cette dernière année, longue pour moi comme un siècle -- tant Albertine avait changé de positions p…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "stendhal",
+      "kind": "personne",
+      "label": "Stendhal, romancier (1783-1842)",
+      "href": "https://fr.wikipedia.org/wiki/Stendhal",
+      "wikidata": "Q502",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Stendhal",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 106,
+                "raw_line": 213,
+                "text_excerpt": "…pour me torturer, pour me dire qu'à côté de cela des conversations sérieuses avec moi sur Stendhal et Victor Hugo avaient dû bien peu peser pour elle, pour sentir son cœur attiré vers d'autres êtres, se détacher du mien, s'incarner ailleurs. Mais l…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              },
+              {
+                "chapter_paragraph": 110,
+                "raw_line": 221,
+                "text_excerpt": "…leur fait, c'est précisément leur roman. Ainsi la vie de Fabrice del Dongo fut racontée à Stendhal par un chanoine de Padoue. Combien nous voudrions, quand nous aimons, c'est-à-dire quand l'existence d'une autre personne nous semble mystérieuse, tr…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "stephane-mallarme",
+      "kind": "personne",
+      "label": "Stéphane Mallarmé, poète symboliste français, 1842-1898",
+      "href": "https://fr.wikipedia.org/wiki/Stéphane_Mallarmé",
+      "wikidata": "Q767",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Mallarmé",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 28,
+                "raw_line": 57,
+                "text_excerpt": "…n nom de pièce inexact et commettre une hérésie qui vous choquerait) du yacht ces vers de Mallarmé que vous aimiez :",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "titien",
+      "kind": "artiste",
+      "label": "Titien (vers 1488-1576), peintre vénitien",
+      "href": "https://fr.wikipedia.org/wiki/Titien",
+      "wikidata": "Q47551",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Titien",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 110,
+                "raw_line": 221,
+                "text_excerpt": "… atteindre, voyage à Balbec ou amour d'Albertine (comme le fait d'aller au Louvre voir un Titien qui y fut jadis console de ne pouvoir aller à Venise), de ces plaisirs qui, séparés les uns des autres par des nuances indiscernables, font de notre …",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "victor-hugo",
+      "kind": "personne",
+      "label": "Victor Hugo, écrivain (1802-1885)",
+      "href": "https://fr.wikipedia.org/wiki/Victor_Hugo",
+      "wikidata": "Q535",
+      "wikipedia": null,
+      "location": null,
+      "image": null,
+      "targets": [
+        {
+          "match": "Hugo",
+          "paragraphs": [],
+          "exclude": [],
+          "mapping": {
+            "source_target_index": 0,
+            "locations": [
+              {
+                "chapter_paragraph": 106,
+                "raw_line": 213,
+                "text_excerpt": "…our me dire qu'à côté de cela des conversations sérieuses avec moi sur Stendhal et Victor Hugo avaient dû bien peu peser pour elle, pour sentir son cœur attiré vers d'autres êtres, se détacher du mien, s'incarner ailleurs. Mais l'importance mêm…",
+                "evidence": [
+                  {
+                    "source_paragraph": null,
+                    "status": "text_match_candidate",
+                    "method": "whole_word_normalized_match"
+                  }
+                ]
+              }
+            ],
+            "unresolved_excludes": []
+          }
+        }
+      ]
+    }
+  ],
+  "count": 22
+}
