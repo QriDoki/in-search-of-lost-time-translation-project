@@ -1,0 +1,19 @@
+polish/dev/chapters/polished-vol2-1.md
+  s_1d1a30b4dcc409::t_72012ad134fd4c 33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "a4e08d8853d482a90d087cdf3a157dca2ccbc381",
+  "prompts": {},
+  "sessions": {
+    "s_1d1a30b4dcc409": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b217-631e-70f2-87a2-19faa20983c1",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
