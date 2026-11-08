@@ -1,0 +1,17 @@
+{
+  "id": 100,
+  "assessment": "原文与译文逐句核对，怜悯青年、割草比喻以及将内心震动具体化为胸口所受震荡的幽默均已传达。首处插入叙述漏了表示说话的谓语，造成引语与叙述衔接不清，补足即可。",
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "弗朗索瓦丝刚到大门口就已泪流满面",
+      "after": "弗朗索瓦丝刚到大门口，就已泪流满面地说道",
+      "source": "disait Françoise à peine arrivée à la grille et déjà en larmes",
+      "reason": "原文的disait标明这是插入引语中的说话叙述；译文缺少“说”，容易把前后话语与叙述混读，补足说话谓语使句法清楚。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p100"
+  }
+}

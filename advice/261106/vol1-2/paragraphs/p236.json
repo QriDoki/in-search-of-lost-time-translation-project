@@ -1,0 +1,93 @@
+{
+  "id": 236,
+  "assessment": "逐句核对了五个原文句子，并将景物、光线及感受的长句按主要意群展开检查。译文总体保留了秋冬夕照、夏日室内光影与罕见晚归月色的对比，光带倒影、两种快乐的承接、临门见人的叙事次序均在。建议修订三处：季节之初被改成天黑逐日提前；烤鸡引出享受的句子混用了两种中文句式；小写 calvaire 被继续当作专名音译，失去了池塘位于受难十字架脚下的具体位置。其余修辞虽有个别措辞稍显用力，尚不足以要求改写。本段无注释。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "在天色开始一日比一日早暗下来的时节",
+      "after": "在天黑得早的季节之初",
+      "source": "Au commencement de la saison où le jour finit tôt",
+      "reason": "commencement 限定季节的开始，où le jour finit tôt 说明该季节天黑得早；原文没有“一日比一日”的逐日比较。现译把季节之初改成天色变早的过程，宜恢复原时间关系。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "火上烤着的那只鸡，对我而言，会让散步给予的诗意快乐之后，紧接着来的便是口腹之乐、温暖与安歇之乐。",
+      "after": "火上烤着的那只鸡，会让我在享受散步给予的诗意快乐之后，接着享受口腹之乐、温暖与安歇之乐。",
+      "source": "le poulet qui ferait succéder pour moi au plaisir poétique donné par la promenade, le plaisir de la gourmandise, de la chaleur et du repos",
+      "reason": "faire succéder A à B 表示使A接在B之后，此处烤鸡使口腹、温暖和休息的快乐接续散步的诗意快乐。原译“会让……之后，紧接着来的便是……”混用了“让……”使役句与“……之后，……便是……”判断句，“让”缺少完整的支配成分。改为“让我在……之后，接着享受……”，保留快乐的先后及烤鸡的引发作用。"
+    },
+    {
+      "type": "错译",
+      "before": "加尔瓦里脚下的池塘",
+      "after": "受难十字架脚下的池塘",
+      "source": "l'étang au pied du calvaire",
+      "reason": "此处小写 calvaire 是指表现基督受难的十字架（或受难像），au pied de 说明池塘在该物脚下。前面的 bois du Calvaire 可作为树林名称音译，但此处仅沿用“加尔瓦里”使读者无法辨认这个具体地标，宜译出其物义。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Nous rentrions toujours de bonne heure ... avant le dîner.",
+      "translation_anchor": "我们散步总是早早回家，好能在晚饭前去探望莱奥妮姑妈。",
+      "finding": "rentrions 的未完成过去时和 toujours 表示经常性的安排，译为“总是早早回家”保留习惯性；pour pouvoir 说明早归的目的，“好能”与之对应，晚饭前探望姑妈的先后清楚，无需改动。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Au commencement de la saison où le jour finit tôt, quand nous arrivions rue du Saint-Esprit",
+      "translation_anchor": "在天色开始一日比一日早暗下来的时节，我们走到圣灵街",
+      "finding": "原文以“天黑得早的季节之初”为时间背景，再用 quand 指每次到达圣灵街的时刻。“一日比一日”增加原文没有的逐日比较，同时没有明确季节之初，列入修改；街名及到达动作保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "un reflet du couchant sur les vitres ... un bandeau de pourpre au fond des bois du Calvaire qui se reflétait plus loin dans l'étang",
+      "translation_anchor": "屋子的玻璃窗上还留着一抹夕照，加尔瓦里树林深处横着一条紫红色的光带，更远处又倒映在池塘里。",
+      "finding": "encore 指归来时窗上仍有夕照，译出“还留着”；bandeau 是带状的紫红霞光，译“横着一条……光带”恰当。qui se reflétait 的倒影对象是这道光带，中文承前省略同一主语，未误指屋子或树林；plus loin 的空间层次也保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "rougeur qui, accompagnée souvent d'un froid assez vif, s'associait, dans mon esprit, à la rougeur du feu",
+      "translation_anchor": "这片红色往往伴着一股相当凛冽的寒意，在我心里却总与炉火的红联在一起",
+      "finding": "rougeur 概括前述夕照的红色，寒意与暮色同时出现，再由红色联想到炉火，并非寒意导致炉火。译文“伴着”“在我心里……联在一起”保留了伴随和联想两种关系。“却”使冷暖反差更显明，但没有改变事件关系，可保留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "au-dessus duquel rôtissait le poulet qui ferait succéder pour moi au plaisir poétique ... le plaisir de la gourmandise, de la chaleur et du repos",
+      "translation_anchor": "火上烤着的那只鸡，对我而言，会让散步给予的诗意快乐之后，紧接着来的便是口腹之乐、温暖与安歇之乐。",
+      "finding": "duquel 回指火，第二个 qui 回指烤鸡；ferait 是立足回忆中当时的将来，快乐将在回家吃饭时接续散步所得的诗意快乐。原译这些实义和先后未倒置，但“会让……之后，紧接着来的便是……”句式不闭合，按 changes 修复，使“我”成为感受快乐的主体。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Dans l'été au contraire ... le soleil ne se couchait pas encore ; et pendant la visite ... sa lumière qui s'abaissait et touchait la fenêtre",
+      "translation_anchor": "到了夏天则相反，我们回家时太阳还没有落山；在我们探望莱奥妮姑妈的时候，那低垂下来、触及窗口的阳光",
+      "finding": "au contraire 对照前述较早日落的季节，ne ... pas encore 是“尚未落山”，原译没有误成不再落山。sa 回指太阳，低垂与触窗均是阳光的动作；译文先交代归来、再交代探望期间的光线，时间层次清楚。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "était arrêtée entre les grands rideaux et les embrasses, divisée, ramifiée, filtrée ... incrustant ... illuminait obliquement la chambre avec la délicatesse ... dans les sous-bois",
+      "translation_anchor": "被拦在宽大的窗帘与帘扣之间，被帘子分割、截成枝杈，又滤得柔和，把一小块一小块的金光镶嵌在五斗柜的柠檬木上，斜斜地照亮整个房间，带着它在林间树下才有的那种细腻",
+      "finding": "句子的主体一直是阳光：先被窗帘及帘扣拦截、分割成分岔的光，再在柠檬木柜面形成金色镶嵌，并斜照房间。现译以连续动词维持同一主体，没有把金光当作柜子的固有饰物；“截成枝杈”稍显用力，但仍保留 ramifiée 的枝杈状光影。结尾以林下光线的细腻比拟室内光照，指代“它”可明确还原为阳光，保留。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Mais certains jours fort rares ... il y avait bien longtemps que la commode avait perdu ses incrustations momentanées ... nul reflet de couchant ... l'étang au pied du calvaire avait perdu sa rougeur",
+      "translation_anchor": "但也有极少数几天，我们回家时，五斗柜早已失去了那些转瞬即逝的金色镶嵌；我们走到圣灵街时，玻璃窗上不再铺展着任何夕照，加尔瓦里脚下的池塘也已褪去红色",
+      "finding": "fort rares 限定极少见的晚归，早先的金色光斑和池塘红色都在到家以前消失，译文“早已”“不再”“也已”表达了这一完成关系；momentanées 对应短暂光斑，未译成永久镶嵌。nul 加强完全没有夕照，中文“任何”相应。唯 calvaire 在此是受难十字架这一具体物，不应只作地名音译，列入修改。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "quelquefois il était déjà couleur d'opale et un long rayon de lune qui allait en s'élargissant et se fendillait de toutes les rides de l'eau le traversait tout entier",
+      "translation_anchor": "有时已经是一片乳白的蛋白石色，一道愈来愈宽、被水面层层涟漪裂开的长长月光，横贯了整个池塘。",
+      "finding": "il 与 le 均回指池塘，译文在末尾重申“整个池塘”，指代明确。蛋白石色表现红光褪去后的色泽，“乳白”属对这种石色的具体化，未破坏暮色转月色的关系。月光本身渐展宽，又被水纹切裂，并非池塘裂开；原译修饰对象正确，也保留 tout entier 的横贯全塘。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "Alors, en arrivant près de la maison, nous apercevions une forme sur le pas de la porte et maman me disait :",
+      "translation_anchor": "这时，快到家门口，我们便看见门槛上立着一个身影，妈妈对我说：",
+      "finding": "Alors 承接罕见晚归的情形，en arrivant près 指走近家屋时，并非进入家内以后；une forme 只先呈现未辨清身份的人影，译文未提前写成弗朗索瓦丝，与下一段母亲认出她衔接妥当。“妈妈对我说”保留 me 的受话者，冒号引下段对白，保留。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p236"
+  }
+}

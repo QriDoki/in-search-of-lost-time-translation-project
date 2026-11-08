@@ -1,0 +1,135 @@
+{
+  "id": 261,
+  "assessment": "本段完整保留了凡德伊因女儿的处境而悲伤、崇拜与社会自评并存、以及对斯万的感激这几层关系，长句的大部分指代和递进也已译出。核对后建议修正三处：行动的直接目的被放宽成一般关联，持续反证被误写成无情驳斥，以及社会评判句的比较结构不完整。其余修辞及长句保留；jouer未明示乐器，但本段音乐人物语境允许现译理解，暂不据此改动。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "除了与女儿幸福直接有关的事，别的他都提不起劲来做",
+      "after": "除了直接以女儿的幸福为目的的事，别的他都提不起劲来做",
+      "source": "tout effort qui n’avait pas directement le bonheur de sa fille pour but",
+      "reason": "avoir pour but指定行动目的，不是泛指事情与女儿幸福有关；现译扩大了他仍能投入努力的范围。"
+    },
+    {
+      "type": "错译",
+      "before": "事实可以给信念一次次最无情的驳斥",
+      "after": "事实可以不断地反驳信念",
+      "source": "ils peuvent leur infliger les plus constants démentis",
+      "reason": "constants指不断出现、持续的反证，并非无情或严酷；下文接连不断的家庭灾病也说明这里强调反证反复发生而信念仍不动摇。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "这一社会性的评判，他下得就和贡布雷对他最不怀好意的居民下一模一样",
+      "after": "他作出的这一社会性评判，就和贡布雷对他最不怀好意的居民会作出的评判一模一样",
+      "source": "ce jugement d’ordre social, il le portait exactement comme l’eût fait l’habitant de Combray qui lui eût été le plus hostile",
+      "reason": "原译“居民下”缺少完整的比较项，读来像把评判与居民本人比较。补足双方作出的评判，并以“会”对应假设语气，表明他采用最敌视他的居民所会采用的标准。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Pour ceux qui comme nous virent ... éviter les personnes ... passer des journées entières devant la tombe de sa femme",
+      "translation_anchor": "像我们一样眼看着凡德伊先生躲避相识的人……整日整日守在妻子坟前的人",
+      "finding": "原文以目击者为立场，连续不定式都以凡德伊为动作主体；中文以“眼看着”统摄躲避、苍老、沉入悲痛、丧失努力能力及守墓，主体清楚。“几个月工夫”对应en quelques mois；但“与女儿幸福直接有关”把pour but的目的关系译宽，应明确为直接以女儿幸福为目的。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "il eût été difficile de ne pas comprendre ... et de supposer qu’il ne se rendait pas compte des propos qui couraient",
+      "translation_anchor": "很难不明白他正因悲伤而一步步走向死亡，也很难相信他对四处流传的闲话毫无觉察",
+      "finding": "两个difficile支配的判断方向不同：很难不懂他因悲痛而濒死，也很难假定他不知流言；中文两个“很难”把双重否定分别表达清楚。“正……一步步走向死亡”传达en train de mourir的过程，未把死因误写为直接的身体疾病。保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Il les connaissait, peut-être même y ajoutait-il foi",
+      "translation_anchor": "他知道那些闲话，说不定还信以为真",
+      "finding": "les与y均承接上一句流言；“知道”是确定判断，“说不定还”把相信流言这一更进一步的可能性单独限定，译文未把知晓与相信混为一谈。保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Il n’est peut-être pas une personne, si grande que soit sa vertu ... dans la familiarité du vice qu’elle condamne le plus formellement",
+      "translation_anchor": "世上或许没有一个人，无论他多么高尚，能保证复杂的境遇不会在某一天迫使他与自己深恶痛绝的恶习朝夕相处",
+      "finding": "原文以可能不存在例外者的否定结构，说明德行再高也可能被复杂境遇带入自己坚决谴责的恶习周围；中文改用“能保证……不会”仍保留普遍但有可能性限定的判断。“朝夕相处”对应familiarité，并未说此人亲自染上该恶习。condamne侧重谴责，现译“深恶痛绝”侧重强烈排斥，在此不影响论证。保留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "sans qu’elle le reconnaisse ... sous le déguisement de faits particuliers ... paroles bizarres, attitude inexplicable ... tel être",
+      "translation_anchor": "而且他还未必认得出那恶习的真面目……某个晚上，那个他明明有千百个理由去爱的人，说出了古怪的话，摆出了无法解释的态度",
+      "finding": "elle指高尚者，le与il指恶习；中文以“他／它／那恶习”分开指代。具体事实是恶习接近并伤害他的伪装，后面的古怪言语、莫解态度是例举；中文冒号保持此关系。“某个晚上”与可爱之人的行为相连，“千百个理由”传达tant de raisons的强调而非新增事件。保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Mais pour un homme comme M. Vinteuil ... bien plus de souffrance que pour un autre ... l’apanage exclusif du monde de la bohème",
+      "translation_anchor": "但对凡德伊先生这样的人来说，要认命接受……波希米亚圈子专利的局面，其中包含的痛苦想必远多于常人",
+      "finding": "此处比较的是接受此种处境所含的痛苦，不是直接比较双方道德；“想必远多于常人”保留devait与bien plus的推断、程度。“人们误以为”准确限定波希米亚圈子的独占说法属于错误成见；“认命接受”传达résignation。保留。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "elles se produisent chaque fois qu’a besoin de se réserver la place et la sécurité ... un vice que la nature elle-même fait épanouir ... en mêlant les vertus de son père et de sa mère",
+      "translation_anchor": "这类局面每逢一种恶习需要为自己保住必需的地盘和安全感时便会发生……有时只需把他父亲和母亲的美德调和起来，就像调和出他眼睛的颜色一样",
+      "finding": "elles回指上述局面，倒装主语un vice在中文恢复到“恶习需要”结构；“每逢……便”保持每次发生的条件关系。美德相混竟生出恶习的反讽，以及与眼色遗传的比较均保留。“培养开花”虽带法语修辞痕迹，仍可理解为大自然使其在孩子身上发展，毋须削平。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Mais de ce que ... connaissait peut-être la conduite de sa fille, il ne s’ensuit pas que son culte pour elle en eût été diminué",
+      "translation_anchor": "凡德伊先生即便可能知道女儿的所作所为，他对女儿的崇拜也未必因此减少分毫",
+      "finding": "connaissait有peut-être限定；后半否定由知晓行为推导出崇拜减少的必然性。“即便可能……也未必因此”保留此逻辑，未声称知道行为就必然减少爱。“崇拜”对应culte的强度。保留。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Les faits ne pénètrent pas ... ils n’ont pas fait naître celles-ci, ils ne les détruisent pas ... les plus constants démentis sans les affaiblir",
+      "translation_anchor": "事实闯不进我们的信念所栖身的那个世界……事实可以给信念一次次最无情的驳斥，却丝毫不能削弱它",
+      "finding": "faits是各分句主语，celles-ci及les指信念；译文重复名词，避免复数代词混淆。事实既非信念来源、亦无法摧毁信念的并列否定完整。惟constants强调反证持续发生，“一次次”仅部分传达此义，“最无情”又加入严酷意味，建议改为“不断地反驳信念”。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "une avalanche de malheurs ou de maladies ... ne la fera pas douter de la bonté de son Dieu ou du talent de son médecin",
+      "translation_anchor": "一个家庭接连不断遭逢雪崩般的灾祸或疾病，也不会让这家人怀疑上帝的仁慈或医生的本事",
+      "finding": "la指遭灾的家庭，中文以“这家人”说明承受者也正是信念持有者；接连灾祸与疾病分别用来反证神的仁慈、医生的能力。中文保留两个或字，未把它误写成只有灾病同时出现才不动摇信念；雪崩比喻也在。保留。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "Mais quand ... du point de vue du monde ... alors ce jugement d’ordre social, il le portait exactement comme l’eût fait l’habitant ... le plus hostile",
+      "translation_anchor": "每当凡德伊先生从世俗的角度、从名声的角度……这一社会性的评判，他下得就和贡布雷对他最不怀好意的居民下一模一样",
+      "finding": "这里从内心对女儿的崇拜转到对世俗名望的认识：他把自己和女儿放入公众评价，判断与最敌视他的居民会作的判断相同。中文转折与两个“每当”保留视角变化，但比较结构“居民下”不完整；建议明确双方的评判，并补出原文假设语气。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "il se voyait avec sa fille dans le dernier bas-fond ... cette humilité ... qu’il voyait d’en bas (eussent-ils été fort au-dessous de lui jusque-là) ... résultante presque mécanique de toutes les déchéances",
+      "translation_anchor": "他看见自己和女儿身处最深的底层……尽管那些人此前明明远在他之下……一切沉沦堕落几乎必然带来的机械结果",
+      "finding": "上／下均是社会地位与自我评价的空间比喻，中文连贯保留。括号强调此前即便低于他者，如今也被他仰视；“此前明明”较直陈，但未改变原文假设所凸显的地位倒转。“近来”对应depuis peu，最后的“这”回指谦卑、敬畏和攀回去的整组倾向，而非仅指女儿的行为。保留。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "Un jour que nous marchions avec Swann ... trop brusquement en face de nous pour avoir le temps de nous éviter",
+      "translation_anchor": "有一天，我们和斯万一起走在……凡德伊先生从另一条街拐出来，和我们撞了个措手不及，连躲开的时间都没有",
+      "finding": "我们与斯万同行，凡德伊由另一条街出来；trop ... pour表示相逢太突然以至来不及避开，中文“连……都没有”准确表达结果，承接开头一直躲避熟人的行为。“撞了个措手不及”指意外照面，未增写碰撞事故。保留。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "Swann avec cette orgueilleuse charité ... ne trouve dans l’infamie d’autrui qu’une raison ... chatouillent d’autant plus l’amour-propre ... plus précieux à celui qui les reçoit",
+      "translation_anchor": "斯万便同凡德伊先生聊了很久——他怀着上流社会人物那种高傲的慈悲……他越是感到这份善意对接受的人弥足珍贵，它就越发挠得给予的人自尊心受用",
+      "finding": "中文把长插语移入破折号，主句“聊了很久”仍清楚。道德偏见的消解并未使施恩者平等看待对方，反而让对方的不名誉成为施惠缘由；“只不过是个由头”保留ne ... que的排他限定。越珍贵于受惠者、越满足施惠者自尊的比例关系及给予／接受双方的指代都明确，保留反讽。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "à qui jusque-là il n’adressait pas la parole ... s’il n’enverrait pas un jour sa fille jouer à Tansonville",
+      "translation_anchor": "在此之前，他从不同凡德伊先生讲话；临分手时……哪天会不会让女儿到坦松维尔来弹琴",
+      "finding": "jusque-là限定从前不交谈，中文“在此之前”避免把它理解为从此永不讲话；问句的委婉邀请也保留。“弹琴”对jouer作了乐器方面的具体化，法文本身没有明说乐器；鉴于人物音乐背景支持这一读法，此处只记录其解释性，不把尚不确定的歧义列为改动。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "C’était une invitation qui, il y a deux ans, eût indigné ... maintenant ... si reconnaissants ... à ne pas avoir l’indiscrétion de l’accepter",
+      "translation_anchor": "换在两年前，这样的邀请会让……愤慨不已；可如今……感激得觉得自己理当保持分寸，不好意思冒昧接受",
+      "finding": "两年前的假设反应与现在实际感激相对；中文“换在”与“可如今”准确区分。感激本该促成接受，却在凡德伊心中变成不应冒昧接受的义务，这一反常心理因果通过“感激得觉得”保留，并非他不愿女儿受邀。保留。"
+    },
+    {
+      "unit": 17,
+      "source_anchor": "L’amabilité de Swann envers sa fille ... un appui si honorable et si délicieux ... mieux ne pas s’en servir, pour avoir la douceur toute platonique de le conserver",
+      "translation_anchor": "斯万对他女儿的这份好意……一份既体面又美妙的依靠……最好还是不去动用它，好把这份纯粹柏拉图式的甜蜜保留下来",
+      "finding": "好意指向女儿，appui是可供倚靠的社会支持；“动用它”与“保留下来”分别对应使用支持与保存支持的观念，代词衔接无误。platonique指不实际兑现、仅在心中享有的甜蜜，现译保留原有柏拉图式修辞，结合前面的不接受、不动用，读者可以理解其精神性。保留。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p261"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": 268,
+  "assessment": "已依原文顺序核对全部句子，并将两处长句分为主要意群记录。房屋如海上泊舟、夏季好天气凝为枝叶及升起旗幡、树木为夏天作保和雷声如鸽鸣的连续拟人均基本保留，长句拆分未破坏主干逻辑。建议校正四处：orage缩成打雷，sous-jacent的依托关系及superficielle遗漏，旗幡已升起并维持整季的动作状态，以及marronniers误作栗树。本段无注释标记。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "可下雨算什么，打雷又算什么！",
+      "after": "可下雨算什么，暴风雨又算什么！",
+      "source": "Mais qu’importait la pluie, qu’importait l’orage !",
+      "reason": "orage指雷暴、暴风雨，包含风雨雷电这一整体天气；“打雷”只剩声音现象，缩小了紧接着所论夏季坏天气的范围。"
+    },
+    {
+      "type": "错译",
+      "before": "夏天，坏天气不过是那深藏于整个夏季之下的、稳固不变的好天气偶尔发的一阵脾气",
+      "after": "夏天，坏天气不过是那潜藏其下、稳固不变的好天气一时流露于表面的一阵脾气",
+      "source": "une humeur passagère, superficielle, du beau temps sous-jacent et fixe",
+      "reason": "sous-jacent说好天气潜在坏天气的表象之下，原文没有“整个夏季之下”这一时间层面的空间关系；superficielle又与sous-jacent构成表面和底层的对照，原译未明确译出。改文同时保留一时的脾气、表面变化与底层稳定三层关系。"
+    },
+    {
+      "type": "错译",
+      "before": "它整整一季都在升挂自己的丝绸旗幡——紫色或白色——一直挂进村里的街道，挂上房屋和花园的墙头。",
+      "after": "它已升起自己的丝绸旗幡——紫色或白色——让它们整整一季都飘扬着，一直挂进村里的街道，挂上房屋和花园的墙头。",
+      "source": "a hissé pour toute la saison, jusque dans les rues du village, aux murs des maisons et des jardins, ses pavillons de soie violette ou blanche",
+      "reason": "a hissé是已经升起，pour toute la saison表示升起后维持整个季节；“整整一季都在升挂”把完成后的持续状态改为不断进行的动作，削弱了好天气已经驻定的意象。改文保留旗幡、颜色及向村庄延展的层次。"
+    },
+    {
+      "type": "错译",
+      "before": "听得见水从我们家的栗树上滴落",
+      "after": "听得见水从我们家的七叶树上滴落",
+      "source": "j’entendais l’eau dégoutter de nos marronniers",
+      "reason": "marronnier指七叶树（马栗树），与结食用栗子的châtaignier不同；“栗树”误指树种。此处保留滴水动作和所属关系，只校正植物名称。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Quelquefois le temps était tout à fait gâté, il fallait rentrer et rester enfermé dans la maison.",
+      "translation_anchor": "有时天气彻底坏透，只得回家，关在屋里。",
+      "finding": "“有时”对应Quelquefois，天气完全变坏导致必须回屋并一直待在室内；“只得”准确承接il fallait的不得已，“关在屋里”保留受天气限制的意味，予以保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Çà et là au loin dans la campagne que l’obscurité et l’humidité faisaient ressembler à la mer",
+      "translation_anchor": "远处，黑暗与潮湿把田野变得像大海，东一处西一处",
+      "finding": "原文以田野为背景，黑暗、潮湿为使其像海的原因；译文把关系从句展开为主谓句，因果和比喻对象均清楚。“东一处西一处”虽置后，仍修饰下文散落的房屋，没有改变分布关系。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "des maisons isolées, accrochées au flanc d’une colline plongée dans la nuit et dans l’eau, brillaient comme des petits bateaux qui ont replié leurs voiles et sont immobiles au large pour toute la nuit.",
+      "translation_anchor": "孤零零的房子挂在沉浸于夜色和水气中的山坡上，闪着亮光，像收起了帆、整夜在外海一动不动停泊的小船。",
+      "finding": "“孤零零”“挂在……山坡上”分别保留isolées、accrochées；plongée的修饰对象是山丘，译文“沉浸于……中的山坡”没有错接给房屋。“水气”将夜雨中的水意具体化，仍服务于田野如海的比喻。“收起了帆”与“整夜……一动不动”分别保留已经收帆和长夜停驻的状态，房屋发亮与小船的类比完整，保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Mais qu’importait la pluie, qu’importait l’orage !",
+      "translation_anchor": "可下雨算什么，打雷又算什么！",
+      "finding": "两次qu’importait是并列反问，表达夏季风雨不足为虑，译文反问节奏可保留；但orage不只“打雷”，须改为“暴风雨”，与前后整场天气的论述相接。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "L’été, le mauvais temps n’est qu’une humeur passagère, superficielle, du beau temps sous-jacent et fixe",
+      "translation_anchor": "夏天，坏天气不过是那深藏于整个夏季之下的、稳固不变的好天气偶尔发的一阵脾气",
+      "finding": "ne…que把坏天气限定为好天气的一时脾气，译文“不过”“偶尔发的一阵脾气”保留了限定义和拟人。“深藏于整个夏季之下”却给sous-jacent添加错误依托；这里深层好天气与表面坏天气相对，superficielle也须落实，已列修改。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "bien différent du beau temps instable et fluide de l’hiver et qui, au contraire, installé sur la terre où il s’est solidifié en denses feuillages",
+      "translation_anchor": "与冬天那种不稳定、流动的好天气大不相同；夏天的好天气恰恰相反，它已在大地上安营扎寨，凝结成浓密的枝叶",
+      "finding": "bien différent及qui承接夏天稳定的好天气，而非“坏天气”；译文在分号后明确重提“夏天的好天气”，排除了长句的指代歧义。“安营扎寨”承接installé的驻定感，“凝结成浓密的枝叶”保留好天气物质化的意象，与冬天instable et fluide的流动不定形成完整对照。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "sur lesquels la pluie peut s’égoutter sans compromettre la résistance de leur permanente joie",
+      "translation_anchor": "雨尽可以在上面滴沥，丝毫损伤不了那份恒久欢愉的韧性",
+      "finding": "sur lesquels所指为浓密枝叶，译文“上面”就近回指正确；雨虽滴落而不能损害枝叶持久欢愉的抵抗力，“尽可以……丝毫……不了”保留peut与sans的让步关系。“韧性”承接résistance，未把欢愉误解成叙述者个人情绪，保留。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "a hissé pour toute la saison, jusque dans les rues du village, aux murs des maisons et des jardins, ses pavillons de soie violette ou blanche.",
+      "translation_anchor": "它整整一季都在升挂自己的丝绸旗幡——紫色或白色——一直挂进村里的街道，挂上房屋和花园的墙头。",
+      "finding": "主语继续是已在大地驻定的好天气；紫白旗幡将花叶转为驻扎的标识，译文颜色、丝绸材质和延展到街道墙头的空间关系均保留。须校正a hissé与pour toute la saison的组合：旗幡已经升起，并要保持整季，而非整季都在升挂，已列修改。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Assis dans le petit salon, où j’attendais l’heure du dîner en lisant, j’entendais l’eau dégoutter de nos marronniers",
+      "translation_anchor": "我坐在小客厅里读书，等着开晚饭，听得见水从我们家的栗树上滴落",
+      "finding": "坐着、读书、等晚饭和听雨是同一时段的状态，译文展开后的句序自然，并未把等晚饭变为读书的结果。“栗树”与marronniers树种不符，已改为七叶树，其余保持。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "mais je savais que l’averse ne faisait que vernir leurs feuilles et qu’ils promettaient de demeurer là, comme des gages de l’été, toute la nuit pluvieuse, à assurer la continuité du beau temps",
+      "translation_anchor": "但我知道阵雨只是给树叶上了一层光亮的清漆，它们许诺要像夏天的信物一般留在那里，撑过整个雨夜，保证好天气连绵不断",
+      "finding": "ne faisait que限制阵雨的作用，只给叶片添光而无损树木；“只是……清漆”保留vernir的修辞。“它们”在树叶之后略有就近指代空间，但前文树木与下文“留在那里”的拟人可明确指向marronniers；“夏天的信物”“整个雨夜”“好天气连绵不断”完整承接树木为夏天持久作证的逻辑。“撑过”略加强抵御雨夜之意，但与上文韧性相合，无须为此重写。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "qu’il avait beau pleuvoir, demain, au-dessus de la barrière blanche de Tansonville, onduleraient, aussi nombreuses, de petites feuilles en forme de cœur",
+      "translation_anchor": "我知道任凭雨怎么下，明天，坦松维尔白色栅栏上方，那些心形的小叶子照样会密密层层，随风起伏",
+      "finding": "这一que仍受je savais支配，译文重提“我知道”清楚标明并列的认知内容；avait beau是任凭下雨也不能改变明日叶片的让步，“照样……密密层层”传达aussi nombreuses数量不减。“明天……会”保留过去叙述中的将来预期，栅栏颜色、位置和叶形皆在，保留。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "et c’est sans tristesse que j’apercevais le peuplier de la rue des Perchamps adresser à l’orage des supplications et des salutations désespérées",
+      "translation_anchor": "所以，我望见佩尔尚街的白杨向暴风雨发出绝望的恳求和致意，心中并无忧伤",
+      "finding": "前述确信夏天仍在使叙述者无忧，“所以”把et在此隐含的承接理由明说，符合上下文。白杨是恳求和致意的拟人主体，绝望形容其动作，叙述者本人则无忧，两者在译文中没有混同；orage在此已译“暴风雨”，保留。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "c’est sans tristesse que j’entendais au fond du jardin les derniers roulements du tonnerre roucouler dans les lilas.",
+      "translation_anchor": "我听见花园深处最后的几声雷鸣在丁香花丛间鸽鸣般咕咕滚动，心中也无忧伤。",
+      "finding": "重复sans tristesse与上一分句呼应，译文用“也无忧伤”保留回环。花园深处、最后的雷声及丁香丛均未遗漏；roucouler把雷的余声比为鸽鸣，“鸽鸣般咕咕滚动”同时照应roucouler的轻柔声音与roulements的滚动，中文虽具修辞张力，仍可理解，保留。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p268"
+  }
+}

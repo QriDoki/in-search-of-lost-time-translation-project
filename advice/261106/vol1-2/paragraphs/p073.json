@@ -1,0 +1,17 @@
+{
+  "id": 73,
+  "assessment": "原译准确传达了仅在照片上见过侄女的限制关系，亲属称谓及说话人的急切态度均无误。仅调整叙述语的搭配，避免“口气粗声粗气”不自然的表述。",
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "舅公急忙说，口气粗声粗气。",
+      "after": "舅公急忙粗声粗气地说。",
+      "source": "dit vivement mon oncle d'un ton bourru",
+      "reason": "“粗声粗气”宜作说话方式的状语，原文“口气粗声粗气”搭配生硬；调整后保留急切与粗硬的语气。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p073"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": 111,
+  "assessment": "本段的阅读受扰、评论所引起的联想转变，以及紫花墙面与哥特式教堂背景的对照均已译出。两处宜澄清：rêvais指对女性的遐想，并非睡梦中梦见；portail指教堂大门，不是门廊。其余保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "我梦见的某位女性的形象",
+      "after": "我遐想中的某位女性的形象",
+      "source": "l’image d’une des femmes dont je rêvais",
+      "reason": "这里指叙述者遐想的女性形象；“梦见”易误作睡梦中出现的人，改变了读书联想的语境。"
+    },
+    {
+      "type": "错译",
+      "before": "显现在一座哥特式大教堂的门廊之前",
+      "after": "显现在一座哥特式大教堂的大门之前",
+      "source": "devant le portail d’une cathédrale gothique",
+      "reason": "portail是建筑物的大门，尤其是教堂正门；“门廊”指有顶的廊式入口，原文没有这一建筑构造。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p111"
+  }
+}

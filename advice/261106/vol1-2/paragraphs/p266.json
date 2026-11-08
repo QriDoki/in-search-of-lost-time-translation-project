@@ -1,0 +1,80 @@
+{
+  "id": 266,
+  "assessment": "本段将雨点写成结队飞行、迟到、贪玩和歇息的旅人，译文基本保留了这一贯穿全段的拟人结构，也保留了由急雨转向雨后叶间余滴的时间推进。两处值得修订：à l’aventure在这里指漫无方向地乱走，并非主动冒险；末句写雨滴从枝头的高度落到鼻子上，并非顺着一整根树枝滑到底。其余语义、比较、指代和长句层次可保留。嘉布遣修士玩偶的现有注释完整保留，与此次改文无冲突。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "并不在这段迅疾的航程中各自去冒险",
+      "after": "并不在这段迅疾的航程中各自乱闯",
+      "source": "elles ne vont pas à l’aventure pendant la rapide traversée",
+      "reason": "aller à l’aventure在此指没有方向地随意行进，与下文每滴雨都保持位置、吸引后一滴的整齐队列相对。“去冒险”容易理解为寻求惊险经历，使这一空间秩序上的对照转为行为勇气上的对照；“各自乱闯”保留拟人语气并明确原义。"
+    },
+    {
+      "type": "错译",
+      "before": "忽然顺着整根树枝的高度一滑到底",
+      "after": "忽然从树枝上一路滑落下来",
+      "source": "tout d’un coup se laissait glisser de toute la hauteur de la branche et nous tombait sur le nez",
+      "reason": "de toute la hauteur de la branche说的是雨滴从树枝所在高度落下、直至鼻子的整个落差，branche不是沿途滑行的轨道。“顺着整根树枝的高度”既把高度说成树枝的长度，也造成沿枝滑行的误读。改为从树枝上一路滑落，与前面的悬在叶尖和后面的落到鼻子衔接。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Mais d’autres fois se mettait à tomber la pluie dont nous avait menacés le capucin que l’opticien avait à sa devanture",
+      "translation_anchor": "但也有另外一些时候，眼镜店橱窗里那个⊂嘉布遣修士玩偶⊃……早就向我们预告过的雨会下起来",
+      "finding": "“另外一些时候”与邻段太阳躲入云后的情景形成转折；se mettait à tomber是雨开始下，“雨会下起来”结合“有……时候”保留了反复发生的往事。关系从句的主语是橱窗里的修士玩偶，原译没有误成眼镜商本人。menacés带有将有坏天气的意味，译为玩偶“预告过的雨”在此气象语境下能够传达雨来前已有征兆，保留；玩偶说明注释不作改动。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "les gouttes d’eau, comme des oiseaux migrateurs qui prennent leur vol tous ensemble, descendaient à rangs pressés du ciel",
+      "translation_anchor": "雨点像一齐起飞的候鸟，密密匝匝排成行列从天而降",
+      "finding": "比较对象为集体同时起飞的候鸟，qui的先行词是oiseaux migrateurs；“一齐起飞的候鸟”对应正确。“密密匝匝排成行列”同时表现rangs的队列和pressés的密集，descendaient所指的向下运动也明确保留，未把候鸟的飞起与雨点的降落混淆。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Elles ne se séparent point, elles ne vont pas à l’aventure pendant la rapide traversée",
+      "translation_anchor": "它们并不散开，并不在这段迅疾的航程中各自去冒险",
+      "finding": "Elles承接雨点，两个并列否定说明雨点既不分离，也不各自漫无方向地走。“并不散开”准确；“去冒险”将à l’aventure误向惊险活动，应改为“各自乱闯”，使其与随后守住位置的队列描写对应。“迅疾的航程”保留快速穿越及候鸟比喻。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "mais chacune tenant sa place attire à elle celle qui la suit et le ciel en est plus obscurci qu’au départ des hirondelles",
+      "translation_anchor": "每一滴都守着自己的位置，把紧随其后的一滴吸引过来，天空被它们遮得比燕子启程时还要昏暗",
+      "finding": "chacune与celle都指单滴雨水，qui la suit中的la指前一滴；“每一滴”及“紧随其后的一滴”把前后相随的方向说清。“守着自己的位置”表达tenant sa place，与前面的不散开构成肯定说明。比较是雨点遮暗天空的程度胜过燕群启程时，“比……还要昏暗”没有逆转比较方向；en指成行降落的雨点，译成“被它们遮得”合适。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Nous nous réfugiions dans le bois.",
+      "translation_anchor": "我们便躲进树林。",
+      "finding": "避雨主体由雨点切回叙述者一行，dans le bois是进入林中避雨。原译“便躲进树林”准确连接急雨降落后的行动；未完成过去时所含的惯常情景已由段首“有……时候”统摄，中文无需逐句另加反复标记。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Quand leur voyage semblait fini, quelques-unes, plus débiles, plus lentes, arrivaient encore.",
+      "translation_anchor": "当雨点的旅程看似结束时，还有几滴更弱、更慢的雨点姗姗赶到。",
+      "finding": "leur和quelques-unes均承接雨点；“雨点的旅程”明示指代，并保留voyage的拟人。semblait只说看起来结束，“看似”没有误成确已结束；encore表示仍有余滴到达，“还有……姗姗赶到”表现迟到。plus débiles、plus lentes的两个比较均保留为“更弱、更慢”，不必消除原文有意赋予雨点的旅人状态。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Mais nous ressortions de notre abri, car les gouttes se plaisent aux feuillages",
+      "translation_anchor": "但我们还是会从藏身处出来，因为雨点喜欢在枝叶间流连",
+      "finding": "Mais表示即使仍有余滴落下，人们也已走出避雨处，“但……还是会”保留让步转折。car引出雨后仍滴水的缘由：雨滴喜欢停留在叶间；“因为……流连”保留原文拟人和因果，后面的地面已干、叶上仍有雨滴正展开这一说明。feuillages是枝叶整体，“枝叶间”可保留。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "et la terre était déjà presque séchée que plus d’une s’attardait à jouer sur les nervures d’une feuille",
+      "translation_anchor": "地面差不多已经干了，却还有不少雨点在一张树叶的脉络上贪玩",
+      "finding": "déjà presque与que连接出地面已近干、叶上雨点仍迟迟不去的时间反差，原译“已经……却还”说清了这一关系。plus d’une以单数表达不止一滴，译为“不少雨点”可接受；s’attardait à jouer中的逗留和玩耍通过前文“流连”及此处“贪玩”连续表现。“树叶的脉络”对应nervures，保留具体的叶面纹理。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "et suspendue à la pointe, reposée, brillant au soleil, tout d’un coup se laissait glisser de toute la hauteur de la branche et nous tombait sur le nez",
+      "translation_anchor": "悬在叶尖，歇足了，在阳光下闪闪发亮，忽然顺着整根树枝的高度一滑到底，落到我们鼻子上",
+      "finding": "suspendue、reposée、brillant继续修饰前面的单滴雨水；“悬在叶尖，歇足了……闪闪发亮”保留从停留休息到突然滑落的拟人节奏，la pointe依叶子理解为叶尖正确。问题在落下路径：de toute la hauteur指从树枝所在高度落下的距离，不是“顺着整根树枝”滑行；改为“忽然从树枝上一路滑落下来”，再接“落到我们鼻子上”，使垂直落差及终点清楚，且保持整条动作链。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p266"
+  }
+}

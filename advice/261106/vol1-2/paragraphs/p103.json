@@ -1,0 +1,17 @@
+{
+  "id": 103,
+  "assessment": "逐句核对后，译文基本准确，弗朗索瓦丝责骂军人轻生的口吻及狮子比喻均已保留；仅修订一处习语，明确其意为这些人连吊死他们所需的绳子都不值。原有注释全部保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "再说他们连吊死他们的绳子都不配",
+      "after": "再说他们连吊死他们用的绳子都不值",
+      "source": "et puis ils ne valent plus la corde pour les pendre",
+      "reason": "ne pas valoir la corde pour pendre 意为一文不值，连处死所用的绳子都不值得花费；“不配”把价值判断改成了资格判断，也使“配绳子”的搭配生硬。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p103"
+  }
+}

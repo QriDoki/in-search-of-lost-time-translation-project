@@ -1,0 +1,129 @@
+{
+  "id": 299,
+  "assessment": "逐句及长句意群核对后，河流与早春花木的拟人、城堡遗迹勾起的历史想象、观花愉悦转化为美感的推演基本完整，长句的逻辑和指代大体清楚。建议修正三处具体语义：人行桥被无据指定为木桥，孩子俯临残堞被写成踩踏，以及花名像童话王子之名被误写成花名就是“王子”。其余保留，既有花名、纤道等注释均不改动；本次修改与注释无矛盾。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Le plus grand charme du côté de Guermantes",
+      "translation_anchor": "盖尔芒特家那边最迷人的地方，在于几乎一路上维沃纳河都陪伴在你身旁",
+      "finding": "开篇的最高级“最迷人”、时间范围presque tout le temps“几乎一路上”及河流与散步者相伴的关系均已呈现。“你”承接泛指on，保留叙述对共同经验的邀请，不必统一改成“我们”。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "On la traversait une première fois ... sur une passerelle dite le Pont-Vieux",
+      "translation_anchor": "离开家十分钟后，第一次过河，走的是一座名叫旧桥的小木桥",
+      "finding": "la回指维沃纳河；“第一次”保留路线中此后还会过河的含义，“十分钟后”顺序无误。passerelle只限定为人行小桥，“木”没有原文依据，改为“人行桥”。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Dès le lendemain de notre arrivée ... après le sermon s’il faisait beau temps",
+      "translation_anchor": "我们到达的第二天正是复活节，天气要是好，布道一结束我就朝那儿跑去",
+      "finding": "“第二天正是复活节”正确说明lendemain与Pâques的同位关系；好天气是跑去看河的条件，布道结束是当天的先后节点。原文未必严格表示布道刚结束便跑，但译文“一结束”在叙述兴奋的语气中可接受，保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "dans ce désordre d’un matin de grande fête où quelques préparatifs somptueux font paraître plus sordides les ustensiles de ménage qui traînent encore",
+      "translation_anchor": "在大节日的清晨一片狼藉之中，几样为过节摆出的铺张准备，反把还摊在一边的家常什物衬得更加寒酸",
+      "finding": "译文用插入语保存节庆清晨的家务譬喻，where关系中的因果是盛大布置使未收拾的日用器具更显寒酸，已译出“反把……衬得”。“铺张准备”略生硬，但仍指准备的物事，与后面的蓝河、裸地的对照可以衔接，未到必须改动的程度。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "la rivière qui se promenait déjà en bleu ciel ... une violette au bec bleu",
+      "translation_anchor": "河水早已披上一身天蓝色……一朵蓝色鸟喙般的紫罗兰，细茎被它小喇叭里盛着的那滴芬芳压得弯垂下来",
+      "finding": "“披上一身”把en bleu ciel的衣着拟人落实为中文，already与两次encore形成的早春先后对照亦由“早已”“依然”保留。两类早开的花是河流仅有的陪伴者；cependant que连接同时出现的紫罗兰，“偶尔还能看见”虽将空间散布略作观赏措辞，未改变景象。蓝喙、小喇叭、芬芳的液滴及其重量使茎弯下的意象链完整；花名注释保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Le Pont-Vieux débouchait dans un sentier de halage ... un pêcheur ... avait pris racine",
+      "translation_anchor": "旧桥那端通向一条⊂纤道⊃……夏天这里被一株榛树蓝盈盈的枝叶遮成绿荫，树下一个戴草帽的钓鱼人像生了根似的坐着不动",
+      "finding": "“通向纤道”保留出口关系，夏季限定树叶景象；“蓝盈盈的枝叶”保留作者特殊色彩感觉。“绿荫”是树荫的常用表达，并未覆盖“蓝盈盈”的明示颜色，可保留。avait pris racine是钓者长坐的拟人比喻，译为“像生了根似的”恰当，未误写成真实生根。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "À Combray où je savais quelle individualité ... ce pêcheur est la seule personne",
+      "translation_anchor": "在贡布雷……藏着哪个马掌匠或杂货店小伙计的本相，我心里都有数，唯独这个钓鱼人，我始终没能查明他的身份",
+      "finding": "句中的where从句对比叙述者熟悉教堂职役在日常生活中的本职身份，与钓者独为例外；“唯独”“始终没能”保留唯一性与从未查明，不是仅指某次未认出。“本相”略有揭露意味，但制服之下真实个人的意思清楚，保留。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Il devait connaître mes parents, car il soulevait son chapeau ... pour ne pas effrayer le poisson",
+      "translation_anchor": "他一定认识我的父母，因为我们经过时他总要抬一抬帽子……免得惊跑了鱼",
+      "finding": "抬帽致意是推测熟识父母的证据，译文的“因为”逻辑正确；devait是推断而非义务，“一定认识”可传达叙述者的推想。问名字的主语是我，示意噤声的on为同行者，译成“大家”符合场景；噤声目的“不惊跑鱼”保留。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Nous nous engagions ... dominait le courant d’un talus de plusieurs pieds ... la gare qui en était distante",
+      "translation_anchor": "我们走上纤道，路基高出水流好几英尺；对岸地势低平……离村有一段距离的火车站",
+      "finding": "纤道在本岸高堤上，与低平对岸相对，“路基高出水流”准确交代数英尺高度。en指村庄，译为“离村”正确；牧场延至村庄和较远车站，未把二者混成同一地点。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "Ils étaient semés des restes ... comme défense contre les attaques",
+      "translation_anchor": "牧场上散布着半埋草中的残迹……借维沃纳河的水流为屏障，抵御盖尔芒特领主们和马丁维尔修道院长们的进攻",
+      "finding": "Ils回指复数prés，不是上句的车站或村庄，译文明确为“牧场”消除歧义。中世纪修饰城堡使用河流作防卫的历史时段，攻击者两类领主及修道院长均完整保留。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "Ce n’étaient plus que quelques fragments de tours ... toutes terres vassales de Guermantes",
+      "translation_anchor": "如今只剩下几截残塔……那些全是盖尔芒特的臣属领地，贡布雷就嵌在它们中间",
+      "finding": "ne ... plus que限制为仅存残塔和雉堞，“只剩下”落实衰败。残塔使草地隆起且几难辨认的双重信息保留；弩手投石虽与现代对弩手的常识不尽相合，却正是原文lançait des pierres，不应擅改。地名列举及贡布雷被盖尔芒特附庸领地包围的关系完整。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "aujourd’hui au ras de l’herbe, dominés par les enfants ... jouer aux récréations",
+      "translation_anchor": "如今雉堞已与草齐平，被教会弟兄学校的孩子们踩在脚下，他们到这儿来背书，或是课间玩耍",
+      "finding": "jadis与aujourd’hui把昔日防御高处和今日草面遗迹对照；dominés是孩子们比残堞高、俯临其上，现译无据增加踩踏行为，按changes改。来此学习与课间玩耍的两个目的已保留。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "passé presque descendu dans la terre ... son visage incompréhensible et d’autrefois",
+      "translation_anchor": "这几乎已经沉入泥土的往昔……那面容半掩在⊂金凤花⊃下",
+      "finding": "破折号后的passé总结遗迹所显现的往昔，译文拆为一句仍保持承接；纳凉散步者的横卧姿态与过去沉入土地的比喻并存。过去使叙述者在今日小镇之外想见另一城市，“添上一座”未译成实建；son及il均指这个往昔，“面容半掩”指代连贯，注释保持。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "Ils étaient fort nombreux ... jusqu’à ce qu’il devînt assez puissant pour produire de l’inutile beauté",
+      "translation_anchor": "金凤花……有的孤零零一朵……无从分流到任何想尝一尝的念头上去……足以产生出无用的美来",
+      "finding": "Ils回到boutons d’or，明确译作“金凤花”避免与前文孩子混淆。花如游戏者独立、成对、成群的拟人及蛋黄色比较均保留。因为视觉愉悦不能转向品尝的欲望，便积聚在金色表面上，遂强化美感，是此处审美推演的因果链；现译虽重复“因此／因为”，逻辑仍清楚。“无用的美”保留原文，不擅改为实用价值判断。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "et cela dès ma plus petite enfance ... leur joli nom de Princes de contes de fées français",
+      "translation_anchor": "这从我幼年时就是如此……还无法完整地拼出它们那个好听的名字——法国童话里的王子",
+      "finding": "cela回指上述观花、积聚视觉愉悦的经验，译文“这……就是如此”正确接回。伸臂而尚不能完整拼花名，表现很小的年龄；问题在nom de Princes所说王子般的名字被破折号误作“王子”这个名字，按changes改成显明的比较式，保留花的童话拟人和原花名注释。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "venus peut-être ... apatriés pour toujours ... un poétique éclat d’orient",
+      "translation_anchor": "它们也许是许多个世纪前从亚洲来的，却在这个村庄永远落了籍……依然葆有一抹东方的诗意光辉",
+      "finding": "后续复数分词和形容词继续描写花的王子形象；“也许”限定亚洲来源，“永远落了籍”保留对比的定居状态。满足乡间视野、喜阳光水边、忠于车站小景的连续拟人动作齐全；pourtant转回虽质朴仍有东方光辉，“然而……依然”承接明确，旧彩绘帆布的比较也未遗漏。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "一座名叫旧桥的小木桥",
+      "after": "一座名叫旧桥的人行桥",
+      "source": "une passerelle dite le Pont-Vieux",
+      "reason": "passerelle说明供行人通行的小桥，并不说明木制；“小木桥”无据增添桥的材质，同时未明示其步行用途。"
+    },
+    {
+      "type": "错译",
+      "before": "如今雉堞已与草齐平，被教会弟兄学校的孩子们踩在脚下",
+      "after": "如今雉堞已与草齐平，教会弟兄学校的孩子们身影高出其上",
+      "source": "aujourd’hui au ras de l’herbe, dominés par les enfants de l’école des frères",
+      "reason": "dominés在雉堞已降到草面这一空间关系中，是说孩子们的身影高出这些遗迹；“踩在脚下”把高度上的俯临具体化成踩踏动作，原文并未写孩子们踩上雉堞。"
+    },
+    {
+      "type": "错译",
+      "before": "还无法完整地拼出它们那个好听的名字——法国童话里的王子",
+      "after": "还无法完整地拼出它们那个宛如法国童话中王子之名的好听名字",
+      "source": "sans pouvoir épeler complètement leur joli nom de Princes de contes de fées français",
+      "reason": "nom de Princes把花名比作法国童话中王子所具有的名字，续写花朵来自东方而定居乡间的拟人形象；破折号后的“法国童话里的王子”却被读成花名本身叫“王子”，错置了名词间的关系。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p299"
+  }
+}

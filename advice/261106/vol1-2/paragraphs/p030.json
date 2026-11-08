@@ -1,0 +1,17 @@
+{
+  "id": 30,
+  "assessment": "逐句核对后，叙述、人物语气及主要细节基本准确。仅一处将“只有平盘饰有故事图案”译成近似“家中只有这种平盘”，需调整限定关系；其余保留，原有注释无须改动。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "家里只有这种印着故事图画的平盘，",
+      "after": "只有这种平盘上印着故事图画，",
+      "source": "C’étaient les seules qui fussent ornées de sujets",
+      "reason": "les seules承接assiette plate，指只有平盘饰有图案；原译将“只有”的范围放在整类餐盘上，容易被理解为家中仅有这种平盘，改变了原文的限定关系。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p030"
+  }
+}

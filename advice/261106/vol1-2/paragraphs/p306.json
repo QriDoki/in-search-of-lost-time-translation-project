@@ -1,0 +1,142 @@
+{
+  "id": 306,
+  "assessment": "逐句核对后，原译完整保留河源与冥界入口的比较、公爵夫妇的三重艺术形象、爵位与地域相互渗透的童年想象，以及贡布雷伯爵不住当地的悖论。主要需修正“无形可触”的不通句式、将形体膨胀误作身影拉长的空间逻辑、睡莲与大树共用“河上的”的位置歧义，并理顺战争失败后联姻的表述。原有冥界入口注释保留，与本次修改无冲突。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Jamais dans la promenade du côté de Guermantes nous ne pûmes remonter jusqu’aux sources de la Vivonne",
+      "translation_anchor": "在盖尔芒特家那边散步，我们从来没能一直走到维沃纳河的源头",
+      "finding": "Jamais与ne pûmes构成历次散步都未能抵达的否定，译为“从来没能”保留了未遂事实；remonter至河源所含沿河向上的路径在“走到……源头”的目的地中可理解，不必另行改写。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "auxquelles j’avais souvent pensé et qui avaient pour moi une existence si abstraite, si idéale",
+      "translation_anchor": "我常常想到那源头；在我心里，它的存在是那么抽象、那么理想化",
+      "finding": "两个关系从句都修饰河源，中文重复“那源头”后用“它”承接，指代清楚；“抽象”“理想化”保留了河源在想象中超脱实际地理的存在方式，非在评价水源优劣。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "que j’avais été aussi surpris … que le jour où j’avais appris … l’entrée des Enfers",
+      "translation_anchor": "以致当别人告诉我，它就在本省境内、离贡布雷若干公里的地方时，我的惊讶，不亚于得知大地上另有一个确切地点、⊂古代冥界的入口⊃",
+      "finding": "si…que表示这种抽象想象导致的惊讶，aussi…que比较得知两处神秘地点竟有实际地理位置时的惊异；“以致”“不亚于”基本传达了因果和比较。原文入口在古代开启，译作“古代冥界的入口”虽将时间置为定语，仍能表达古人所说的冥界入口，所附注释也与此一致，予以保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Jamais non plus nous ne pûmes pousser jusqu’au terme que j’eusse tant souhaité d’atteindre, jusqu’à Guermantes",
+      "translation_anchor": "我们也从来没能走到我那么渴望抵达的终点——盖尔芒特",
+      "finding": "non plus承接上一句同样未能抵达的事实，中文“也从来没能”准确；“终点——盖尔芒特”保留先悬置后点明目的地的结构，“渴望”传达虚拟式所含尚未实现的愿望。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Je savais que là résidaient des châtelains … des personnages réels et actuellement existants",
+      "translation_anchor": "我知道那儿住着城堡的主人，盖尔芒特公爵和盖尔芒特公爵夫人；我知道他们是真实存在、当今在世的人物",
+      "finding": "两个je savais的重复得到保留，第二个明言他们在叙述者童年当时实际在世，为下文想象中的非现实形象构成对照。“城堡的主人”对应châtelains，并无额外人物。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "tantôt en tapisserie … la comtesse de Guermantes, dans le « Couronnement d’Esther »",
+      "translation_anchor": "我脑中的形象一会儿是挂毯上的——就像我们教堂那幅《以斯帖加冕》里的盖尔芒特伯爵夫人",
+      "finding": "me les représentais的宾语是公爵夫妇；中文先建立“他们”的脑中形象，再以伯爵夫人在挂毯上的呈现作类比，未混淆现实夫妇与历史伯爵夫人的身份。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "tantôt de nuances changeantes … selon que j’étais encore à prendre de l’eau bénite ou que j’arrivais à nos chaises",
+      "translation_anchor": "一会儿色调变幻不定——就像彩窗玻璃上的恶人吉尔贝，看我是还在蘸圣水，还是已走到我们家的座位跟前，他从卷心菜绿变成李子蓝",
+      "finding": "颜色变化随观看者从圣水处走到家人座位的观看位置变化；“看我是……还是……”保留selon que的条件关系，“他”指吉尔贝的彩窗形象。两端颜色具体对应vert chou和bleu prune，无须将其泛化。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "tantôt tout à fait impalpables … que la lanterne magique promenait sur les rideaux de ma chambre ou faisait monter au plafond",
+      "translation_anchor": "一会儿又完全无形可触——就像布拉邦的热纳维耶芙的形象，盖尔芒特家族的祖先，幻灯机让她在我房间的窗帘上游走，或让她升上天花板",
+      "finding": "impalpables形容想象中的夫妇如幻灯影像般不可触摸，原译“无形可触”句法不成立，改为“无法触摸”。“盖尔芒特家族的祖先”同位说明热纳维耶芙；幻灯机是使影像移动和升高的施事，“让她”以人物代影像的说法与原文一致。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "enfin toujours enveloppés du mystère des temps mérovingiens et baignant comme dans un coucher de soleil",
+      "translation_anchor": "总之，他们永远裹在墨洛温王朝时代的神秘里，像浸在落日余晖中，浸在这个音节散发的橘红色光芒里：“antes”",
+      "finding": "enfin收拢前面三种形象，toujours说明不论何种形象均有这一神秘包裹和光照；译文保留“总之”“永远”及夕阳譬喻。发光来源是名字结尾的antes音节，中文以冒号将音节留在句尾，修辞重心仍在。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "Mais si malgré cela ils étaient pour moi … des êtres réels, bien qu’étranges",
+      "translation_anchor": "话虽如此，就公爵与公爵夫人的身份而言，他们在我眼里毕竟是真实的人，尽管古怪",
+      "finding": "si在此建立让步与对照，并非提出事实存疑的条件；“话虽如此”“毕竟”“尽管”传达虽陌生奇异却被认作真人，为下半句形体的去物质化作铺垫。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "en revanche leur personne ducale se distendait démesurément, s’immatérialisait, pour pouvoir contenir en elle ce Guermantes",
+      "translation_anchor": "可反过来，公爵夫妇的身影却被无限拉长、化作无形，好容纳进那个他们身为公爵与公爵夫人的盖尔芒特",
+      "finding": "对照的是现实人物身份与承载领地想象的公爵形体。se distendait是膨胀扩展，非身影拉长；为容纳地域而失去物质形态的逻辑要求扩张，故修订。“他们身为……的盖尔芒特”中文关系不明，改为以之为公爵封号的盖尔芒特，保留地名与爵位的连接。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "tout ce « côté de Guermantes » ensoleillé, le cours de la Vivonne, ses nymphéas et ses grands arbres, et tant de beaux après-midi",
+      "translation_anchor": "整个洒满阳光的“盖尔芒特家那边”，维沃纳河的流水，河上的睡莲与大树，还有那么多美好的下午",
+      "finding": "这一串同位展开说明形体需要容纳的“盖尔芒特”包括整片地域、河流、景物与经历过的下午。原译整体展开关系保留；但“河上的”同时管睡莲和大树，产生大树长在水面的误读，分别改为河中与岸边的景物。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "depuis le XIVe siècle où, après avoir inutilement essayé de vaincre leurs anciens seigneurs ils s’étaient alliés à eux par des mariages",
+      "translation_anchor": "早在十四世纪，他们白白试过打败自己从前的领主，最终靠联姻与之结盟，从那时起他们便是贡布雷伯爵",
+      "finding": "时间关系是十四世纪先试图击败旧领主而未果，再联姻结盟，从该世纪起具有贡布雷伯爵身份。译文主干准确，“白白试过打败”中文搭配生硬，改为“曾试图……而未果，随后通过联姻……”，明确失败的是击败领主的尝试。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "les premiers des citoyens de Combray par conséquent et pourtant les seuls qui n’y habitassent pas",
+      "translation_anchor": "因而是贡布雷居民中的头号人物，却又是唯一不住在贡布雷的人",
+      "finding": "par conséquent标明爵位使其成为城中地位最高者，pourtant则突出拥有这种本地地位却不居住的反差。中文“因而”“却又”分别保留推论与转折；“头号人物”指地位而非迁居时间。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "Comtes de Combray, possédant Combray au milieu de leur nom, de leur personne … cette étrange et pieuse tristesse",
+      "translation_anchor": "身为贡布雷伯爵，“贡布雷”就嵌在他们名号的正中、嵌在他们人身之中；想必他们身上也真有那么一种贡布雷特有的、古怪而虔敬的忧伤",
+      "finding": "原文以伯爵身份引出地名在姓名与人身中存在的想象，中文“嵌在”保留这一具象化。sans doute是叙述者的想当然推想而非证实人物心理，“想必”恰当；effectivement与“真有”对应，保留从名字联想到气质的逻辑。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "propriétaires de la ville, mais non d’une maison particulière, demeurant sans doute dehors, dans la rue entre ciel et terre",
+      "translation_anchor": "他们是这座城的主人，却不是哪一栋具体房子的主人；多半就住在外面，住在街上，住在天地之间",
+      "finding": "城市归属与无具体房屋的对照，把前述不住城内的事实转成童稚想象中的无处落脚。non明确否定拥有某一栋房屋，译文保留；“多半”承接sans doute，未把街上居住说成有据可查的实况。"
+    },
+    {
+      "unit": 17,
+      "source_anchor": "comme ce Gilbert de Guermantes, dont je ne voyais … que l’envers de laque noire, si je levais la tête quand j’allais chercher du sel chez Camus",
+      "translation_anchor": "就像那个吉尔贝·德·盖尔芒特：我去加缪家买盐的路上抬起头，在圣伊莱尔教堂后殿的彩窗玻璃上，能看见的只是他那黑漆的反面",
+      "finding": "吉尔贝作为看似置身天地之间的彩窗人物，承接前面的居住幻想。ne…que的限制由“只是”表达；从外面只能见到如黑漆般的背面，与进教堂时看到色彩的前文相合。“去……的路上抬起头”将si与quand合成习惯情境，意义可成立。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "一会儿又完全无形可触",
+      "after": "一会儿又完全无法触摸",
+      "source": "tantôt tout à fait impalpables",
+      "reason": "impalpables意为无法触摸、触不到的；“无形可触”不是通顺的中文结构，也使“可触”与所要表达的不可触摸相抵牾。这里仍在描写人物以幻灯影像形式出现的不可触性。"
+    },
+    {
+      "type": "错译",
+      "before": "公爵夫妇的身影却被无限拉长、化作无形，好容纳进那个他们身为公爵与公爵夫人的盖尔芒特",
+      "after": "公爵夫妇的形体却无限膨胀、化作无形，好把他们以之为公爵封号的那个盖尔芒特容纳其中",
+      "source": "leur personne ducale se distendait démesurément, s’immatérialisait, pour pouvoir contenir en elle ce Guermantes dont ils étaient duc et duchesse",
+      "reason": "se distendait指体积或边界无限扩张，后面的目的正是把整个地域容纳在形体内，不能缩成身影被纵向“拉长”。“那个他们身为公爵与公爵夫人的盖尔芒特”缺少顺畅的修饰关系，改为以地名构成公爵封号，明确人物与所容纳地域的关系。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "河上的睡莲与大树",
+      "after": "河中的睡莲与岸边的大树",
+      "source": "le cours de la Vivonne, ses nymphéas et ses grands arbres",
+      "reason": "ses分别统领睡莲和大树，均属维沃纳河沿线景物；原译用“河上的”同时修饰二者，使大树也位于水面上。按照两种景物的实际空间关系分别措辞，保持原文并列的景象。"
+    },
+    {
+      "type": "不符合现代中文习惯",
+      "before": "他们白白试过打败自己从前的领主，最终靠联姻与之结盟",
+      "after": "他们曾试图打败自己从前的领主而未果，随后通过联姻与之结盟",
+      "source": "après avoir inutilement essayé de vaincre leurs anciens seigneurs ils s’étaient alliés à eux par des mariages",
+      "reason": "“白白试过打败”把表示尝试及失败的成分生硬叠加，易使人先把“试过打败”读作曾经打败。“试图……而未果”明确战争尝试失败，随后联姻；“之”继续回指从前的领主。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p306"
+  }
+}

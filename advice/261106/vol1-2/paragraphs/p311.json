@@ -1,0 +1,61 @@
+{
+  "id": 311,
+  "assessment": "本段两句均已按主要意群核对。译文保留了目光脱离面容自行漫游的拟人、阳光具有意识的比喻，以及夫人与母亲、目光与孩子的对应关系，未见实质漏译。建议仅修订末句：“她灵魂闲散”的生硬判断句割裂了原文状语与内心态度的关系；同时将“默许”改为“赞许”，恢复 approuvait 与 blâmait 的正反对照。其余表达虽有灵活转换，均可保留。",
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "她灵魂闲散，对这目光的四处游荡究竟是默许还是责怪，我无从知道。",
+      "after": "她那闲散的心灵，对这目光的四处游荡究竟是赞许还是责怪，我无从知道。",
+      "source": "si elle approuvait ou blâmait, dans le désœuvrement de son âme, le vagabondage de ses regards",
+      "reason": "“她灵魂闲散”在现代中文里缺少必要的连接，且被顿号式逗接成独立断语，使内心闲散与赞否态度的联系松脱。以“她那闲散的心灵”承接下文，保留内心活动不可知的意思；approuver 是赞同、认可，与责怪相对，“默许”则引入原文未明确的默不作声、放任意味。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Et -- ô merveilleuse indépendance des regards humains, retenus au visage par une corde si lâche, si longue, si extensible",
+      "translation_anchor": "而——哦，人的目光何等奇妙地独立，系在脸上的不过是一根那么松、那么长、那么富有弹性的绳子",
+      "finding": "原文插语先感叹目光的独立，再把目光与脸的联系比作松弛、漫长、可伸展的绳子；译文三个并列形容逐项保留。“不过”虽非独立词项，体现绳索约束极弱的语气，未改变关系；“系在脸上”的省略主语由前面的“目光”补足，清楚可解，保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "qu'ils peuvent se promener seuls loin de lui -- pendant que Mme de Guermantes était assise dans la chapelle au-dessus des tombes de ses morts",
+      "translation_anchor": "目光尽可以撇开脸庞独自远游——盖尔芒特夫人坐在礼拜堂里她先人们的墓穴上方",
+      "finding": "代词 ils 指目光，lui 指 visage，译文分别落实为“目光”“脸庞”，未把远游者误作夫人。原文 pendant que 建立夫人坐着而目光远游的同时对照，中文由后文“她的目光却”承接；“她先人们”将 ses morts 依家族礼拜堂背景具体化为家族死者，符合上下文，无需改动。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "ses regards flânaient çà et là, montaient le long des piliers, s'arrêtaient même sur moi comme un rayon de soleil errant dans la nef",
+      "translation_anchor": "她的目光却四处闲逛，沿着柱子向上爬，甚至停落在我身上，像一缕在中殿里游荡的阳光",
+      "finding": "“闲逛—向上爬—停落”依原顺序呈现目光的三个动作，“甚至”保留落在叙述者身上这一递进。比较对象是游荡的阳光，并非柱子或夫人；译文位置清楚。“中殿”对应 nef，教堂空间关系无误，拟人动词可保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "mais un rayon de soleil qui, au moment où je reçus sa caresse, me sembla conscient",
+      "translation_anchor": "只是这缕阳光抚到我身上的那一刻，在我看来仿佛是有知觉的",
+      "finding": "mais 将通常无意的阳光转为似乎有意识的阳光，译文“只是”保留转折。“在我看来仿佛”对应 me sembla，明确这是叙述者的感受，并未断言夫人有意注视。“抚到我身上”保留 caresse 的温柔触感；“有知觉”在此拟人语境中能够承载 conscient 的感知与意识意味，保留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Quant à Mme de Guermantes elle-même, comme elle restait immobile, assise comme une mère qui semble ne pas voir",
+      "translation_anchor": "至于盖尔芒特夫人本人，她坐着一动不动，就像一位母亲……她却像没有看见",
+      "finding": "“本人”与前句独自活动的目光构成对照；“坐着一动不动”合并 restait immobile 与 assise，无信息损失。原文 comme 首次解释观察者无法辨认其态度的原因，第二次引出母亲比喻；中文虽没有明写“因为”，仍由不动的姿态衔接末尾“我无从知道”，因果可读。母亲只是“像没有看见”，译文保留 seems 的不确定性。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "les audaces espiègles et les entreprises indiscrètes de ses enfants qui jouent et interpellent des personnes qu'elle ne connaît pas",
+      "translation_anchor": "孩子们玩耍时调皮大胆、贸然去招呼她不认识的人",
+      "finding": "孩子的嬉戏、顽皮大胆和唐突行动在中文中压合为“玩耍时调皮大胆、贸然去招呼”，保留了 espiègles 与 indiscrètes 的不同色彩。interpellent 在此是向陌生人搭话或招呼，译作“招呼”成立；“她不认识的人”的“她”指母亲，而非孩子，中文未造成指代倒置。比喻中的孩子对应夫人漫游的目光，无需拆开重译。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "il me fut impossible de savoir si elle approuvait ou blâmait, dans le désœuvrement de son âme, le vagabondage de ses regards",
+      "translation_anchor": "她灵魂闲散，对这目光的四处游荡究竟是默许还是责怪，我无从知道",
+      "finding": "主句 il me fut impossible de savoir 表示叙述者无法判断，译文句末“我无从知道”保留判断边界。其未知的是夫人内心对目光游荡的赞否，原文将 dans le désœuvrement de son âme 嵌在赞否之间。现译“她灵魂闲散”生硬，且像另立一个已知判断；改为“她那闲散的心灵”可把这一状态与待判断的态度连起来。approuvait 与 blâmait 是赞许和责怪的对举，“默许”偏重不阻止、默认，故一并改为“赞许”。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p311"
+  }
+}

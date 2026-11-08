@@ -1,0 +1,31 @@
+{
+  "id": 181,
+  "assessment": "本段史事、人物关系及教堂沿革总体译出，原有注释予以保留。三处值得调整：欧拉莉变成男人的说法原是设问打趣，译文误成断言；Guilôme的特殊读音未能在译文中体现；tombeau指圣人的坟墓，并非墓地。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "欧拉莉，您瞧，等您死了以后，人家要把您变成个男人呢！",
+      "after": "欧拉莉，您能想象，等您死了以后，人家把您变成个男人吗？",
+      "source": "Voyez-vous, Eulalie, qu’après votre mort on fasse de vous un homme ?",
+      "reason": "此处是让欧拉莉设想这一荒唐情形的戏谑问句，不能译成死后必将变成男人的断言。"
+    },
+    {
+      "type": "错译",
+      "before": "神甫把这名字念作‘吉约姆’",
+      "after": "神甫把这名字念作‘吉洛姆’",
+      "source": "le curé prononçait Guilôme",
+      "reason": "原文特意以Guilôme区别于Guillaume的通常读音；“吉约姆”对应通常读音，未体现神甫将后半读成lôme的特点。"
+    },
+    {
+      "type": "错译",
+      "before": "就在圣伊莱尔的墓地上方建起这座教堂",
+      "after": "就在圣伊莱尔的坟墓上方建起这座教堂",
+      "source": "bâtir au-dessus du tombeau de saint Hilaire",
+      "reason": "tombeau是具体的一座坟墓，教堂建于圣人墓上；“墓地”容易理解为整片埋葬场所。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p181"
+  }
+}

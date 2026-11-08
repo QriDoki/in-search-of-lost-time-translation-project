@@ -1,0 +1,38 @@
+{
+  "id": 155,
+  "assessment": "全文对照后，叙述层次、贝戈特带来的身份光晕及爱情发生的议论均基本准确。修订四处：将清醒时的遐想与梦中相见区分，消除“天然所属的元素”的生硬直译，明确心灵的冒险精神，并使末句情场征服的表达符合中文习惯。其余保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "我也常常梦见她",
+      "after": "我也常常想着她",
+      "source": "à laquelle je rêvais souvent en lui prêtant chaque fois un même visage arbitraire et charmant",
+      "reason": "这里是对尚未认识的小姑娘反复作想象，并为她虚构面容；“梦见”容易误指睡梦中的相见。"
+    },
+    {
+      "type": "不符合现代中文习惯",
+      "before": "仿佛浸润在她天然所属的元素里、周遭尽是特权",
+      "after": "浸润在种种特权之中，仿佛那就是她天生适宜的环境",
+      "source": "baignant comme dans son élément naturel au milieu de tant de privilèges",
+      "reason": "dans son élément naturel指处于自身天然适宜的环境，“天然所属的元素”机械照译，中文难以理解；种种特权正是她自在生活的环境。"
+    },
+    {
+      "type": "不符合现代中文习惯",
+      "before": "既冒险又温柔的心",
+      "after": "既富于冒险精神又温柔的心",
+      "source": "un cœur différent, aventureux et doux",
+      "reason": "aventureux形容心灵富于冒险精神，中文不宜直接说心“冒险”。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "在他出访的外国要做出最令人得意的征服",
+      "after": "要在他出访的外国赢得最令人得意的情场胜利",
+      "source": "pour faire les plus flatteuses conquêtes, dans les pays étrangers qu'il visite",
+      "reason": "“做出征服”搭配不当；这里的conquêtes承接女性对外貌和身份的偏爱，指情场上的征服，需表达清楚。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p155"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 291,
+  "assessment": "本段为女友拿起凡德伊肖像时说的一句带侮辱意味的问话。原译保留了询问对方是否知道其意图的语气、对死者的贬称以及拿起肖像这一伴随动作；口语化的‘拿……怎么样’与原文挑衅而故意暂不说透的表达相合，无需修改。",
+  "changes": [],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Sais-tu ce que j'ai envie de lui faire à cette vieille horreur ?",
+      "translation_anchor": "你知道我想拿这个老怪物怎么样吗？",
+      "finding": "‘Sais-tu’译为‘你知道……吗’，保留向凡德伊小姐发问的第二人称口吻；‘j’ai envie de lui faire’是在问自己想对那人做什么，‘我想拿……怎么样’是对应的中文口语，未把尚未说出的具体行为提前补出。‘lui’与后置的‘à cette vieille horreur’指同一对象，即肖像所代表的凡德伊先生；‘这个老怪物’再现带指示意味的侮辱性贬称，虽未单独译出代词，也不存在指代或信息遗漏。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "dit-elle en prenant le portrait",
+      "translation_anchor": "她拿起肖像说。",
+      "finding": "‘elle’承接上段凡德伊小姐的女友，译文沿用‘她’可维持指代；‘en prenant’表示说话时伴随的拿取动作，‘拿起肖像说’保留两动作的同时关系。‘le portrait’译作‘肖像’，保留她针对肖像中的死者说话的场景，未混淆拿起肖像与伤害真人的动作。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p291"
+  }
+}

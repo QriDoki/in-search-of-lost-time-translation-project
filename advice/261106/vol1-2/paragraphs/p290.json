@@ -1,0 +1,92 @@
+{
+  "id": 290,
+  "assessment": "逐句及长句主要意群核对后，原译保留了温柔嗔怪与求恶心理的反讽、女友施予快乐的关系，以及吻额动作和女友的情感动机。需修正两处：第二句漏去“坦率而善良的天性”这一心理判断的依据；第三句把“父亲身份”误作“父亲的尊严”，并多加“仿佛”使明确的心理判断虚化。其余长句结构和修辞可保留。本段无注释。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "M^lle^ Vinteuil répondit par des paroles de doux reproche : « Voyons, voyons », qui prouvaient la bonté de sa nature",
+      "translation_anchor": "凡德伊小姐用几句温柔的嗔怪来回答：“好了，好了。”这证明了她天性的善良。",
+      "finding": "“doux reproche”是温柔的责怪，“嗔怪”兼顾亲昵和责备；“Voyons, voyons”在此是轻声制止，译为“好了，好了”合适。“qui”指这几句嗔怪，中文另起“这证明了”仍指向其话语，没有将善良误归女友；拆成两句未改变判断。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "non qu’elles fussent dictées par l’indignation que cette façon de parler de son père eût pu lui causer",
+      "translation_anchor": "这倒不是因为听到别人这样谈论父亲会让她愤慨、这几句话正是那愤慨驱使说出的",
+      "finding": "“non que”否定的是嗔怪出于对辱父言语的愤慨这一解释，不是否定辱父言语本身。原译以“这倒不是因为”统领两层，随后“而是因为”完成转折；“会让她愤慨”保留可能性，“这几句话”对应elles，未误指女友的话。句内顿号连接两个分句虽紧密，因共同受否定统领，意思仍可辨，保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "évidemment, c’était là un sentiment qu’elle s’était habituée, à l’aide de quels sophismes ? à faire taire en elle dans ces minutes-là",
+      "translation_anchor": "那种愤慨，她早已习惯——靠了怎样的一套诡辩呢？——在这样的时刻把它在自己心里压下去",
+      "finding": "“un sentiment”回指愤慨；“faire taire en elle”是让这种感情在内心沉默，译作“在自己心里压下去”恰当。“s’était habituée”所说习惯在当前场景前已形成，译作“早已习惯”能表达；破折号保留了叙述者对自我辩解手段的插入疑问，“在这样的时刻”对应dans ces minutes-là。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "mais parce qu’elles étaient comme un frein que pour ne pas se montrer égoïste elle mettait elle-même au plaisir que son amie cherchait à lui procurer",
+      "translation_anchor": "而是因为这几句话好比一道刹车，是她自己加在女友正设法要给她的快乐上的，为的是不显得自私",
+      "finding": "“elles”仍是嗔怪的话；女友是提供快乐的人，凡德伊小姐则主动用嗔怪限制所得的快乐，以免显得自私。原译“她自己加在……快乐上的”明确刹车的施动者，“女友正设法要给她”没有颠倒施受关系，“不显得自私”保留se montrer的外在表现含义。较长的后置解释与原文递进相合，保留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Et puis cette modération souriante en répondant à ces blasphèmes, ce reproche hypocrite et tendre, paraissaient peut-être à sa nature franche et bonne",
+      "translation_anchor": "再说，面对这些亵渎的话报以含笑的克制，这种又虚伪又温柔的嗔怪，在她看来",
+      "finding": "“含笑的克制”与“又虚伪又温柔的嗔怪”是同一反应的两种描述，译文保留这层复指；“blasphèmes”以亵渎措辞承接辱父言语也合适。但“在她看来”遗漏franche（坦率）及作为评判依据的善良天性。此处的反讽正在于一个本性坦率善良的人，觉得伪装的温柔比公开辱骂更加邪恶，需按changes补足。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "une forme particulièrement infâme, une forme doucereuse de cette scélératesse qu’elle cherchait à s’assimiler",
+      "translation_anchor": "这或许正是一种特别卑劣、甜腻的邪恶——而她一心想沾染的恰恰就是它",
+      "finding": "“peut-être”以“或许”保留推测；“s’assimiler”是把邪恶吸收为自身的一部分，“想沾染”能传达刻意求恶的心理。原文两个forme强调这番假嗔是她所追求的邪恶的一种表现形式；调整整句时恢复“形式”及其与“那种邪恶”的隶属关系，保留“甜腻”对doucereuse虚假温柔的贬义。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Mais elle ne put résister à l’attrait du plaisir qu’elle éprouverait à être traitée avec douceur par une personne si implacable envers un mort sans défense",
+      "translation_anchor": "但她抵挡不住那种快乐的诱惑：一个对无力自卫的死者如此冷酷的人，却对她百般温柔",
+      "finding": "“elle”是凡德伊小姐，“une personne”指女友，“un mort sans défense”指亡父；译文三个角色清楚。“冷酷”与“温柔”之间的反差正是诱惑所在，冒号展开这一快乐的来源，逻辑成立。éprouverait从她此刻的立场预指接受温柔对待时将有的快乐，中文虽然不显式加“将”，但“诱惑”及下一步索吻的次序可承载这层预期，故不单为时态重写。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "elle sauta sur les genoux de son amie, et lui tendit chastement son front à baiser comme elle aurait pu faire si elle avait été sa fille",
+      "translation_anchor": "她一跃坐上女友的膝头，纯洁端庄地把额头凑过去让她亲吻，仿佛自己真是对方的女儿",
+      "finding": "“sauta”译“一跃坐上”保留突然的动作，“chastement”以“纯洁端庄地”对应其像孩子般无邪的姿态。额头的所属者是凡德伊小姐，接受索吻的是女友；“对方的女儿”正确处理sa fille。条件式及虚拟式所表示的假定由“仿佛”体现，这里的仿佛有原文依据，应保留。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "sentant avec délices qu’elles allaient ainsi toutes deux au bout de la cruauté en ravissant à M. Vinteuil, jusque dans le tombeau, sa paternité",
+      "translation_anchor": "她美滋滋地感到，她们俩正这样一起走到残酷的极致，仿佛连在坟墓里的凡德伊先生，都要被她们剥夺掉身为父亲的尊严",
+      "finding": "“sentant”沿用凡德伊小姐为感受主体，“她们俩”正确涵盖她与女友；“美滋滋”传达avec délices自得的快乐。“en ravissant”说明把残酷推至极致的方式，“jusque dans le tombeau”强调剥夺连死后也不停止。paternité应为父亲身份，与前一意群的母女式索吻相连，不是父亲的尊严；此外这里不再是前一条件句的假设，新增“仿佛”错误延长其管辖范围，两点均据changes修改。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "Son amie lui prit la tête entre ses mains et lui déposa un baiser sur le front avec cette docilité",
+      "translation_anchor": "女友双手捧住她的头，在她额上印下一吻；这份顺从对她毫不费力",
+      "finding": "施吻者为女友，被吻者为凡德伊小姐；“双手捧住她的头”“在她额上印下一吻”对应两个动作，主客体无误。docilité指女友顺从索吻的举动，不是她对亡父态度软化，译文“这份顺从”紧接吻额动作，可清楚承接。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "que lui rendait facile la grande affection qu’elle avait pour M^lle^ Vinteuil et le désir de mettre quelque distraction dans la vie si triste maintenant de l’orpheline",
+      "translation_anchor": "一来她深爱着凡德伊小姐，二来她也想给这个孤女如今如此凄凉的生活添一点消遣",
+      "finding": "“la grande affection”与“le désir”并列，解释为何顺从对女友是容易的；“一来……二来……”明确了这层因果。“她”均指女友，“这个孤女”是凡德伊小姐；“如今”保留父亲去世以后生活悲惨的时间界限，“一点消遣”对应quelque distraction。译文以分号先写容易，再分述两个动机，句法清晰，保留。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "再说，面对这些亵渎的话报以含笑的克制，这种又虚伪又温柔的嗔怪，在她看来，这或许正是一种特别卑劣、甜腻的邪恶——而她一心想沾染的恰恰就是它。",
+      "after": "再说，面对这些亵渎的话报以含笑的克制，这种又虚伪又温柔的嗔怪，在她那坦率而善良的天性看来，或许正是她一心想沾染的那种邪恶的一种特别卑劣、甜腻的形式。",
+      "source": "paraissaient peut-être à sa nature franche et bonne une forme particulièrement infâme, une forme doucereuse de cette scélératesse qu’elle cherchait à s’assimiler",
+      "reason": "原译将“à sa nature franche et bonne”简化为“在她看来”，遗漏“坦率”并隐去“善良的天性”这一判断主体。这一点直接解释她为何把温柔的假嗔看成更加卑劣的恶行，与上句善良天性形成照应，须保留。调整后也明确“特别卑劣、甜腻”修饰邪恶的表现形式，而非笼统给邪恶叠加定语。"
+    },
+    {
+      "type": "错译",
+      "before": "仿佛连在坟墓里的凡德伊先生，都要被她们剥夺掉身为父亲的尊严",
+      "after": "连已在坟墓里的凡德伊先生，也被她们剥夺了身为父亲的身份",
+      "source": "en ravissant à M. Vinteuil, jusque dans le tombeau, sa paternité",
+      "reason": "paternité指父亲身份、父女关系，承接她像女儿一样向女友索吻：女友占据父亲的位置，从而夺走亡父的父亲身份，重点不是侮辱其“尊严”。en ravissant说明她们如何把残酷做到极致，原文没有假设标记；原译“仿佛……都要”将实际心理判断虚化为设想，故一并改正。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p290"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": 153,
+  "assessment": "原文询问贝戈特是否有著作谈及贝尔玛，现译准确传达了疑问、人物指称和问话对象，中文自然，可保留。",
+  "changes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p153"
+  }
+}

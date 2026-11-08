@@ -1,0 +1,24 @@
+{
+  "id": 47,
+  "assessment": "逐句核对后，钟楼、乌鸦与外祖母的审美感受整体传达完整，长句修辞基本流畅。修正一处否定限制结构误读：原文说这种比例并非只给人的面孔带来美与庄重；另修正一处明显文字讹误。其余保留，原有头声注释不受影响。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "这样的比例，似乎唯有人的面孔才拥有，才显出美与庄重",
+      "after": "这样的比例，并非只会赋予人的面孔以美与庄重",
+      "source": "qui ne donne pas de la beauté et de la dignité qu'aux visages humains",
+      "reason": "ne…pas…que 表示并非仅限于，原译误作唯有人的面孔才拥有，颠倒原意；这里正说明建筑的窗距比例同样能产生美与庄重。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "原本任凭它们在身上下嬉闹、视若无睹",
+      "after": "原本任凭它们在身上嬉闹、视若无睹",
+      "source": "qui les laissaient s'ébattre sans paraître les voir",
+      "reason": "“在身上下嬉闹”有多余的“下”字，删除后恢复通顺，保留老石头的拟人写法。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p047"
+  }
+}

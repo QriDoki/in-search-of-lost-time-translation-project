@@ -1,0 +1,24 @@
+{
+  "id": 113,
+  "assessment": "本段整体准确，叙述和外祖父的讥讽语气均保留。两处值得修订：诗句之美与无意义之间原是递进关系，现译偏成单纯因果；外祖父态度一句的反事实条件在中文中衔接生硬。原有注释全部保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "好诗（而我指望诗给出的，恰恰正是真理的启示）之所以更美，正因为它们毫无意义。",
+      "after": "好诗（而我指望诗给出的，恰恰正是真理的启示）越是毫无意义，就越美。",
+      "source": "étaient d’autant plus beaux qu’ils ne signifiaient rien du tout",
+      "reason": "d’autant plus… que…表达程度上的对应，译成“越是……就越……”可保留布洛克故意强调的悖论；“之所以……正因为……”弱化了这种程度关系。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "原则上他倒不介意——连他的朋友斯万也是犹太人出身——倘若他不是觉得，我挑朋友通常挑的不是最出色的那种。",
+      "after": "若不是他觉得我挑的通常并非犹太人中最出色的那些，他原则上倒也不会介意——连他的朋友斯万也是犹太人出身。",
+      "source": "ce qui ne lui eût pas déplu en principe […] s’il n’avait trouvé que ce n’était pas d’habitude parmi les meilleurs que je le choisissais",
+      "reason": "原文用反事实条件说明：外祖父介意的是朋友不够出色，而非其犹太出身本身。现译先说“倒不介意”，再悬接“倘若他不是觉得”，语气和条件关系不顺；调整条件句位置使逻辑完整。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p113"
+  }
+}

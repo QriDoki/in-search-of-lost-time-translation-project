@@ -1,0 +1,67 @@
+{
+  "id": 208,
+  "assessment": "逐句核对后，叙事顺序、家人提出的两种解释、次日晚间的相遇及诗句引入均完整。需修正父亲话中一处语义与语气：“跟他闹翻了”把尚在猜想的勒格朗丹生气夸大成双方已决裂，且未充分呈现条件式的假设。其余衣饰、神态描写和长句关系可保留。本段无注释。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "知道跟他闹翻了，我会格外难过",
+      "after": "要是知道他生了气，我会格外难过",
+      "source": "Je regretterais d’autant plus de le savoir fâché",
+      "reason": "fâché在此指勒格朗丹生气、不悦，并未说明双方已经闹翻；regretterais用条件式表达假设，联系前文父亲仍在猜想自己是否得罪他，原译把尚未证实的单方不悦写成已经发生的双方决裂，语意过重。补出“要是”并改为“他生了气”，保留后文“因为”引出的格外难过的理由。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Or, la dame qu’accompagnait Legrandin était une personne vertueuse et considérée",
+      "translation_anchor": "其实，勒格朗丹陪伴的那位夫人是位德高望重的女士",
+      "finding": "qu’accompagnait Legrandin中Legrandin为陪伴者、la dame为被陪伴者，译文主客体无误。“德高望重”合并承接vertueuse的品德与considérée的受人尊重；“其实”承接上段可疑的冷淡表现，引出排除艳遇解释的事实，保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "il ne pouvait être question qu’il fût en bonne fortune et gêné d’être surpris, et mon père se demandait comment il avait pu mécontenter Legrandin",
+      "translation_anchor": "绝不可能是什么艳遇被撞见而尴尬，父亲琢磨着自己怎么会得罪了勒格朗丹",
+      "finding": "en bonne fortune指有艳遇，gêné d’être surpris指被撞见而难堪；译文以“绝不可能”完整保留对此解释的排除，省略的主语可从前文勒格朗丹补足。“父亲琢磨着自己怎么会得罪了”保留se demandait的疑问语气，mécontenter指使勒格朗丹不悦，尚未确定原因。此处无需另改。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Je regretterais d’autant plus de le savoir fâché, dit mon père, qu’au milieu de tous ces gens endimanchés",
+      "translation_anchor": "“知道跟他闹翻了，我会格外难过，”父亲说，“因为在那些穿着节日盛装的人当中",
+      "finding": "d’autant plus…que…把“格外难过”与后文对勒格朗丹朴素气质的好感联系起来，译文“格外……因为”保留了这一关系。但“知道跟他闹翻了”把le savoir fâché（知道他生了气）改成双方闹翻，也未清楚传出regretterais的假设。建议改成“要是知道他生了气，我会格外难过”，与父亲此前尚在猜测的状态相合。endimanchés指穿着节日好衣服的人，现译可保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "il a, avec son petit veston droit, sa cravate molle, quelque chose de si peu apprêté, de si vraiment simple, et un air presque ingénu qui est tout à fait sympathique",
+      "translation_anchor": "他那件直筒小上衣、那条软领带，透着那么毫不做作、真正朴素的气质，还有那近乎天真的神态，实在讨人喜欢",
+      "finding": "avec引出的上衣、软领带构成父亲感受到的外观特征，peu apprêté与vraiment simple分别落为“毫不做作”“真正朴素”，没有把朴素误解成贫穷；presque ingénu的程度由“近乎天真”保留。“实在讨人喜欢”对应tout à fait sympathique，连贯表达父亲对这种外表和神态的好感。译文借衣饰“透着……气质”组织句法，语义清楚，保留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Mais le conseil de famille fut unanimement d’avis que mon père s’était fait une idée ou que Legrandin, à ce moment-là, était absorbé par quelque pensée",
+      "translation_anchor": "但家庭会议一致认为，是父亲想多了，要不就是勒格朗丹当时正沉浸在什么心事里",
+      "finding": "Mais引出家人与父亲担心之间的转折，unanimement与ou分别由“一致”“要不就是”体现；s’était fait une idée在这里是父亲自己想象出了受冷落的情形，“想多了”符合语境。“当时正沉浸在什么心事里”保留吸引勒格朗丹注意的是某个未指明的念头，没有断言确实存在此念头，两个备选解释均保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "D’ailleurs la crainte de mon père fut dissipée dès le lendemain soir",
+      "translation_anchor": "再说，父亲的担忧第二天晚上就烟消云散了",
+      "finding": "la crainte承接父亲担心得罪勒格朗丹；dès le lendemain soir强调紧接着的次日晚间，译文“第二天晚上就”保留时间与“就”的迅速性。“烟消云散”表达fut dissipée的消除，作为下文主动招呼的过渡自然，保留。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Comme nous revenions d’une grande promenade, nous aperçûmes près du Pont-Vieux, Legrandin, qui à cause des fêtes restait plusieurs jours à Combray",
+      "translation_anchor": "一次远足归来，我们在旧桥附近望见了勒格朗丹——因为过节，他要在贡布雷待上好几天",
+      "finding": "Comme在这里提供看见勒格朗丹的时间背景，“远足归来”对应长距离散步后的返程。“旧桥附近”准确定位près du Pont-Vieux；关系从句的qui指勒格朗丹，破折号后“他”指向清楚。à cause des fêtes明确是过节使他留在贡布雷数日，译文保留原因、停留地点与时长；“要……待上”可表达此次节日期间的停留安排，并无必要调整。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Il vint à nous la main tendue : « Connaissez-vous, monsieur le liseur, me demanda-t-il, ce vers de Paul Desjardins",
+      "translation_anchor": "他伸出手朝我们走来，问我：“爱读书的小先生，您知道保尔·德雅尔丹的这句诗吗：",
+      "finding": "vint à nous指走向一家人，“问我”则保留me所标明的具体受话者，二者没有混淆；la main tendue的主动伸手体现其友善，承接父亲疑虑消除。“爱读书的小先生”传达monsieur le liseur对少年读书人的亲切称呼；ce vers是下段将引出的单行诗，译为“这句诗”并保留冒号，与邻段衔接无漏译。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p208"
+  }
+}

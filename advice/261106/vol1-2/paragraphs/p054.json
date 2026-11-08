@@ -1,0 +1,24 @@
+{
+  "id": 54,
+  "assessment": "本段原意、语气及天空的比喻均基本传达准确，无明显漏译。两处中文搭配略显生硬：一生与头顶的连接、天性的量词，宜作小幅调整。",
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "要设法让你的一生头顶都留着一片天空",
+      "after": "要设法让自己一生都能头顶一片天空",
+      "source": "Tâchez de garder toujours un morceau de ciel au-dessus de votre vie",
+      "reason": "原译把“一生”直接置于“头顶”之前，句法关系不清；调整后由人作头顶天空的主体，保留一生始终拥有天空的比喻。"
+    },
+    {
+      "type": "不符合现代中文习惯",
+      "before": "一副艺术家的天性",
+      "after": "有艺术家的天性",
+      "source": "une nature d’artiste",
+      "reason": "“一副”通常不与“天性”搭配；改为承接“你”的谓语表达，语义不变。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p054"
+  }
+}

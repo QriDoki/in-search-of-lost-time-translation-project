@@ -1,0 +1,64 @@
+{
+  "id": 275,
+  "assessment": "本段五句已依原文顺序核对，包含回忆与观念形成的时间先后、父母外出与晚归许可、蒙舒凡水塘及宅旁土坡的空间关系、凡德伊小姐的身份辨认，以及叙述者不敢离开的条件推理。整体信息与叙事衔接完整，保留长句及原有施虐狂注释。发现一处值得修订的语义偏差：括号中的 autant que je pus la reconnaître 是对辨认可靠性的保留，现译‘我尽力才认出她来’却变成费力后已认出的确定叙述；建议恢复原文的审慎口吻。其余无须为改而改。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "C'est peut-être d'une impression ressentie aussi auprès de Montjouvain, quelques années plus tard",
+      "translation_anchor": "也许正出自几年后同样在蒙舒凡附近感受到的一个印象",
+      "finding": "peut-être 的推测语气由‘也许’保留；aussi 说明同样发生在蒙舒凡附近，译文以‘同样’承接上文地点。quelques années plus tard 修饰获得印象的时间，译文也将‘几年后’放在‘感受到’之前，没有误作形成观念的时间。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "impression restée obscure alors, qu'est sortie, bien après, l'idée que je me suis faite du sadisme",
+      "translation_anchor": "那印象当时始终晦暗不明——而观念的形成已是许久之后",
+      "finding": "原文区分当时尚未明白的体验与许久以后由此形成的施虐观念，译文用插入语及句尾补叙分别表达 alors 与 bien après，时间层次清楚。‘晦暗不明’所指是印象的意义尚不清楚，符合 obscure；关于 sadisme 的既有注释可原样保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "On verra plus tard que, pour de tout autres raisons, le souvenir de cette impression devait jouer un rôle important dans ma vie",
+      "translation_anchor": "往后将会看到，出于完全不同的另一些缘由，这个印象的记忆注定要在我一生中起重要作用",
+      "finding": "‘往后将会看到’保留叙述者对后文的预告；‘完全不同的另一些缘由’表明这段记忆此后的重要性另有原因，不与上一句的施虐观念混同。devait 在此从回顾视角预示后续作用，译成‘注定要’可成立；主语仍为印象的记忆而非当时的印象本身。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "C'était par un temps très chaud ; mes parents qui avaient dû s'absenter pour toute la journée, m'avaient dit de rentrer aussi tard que je voudrais",
+      "translation_anchor": "那是酷热的一天；父母那日不得不外出整整一天，便说我想多晚回家都行",
+      "finding": "天气、父母必须整日外出以及准许随意晚归三项信息均在。‘便说’在中文中衔接外出与晚归许可，符合此处背景关系；‘想多晚回家都行’准确表达 aussi tard que je voudrais 的许可范围，没有变成要求他晚归。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "étant allé jusqu'à la mare de Montjouvain où j'aimais revoir les reflets du toit de tuile, je m'étais étendu à l'ombre et endormi dans les buissons du talus qui domine la maison, là où j'avais attendu mon père autrefois",
+      "translation_anchor": "我一直走到蒙舒凡的水塘边，我爱重看瓦屋顶倒映在水里的影子，随后在俯瞰那座宅子的土坡灌木丛的阴影里躺下，睡了过去——那正是从前有一天，父亲去看望凡德伊先生时，我等待他的老地方",
+      "finding": "先抵达水塘、再在土坡灌木丛中躺下睡着的动作顺序保留；où 引出的喜爱重看屋顶倒影，由中文插叙表达。俯瞰宅子的是土坡，睡眠处与早年等父亲的位置相同，译文的定语与破折号均能体现这两层空间及回忆关系。‘父亲去看望凡德伊先生’保留旧日事件，没有混入当前这次外出。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Il faisait presque nuit quand je m'éveillai, je voulus me lever, mais je vis Mlle Vinteuil (autant que je pus la reconnaître, car je ne l'avais pas vue souvent à Combray, et seulement quand elle était encore une enfant, tandis qu'elle commençait d'être une jeune fille)",
+      "translation_anchor": "我醒来时天已擦黑，正想起身，却望见凡德伊小姐（我尽力才认出她来，因为在贡布雷我难得见到她，见时她还只是个孩子，如今却已开始长成少女）",
+      "finding": "醒时将近入夜、欲起身却看到人，转折与动作顺序无误。括号后半说明以前见面不多，且那时她尚年幼、现在已开始成为少女，译文保留了辨认困难的背景。但 autant que je pus la reconnaître 限定前面的身份判断，相当于‘据我所能辨认的来看’，不能直接落成‘我尽力才认出她来’所表示的努力后成功认出；建议改成带不确定性的‘就我能辨认的来看，应当是她’。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "qui probablement venait de rentrer, en face de moi, à quelques centimètres de moi, dans cette chambre où son père avait reçu le mien et dont elle avait fait son petit salon à elle",
+      "translation_anchor": "她多半刚回到家，就在我对面，离我不过几厘米，在那间她父亲当年接待过我父亲、而她已改成自己小客厅的房间里",
+      "finding": "‘多半’保留 probablement 对刚回家的推断；‘对面’及‘几厘米’忠实保存原文异常贴近的空间描写，不擅自改动距离。两个关系从句分别交代父亲曾在此接待叙述者父亲、女儿现将其作自己的小客厅；中文同用‘那间……房间’统领，指代明确。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "La fenêtre était entr'ouverte, la lampe était allumée, je voyais tous ses mouvements sans qu'elle me vît, mais en m'en allant j'aurais fait craquer les buissons, elle m'aurait entendu et elle aurait pu croire que je m'étais caché là pour l'épier",
+      "translation_anchor": "窗户半开，灯已点着，她看不见我，我却把她的一举一动尽收眼底；可我若走开，势必弄得灌木丛哗哗作响，她会听见，还可能以为我藏在那里是为了偷看她",
+      "finding": "半开窗及点亮的灯说明为何能看清室内；双方视线不对称由‘她看不见我，我却’完整表达。后半是并未执行的离开动作所引出的推演：灌木出声、被她听见、可能遭疑为偷窥，译文用‘若’及‘还可能’保留条件及可能性，没有误作她已经听见或已经认定。craquer 译为灌木作响虽未细分折裂声，但此处关键是声音会暴露藏身处，现译足以传达，无须单为拟声措辞另改。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "我尽力才认出她来",
+      "after": "就我能辨认的来看，应当是她",
+      "source": "autant que je pus la reconnaître",
+      "reason": "autant que 在此对辨认的可靠程度作保留，不表示‘尽力才’这一努力及成功的过程。原译断定已认出她，削弱了叙述者因见面少、对方已长大而保留的身份判断；改文恢复这一限定，后接‘因为’仍能自然解释辨认的不确定。"
+    }
+  ],
+  "agent": {"kind": "collaboration-subagent", "task": "p275"}
+}

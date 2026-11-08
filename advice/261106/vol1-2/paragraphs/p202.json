@@ -1,0 +1,277 @@
+{
+  "id": 202,
+  "assessment": "已按原文顺序核对全段，并将长句按主要意群分为36项记录。译文整体保留姑妈幻想灾难、编排猜疑戏剧，以及日常专制与宫廷生活相照应的讽刺结构；代词与虚拟条件大体清楚。建议修订7处：去掉土豆菜式和竖琴意象中无依据的具体化，纠正女仆乘车见闻的时间指向，并在末句恢复艺术家与老妇人的对照，准确传达历史名门及凡尔赛生活“运转机制”的含义。其余语意与长句层次可保留。本段无须处理的注释冲突。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Si la journée du samedi ... elle en attendait pourtant le retour",
+      "translation_anchor": "星期六这一天开始得比平日早一小时……可她还是从一周之初就迫不及待地盼着它再来",
+      "finding": "Si与pourtant构成让步：星期六虽开始得早、没有女仆陪伴而难熬，仍被期待。译文“可她还是”保留转折；en与“它”均指星期六的重临；“全部新意和消遣”对应toute，并受衰弱身体还能承受这一限制。保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Et ce n’est pas cependant qu’elle n’aspirât parfois à quelque plus grand changement",
+      "translation_anchor": "但这并不是说她有时不渴望更大的变化，偶尔她也有那样的时刻",
+      "finding": "两层否定表示她有时确实渴望更大变化；译文虽沿用否定套层，后接“偶尔她也有”使肯定含义明确。“全然不同于日常”把ce qui est落实为既有生活，合乎语境。保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "ceux que le manque d’énergie ou d’imagination empêche ... fût-ce du pire",
+      "translation_anchor": "缺乏精力或想象力、无法从自身找到更新之源的人……哪怕是糟糕的，是一阵激动、一场痛苦",
+      "finding": "阻止自我更新的原因是精力或想象力不足，才转而期待外来消息；译文保留原因、请求对象和哪怕更坏也求新鲜的让步。“一阵激动、一场痛苦”与une émotion, une douleur逐项相应。保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "la sensibilité ... comme une harpe oisive ... dût-elle en être brisée",
+      "translation_anchor": "因幸福而沉寂下来的敏感心灵，如同一架闲置的竖琴……纵然会因此被扯断琴弦",
+      "finding": "幸福使感受力沉寂、连粗暴触碰也愿承受的逻辑完整。但brisée指感受力／竖琴本身遭摧折，原文没有cordes；“扯断琴弦”把破坏限定为新增的琴弦细节，改为“被摧折”保留整个比喻的双重所指。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "la volonté ... livrée sans obstacle à ses désirs, à ses peines ... événements impérieux",
+      "translation_anchor": "意志——它好不容易才争得权利，可以不受阻碍地任由自己的欲望和烦忧摆布——却情愿把缰绳交到那些专横的事变手里",
+      "finding": "好不容易获得自由听任欲望烦忧的权利，却愿把控制权交给外来强制事件，这是句中悖论。“却”“哪怕”分别保留转向与残酷亦可接受的让步，缰绳意象完整。保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "comme les forces de ma tante ... le réservoir était très long à remplir",
+      "translation_anchor": "姑妈的体力稍一劳累就枯竭……那个蓄水池要很久才能蓄满",
+      "finding": "comme引出体力恢复缓慢的原因，译文用“所以”衔接水库比喻，准确说明蓄满耗时；“好几个月”“一点轻微的盈余”保留轻微过剩与漫长恢复的比例。别人借活动排出，她不能判断用途的比较亦完整。保留。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "comme le désir de la remplacer par des pommes de terre béchamel ... purée",
+      "translation_anchor": "想把土豆泥换成白汁焗土豆的愿望……她永远“吃不腻”",
+      "finding": "la替代的是purée（土豆泥），不是前文的体力；译文指代清楚，也保留乐趣自身最终催生求变这一反讽。béchamel仅说明白汁，未说明焗烤工艺，“焗”是无依据的增译，删去。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "elle ne tirât de l’accumulation de ces jours monotones ... un de ces changements",
+      "translation_anchor": "她正是从这些单调日子（她如此珍视它们）的层层累积中，酝酿出了对一场家庭大灾难的期待",
+      "finding": "Je ne doute pas que后面的ne为赘词，译文肯定“毫不怀疑……酝酿出了”正确。单调日子既受珍视又积累出灾难期待，灾难短暂却迫成有益的永久变化，译文均保留；“那些改变”与前面“某种改变”指她明知有益而不能自主实行的一类改变，无须改动。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Elle nous aimait véritablement, elle aurait eu plaisir à nous pleurer",
+      "translation_anchor": "她真心爱我们，她会很乐意悼念我们",
+      "finding": "前半真爱与后半假定的乐于哀悼形成残酷并置；译文用“会”维持条件式而未声称真的已经悼念，未消解讽刺。保留。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "survenant à un moment où elle se sentait bien ... à condition de se lever tout de suite",
+      "translation_anchor": "如果消息是在她自我感觉不错、身上没有出汗的时刻传来——房子已被大火吞噬……但只要她马上起床",
+      "finding": "分词survenant修饰la nouvelle，译文以“消息……传来”理顺中文。全家已死、房屋即将尽毁而她仍可从容逃脱的荒诞条件完整；“只要她马上起床”准确限定她拥有逃生时间。保留。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "aux avantages secondaires ... courageuse et accablée, moribonde debout",
+      "translation_anchor": "次要的好处……在长久的哀伤中细细品味……主持我们的丧事……勇敢而崩溃、垂死却挺立",
+      "finding": "次要好处有两项：品味对家人的温情、以丧主姿态令全村惊诧。译文均未漏；courageuse／accablée和moribonde／debout的矛盾并列也保留，显示她对自身悲剧形象的设想。保留。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "celui bien plus précieux ... à aller passer l’été ... où il y avait une chute d’eau",
+      "translation_anchor": "而珍贵得多的好处……去她在米鲁格兰的美丽农庄过夏天，那里有一道瀑布",
+      "finding": "celui回指avantage，与前述次要好处比较；译文用“珍贵得多”保留荒诞的主次。没有时间浪费、不能再作折磨人的犹豫，均是迫使搬去度夏的机制；地点、季节及瀑布信息完整。保留。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "Comme n’était jamais survenu aucun événement de ce genre ... elle se rabattait",
+      "translation_anchor": "这类事件从来没有真正发生过……于是……她退而求其次",
+      "finding": "Comme在此说明她转向想象戏剧的原因：现实灾难从未出现。“从来没有”对应否定及jamais，“于是”“退而求其次”保留因果与se rabattre的降低期望。玩接龙时筹想灾难成功的旁注亦完整。保留。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "qui l’eût désespérée au premier commencement de réalisation ... mort réelle",
+      "translation_anchor": "而一旦它露出实现的最初苗头……她反而会绝望",
+      "finding": "条件式表示假若真实灾难开始发生，她便会绝望。译文“一旦……会”保留虚拟；小事、坏消息话语及难忘声调逐项展开，真实死亡与其逻辑抽象可能性的差别清楚，没有把她的幻想当成现实。保留。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "des péripéties imaginaires qu’elle suivait avec passion",
+      "translation_anchor": "往生活里掺入一些想象中的波澜曲折，兴致勃勃地追随着它们",
+      "finding": "péripéties为情节转折或波澜，译文兼顾戏剧性；suivait的对象正是自己编造的情节，“追随着它们”正确。保留。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "Elle se plaisait à supposer ... la prenait sur le fait ... son jeu et le jeu de son adversaire",
+      "translation_anchor": "她喜欢忽然设想弗朗索瓦丝偷她的东西……既打自己的牌也打对手的牌",
+      "finding": "盗窃、设计查证、当场抓获均位于supposer统辖的想象内，译文反复“设想”保持层级，没有将女仆的偷窃写成事实。打牌时兼任双方说明她也扮演女仆辩解的习惯，逻辑完整。保留。"
+    },
+    {
+      "unit": 17,
+      "source_anchor": "les excuses embarrassées ... en nage ... son front chauve",
+      "translation_anchor": "弗朗索瓦丝狼狈的辩解……满头大汗，两眼放光，假发歪到一边，露出光秃秃的额头",
+      "finding": "姑妈自己说出辩解再愤怒回击，译文主语清楚；结果是旁人进入时看见兴奋出汗与假发移位，因果由“以致”保留。chauve修饰额头而非整个头部，译文对应。保留。"
+    },
+    {
+      "unit": 18,
+      "source_anchor": "Françoise entendit peut-être ... si ... elle ne leur eût donné plus de réalité",
+      "translation_anchor": "弗朗索瓦丝有时也许在隔壁房间里听到过……如果姑妈不把它们低声咕哝出来",
+      "finding": "peut-être的推测用“也许”保留；这里未明确女仆确实听到。双重条件说明只在心中编造不足以解气，必须低声说出而使想象更实在；译文条件、否定与作用关系清楚。保留。"
+    },
+    {
+      "unit": 19,
+      "source_anchor": "ce « spectacle dans un lit » ... faire jouer ses pièces",
+      "translation_anchor": "这种“床上戏”姑妈自己都觉得不过瘾，她要让她的那些戏真正上演",
+      "finding": "床上独演不够，接着要让他人参演；译文“真正上演”准确引出后文向两个女人分别进谗的行动，“她的那些戏”保留自编戏剧隐喻。保留。"
+    },
+    {
+      "unit": 20,
+      "source_anchor": "elle confiait à Eulalie ... à Françoise ... échangeraient leurs emplois",
+      "translation_anchor": "她把对弗朗索瓦丝人品的怀疑……讲给欧拉莉听……又把对欧拉莉不忠的猜疑讲给弗朗索瓦丝听……对调角色",
+      "finding": "两次谈话的倾诉对象与被指控对象均清楚，辞退女仆与不再准欧拉莉登门的措施没有混淆；心腹、叛徒是可交换的戏剧角色。“人品”较probité（诚实正直）宽泛，但此处下文盗窃猜疑已限定具体含义，暂不作琐碎替换。"
+    },
+    {
+      "unit": 21,
+      "source_anchor": "n’étaient qu’un feu de paille ... Eulalie n’habitant pas la maison",
+      "translation_anchor": "只是一把稻草火，因为欧拉莉不住在家里，缺乏燃料，很快就熄灭了",
+      "finding": "疑心短暂，因欧拉莉不住本宅而无持续刺激；译文完整保留火与燃料的连续比喻及原因。保留。"
+    },
+    {
+      "unit": 22,
+      "source_anchor": "Il n’en était pas de même ... par crainte de prendre froid ... s’ils étaient fondés",
+      "translation_anchor": "涉及弗朗索瓦丝的怀疑就不是这样……不敢下楼到厨房去察看那些怀疑是否真有根据",
+      "finding": "ceux和ils都回指soupçons，译文明确为“怀疑”；女仆同住使猜疑持续，姑妈怕离床受凉而不能查证，两个相反作用准确。“一出床”略生硬但能理解为离床，并无实质歧义，保留。"
+    },
+    {
+      "unit": 23,
+      "source_anchor": "chercher à deviner ce qu’à chaque moment pouvait faire, et chercher à lui cacher, Françoise",
+      "translation_anchor": "只是揣摩弗朗索瓦丝每时每刻可能在做什么、又可能在设法瞒着她做什么",
+      "finding": "倒装的Françoise是做事及隐瞒的主体，姑妈是揣摩者和被隐瞒者；译文理顺语序而未交换指代，ne ... plus d’autre的排他性由“再无别的……只是”表达。保留。"
+    },
+    {
+      "unit": 24,
+      "source_anchor": "les plus furtifs mouvements ... une contradiction ... un désir",
+      "translation_anchor": "脸上最细微的一动……一处前后矛盾……一种似乎被她藏起来的心思",
+      "finding": "原文列出神色、话语矛盾、隐藏愿望三种蛛丝马迹；译文三项俱全，“似乎”保留semblait而不把推测写实。“心思”在藏匿意图的语境内能覆盖désir。保留。"
+    },
+    {
+      "unit": 25,
+      "source_anchor": "elle l’avait démasquée ... un seul mot ... un divertissement cruel",
+      "translation_anchor": "她会用一句话让对方明白自己已被识穿……把这句话扎进这个可怜人的心口，是一种残忍的取乐",
+      "finding": "姑妈用一句话表现已识破女仆；女仆脸白、姑妈以伤人取乐，译文指代与心理施害方向明确。“似乎觉得”保留semblait，没有将叙述者推断变成直接自白。保留。"
+    },
+    {
+      "unit": 26,
+      "source_anchor": "une révélation d’Eulalie ... science naissante ... bien au-dessous de la vérité",
+      "translation_anchor": "欧拉莉的一条爆料……一门初生却在旧辙中停滞不前的科学……种种猜想远远落在真相之下",
+      "finding": "科学发现开辟未知领域的比喻说明新消息扩大姑妈猜疑的空间；“远远落在真相之下”保留此前猜测还不够惊人的意味，不能据此推定女仆确实有罪。保留。"
+    },
+    {
+      "unit": 27,
+      "source_anchor": "« Mais Françoise doit le savoir maintenant que vous y avez donné une voiture. »",
+      "translation_anchor": "“可是弗朗索瓦丝现在总该知道了吧，您都送了她一辆马车。”",
+      "finding": "doit表示说话者推测，译为“总该……吧”；maintenant que引出既然已经赠车的前提，译文“您都”表达该逻辑。y是口语代人称与下句lui相应，译为“她”正确。保留。"
+    },
+    {
+      "unit": 28,
+      "source_anchor": "« Que je lui ai donné une voiture ! » ... je l’avais vue qui passait maintenant en calèche",
+      "translation_anchor": "“我送了她一辆马车！”……“我刚才看见她坐着四轮马车经过”",
+      "finding": "姑妈重复对方的话表示惊愕，译文保留。欧拉莉先前所见被用来解释她为何以为姑妈赠车，avais vue是先于当前谈话的见闻，maintenant说女仆如今竟乘车了，并非“刚才看见”；改为“我见她如今坐着……”消除无依据的近期时间定位。趾高气扬对应fière comme Artaban，去赶集及赠车的推测均完整。"
+    },
+    {
+      "unit": 29,
+      "source_anchor": "comme la bête et le chasseur ... prévenir les ruses l’une de l’autre",
+      "translation_anchor": "就像野兽与猎人，不停地想方设法抢在对方的计谋前头",
+      "finding": "相互防备的两人没有被固定分配谁是猎人谁是野兽；译文也保持双向较量。prévenir在此为预先防范，译为抢先一步符合紧接的警戒行为。保留。"
+    },
+    {
+      "unit": 30,
+      "source_anchor": "Ma mère craignait ... une véritable haine ... l’offensait le plus durement qu’elle le pouvait",
+      "translation_anchor": "母亲担心弗朗索瓦丝心里会对姑妈生出真正的仇恨，姑妈可是尽其所能、用最狠的方式羞辱她",
+      "finding": "craignait后的ne是赘词，译文正确表达担心仇恨发生。施辱者姑妈、受辱者女仆清楚，“尽其所能”保留最高程度；未把母亲担忧当作仇恨已确定发生。保留。"
+    },
+    {
+      "unit": 31,
+      "source_anchor": "En tous cas ... une attention extraordinaire ... elle hésitait longtemps",
+      "translation_anchor": "无论如何……越来越投注异乎寻常的注意……总要为该怎么开口而犹豫半天",
+      "finding": "不论仇恨是否形成，女仆确已对姑妈言行极其关注；“无论如何”保持论证层次。请求前长久斟酌方式，译文未误解为犹豫要不要请求。保留。"
+    },
+    {
+      "unit": 32,
+      "source_anchor": "quand elle avait proféré sa requête ... ce que celle-ci avait pensé et déciderait",
+      "translation_anchor": "一旦把请求说出口……想从姑妈的脸色里猜出她是怎么想的、会作何决定",
+      "finding": "请求既已出口，再偷看姑妈表情；女仆是观察者，celle-ci指姑妈。“怎么想的／会作何决定”准确区分已产生的想法与接下来的决定。保留。"
+    },
+    {
+      "unit": 33,
+      "source_anchor": "Et ainsi — tandis que quelque artiste ... une généalogie ... une famille historique",
+      "translation_anchor": "就这样——正如某位艺术家……给自己编造一份家谱、攀上一个历史悠久的家族",
+      "finding": "tandis que将刻意追仿王朝的艺术家与无意重现专制关系的外省老妇人对照，不是用前者比拟后者；“正如”使论证方向相反，改为“有的艺术家……而一位”。famille historique指在历史上有名的家族，并非仅年代久远，改为“历史上赫赫有名的家族”。"
+    },
+    {
+      "unit": 34,
+      "source_anchor": "tourne précisément le dos ... sous des formes identiques et par conséquent mortes",
+      "translation_anchor": "其实恰恰背离了他要寻找的东西：他错就错在要从同样的形式里去找，而形式既然原封不动，也就成了死的形式",
+      "finding": "艺术家沿用旧制度的外在形式，以为亲近“大王”却背离其活的实质；译文保留判断与par conséquent的因果。“大王”所指由后文路易十四明确，不需增注。保留此意群，修改前后对照连接即可。"
+    },
+    {
+      "unit": 35,
+      "source_anchor": "une vieille dame de province ... sans avoir jamais pensé à Louis XIV ... la « mécanique » de la vie à Versailles",
+      "translation_anchor": "一位外省的老妇人……从没想到过路易十四……多少沾上了圣西门所称凡尔赛生活“机械”般的趣味",
+      "finding": "老妇人无意模仿而日常起居因专横的特异性获得类似宫廷生活的意味，译文人物、行为及反讽大体完整。但原文mécanique是圣西门为凡尔赛生活运转程序所起的名称，不是形容趣味像一架机械；改译“运转机制”，并调整句法，使“趣味”明确属于这套宫廷机制。"
+    },
+    {
+      "unit": 36,
+      "source_anchor": "ses silences ... un commentaire aussi passionné, aussi craintif ... une supplique",
+      "translation_anchor": "她的沉默……热烈而惶恐的评说对象……呈上一纸请愿书……国王的沉默、愉快或倨傲所受到的注目",
+      "finding": "老妇人每一丝脸色都由女仆揣摩，恰如递上请愿书后廷臣揣摩国王；两个aussi使热切与畏惧程度分别对应。译文“那情形恰如”保存比较，宫廷与外省两组人物无混淆，路径转角、凡尔赛及显赫王公的信息完整。末尾以“注目”承接前面的“评说”，能表达同样关注与解读，保留。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "纵然会因此被扯断琴弦",
+      "after": "纵然会因此被摧折",
+      "source": "dût-elle en être brisée",
+      "reason": "brisée说感受力如竖琴般整体受摧折，未写琴弦；删去无依据的具体化，保留比喻的双重所指。"
+    },
+    {
+      "type": "错译",
+      "before": "白汁焗土豆",
+      "after": "白汁土豆",
+      "source": "des pommes de terre béchamel",
+      "reason": "béchamel仅指白汁，原文没有焗烤这一制作方式。"
+    },
+    {
+      "type": "错译",
+      "before": "我刚才看见她坐着四轮马车经过",
+      "after": "我见她如今坐着四轮马车经过",
+      "source": "je l’avais vue qui passait maintenant en calèche",
+      "reason": "maintenant修饰如今乘马车的情形，avais vue是此前的见闻；译成“刚才看见”无依据地限定了见闻的时间。"
+    },
+    {
+      "type": "错译",
+      "before": "就这样——正如某位艺术家",
+      "after": "就这样——有的艺术家",
+      "source": "Et ainsi — tandis que quelque artiste",
+      "reason": "tandis que与破折号后老妇人的行为形成对照：“刻意追仿而背离”对“无意而重现”。“正如”错误地改成类比，须与后面的“而一位”配合恢复对照。"
+    },
+    {
+      "type": "错译",
+      "before": "攀上一个历史悠久的家族",
+      "after": "攀上一个历史上赫赫有名的家族",
+      "source": "une généalogie qui le fait descendre d’une famille historique",
+      "reason": "famille historique指在历史上有名望、有地位的家族，重点不在家族年代久远。"
+    },
+    {
+      "type": "错译",
+      "before": "——一位外省的老妇人",
+      "after": "——而一位外省的老妇人",
+      "source": "tandis que ... — une vieille dame de province",
+      "reason": "补出与前半艺术家行为相对照的“而”，承接tandis que，使长句两端的逻辑关系明确。"
+    },
+    {
+      "type": "错译",
+      "before": "多少沾上了圣西门所称凡尔赛生活“机械”般的趣味",
+      "after": "多少带上了圣西门所谓凡尔赛生活的“运转机制”所具有的趣味",
+      "source": "un peu de l’intérêt de ce que Saint-Simon appelait la « mécanique » de la vie à Versailles",
+      "reason": "圣西门称作mécanique的是凡尔赛生活的运转程序；原译将“机械”接成“般的趣味”，既误置命名关系，又易让人理解为趣味机械呆板。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p202"
+  }
+}

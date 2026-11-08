@@ -1,0 +1,29 @@
+{
+  "id": 194,
+  "assessment": "逐句核对两句直接引语及其间的叙述语。译文保留姑妈未能追问欧拉莉时的懊恼、摇头的动作，以及以省略句补出“唯一一件要紧事”的感叹。“真气人”在此属于日常抱怨，未改变上下文的轻微恼意；“那可是”传达原文独立感叹句的强调，未增添实质信息。未发现值得修订的错漏或中文句式问题，保留原译。",
+  "changes": [],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "C'est contrariant",
+      "translation_anchor": "真气人",
+      "finding": "contrariant形容事情不遂心、令人懊恼，指上段弗朗索瓦丝没能追上欧拉莉一事。译文以口语“真气人”表达姑妈的抱怨；这里并非认定某个人故意惹她生气，结合前句可明白“真气人”所指的是没能追上这件事，保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "disait ma tante en hochant la tête.",
+      "translation_anchor": "姑妈摇着头说",
+      "finding": "ma tante为说话者，en hochant la tête表示说话同时摇头的伴随动作，中文把动作置于“说”前，保留了同时关系。“disait”的未完成过去时在叙述中的引语提示功能由中文“说”自然承接，无须另加表示持续或反复的词。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "La seule chose importante que j'avais à lui demander !",
+      "translation_anchor": "那可是我唯一要问她的要紧事！",
+      "finding": "原文为名词性独立感叹句：seule与importante共同限定chose，强调待问诸事中唯一要紧的一件；j’avais à lui demander表明姑妈本有事要问她，lui承接上段未能追回的欧拉莉。译文同时保留“唯一”“要紧”两个限定，并以“那可是”补足中文感叹句的语气支架；“她”指欧拉莉，在紧邻上下文中清楚。“要问”表达待进行的询问，结合追赶失败的前情即可读出未能问成，不必额外补入解释。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p194"
+  }
+}

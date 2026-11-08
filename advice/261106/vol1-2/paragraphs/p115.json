@@ -1,0 +1,9 @@
+{
+  "id": 115,
+  "assessment": "本段问句的称呼、来访时间及询问姓名之意均准确传达，口语自然，保留原译。",
+  "changes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p115"
+  }
+}

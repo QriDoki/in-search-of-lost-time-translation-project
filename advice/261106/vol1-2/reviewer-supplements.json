@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6,
+    "changes": [
+      {
+        "type": "注释补充",
+        "before": "两个物象把姑妈的病弱与虔信叠合起来。",
+        "after": "两个物象把姑妈的病弱与虔信叠合起来。底本确写“额上的椎骨”，此处保留这一反常意象；安托万·孔帕尼翁将其与“死亡之舞”传统相联系，参见[法兰西公学院课程摘要](https://www.college-de-france.fr/fr/agenda/cours/proust-en-1913/proust-en-1913-7-0)。",
+        "source": "où les vertèbres transparaissaient；Antoine Compagnon, Proust en 1913 (7), 2013-02-19",
+        "reason": "正文恢复底本的反常身体意象后，在原有荆冠与念珠注释中说明其文本依据和一种学术解释，避免读者误以为译文在作普通解剖陈述；不另加注释标记。"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "changes": [
+      {
+        "type": "错译",
+        "before": "其姻亲属于乡绅阶层",
+        "after": "其姻亲具有贵族身份",
+        "source": "avec un gentilhomme bas-normand",
+        "reason": "正文依gentilhomme改为贵族，现有注释须同步更正身份表述，保留原有大革命历史说明及注释标记。"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "changes": [
+      {
+        "type": "语句不通顺",
+        "before": "头戴金属胸甲与头盔",
+        "after": "身穿金属胸甲、头戴头盔",
+        "source": "cuirassiers",
+        "reason": "胸甲穿在身上，头盔戴在头上；校正同一注释中的动宾搭配，保留兵种说明和注释标记。"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "changes": [
+      {
+        "type": "注释补充",
+        "before": "具体说话角色依原剧本核对。",
+        "after": "剧中由约阿斯（Joas）对阿塔莉说出，见[原剧本](https://fr.wikisource.org/wiki/Athalie_%28Racine%29%2C_Didot%2C_1854)。",
+        "source": "Racine, Athalie（Didot, 1854）：Joas与Athalie的对话",
+        "reason": "已核对原剧本，此句标在Joas名下；将留在读者注释中的待核提示替换为确认后的说话角色，并保留出处。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "id": 197,
+  "assessment": "本段为一句，承接上段星期六的家庭习惯，补充五月间星期六晚饭后参加圣母月敬礼的例行活动。译文保留了月份、星期与晚饭后的时间层次，以及全家外出参加宗教活动的目的关系。“晚祷”是结合晚间出门与下文教堂场景作出的具体化，未造成实质误解；原有圣母月注释与正文相容。未发现值得修订的确切问题。",
+  "changes": [],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Le samedi avait encore ceci de particulier que ce jour-là, pendant le mois de mai",
+      "translation_anchor": "星期六还有一点特别之处：每逢五月，这一天",
+      "finding": "“encore ceci de particulier”承接上一段已经讲述的星期六特例，译作“还有一点特别之处”准确保留递进。“ce jour-là”回指星期六，“pendant le mois de mai”限定五月期间；“每逢五月，这一天”在冒号前星期六的统领下，表示五月里的星期六，并未误指五月中的某个固定日期。原文未完成过去时描述惯常情形，中文用“每逢”表达反复性，成立。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "nous sortions après le dîner pour aller au « mois de Marie »",
+      "translation_anchor": "晚饭后我们要出门，去参加⊂“圣母月”⊃≼🏛️圣母月是五月天主教会对圣母玛利亚的特别敬礼，常有晚祷与鲜花供坛。≽的晚祷。",
+      "finding": "“nous”译为“我们”，与家庭成员一起出门的叙述一致；“après le dîner”译作“晚饭后”，在此晚间敬礼情境下正确。“sortions…pour aller”是出门前往参加活动的目的关系，译文“要出门，去参加”顺畅呈现惯常安排。“mois de Marie”字面为圣母月，此处借月份名称指该月举行的敬礼；译文加“的晚祷”明确活动含义，虽比原文具体，结合晚饭后出门与下文教堂场景可接受。保留原注释，其对五月敬礼与晚祷的说明不与译文矛盾。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p197"
+  }
+}

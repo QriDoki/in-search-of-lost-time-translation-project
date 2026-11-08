@@ -1,0 +1,9 @@
+{
+  "id": 107,
+  "assessment": "原文与译文核对无实质问题：“à la déclaration de guerre”译为“一宣布开战”，“on arrêtait tous les chemins de fer”译为“所有铁路就会停运”，准确传达园丁的误解，中文自然，保留原译。",
+  "changes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p107"
+  }
+}
