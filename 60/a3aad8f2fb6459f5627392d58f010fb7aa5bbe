@@ -1,0 +1,19 @@
+advice/261106/vol2-2/paragraphs/p055.json
+  s_7b4c42d46a5915::t_80783bf50292d0 1-196
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "60a3aad8f2fb6459f5627392d58f010fb7aa5bbe",
+  "prompts": {},
+  "sessions": {
+    "s_7b4c42d46a5915": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbb7-8b10-7503-9570-a23fdcf03c13",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
