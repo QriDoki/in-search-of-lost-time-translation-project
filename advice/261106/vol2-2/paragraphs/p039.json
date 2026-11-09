@@ -1,0 +1,98 @@
+{
+  "id": 39,
+  "assessment": "本段基本保留了叙述者借名字和谈话接近希尔贝特的痴恋心理，长句的反复与自知徒劳也传达出来。主要问题是把“同时不再熟悉”译成“仍感到亲密”，倒转了原意；另有默读音乐的比喻表述不顺，以及把期待出现的好结果缩成主观快乐。建议四处正文修订，并请主审检查提前揭示老太太姓名的注释。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Je m’arrangeais à tout propos ... cette musique dont la lecture muette ne me suffisait pas.",
+      "translation_anchor": "我逮着机会就设法引父母说出“斯万”这个名字……光在心里默念那听不到的音色已经不够。",
+      "finding": "à tout propos 与 faire prononcer 分别落实为逮着机会和引父母说出，主动安排别人发声的意味保留。certes ... mais 说明虽不断在心中复诵，仍需要外在声音；sonorité délicieuse 是名字的悦耳音响，奏响音乐的延伸比喻也正确。不过 lecture muette 是无声地读，原译“默念那听不到的音色”让音色成为默念的对象，中文搭配不成立，也削弱默读与奏响之间的对照；应改成仅仅默读还不能满足。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Ce nom de Swann ... certains aphasiques ... un nom nouveau.",
+      "translation_anchor": "况且，斯万这个名字我早已熟知，如今却又变得陌生，⊂仿佛失语症患者忽然认不得一个最常用的词⊃",
+      "finding": "que je connaissais depuis si longtemps 与 maintenant 的对照是早已熟悉的名字如今成为一个新名字，失语症的比喻解释这种重新陌生化。译文“变得陌生”大体抓住反常感觉，但省去了句中明确的“新名字”判断；建议还原，以便与下一单元无法习惯它、再下一单元拆字母的行为衔接。带注比喻中的“认不得”可理解为对熟词突然生疏的形象说法；但原文有限定“某些”，且并未逐字断言完全认不出，注释处理意见另记，不改注释标记及内容。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Il était toujours présent à ma pensée et pourtant elle ne pouvait pas s’habituer à lui.",
+      "translation_anchor": "它无时无刻不在我心头，我却始终无法习惯它。",
+      "finding": "Il 和 lui 都指斯万这个名字，elle 回指 ma pensée；中文用“我”承接“我的思想”是自然的换主语，没有弄错名字与人的关系。始终萦绕心头却不能习惯的悖论保留，“无时无刻不”对应 toujours，不需修订。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Je le décomposais, je l’épelais, son orthographe était pour moi une surprise.",
+      "translation_anchor": "我把它拆开，一个字母一个字母地拼出来，它的拼写让我感到意外。",
+      "finding": "三个短分句依次是分解名字、逐字母拼读、对其拼写感到惊异，原译逐一覆盖。épelais 在此确是按字母拼读，不能按汉字拆字理解；译文明确说字母，准确承接前句熟名如新的体验。“拼出来”虽略带书写联想，在该上下文仍清楚，不作无必要改动。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Et en même temps que d’être familier, il avait cessé de me paraître innocent.",
+      "translation_anchor": "它仍叫我感到亲密，却不再是一个纯真的名字。",
+      "finding": "本句 en même temps que d’être familier 省略了共同的 cesser：名字同时不再熟悉，也不再显得无辜；前句拼写令人意外和本句后的有罪快乐分别支撑这两层。不宜把 en même temps que 读为名字仍然熟悉的让步关系。原译不仅把 familier 从熟悉移成亲密，还用“仍……却”倒转了第一层意思，必须修订。innocent 指名字已染上隐秘爱情带来的罪感，用“清白无辜”可以与下句 coupables 呼应。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Les joies que je prenais à l’entendre ... on changeait la conversation si je cherchais à l’y amener.",
+      "translation_anchor": "每次听到这名字而感到快乐……只要我试图把话题往那儿引，他们就会把话岔开。",
+      "finding": "Les joies 前置后由 les 复指，si coupables ... que 引出因过度罪感而怀疑旁人看穿自己、故意转移话题的主观推想。译文保留“我觉得”和“我总觉得”，未把别人的猜测和转话题当作客观事实；“往那儿引”在上下文指引向斯万名字，l’y amener 的指向清楚。“每次”把反复心理显化，未改变情节，保留。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Je me rabattais ... des paroles sans vertu ... quelque chose d’heureux.",
+      "translation_anchor": "我便退回到那些仍与希尔贝特有关的话题上……或许能从中榨出一点儿快乐。",
+      "finding": "se rabattre 是主话题受阻后退而求其次；译文“退回”基本对应。“没有效力”正确解释 sans vertu，插入语内远离她、她听不见、只能复述事实而不能改变事实三层都有保留。j’avais beau ... pourtant 的明知徒劳而仍抱幻想也译出。manier、brasser 保有反复摆弄相关事物的动作感；但 quelque chose d’heureux 在此是某件可喜的事情、某种有利结果，下句立即用让希尔贝特来同住说明具体幻想。“榨出一点儿快乐”把希望改变现实缩成从谈话取得主观快感，应改成带来某种可喜的结果。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Je redisais ... pour la centième fois ... Gilberte venant à tout jamais vivre avec nous.",
+      "translation_anchor": "我一遍遍对父母说……仿佛这句话说到第一百遍……从此永远和我们住在一起。",
+      "finding": "反复陈述的是希尔贝特喜欢家庭女教师，原译主客体无误；comme si 说明后一结果是叙述者的幻想，未误译为事实。pour la centième fois 的夸张重复、enfin 的终于、brusquement 的忽然以及 à tout jamais 的永远均有对应。venir vivre 与 entrer 连写的来家中定居也传达完整，不需修订。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Je reprenais l’éloge ... jusqu’au jour où je dis ... Mme Blatin.",
+      "translation_anchor": "我又夸起那位读*《辩论报》*的老太太……直到有一天……她大概叫布拉坦夫人。",
+      "finding": "reprenais 与 continuais 表明反复持续的赞颂，原译“又夸起”“继续颂扬”一致；大使夫人／殿下的身份暗示保留为括号内叙述者所说，不误当已核实身份。beauté、magnificence、noblesse 的美貌、气派、高贵符合这段过度赞颂的语气。最后依据希尔贝特说过的名字推断 Mme Blatin，原译“大概”保留 devait 的推断性。不过正文在老太太之后插入带注的“布拉坦夫人”，先于本句结尾提前给出身份，削弱了说出姓名才引发下段母亲反应的叙事顺序；依要求不改注释，交主审同步检查。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "我需要有人替我奏响这段音乐，光在心里默念那听不到的音色已经不够。",
+      "after": "我需要有人替我奏响这段音乐，仅仅默读还不能令我满足。",
+      "source": "de me faire jouer cette musique dont la lecture muette ne me suffisait pas",
+      "reason": "lecture muette 是默读，原译让音色成为默念的对象，搭配不通；改后恢复默读与实际奏响的对应。"
+    },
+    {
+      "type": "错译",
+      "before": "况且，斯万这个名字我早已熟知，如今却又变得陌生，",
+      "after": "况且，斯万这个名字我早已熟知，如今对我却像是一个新名字，",
+      "source": "Ce nom de Swann ... que je connaissais depuis si longtemps, était maintenant pour moi ... un nom nouveau.",
+      "reason": "补回早已熟知的名字如今如同新名字的明确判断，保留陌生化的修辞并与随后拆字母的惊异相衔接。"
+    },
+    {
+      "type": "错译",
+      "before": "它仍叫我感到亲密，却不再是一个纯真的名字。",
+      "after": "它不再让我觉得熟悉，同时也不再显得清白无辜。",
+      "source": "Et en même temps que d’être familier, il avait cessé de me paraître innocent.",
+      "reason": "en même temps que d’être familier 省略共用的 cesser，表示同时不再熟悉、不再显得无辜；原译“仍……却”倒转了前半句，且把熟悉误作亲密。"
+    },
+    {
+      "type": "错译",
+      "before": "或许能从中榨出一点儿快乐。",
+      "after": "或许能从中带来某种可喜的结果。",
+      "source": "j’en ferais peut-être sortir quelque chose d’heureux",
+      "reason": "此处期待的是反复谈论能促成一件好事，下句以希尔贝特永久来家中居住为例；不能缩成谈话本身带来的主观快乐。"
+    }
+  ],
+  "annotation_notes": [
+    "第2单元的带注比喻把 certains aphasiques 泛化为“失语症患者”，并将熟词如新具体化为“忽然认不得”。主审若统一调整带注正文，建议改作“仿佛某些失语症患者面对最常用的词也会觉得陌生”，保留原注的比喻说明及标记。",
+    "第9单元在“老太太”后插入的带注“布拉坦夫人”提前揭示本句结尾才报出的姓名。建议主审将该身份注释移至本句末实际出现的姓名处，并把注中“首次出现全名”核为“首次出现姓名／姓氏”（Mme Blatin 未给名字）；本次未改注释标记及其内容。"
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p039"
+  }
+}

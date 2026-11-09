@@ -1,0 +1,32 @@
+{
+  "id": 45,
+  "assessment": "本段的反问、母亲急切维护表面关系的心理以及带引号的“和解”均已译出，人物语气基本成立。主要问题是将 attenté à 译为“戳穿”，把对虚构关系的冒犯或破坏写成了已经揭露真相，并以“不仅”加强了原文没有明示的递进关系；宜作一处局部修订。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "— Brouillés ?",
+      "translation_anchor": "——闹翻？",
+      "finding": "这是母亲重复儿子的关键词所作的惊讶反问，既否认双方失和，也为后面的急切辩解起头。“闹翻？”保留了重复、简短和反问语气，毋须修改。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "mais pourquoi veux-tu que nous soyons brouillés, répondit-elle vivement comme si j’avais attenté à la fiction de ses bons rapports avec Swann et essayé de travailler à un « rapprochement ».",
+      "translation_anchor": "你为什么非说我们闹翻了？她急忙答道，仿佛我不仅戳穿了她与斯万关系融洽的假象，还企图促成两人的“和解”。",
+      "finding": "pourquoi veux-tu que… 是质问对方为何这样设想的惯用说法，不是字面的“希望我们闹翻”；“为什么非说”用口语表现母亲不悦的反驳，在此可以保留。répondit-elle vivement 的 vivement 表示回答迅速而激切，“急忙答道”与语境相合。comme si 统摄后面的两个过去行为：我仿佛既损及了她与斯万关系良好的虚构，又试图从事某种“关系修复”。结合前段，她担心承认失和会招来调停，故这里的 fiction 指她维护的融洽表象；attenter à 是攻击、侵犯或损害，并不必然表示这层虚构已被揭穿，“戳穿”把作用写得过于确定。“不仅……还……”又给并列的 et 添了明显递进，应一并收回。“企图促成两人的‘和解’”涵盖 essayé de travailler à un rapprochement，保留引号也传达了母亲所戒备的调停意味，可以保留。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "仿佛我不仅戳穿了她与斯万关系融洽的假象，还企图促成两人的“和解”。",
+      "after": "仿佛我是在破坏她与斯万关系融洽的假象，并企图促成两人的“和解”。",
+      "source": "comme si j’avais attenté à la fiction de ses bons rapports avec Swann et essayé de travailler à un « rapprochement »",
+      "reason": "attenté à 表示损害或侵犯，不蕴含“已经揭穿”的结果；改成“是在破坏”保留母亲感到那层虚构受到了威胁的意思。将“不仅……还……”改为并列，避免擅自强化递进。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p045"
+  }
+}

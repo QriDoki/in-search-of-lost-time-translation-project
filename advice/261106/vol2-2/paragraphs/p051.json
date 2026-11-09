@@ -1,0 +1,74 @@
+{
+  "id": 51,
+  "assessment": "全段九个原文单元均有对应，朝圣的比喻、弗朗索瓦丝把迷信当作虔诚的口吻，以及叙述者将对希尔贝特的激情投射到老管家胡须上的夸张均得到保留。主要问题在首句：把事先告知的缺席安排译成“不能来”，又把设法借散步接近她的行动弱化为“总想”，并额外加入“仿佛”的不确定意味，宜合并校正。其余句子的词义、指代和叙事关系可以保留。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "m’avait annoncé qu’elle ne devait pas venir … je tâchais de faire des promenades qui me rapprochassent un peu d’elle",
+      "translation_anchor": "每逢希尔贝特告诉我她那天不能来香榭丽舍，我总想出去散步，专挑那些仿佛能让我离她更近一点的路线。",
+      "finding": "m’avait annoncé 表明她已经事先告知；ne devait pas venir 在这里说明预定不来，并未交代有什么障碍使她“不能”来。je tâchais 是“设法、尽力”，而“总想”容易读成仅有愿望；qui me rapprochassent 是所求散步的作用或目的，虚拟式本身不等于“仿佛”，原文没有额外强调接近的虚幻性。末尾 un peu 是“稍微”，与更近一点基本相符。建议整句明确预先告知、缺席之日和设法接近这三个关系。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "j’emmenais Françoise en pèlerinage devant la maison qu’habitaient les Swann",
+      "translation_anchor": "有时我带弗朗索瓦丝到斯万一家住的房子前去朝圣。",
+      "finding": "Parfois 对应“有时”；j’emmenais 的带领者是叙述者，Françoise 为同行者，译文主客体无误。devant 明确在宅邸前而非进入宅中，“房子前”已保留；en pèlerinage 以宗教朝圣喻恋人的崇拜，直接译“去朝圣”准确传达这种夸张，无须解释性扩写。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Je lui faisais répéter sans fin ce que, par l’institutrice, elle avait appris relativement à Mme Swann",
+      "translation_anchor": "我让她一遍又一遍地复述她从家庭女教师那里听来的关于斯万夫人的事。",
+      "finding": "lui 与 elle 均指弗朗索瓦丝；使役结构 faisais répéter 表示“我让她复述”，sans fin 表示反复不休，译文均明确。插入语 par l’institutrice 交代消息来自女教师，ce que … relativement à Mme Swann 是关于斯万夫人的那些见闻，现译没有把消息来源误作叙述内容，也没有漏掉传闻的间接性质，可保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Il paraît qu’elle a bien confiance à des médailles",
+      "translation_anchor": "听说她特别信那些⊂圣牌⊃",
+      "finding": "Il paraît 标示传闻而非叙述者证实，“听说”合适；bien 加强 confiance 的程度，“特别信”既传达相信圣牌效力，也保留仆人口语的简朴。médailles 在此宗教与迷信语境中译“圣牌”可成立，现有注释进一步说明其含义；“那些”虽使泛指略具体化，并不造成实质错译，不必为此改动。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Jamais elle ne partira en voyage si elle a entendu la chouette … un tic-tac d’horloge dans le mur … un chat à minuit … le bois d’un meuble, il a craqué",
+      "translation_anchor": "只要听见猫头鹰叫，听见墙里钟表般的嗒嗒声，半夜看到猫，或听见家具木头突然嘎吱作响，她就绝不出门旅行。",
+      "finding": "四个 ou 连接的是任一项均足以使她不肯动身的征兆，译文以“只要”统领、末项用“或”收束，并以“绝不”对应 Jamais，条件与否定范围正确。第二项原文是墙内传来如钟表般的声音，并非真有钟，译“钟表般的嗒嗒声”已区分。à minuit 的半夜时间和家具木料开裂作响也均保留；法文末项左置 le bois … il 的口语感，在中文“家具木头”这种直白说法中仍可感到，不必硬造重复主语。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Ah !",
+      "translation_anchor": "哎呀，",
+      "finding": "这是弗朗索瓦丝接续迷信事例而发的感叹，译“哎呀”符合其说话口吻。法文感叹号在中文改作逗号、与下一评价连读，未丢失感叹功能，也未改变说话人，可保留。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "c’est une personne très croyante !",
+      "translation_anchor": "她真是个⊂虔诚的人⊃",
+      "finding": "croyante 表面指有信仰、虔诚；笑意来自弗朗索瓦丝把刚列举的禁忌当作虔诚证据。译文让人物直说“虔诚的人”，没有代她纠正成“迷信的人”，保留了原文的戏剧性。très 的强化通过“真是个”表达虽非逐字对应，在感叹语境中足以承载评价力度；现有注释也明确这是人物自己的判断，无须修改。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "J’étais si amoureux de Gilberte que si … leur vieux maître d’hôtel promenant un chien, l’émotion m’obligeait à m’arrêter, j’attachais sur ses favoris blancs des regards pleins de passion",
+      "translation_anchor": "我爱希尔贝特爱得那么深，以致路上要是看见他们家那个老管家在遛狗，我便激动得停下脚步，热切地盯着他那两绺雪白的连鬓胡须。",
+      "finding": "si … que 为爱得深以至产生异常反应，内部另有 si 条件句，译文“那么深，以致……要是……”完整保留两层关系。leur 指斯万一家，ses 指老管家，中文“他们家”“他那”没有串换对象。l’émotion m’obligeait 译“激动得停下脚步”保留情绪迫使身体停住的效果；白色 favoris 指两颊或鬓边胡须，现译“连鬓胡须”可接受。“热切地盯着”把 regards pleins de passion 的注视方式落在管家的胡须上，仍传达爱情移情的滑稽细节，可保留。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Françoise me disait :",
+      "translation_anchor": "弗朗索瓦丝对我说：",
+      "finding": "本单元引出下一段“您怎么了？”的直接引语，主语是弗朗索瓦丝、受话者为叙述者，译文均无误。冒号和原段落边界予以保留，避免把下一段问话并入本段。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "每逢希尔贝特告诉我她那天不能来香榭丽舍，我总想出去散步，专挑那些仿佛能让我离她更近一点的路线。",
+      "after": "每逢希尔贝特事先告诉我她哪天不来香榭丽舍，到了那天，我便设法选些能让我离她稍近一点的路线去散步。",
+      "source": "Les jours où Gilberte m’avait annoncé qu’elle ne devait pas venir aux Champs-Élysées, je tâchais de faire des promenades qui me rapprochassent un peu d’elle.",
+      "reason": "原文说的是预先告知某日不来的安排，不是因故不能来；tâchais 表示设法采取行动，不只是想去散步。删去原文没有的“仿佛”，使接近她成为选择散步路线的目的，并用“事先”“到了那天”交代先后关系。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p051"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": 3,
+  "assessment": "本段十个原文句子／单元均已逐项核对。勒格朗丹对大地尽头的描述、斯万将海滨纳入艺术史的谈话、哥特建筑与自然互赋特征的推想及结尾两种渴望的融合，译文总体完整；保留长句与植物意象。发现一处词义偏移：insoupçonné 是原先未被想到／未被察觉，现译“悄悄地”却指行动隐秘，建议补回叙述者原先未曾想到这一层。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "On y sent encore sous ses pas ... quand bien même des hôtels s’y superposeraient ... la véritable fin de la terre française, européenne, de la Terre antique",
+      "translation_anchor": "“走在那片土地上，”他说，“甚至比在⊂菲尼斯泰尔⊃ ... 脚下这里是法国大地、欧洲大地、古老大地真正的尽头。",
+      "finding": "原句重复 on y sent，中心是脚下仍可感到古老大地的真正边缘；译文把重复整理成前置的“更真切地感到”和后面的内容宾语，句法可通。bien plus 的比较方向及 même Finistère 的强调保留；括号内 quand bien même 的让步、旅馆层叠而不能改变地质骨架的对比均在，没有把地质上的尽头误写成行政边界。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "le dernier campement de pêcheurs, pareils à tous les pêcheurs ... en face du royaume éternel des brouillards de la mer et des ombres",
+      "translation_anchor": "那里便是渔人最后的栖身营地，他们与开天辟地以来所有渔人一样，面对着海雾与幽影的永恒王国。",
+      "finding": "“最后”修饰渔人营地，而非“最后一代渔人”；译文正确。pareils 指渔人与世界初始以来的渔人相似，后面的面对海雾与幽影说明相同境况，汉语通过“他们……一样，面对着……”维持了这层关系。“开天辟地”是 commencement du monde 的自然汉语表达，不影响无时间性意象。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "afin d’apprendre de lui si c’était le point le mieux choisi pour voir les plus fortes tempêtes ... Je crois bien que je connais Balbec !",
+      "translation_anchor": "想问他那里是不是观看最猛烈风暴的最佳地点，他回答我说：“巴尔贝克？我当然知道！",
+      "finding": "问话的目的仍是寻求观暴风雨的最佳地点，斯万却答以他对巴尔贝克的熟悉，由此转入建筑。Je crois bien que 在这里是有把握而带感叹的肯定，不宜机械作“我想我大概知道”；“我当然知道”准确，新增的问号只是口语化复述地名，未改变信息。时间与地点 Combray 均有保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "du XIIe et XIIIe siècle, encore à moitié romane ... peut-être le plus curieux échantillon du gothique normand, et si singulière",
+      "translation_anchor": "巴尔贝克的教堂建于十二至十三世纪，还有一半是⊂罗曼式⊃ ... 也许是⊂诺曼底哥特式⊃最奇特的一个样本，而且那么独特！",
+      "finding": "十二、十三世纪、仍有半数罗曼式特征，以及在诺曼底哥特式中可能最奇特，三个建筑判断都在。peut-être 的不确定范围保留为“也许”；singulière 的形容对象仍是教堂，“而且那么独特”承接清楚。“最奇特的一个样本”是可接受的汉语，不据此机械删改原文的强调。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "on dirait de l’art persan",
+      "translation_anchor": "简直像是波斯艺术。",
+      "finding": "on dirait 是外观联想，并非断言教堂实际出自波斯；“像是”保留了这一距离。“简直”承接斯万赞叹的语气，无需改成事实判断或补入未经核实的建筑史说明。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "de la nature immémoriale ... en dehors de l’histoire humaine ... le trèfle gothique était venu nervurer ... comme ces plantes frêles mais vivaces",
+      "translation_anchor": "此前在我眼里不过是太古的自然 ... 从来不曾有过什么中世纪——如今看到它们骤然被纳入世纪的行列 ... 在极地的雪野上星星点点地开放",
+      "finding": "该长句先说海岸及野性渔人在想象中处于人类历史之外，再说骤知其有罗曼、哥特时代的迷人震动；译文的“而……如今……这对我曾是……”虽长但主干可辨，未把两种认识倒置。鲸鱼的比较不是说渔人事实上未生活于中世纪，而是叙述者先前的无历史想象，中文以前文“在我眼里”统领可成立。nervurer、trèfle 与极地植物的发芽／叶脉联想保留；vivaces 译“顽强”而非生物学术语也符合此处修辞。“同属一个时代”“世纪的行列”略带法语感，但有意体现从地质时间到人类历史的转换，不宜抹平。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "si le gothique apportait à ces lieux et à ces hommes une détermination ... eux aussi lui en conféraient une en retour",
+      "translation_anchor": "哥特式使这些地方和居民获得了原先没有的某种明确面貌；而他们也反过来使哥特式具有了具体的、独特的面貌。",
+      "finding": "détermination 在此不是意志或决心，而是使事物成为具体存在的规定性／特征，译成“明确面貌”较为自然。相互赋予特征的双向逻辑完整，后半“他们”承接前面的地方及其居民，可由上下文理解，未误作另一个群体。后文野岩上的独特钟楼正进一步解释这种回馈，保留现译。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "le timide et insoupçonné essai de rapports sociaux ... ramassés sur un point des côtes d’Enfer ... il avait germé et fleuri en un fin clocher",
+      "translation_anchor": "想象那些渔民在中世纪怎样悄悄地、小心翼翼地试着建立人际往来 ... 在野性的岩石上发芽、开花，长成一座纤细的钟楼。",
+      "finding": "timide 是谨慎、怯生生的尝试，现译“小心翼翼”可留；insoupçonné 是未曾想到或未被察觉，并不是渔人秘密行动的“悄悄地”。建议将此处改成叙述者原先从未想到这些交往尝试，同时把聚居地点纳入句内，避免新补说明和后面的地理插语混淆。后半说明哥特式摆脱城市背景后在某一具体海岸生长，germé et fleuri 的植物隐喻、fin 的纤细钟楼均准确。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "reproductions ... les apôtres moutonnants et camus, la Vierge du porche ... se modeler en relief sur le brouillard éternel et salé",
+      "translation_anchor": "雕像的复制品——那些卷发如羊毛、塌鼻子的使徒像，还有⊂门廊的圣母⊃ ... 雕塑轮廓从经久不散的咸雾中浮现",
+      "finding": "实际被带去看的为复制品，而将来可能在海雾前见到的才是原雕像，译文通过“复制品”和“一想到自己或许能看见”区分清楚。moutonnants 形容羊毛般卷发、camus 指塌鼻，与中文相符。se modeler en relief sur 直指以雾为背景显出立体形体，现译“雕塑轮廓……浮现”保留了视觉效果，虽不逐字译“凸起”，仍属可接受的文学表达。喜悦导致呼吸停止，因果方向无误。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "les soirs orageux et doux de février ... le vent, soufflant dans mon cœur ... mêlait ... le désir de l’architecture gothique avec celui d’une tempête",
+      "translation_anchor": "在 2 月那些风雨交加却又温煦的夜晚——风吹进我的心里，使它像我房间的烟囱一样颤动—— ... 把对哥特式建筑的渴望和对海上风暴的渴望在我心里混作了一处。",
+      "finding": "orageux 与 doux 构成风暴天气而气温温和的并置，“风雨交加却又温煦”保留矛盾感。风使心灵颤动如烟囱，中文没有将关系误读为心使烟囱震动；ne ... pas moins fort 的力度比较由“像……一样颤动”表达，虽可补“剧烈”，并无必要。末句主体是巴尔贝克旅行计划，融合的对象为建筑与暴风雨两种欲望，指代及逻辑完整。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "我试着想象这些渔人当年怎样生活，想象那些渔民在中世纪怎样悄悄地、小心翼翼地试着建立人际往来——他们聚拢在地狱海岸的一角，在死亡悬崖的脚下；",
+      "after": "我试着想象这些渔人当年怎样生活，想象他们在中世纪聚居于地狱海岸一角、死亡悬崖脚下时，怎样小心翼翼地尝试建立人际往来——这些尝试是我原先从未想到的；",
+      "source": "le timide et insoupçonné essai de rapports sociaux qu’ils avaient tenté là, pendant le moyen âge, ramassés sur un point des côtes d’Enfer, aux pieds des falaises de la mort",
+      "reason": "insoupçonné 表示原先未被料想或察觉，不是行动方式上的“悄悄地”。改文保留 timide 的谨慎意味及渔人聚居的地点，并补回此前未料想当地也有人类社会史的叙述视角。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p003"
+  }
+}

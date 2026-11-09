@@ -1,0 +1,62 @@
+{
+  "id": 9,
+  "assessment": "七个原文句子／意群已逐项核对。出游经过、名字以呼唤而非转述方式抵达叙述者、船与云与地毯的连续比喻，以及蓝羽饰造成的社会距离，译文均基本完整。第四单元遗漏heureuse，并将结尾承接未知生活的le明确换成“名字”，弱化了那位姑娘可以自由掌握、抛出整个未知世界的对照，建议一处局部修订。原文先用roux、后用blonde形容打球女孩，现译两种发色均依底本保留，不擅自统一。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Un jour, comme je m'ennuyais ... n'oublie pas que nous venons ce soir chez toi après dîner.",
+      "translation_anchor": "有一天，我正坐在旋转木马旁那个熟悉的位置上……今晚吃过晚饭我们要到你家去。",
+      "finding": "开头以过去的出游说明偶遇契机，麦芽糖摊如堡垒的边界、邻近却陌生的区域、山羊车、弗朗索瓦丝回椅旁取东西、叙述者在草坪等待及池边雕像均有对应。对话由另一位正穿衣收球拍的小姑娘向红发姑娘发出，现译保留两个人物、动作及今晚饭后上门的安排，未混淆说话者。草坪的枯黄和低矮虽被拆写，仍保留后文名字使贫瘠场地变得珍贵的对照。现译加“走在”将de l’allée落实为小径上活动，非影响叙事的实质偏差，可保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Ce nom de Gilberte passa près de moi ... mais l'interpellait",
+      "translation_anchor": "这个名字并不是像人们谈论一个不在场者时那样被提起，而是朝她本人喊出来的。我因此更真切地感到，被呼唤的那个人确实存在。",
+      "finding": "d’autant plus…que的因果是名字正在直接呼唤在场者，因而比谈论缺席者更强烈地唤起她的存在。现译拆成两句，否定项“不只是提及”与肯定项“直接呼唤”及其感受结果均清楚；“确实存在”在此是主观存在感，未误成验证身份，保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "en action pour ainsi dire, avec une puissance qu'accroissait la courbe de son jet et l'approche de son but",
+      "translation_anchor": "可以说是在行动，那名字像投出去的东西，划过一道弧线，越接近目标便越有力量",
+      "finding": "原文把名字写成行动中的投射物，投出的曲线和临近目标共同增强它的力量。现译补出“像投出去的东西”使jet的物理比喻可读，保留弧线、目标及力量递增；没有把叙述者误作投掷者，保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "transportant à son bord ... tout cet inconnu ... cette fille heureuse qui m'en frôlait, sans que j'y puisse pénétrer, et le jetait en plein air dans un cri",
+      "translation_anchor": "它仿佛一艘船，载着对那个被呼唤之人的种种了解……那位叫她名字的女孩带着这世界从我身边擦过，我却进不去，她把这名字抛到露天的空气里，抛进一声叫喊",
+      "finding": "名字所载的了解来自呼唤者而非叙述者；日常亲密和互访的记忆构成叙述者无从进入的生活，现译主线正确。此处heureuse标出女伴拥有这些亲密经验的幸运，与“我”的痛苦相反，却在现译两次“那位叫她名字的女孩”中消失。结尾m’en、y与le连续承接这个未知的生活世界，现译将le直接改成“这名字”，割断同一意象；宜改为幸运姑娘让那世界擦身而过，并随呼喊把它抛入空气中。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "l'émanation délicieuse ... de quelques points invisibles de la vie de Mlle Swann, du soir qui allait venir",
+      "translation_anchor": "那是它精确地触碰斯万小姐生活中几个看不见的点时释放出来的，其中就有即将来到的那个夜晚，她家晚饭后的一切",
+      "finding": "il指名字，名字准确触及那些未知生活细节，才释放美妙气息；将来到的夜晚特指她家饭后将发生的生活。现译保留“触碰—释放”的方向及未来时间，没有把女孩生活等同于名字本身，保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "formant, passager céleste ... comme un nuage d'opéra, plein de chevaux et de chars, quelque apparition de la vie des dieux",
+      "translation_anchor": "这个名字宛如天上的过客……又像歌剧里那满载着马匹与战车的云，纤毫毕现地映出神明生活的某种显现",
+      "finding": "passager céleste是名字如天上过客，孩子和保姆是其现实背景；云的珍奇色彩、普桑花园上空的隆云及歌剧云中神明的马匹战车构成连续类比。现译以两个“像”铺开嵌套比较，仍让云映出神明生活，未误把孩子保姆变成画中神明。正文“某种显现”略抽象但契合apparition，保留。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "jetant enfin ... une petite bande merveilleuse et couleur d'héliotrope ... pas de plumet bleu à son chapeau",
+      "translation_anchor": "投下一条奇妙的小光带，天芥菜色……脚步迟缓，既怀着怅惘，又带着几分亵渎的心情……她的帽子上没有蓝色羽饰",
+      "finding": "herbe所指地点同时是枯草坪与打球姑娘午后一段时光的组成部分，现译保留空间与时间并置。ne…que限定姑娘直到蓝羽饰女教师呼唤才停止打球，译文正确；blonde与开头roux的差别来自底本，不能擅改。紫色光带无形如反光而覆盖如地毯，迟缓、怅惘、亵渎的脚步及弗朗索瓦丝催行均完整。结尾语言粗俗与缺少蓝羽饰共同表达第一次生出的阶层羞惭，“您倒是……咱们走人”也保留不文雅口气，无需修改。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "只因为对那位叫她名字的女孩来说，它反倒如此熟悉、可以随意出入，那位叫她名字的女孩带着这世界从我身边擦过，我却进不去，她把这名字抛到露天的空气里，抛进一声叫喊",
+      "after": "只因为对那位幸运的姑娘来说，它反倒如此熟悉、可以随意出入；她让这世界从我身边擦过，我却进不去，又在一声呼喊中把它抛向空中",
+      "source": "de tout cet inconnu ... si familier et si maniable pour cette fille heureuse qui m'en frôlait, sans que j'y puisse pénétrer, et le jetait en plein air dans un cri",
+      "reason": "heureuse与叙述者痛苦相对，须保留她拥有亲密生活经验的幸运；m’en、y及后面的le在句法上延续tout cet inconnu所构成的未知生活意象，原译末尾另换“名字”使意象回指中断。改文恢复对照，并以“在一声呼喊中”自然表达dans un cri。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p009"
+  }
+}

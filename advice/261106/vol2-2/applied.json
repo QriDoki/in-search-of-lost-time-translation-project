@@ -1,0 +1,1934 @@
+{
+  "base_commit": "bdae506256944a0e76baa2a66d7d2e934fb1430e",
+  "paragraphs": 64,
+  "independent_agents": 64,
+  "sentence_units": 427,
+  "proposed_changes": 172,
+  "applied_changes": 190,
+  "rejected_changes": 1,
+  "changed_paragraphs": 47,
+  "retained_paragraphs": 17,
+  "source_sha256": "661a6b7ec6f0ec45c01072e6f26640017a38562dd3b8606702a714422015570b",
+  "translation_before_sha256": "e1f2d4f39b59febae36642383f574366b7ab18fccb71ce768d4015f9abf1d726",
+  "translation_after_sha256": "6c28205dfddc4398d2145bc690f261664ef0dd74376306110949976fe289e7c6",
+  "annotations": 150,
+  "annotation_texts_unchanged": false,
+  "applied": [
+    {
+      "id": "p001:1",
+      "paragraph": 1,
+      "type": "错译",
+      "before": "像蓝光浮动的游泳池那光滑的池壁",
+      "after": "像池水泛蓝的游泳池那光滑的池壁",
+      "source": "comme les parois polies d'une piscine où l'eau bleuit",
+      "reason": "où l’eau bleuit 说池水呈现蓝色，未出现浮动的光。改为“池水泛蓝”恢复意象主体，也使修饰关系明确。",
+      "review": "原文蓝色主体为池水，恢复水色，不增加光线运动。"
+    },
+    {
+      "id": "p002:1",
+      "paragraph": 2,
+      "type": "语句不通顺",
+      "before": "何况，在我看来，大自然凭它在我心中唤起的种种情感，恰恰与人类的机械造物最相对立。",
+      "after": "何况，大自然在我心中唤起的种种情感，使我觉得它与人类的机械造物最为对立。",
+      "source": "D'ailleurs la nature, par tous les sentiments qu'elle éveillait en moi, me semblait ce qu'il y avait de plus opposé aux productions mécaniques des hommes.",
+      "reason": "par tous les sentiments…说明叙述者产生判断的依据，现译“凭……最相对立”搭配生硬；改成“种种情感，使我觉得”使主观判断与其依据清楚相接。",
+      "review": "明确原文par引导判断依据，中文情感作判断原因更通顺。"
+    },
+    {
+      "id": "p003:1",
+      "paragraph": 3,
+      "type": "错译",
+      "before": "我试着想象这些渔人当年怎样生活，想象那些渔民在中世纪怎样悄悄地、小心翼翼地试着建立人际往来——他们聚拢在地狱海岸的一角，在死亡悬崖的脚下；",
+      "after": "我试着想象这些渔人当年怎样生活，想象他们在中世纪聚居于地狱海岸一角、死亡悬崖脚下时，怎样小心翼翼地尝试建立人际往来——这些尝试是我原先从未想到的；",
+      "source": "le timide et insoupçonné essai de rapports sociaux qu’ils avaient tenté là, pendant le moyen âge, ramassés sur un point des côtes d’Enfer, aux pieds des falaises de la mort",
+      "reason": "insoupçonné 表示原先未被料想或察觉，不是行动方式上的“悄悄地”。改文保留 timide 的谨慎意味及渔人聚居的地点，并补回此前未料想当地也有人类社会史的叙述视角。",
+      "review": "insoupçonné 是未曾想到，非隐秘进行；结合当地被纳入历史的上下文，修订解释成立。"
+    },
+    {
+      "id": "p004:1",
+      "paragraph": 4,
+      "type": "错译",
+      "before": "那个春天仍被无数根霜针扎得生疼",
+      "after": "那个春天仍用无数根霜针刺得人生疼",
+      "source": "le printemps de Combray qui piquait encore aigrement avec toutes les aiguilles du givre",
+      "reason": "qui 以 printemps 为先行词；piquait 是主动，霜针是春天刺人的工具。现译把春天改成“被扎”的受事，倒置拟人化动作关系，修订恢复原意。",
+      "review": "qui piquait 主语春天，with aiguilles 是工具，现译被动关系确有倒置。"
+    },
+    {
+      "id": "p005:1",
+      "paragraph": 5,
+      "type": "语句不通顺",
+      "before": "它们又因被冠以名字而平添了多少独特之处——那些只属于它们的名字，像人一样各有其名的名字。",
+      "after": "它们又因被冠以名字而平添了多少独特之处——那是只属于它们的名字，就像每个人都有自己的名字一样。",
+      "source": "des noms qui n’étaient que pour eux, des noms comme en ont les personnes",
+      "reason": "原句末尾“像人一样各有其名的名字”造成修饰错接，仿佛名字自身另有名字；应表达城市等个体也像人一样拥有专属于自己的名字。",
+      "review": "三项均改善中文修饰或程度表达，原文专名/个体与通感论述保留。"
+    },
+    {
+      "id": "p005:2",
+      "paragraph": 5,
+      "type": "语句不通顺",
+      "before": "可名字呈现人——",
+      "after": "可名字在描绘人——",
+      "source": "Mais les noms présentent des personnes ... une image confuse",
+      "reason": "“呈现人……时，给出的……”搭配生硬且长插入语遮蔽主干；“在描绘人……时”建立清楚的状语框架，仍表达名字给予人物模糊形象的意思。",
+      "review": "三项均改善中文修饰或程度表达，原文专名/个体与通感论述保留。"
+    },
+    {
+      "id": "p005:3",
+      "paragraph": 5,
+      "type": "不符合现代中文习惯",
+      "before": "佛罗伦萨在我心里芬芳如奇迹",
+      "after": "佛罗伦萨在我心里芬芳得不可思议",
+      "source": "une ville miraculeusement embaumée",
+      "reason": "miraculeusement 修饰城市芳香的程度或方式；“芬芳如奇迹”是生硬的抽象名词比喻。“芬芳得不可思议”保留神奇程度且中文搭配自然。",
+      "review": "三项均改善中文修饰或程度表达，原文专名/个体与通感论述保留。"
+    },
+    {
+      "id": "p006:1",
+      "paragraph": 6,
+      "type": "不符合现代中文习惯",
+      "before": "那我本情愿在最美的几座城市停留",
+      "after": "那我更愿意在最美的几座城市停留",
+      "source": "j'aurais voulu m'arrêter de préférence dans les villes les plus belles",
+      "reason": "de préférence表示优先选择或偏好，“本情愿”搭配生硬，且容易读成原本甘愿；改为“更愿意”使条件下的偏好清楚。",
+      "review": "de préférence宜明确偏好；coiffe译中性头饰、légère译轻盈成立。注释建筑归属另核。"
+    },
+    {
+      "id": "p006:note1",
+      "paragraph": 6,
+      "type": "注释同步修正",
+      "before": "库唐斯圣母大教堂钟楼的俗称，并非“用黄油建造的塔”：一说因石色微黄，一说与斋期捐献食油的旧俗有关，具体由来待考。",
+      "after": "“黄油塔”（tour de beurre）本是鲁昂大教堂一座塔楼的名称；这里由库唐斯地名末尾丰腴、泛黄的音色引出，不宜当作库唐斯钟楼的实地名称。",
+      "source": "Coutances, cathédrale normande, que sa diphtongue finale, grasse et jaunissante, couronne par une tour de beurre",
+      "reason": "独立子agent标待核后，主审核对大阪大学刊载的地名诗学论文及鲁昂大教堂官方平面说明；现有注释将鲁昂塔名误归库唐斯，须纠正以免固化误读。",
+      "sources": [
+        "https://ir.library.osaka-u.ac.jp/repo/ouka/all/69833/gallia_56_071.pdf",
+        "https://cathedrale-rouen.net/patrimoine/visites/plaquette/visitepage3.php"
+      ]
+    },
+    {
+      "id": "p006:2",
+      "paragraph": 6,
+      "type": "错译",
+      "before": "轻软头巾的翅翼",
+      "after": "轻盈头饰的翅翼",
+      "source": "l'aile d'une coiffe légère",
+      "reason": "coiffe是头罩／帽饰等头上服饰，并未指定软质头巾；légère说轻盈而非柔软。改用较中性的“头饰”，保留翅翼比喻和轻盈质感。",
+      "review": "de préférence宜明确偏好；coiffe译中性头饰、légère译轻盈成立。注释建筑归属另核。"
+    },
+    {
+      "id": "p007:1",
+      "paragraph": 7,
+      "type": "错译",
+      "before": "（这种在同一画面中连续叙述不同时刻的手法，常见于早期意大利绘画）",
+      "after": "",
+      "source": "comme certains tableaux de Giotto eux-mêmes qui montrent à deux moments différents de l’action un même personnage",
+      "reason": "括号内关于艺术史手法的概述不在原文，现以普通叙述插入，属于无标记增译；删去仍完整保留乔托同一人物在两个时刻的比喻。",
+      "review": "核对24个源文单元，七项分别恢复缺漏或错误修饰关系，删去夹入正文的解释；陆路与门廊意象有明确原文。Saint-Marc注释另行核实。"
+    },
+    {
+      "id": "p007:2",
+      "paragraph": 7,
+      "type": "错译",
+      "before": "这些影像在我心中唤起的欲望，始终带着某种深刻得只属于个人的东西",
+      "after": "这些影像在我心中唤起的欲望，仍带着它们各自深刻的独特性",
+      "source": "desquelles le désir qu’elles excitaient en moi gardait quelque chose d’aussi profondément individuel que si ç’avait été un amour, un amour pour une personne",
+      "reason": "individuel 在下文对特定个人的爱情这一比喻中，强调各个对象不可替代的个性，不是“只属于个人”的私人性；desquelles 还表明欲望保留了来自那些城市影像的独特性。",
+      "review": "核对24个源文单元，七项分别恢复缺漏或错误修饰关系，删去夹入正文的解释；陆路与门廊意象有明确原文。Saint-Marc注释另行核实。"
+    },
+    {
+      "id": "p007:3",
+      "paragraph": 7,
+      "type": "错译",
+      "before": "我总还可以绕道，从现实的道路去到那里。",
+      "after": "我总还可以绕道，走“陆路”去到那里。",
+      "source": "je pourrais l’atteindre par un biais, par un détour, en prenant la « voie de terre »",
+      "reason": "“现实的道路”虽解释了对照，却把带引号的具体“陆路”意象抽象化；恢复陆路，使内心不可达与地面绕行可达的反差更贴原文。",
+      "review": "核对24个源文单元，七项分别恢复缺漏或错误修饰关系，删去夹入正文的解释；陆路与门廊意象有明确原文。Saint-Marc注释另行核实。"
+    },
+    {
+      "id": "p007:tree",
+      "paragraph": 7,
+      "type": "树种及注释同步修正",
+      "before": "林荫道上的栗树",
+      "after": "林荫道上的七叶树",
+      "source": "marronniers",
+      "reason": "与第62段树种校正统一：法文marronnier在此为七叶树类，非食用栗属；同步本章对应正文与注释。",
+      "sources": [
+        "https://www.snhf.org/fiche-plante/marronnier-dinde/",
+        "https://www.iplant.cn/info/Aesculus%20hippocastanum?t=z"
+      ]
+    },
+    {
+      "id": "p007:4",
+      "paragraph": 7,
+      "type": "错译",
+      "before": "（此系抒情性的意象，非地理写实：画作并不真的悬在运河岸边）",
+      "after": "",
+      "source": "en venant se briser aux pieds des peintures du Titien, ils pouvaient rivaliser de riches coloris avec elles",
+      "reason": "法文只写水波拍在画作脚下并与其争色，没有补充“非地理写实”或画作所在位置的事实断言；这段解释混在正文中打断长句，应删去无标记增译。",
+      "review": "核对24个源文单元，七项分别恢复缺漏或错误修饰关系，删去夹入正文的解释；陆路与门廊意象有明确原文。Saint-Marc注释另行核实。"
+    },
+    {
+      "id": "p007:note1",
+      "paragraph": 7,
+      "type": "专名及注释同步修正",
+      "before": "⊂圣马可广场⊃≼🏛️Piazza San Marco，威尼斯的主要广场，以圣马可大教堂及其钟楼为地标。此处大照片中戴圆顶硬礼帽的现代小人物，与叙述者从艺术文字里想象出的古代威尼斯人物形成反差。≽",
+      "after": "⊂圣马可⊃≼🏛️原文 Saint-Marc。照片中门廊前戴圆顶硬礼帽的现代小人物，与叙述者从艺术文字里想象出的古代威尼斯人物形成反差。≽",
+      "source": "dans une grande photographie de Saint-Marc ... devant les porches",
+      "reason": "原文只称Saint-Marc，且明确门廊定位；具体照片构图未能独立核实，因此采用原文名称，删除将其限定为Piazza San Marco的扩译。保留现代人物与艺术想象人物的对照说明。"
+    },
+    {
+      "id": "p007:5",
+      "paragraph": 7,
+      "type": "错译",
+      "before": "的大照片前景里，一个插图画家添画的、戴圆顶硬礼帽的小小人物）",
+      "after": "的大照片里，插图画家画在门廊前、戴圆顶硬礼帽的那个小小人物）",
+      "source": "dans une grande photographie de Saint-Marc qu’on m’avait prêtée, l’illustrateur avait représenté, en chapeau melon, devant les porches",
+      "reason": "devant les porches 明确说人物在门廊前，现译的泛称“前景里”漏掉门廊；“添画”也比 représenté 多断定了后来加画的过程，改为画在门廊前。",
+      "review": "核对24个源文单元，七项分别恢复缺漏或错误修饰关系，删去夹入正文的解释；陆路与门廊意象有明确原文。Saint-Marc注释另行核实。"
+    },
+    {
+      "id": "p007:6",
+      "paragraph": 7,
+      "type": "错译",
+      "before": "那海洋般的气息，难以言说，独特得就像我的想象封存在威尼斯这个名字里的那些梦的气息",
+      "after": "那种海洋的气息，像梦境的气息一样难以言说而又独特，我的想象曾把它封存在威尼斯这个名字里",
+      "source": "cette atmosphère marine, indicible et particulière comme celle des rêves que mon imagination avait enfermée dans le nom de Venise",
+      "reason": "enfermée 的阴性单数对应 atmosphère，封存在威尼斯之名中的是海洋空气；梦境空气只是比项。现译使封存关系挂到“那些梦的气息”上，修订澄清两个修饰关系。",
+      "review": "核对24个源文单元，七项分别恢复缺漏或错误修饰关系，删去夹入正文的解释；陆路与门廊意象有明确原文。Saint-Marc注释另行核实。"
+    },
+    {
+      "id": "p007:7",
+      "paragraph": 7,
+      "type": "语句不通顺",
+      "before": "它随即又添上一层隐隐的恶心",
+      "after": "这种脱离肉身的感觉随即又伴随着一阵隐隐的恶心",
+      "source": "elle se doubla aussitôt de la vague envie de vomir",
+      "reason": "elle 回指 désincarnation；现译“它”容易接到空气或肉身，“添上一层恶心”搭配也生硬。明确为脱离肉身的感觉，并用伴随关系表达 se doubler de。",
+      "review": "核对24个源文单元，七项分别恢复缺漏或错误修饰关系，删去夹入正文的解释；陆路与门廊意象有明确原文。Saint-Marc注释另行核实。"
+    },
+    {
+      "id": "p008:1",
+      "paragraph": 8,
+      "type": "不符合现代中文习惯",
+      "before": "贝戈特认为她有天才",
+      "after": "贝戈特认为她是个天才",
+      "source": "à laquelle Bergotte trouvait du génie",
+      "reason": "“有天才”是直接照搬法语 avoir/trouver du génie 的生硬搭配；中文通常说某人“是个天才”或“有非凡才华”。此处赞赏的是演员的天才，改为“是个天才”保留评价力度且表达自然。",
+      "review": "有天才是法语搭配直搬；是个天才保留原文对演员的评价。原始assessment“禁止就医安排”为笔误，应为“禁止看戏及日常外出安排”。"
+    },
+    {
+      "id": "p009:1",
+      "paragraph": 9,
+      "type": "错译",
+      "before": "只因为对那位叫她名字的女孩来说，它反倒如此熟悉、可以随意出入，那位叫她名字的女孩带着这世界从我身边擦过，我却进不去，她把这名字抛到露天的空气里，抛进一声叫喊",
+      "after": "只因为对那位幸运的姑娘来说，它反倒如此熟悉、可以随意出入；她让这世界从我身边擦过，我却进不去，又在一声呼喊中把它抛向空中",
+      "source": "de tout cet inconnu ... si familier et si maniable pour cette fille heureuse qui m'en frôlait, sans que j'y puisse pénétrer, et le jetait en plein air dans un cri",
+      "reason": "heureuse与叙述者痛苦相对，须保留她拥有亲密生活经验的幸运；m’en、y及后面的le在句法上延续tout cet inconnu所构成的未知生活意象，原译末尾另换“名字”使意象回指中断。改文恢复对照，并以“在一声呼喊中”自然表达dans un cri。",
+      "review": "补回heureuse与叙述者痛苦的对照，代词统一承接近处的未知世界，呼喊中抛出意象的中文关系更清楚。"
+    },
+    {
+      "id": "p011:1",
+      "paragraph": 11,
+      "type": "错译",
+      "before": "既然要下雨，去香榭丽舍又有什么意思？",
+      "after": "要是下雨，去香榭丽舍又有什么意思？",
+      "source": "et s'il pleuvait, à quoi bon aller aux Champs-Élysées ?",
+      "reason": "s’il pleuvait是假设条件，前文只说更可能下雨；“既然”却确立下雨为事实，应恢复“要是”。",
+      "review": "前文仍属阴晴未定，应保留s’il的假设；黑色影纹是花格投在石面的光影，非铁栏自身发光。"
+    },
+    {
+      "id": "p011:2",
+      "paragraph": 11,
+      "type": "错译",
+      "before": "铁栏上细密的反光，一道道投在阳台石面上。",
+      "after": "铁栏花格的无数光影，一道道落在阳台石面上。",
+      "source": "mille reflets de la ferronnerie de son treillage étaient venus s’y poser",
+      "reason": "reflets是铁栏花格投落在石面上的影像，后文明确其为日光下的黑影；“铁栏上”的反光容易误读为栏杆自身闪光。用“铁栏花格的无数光影”恢复来源与位置，并保留光影的诗性用法。",
+      "review": "前文仍属阴晴未定，应保留s’il的假设；黑色影纹是花格投在石面的光影，非铁栏自身发光。"
+    },
+    {
+      "id": "p012:1",
+      "paragraph": 12,
+      "type": "不符合现代中文习惯",
+      "before": "咱们马上开始玩抢垒吧，你在我这一队",
+      "after": "咱们马上开始玩抢垒吧，您在我这一队",
+      "source": "Commençons tout de suite à jouer aux barres, vous êtes dans mon camp",
+      "reason": "原文仍用vous；相邻希尔贝特与叙述者的对话及后文第21段明确区分直呼教名与继续用vous。此处统一为“您”，保留人物交往阶段的一致性，不凭想象对话暗示已转为tu。",
+      "review": "已核对长句内评价对照、时刻与季节区别、幸福的承诺及比苔藓更柔暖等意群，保留。"
+    },
+    {
+      "id": "p014:1",
+      "paragraph": 14,
+      "type": "错译",
+      "before": "草坪上的雕像手边新结的一道冰柱",
+      "after": "草坪上的雕像手里多了一道冰柱",
+      "source": "la statue avait à la main un jet de glace ajouté qui semblait l’explication de son geste",
+      "reason": "à la main是手里持有的位置，冰柱仿佛解释雕像伸手的姿态；“手边”仅指旁边，削弱了此处明确的视觉关系。",
+      "review": "à la main确为手里，être d’un temps不必是出生事实；悬置条件句转为含意外口气的中文问句成立。"
+    },
+    {
+      "id": "p014:2",
+      "paragraph": 14,
+      "type": "错译",
+      "before": "要不是我生在",
+      "after": "要不是我属于",
+      "source": "si je n’étais pas d’un autre temps, du temps de l’ancien régime",
+      "reason": "être d’un temps是自称属于某个时代，不必指实际出生于该时代；“生在”增加具体出生事实，也与现有注释“不据此判定出生于大革命前”的说明冲突。",
+      "review": "à la main确为手里，être d’un temps不必是出生事实；悬置条件句转为含意外口气的中文问句成立。"
+    },
+    {
+      "id": "p014:3",
+      "paragraph": 14,
+      "type": "语句不通顺",
+      "before": "要是我告诉您，就连它们现在这个样子我也喜欢呢。",
+      "after": "您信不信，就连眼下这个样子的香榭丽舍，我也喜欢。",
+      "source": "Si je vous disais que je les aime, même ainsi.",
+      "reason": "原文悬置条件式含有向听者透露意外偏好的口气；直译“要是……呢”在中文缺少落点，“它们”也机械照搬专名的法语复数。改为完整口语句，保留意外语气并明确所指。",
+      "review": "à la main确为手里，être d’un temps不必是出生事实；悬置条件句转为含意外口气的中文问句成立。"
+    },
+    {
+      "id": "p015:1",
+      "paragraph": 15,
+      "type": "错译",
+      "before": "也是在这场小小的患难中，她仿佛仍对我守着一份忠诚。",
+      "after": "也是在这场患难中，她仿佛仍对我守着一份忠诚。",
+      "source": "une sorte de fidélité qu’elle me gardait au milieu du malheur",
+      "reason": "malheur没有“小小的”这一减轻限定；原文从恋爱中的叙述者视角把雪日视为共同患难，增入“小小的”会带来旁观者轻描淡写的语气。删除限定即可保留原有主观忠诚想象。",
+      "review": "删除小小的这一无原文的减轻限定，保留当时叙述者把雪日当作共同患难的认真感受。"
+    },
+    {
+      "id": "p018:1",
+      "paragraph": 18,
+      "type": "错译",
+      "before": "偏偏这份信念来自我爱她，反倒无从动摇：我的爱让这种信念越发牢不可破，因为它取决于我思念希尔贝特的方式本身",
+      "after": "偏偏这份信念来自我爱她，因而坚固得多，因为它取决于我思念希尔贝特的方式本身",
+      "source": "ce qui la rendait autrement résistante",
+      "reason": "autrement résistante强调相比另一种来源坚固得多，并未断言绝不可能动摇；删去绝对化且重复的“无从动摇”“牢不可破”，保留比较。",
+      "review": "恢复比较而非绝对判断，jusque-là接回期待中的告白时点，dont从句放弃道路的主语确为je。"
+    },
+    {
+      "id": "p018:2",
+      "paragraph": 18,
+      "type": "错译",
+      "before": "能够互相表白爱情——而我们的爱情，迄今甚至可以说尚未开始。",
+      "after": "能够互相表白爱情——在这之前，我们的爱情甚至可以说尚未开始。",
+      "source": "nous faire l’aveu réciproque de notre amour, qui jusque-là n’aurait pour ainsi dire pas commencé",
+      "reason": "jusque-là指期待中的相互告白之前；“迄今”只指当前时间，改为“在这之前”接回告白作为爱情开始门槛的关系。",
+      "review": "恢复比较而非绝对判断，jusque-là接回期待中的告白时点，dont从句放弃道路的主语确为je。"
+    },
+    {
+      "id": "p018:3",
+      "paragraph": 18,
+      "type": "语句不通顺",
+      "before": "它与真正的爱情毫无相通之处，也就放弃沿着真正爱情预先铺就的神秘道路走下去。",
+      "after": "它与真正的爱情毫无相通之处；而我也就放弃了沿着真正爱情预先铺就的神秘道路走下去。",
+      "source": "sans communication avec le vrai, dont j’aurais renoncé à suivre les chemins mystérieux et préexistants",
+      "reason": "原文放弃道路的主体是je，现译连续逗号易使“也就放弃”的主语误接为人为爱情。明确“我”，分号区分真假爱情的关系与叙述者的选择。",
+      "review": "恢复比较而非绝对判断，jusque-là接回期待中的告白时点，dont从句放弃道路的主语确为je。"
+    },
+    {
+      "id": "p019:1",
+      "paragraph": 19,
+      "type": "错译",
+      "before": "同那个使我爱上的、活生生的现实人物相对照，以便修正我对她的想象",
+      "after": "同那个使我爱上的、独立于我而存在的活生生的人相对照，以便对这份爱情作必要的修正",
+      "source": "confronter mon amour, pour lui faire subir les rectifications nécessaires, à sa cause vivante, indépendante de moi",
+      "reason": "lui回指mon amour，必要修正的对象是爱情，不能直接换成对她的想象；同时补回现实对象独立于叙述者而存在的限定。",
+      "review": "lui修正爱情、Il回指爱情均有语法与上下文支持；补回indépendante，hygiène依病症语境为保健，另两项中文搭配调整清楚。"
+    },
+    {
+      "id": "p019:2",
+      "paragraph": 19,
+      "type": "语句不通顺",
+      "before": "那幅迫切而走失的形象",
+      "after": "那幅我急于找回、却已遗失的形象",
+      "source": "l'image urgente et égarée",
+      "reason": "“迫切”直接修饰形象不合中文搭配；此处是我急需重新抓住的、已经在记忆里失落的形象。",
+      "review": "lui修正爱情、Il回指爱情均有语法与上下文支持；补回indépendante，hygiène依病症语境为保健，另两项中文搭配调整清楚。"
+    },
+    {
+      "id": "p019:3",
+      "paragraph": 19,
+      "type": "语句不通顺",
+      "before": "而这些进展，我每一次都只能推到期盼第二天下午。",
+      "after": "而每一次，我都只好指望这些进展能在第二天下午实现。",
+      "source": "les progrès décisifs sur lesquels j'étais chaque fois obligé de ne plus compter que pour l'après-midi suivante",
+      "reason": "“推到期盼第二天下午”句法错接，原意是被迫把实现进展的期待一次次推至第二天下午；改文明确期待的内容和时间。",
+      "review": "lui修正爱情、Il回指爱情均有语法与上下文支持；补回indépendante，hygiène依病症语境为保健，另两项中文搭配调整清楚。"
+    },
+    {
+      "id": "p019:4",
+      "paragraph": 19,
+      "type": "错译",
+      "before": "不过，这个我到底还是促成了一些进展。",
+      "after": "不过，我们的爱情到底还是有了一些进展。",
+      "source": "Il en faisait pourtant quelques-uns.",
+      "reason": "en／quelques-uns承接progrès，Il承接notre amour，说爱情仍取得一些进展；现译误把这个我定为促成进展的主语。",
+      "review": "lui修正爱情、Il回指爱情均有语法与上下文支持；补回indépendante，hygiène依病症语境为保健，另两项中文搭配调整清楚。"
+    },
+    {
+      "id": "p019:5",
+      "paragraph": 19,
+      "type": "错译",
+      "before": "出于卫生，他吃得很多",
+      "after": "出于保健的考虑，他吃得很多",
+      "source": "par hygiène, il en consommait beaucoup",
+      "reason": "hygiène在此指维护身体健康的考虑，并非食品清洁或卫生状况；新译也补足现代中文的搭配。",
+      "review": "lui修正爱情、Il回指爱情均有语法与上下文支持；补回indépendante，hygiène依病症语境为保健，另两项中文搭配调整清楚。"
+    },
+    {
+      "id": "p020:1",
+      "paragraph": 20,
+      "type": "语句不通顺",
+      "before": "如今，那几行字被邮戳与投递员的铅笔字覆上了；",
+      "after": "如今，那几行字上盖着一个个圆形邮戳，又添上了投递员用铅笔写的字；",
+      "source": "sous les cercles imprimés qu'y avait apposés la poste, sous les inscriptions qu'y avait ajoutées au crayon un des facteurs",
+      "reason": "“那几行字被……覆上了”搭配生硬，改成“字上盖着……又添上……”明确两类邮政标记附着于原笔迹的关系；圆形对应cercles，未增添新物件。",
+      "review": "sous les cercles imprimés指圆形邮戳，补形状同时改正被覆上的搭配，保留印记与外界印证关系。"
+    },
+    {
+      "id": "p021:1",
+      "paragraph": 21,
+      "type": "错译",
+      "before": "然后用我的小名收了尾。",
+      "after": "然后用我的名字收了尾。",
+      "source": "elle la termina par mon petit nom",
+      "reason": "petit nom在本段与nom de baptême相应，指个人名字，与姓氏和泛称vous相对；中文“小名”通常指乳名，容易另生未经原文交代的称呼。",
+      "review": "petit nom与前文nom de baptême对应，不是另一个乳名；恢复与其他伙伴或父母共有的标志这一平行关系；亲密的自觉等译法通顺。"
+    },
+    {
+      "id": "p021:note1",
+      "paragraph": 21,
+      "type": "注释同步修正",
+      "before": "指小名被女孩亲口念出时的心理感受",
+      "after": "指名字被女孩亲口念出时的心理感受",
+      "source": "mon petit nom；votre nom de baptême",
+      "reason": "与本段正文petit nom由小名改名字的决定同步，消除注释中残留的乳名暗示。"
+    },
+    {
+      "id": "p021:2",
+      "paragraph": 21,
+      "type": "错译",
+      "before": "剥去一切社会身份的外壳；那些身份标志也同样适用于她的其他玩伴；至于我的姓氏，则还使我仍附属于家族。",
+      "after": "不再带有任何社会身份的标志：这些标志或是她其他玩伴也有的，或是在她称呼我的姓氏时，我与父母共有的。",
+      "source": "les modalités sociales qui appartenaient aussi, soit à ses autres camarades, soit, quand elle disait mon nom de famille, à mes parents",
+      "reason": "appartenaient aussi表示身份/称谓标志也属于他人；后一类明确指称姓时与父母共有的标志，不是自己附属于家族。修订恢复两类共有标志的平行结构。",
+      "review": "petit nom与前文nom de baptême对应，不是另一个乳名；恢复与其他伙伴或父母共有的标志这一平行关系；亲密的自觉等译法通顺。"
+    },
+    {
+      "id": "p021:3",
+      "paragraph": 21,
+      "type": "语句不通顺",
+      "before": "而且并不掩饰自己对此的意识、快乐乃至感激，还带着一丝微笑。",
+      "after": "还伴着一丝微笑，流露出对这份亲密的自觉、欣喜乃至感激。",
+      "source": "non sans témoigner la conscience, le plaisir et jusque la gratitude qu’il en avait, en se faisant accompagner d’un sourire",
+      "reason": "“对此的意识”是抽象名词直搬且指代含混；明确为对新亲密的自觉，并将微笑和流露感情连起来，保留原文拟人及感激的递进。",
+      "review": "petit nom与前文nom de baptême对应，不是另一个乳名；恢复与其他伙伴或父母共有的标志这一平行关系；亲密的自觉等译法通顺。"
+    },
+    {
+      "id": "p022:1",
+      "paragraph": 22,
+      "type": "错译",
+      "before": "把昨天的一切化为乌有",
+      "after": "把过去的一切都看作无足轻重",
+      "source": "tenir le passé pour rien",
+      "reason": "le passé涵盖已经发生的过去，不限于昨天；tenir pour rien说的是主观上不予看重，不是把往事消灭。修订恢复时间范围及评价关系。",
+      "review": "tenir pour rien是不予看重，le passé不限于昨日；否定结构移到把之前并明确眼前所得不能自足的评价，中文衔接顺畅。"
+    },
+    {
+      "id": "p022:2",
+      "paragraph": 22,
+      "type": "语句不通顺",
+      "before": "迫使我把她给过我的那些小小的优待不看作优待本身，不认为它们已经足够",
+      "after": "迫使我不把她给过我的那些小小的优待当作本身就足以令人满足的东西",
+      "source": "à considérer les petits avantages qu’elle m’avait donnés non pas en eux-mêmes et comme s’ils se suffisaient",
+      "reason": "“把……不看作优待本身”否定位置生硬，且“优待看作优待本身”近于循环表述。改为“不把……当作本身就足以令人满足的东西”，保留不以眼前所得为满足的意思，并与后接“而看作……台阶”顺畅衔接。",
+      "review": "tenir pour rien是不予看重，le passé不限于昨日；否定结构移到把之前并明确眼前所得不能自足的评价，中文衔接顺畅。"
+    },
+    {
+      "id": "p023:1",
+      "paragraph": 23,
+      "type": "错译",
+      "before": "阳台在阳光中仿佛散开了轮廓，朦朦胧胧，像一朵朵金色的云浮在屋前。",
+      "after": "阳台仿佛被阳光从墙上卸了下来，朦朦胧胧，像一朵朵金色的云浮在屋前。",
+      "source": "les balcons, descellés par le soleil et vaporeux, flottaient devant les maisons comme des nuages d'or",
+      "reason": "descellés说阳台仿佛被解除建筑上的固定，与后文漂浮相接；现译仅写轮廓散开，遗漏脱离墙面的具体意象。修订以仿佛限定，保留其视觉幻象性质。",
+      "review": "恢复desceller解除固定和举童向太阳赐福的意象，亲切的动机句式改顺，corsage在佩花语境译衣襟更免内衣歧义。"
+    },
+    {
+      "id": "p023:2",
+      "paragraph": 23,
+      "type": "错译",
+      "before": "雕像抱着孩子，仿佛正将孩子举向外面，满身是阳光的洗礼。",
+      "after": "雕像仿佛正举起怀里那浑身流淌着光芒的孩子，让他接受太阳的祝福。",
+      "source": "la statue qui semblait tendre l'enfant qu'elle portait et qui ruisselait de rayons à la bénédiction du soleil",
+      "reason": "tendre l'enfant à la bénédiction du soleil说明伸举孩子所朝向的太阳赐福；现译改成“向外面”，又将祝福泛化为洗礼，未保留姿态的寓意。修订同时保留怀抱、举起、流淌的光与太阳赐福。",
+      "review": "恢复desceller解除固定和举童向太阳赐福的意象，亲切的动机句式改顺，corsage在佩花语境译衣襟更免内衣歧义。"
+    },
+    {
+      "id": "p023:3",
+      "paragraph": 23,
+      "type": "语句不通顺",
+      "before": "为了这束花，她出于对送花人的亲切，要替它寻一个最体面的位置。",
+      "after": "为了向送花人表示好意，她要替这束花寻一个最体面的位置。",
+      "source": "pour qui elle cherchait, par amabilité pour le donateur, la place la plus flatteuse possible",
+      "reason": "“出于对某人的亲切”不合通常搭配，且两个目的成分叠置使句子拖沓。用“向送花人表示好意”表达amabilité的动机，花束仍承接前面的假想。",
+      "review": "恢复desceller解除固定和举童向太阳赐福的意象，亲切的动机句式改顺，corsage在佩花语境译衣襟更免内衣歧义。"
+    },
+    {
+      "id": "p023:4",
+      "paragraph": 23,
+      "type": "不符合现代中文习惯",
+      "before": "一个女人指着自己的胸衣对年轻人说",
+      "after": "一个女人指着自己的衣襟对年轻人说",
+      "source": "une femme, en indiquant son corsage à un jeune homme",
+      "reason": "此处展示的是胸前佩花的位置，“胸衣”在现代中文容易被理解为内衣；“衣襟”能自然呈现胸前衣服上的玫瑰，同时保留与老太太展示手腕椅票的对照。",
+      "review": "恢复desceller解除固定和举童向太阳赐福的意象，亲切的动机句式改顺，corsage在佩花语境译衣襟更免内衣歧义。"
+    },
+    {
+      "id": "p025:1",
+      "paragraph": 25,
+      "type": "语句不通顺",
+      "before": "如今我与“斯万”这个名字联系起来的种种观念",
+      "after": "如今在我心里与“斯万”这个名字相联系的种种观念",
+      "source": "les idées sur lesquelles j'embranchais maintenant son nom",
+      "reason": "现有“我与……名字联系起来的观念”主干拗口，易使“我”与名字成为联系双方；改为在我心里同名字相联系的观念，明确心理联想的关系。",
+      "review": "修顺联想对象的句式，恢复次要横向线的图像，花瓶动作与啄食主体区分清楚；épithète与后文名字的比喻应有层次。"
+    },
+    {
+      "id": "p025:2",
+      "paragraph": 25,
+      "type": "错译",
+      "before": "而我仍以一道斜斜伸出的、勉强的联想",
+      "after": "不过，我仍人为地拉出一条次要的横向联想线",
+      "source": "par une ligne artificielle, secondaire et transversale",
+      "reason": "原文以网络中的一条人为、次要、横向的线连接两个斯万形象；现译“勉强”偏成困难或不情愿，又省去次要性，修订恢复图像和主次关系。",
+      "review": "修顺联想对象的句式，恢复次要横向线的图像，花瓶动作与啄食主体区分清楚；épithète与后文名字的比喻应有层次。"
+    },
+    {
+      "id": "p025:note1",
+      "paragraph": 25,
+      "type": "注释同步修正",
+      "before": "这是正统派拥戴的王位觊觎者称号",
+      "after": "这是保王派拥戴的王位觊觎者称号",
+      "source": "Philippe VII；前段comte de Paris、les Orléans",
+      "reason": "核对Larousse的奥尔良家族说明，Philippe VII是巴黎伯爵菲利普的拥护者所用王号；其继承涉及保王阵营合流，用统称保王派避免把人物狭义限定为正统派而与奥尔良背景相混。",
+      "sources": [
+        "https://www.larousse.fr/archives/grande-encyclopedie/page/10001"
+      ]
+    },
+    {
+      "id": "p025:3",
+      "paragraph": 25,
+      "type": "语句不通顺",
+      "before": "有的落在那只大石花瓶上，喙没入瓶中不见了，仿佛这尊花瓶便摆出了奉献的姿势，并给它指定了这样一个用途——丰盛地献上它似乎正在里面啄食的果子或谷粒",
+      "after": "有的落在那只大石花瓶上，喙没入瓶中不见了；这一来，花瓶仿佛摆出了奉献的姿势，也有了这样的用途——丰盛地献上鸽子似乎正在里面啄食的果子或谷粒",
+      "source": "à qui son bec en y disparaissant faisait faire le geste et assignait la destination d'offrir en abondance les fruits ou les graines qu'il avait l'air d'y picorer",
+      "reason": "探入的喙让花瓶仿佛摆出奉献姿态、获得用途；现译“花瓶……并给它指定”使施事与受事混乱，“它……啄食”也易误指花瓶。用“这一来”承接动作，并将啄食主体明写为鸽子。",
+      "review": "修顺联想对象的句式，恢复次要横向线的图像，花瓶动作与啄食主体区分清楚；épithète与后文名字的比喻应有层次。"
+    },
+    {
+      "id": "p025:4",
+      "paragraph": 25,
+      "type": "错译",
+      "before": "获得新的专名",
+      "after": "获得一个特有的称号",
+      "source": "lui vaut une épithète particulière",
+      "reason": "épithète是属性所赋予的修饰性称号；原文随后另以凡人的不同名字作比，现译直接写专名，抹平了称号与名字这一层次。",
+      "review": "修顺联想对象的句式，恢复次要横向线的图像，花瓶动作与啄食主体区分清楚；épithète与后文名字的比喻应有层次。"
+    },
+    {
+      "id": "p026:1",
+      "paragraph": 26,
+      "type": "错译",
+      "before": "我没法向希尔贝特掩饰自己的失望",
+      "after": "我没有心力在希尔贝特面前掩饰自己的失望",
+      "source": "je n’eus pas le courage de cacher ma déception à Gilberte",
+      "reason": "n’avoir pas le courage de 在此强调心力不足，无法勉力维持掩饰；“没法”只表达一般的不能，淡化了叙述者内在的心理状态。“在……面前掩饰”也比“向……掩饰”更合中文搭配。",
+      "review": "courage在受挫语境为勉力维持掩饰的心力，修订补回内在耗竭且在面前掩饰搭配自然。"
+    },
+    {
+      "id": "p029:1",
+      "paragraph": 29,
+      "type": "错译",
+      "before": "虽然这样就看不到",
+      "after": "虽然这样就没法参加",
+      "source": "quoique cela me fera manquer un arbre de Noël",
+      "reason": "manquer此处指因外出而错过、不能出席圣诞树聚会；“看不到”把活动当成观看对象，改为“没法参加”明确出席关系，并保留原有注释标记及内容。",
+      "review": "manquer un arbre de Noël为错过活动，改为无法参加；保留开头故意先允诺又说不来的口吻。"
+    },
+    {
+      "id": "p030:1",
+      "paragraph": 30,
+      "type": "错译",
+      "before": "像散场后尚未来得及摘下的节日彩旗",
+      "after": "仿佛在一场节庆结束后的傍晚",
+      "source": "comme au soir d’une fête qui est finie",
+      "reason": "原文比较的是节庆已结束后的傍晚景象；现译漏去“傍晚”，并将比较对象改为彩旗，增入“尚未来得及摘下”的具体解释。替换后保留原句的场景比较及时间意象。",
+      "review": "恢复soir傍晚及节庆结束后的场景比较，去掉具体彩旗未摘的无原文解释，身体沉重一句保留。"
+    },
+    {
+      "id": "p032:1",
+      "paragraph": 32,
+      "type": "错译",
+      "before": "好久不来香榭丽舍的欢喜",
+      "after": "往后好长时间都不来香榭丽舍的欢喜",
+      "source": "sa joie de ne pas venir de longtemps aux Champs-Élysées",
+      "reason": "ne pas venir de longtemps 指往后将有很长一段时间不来；补明未来指向，避免“好久不来”被理解成已经很久没来。",
+      "review": "恢复魔力与独特处境并列作用的主干，内在约束力和痛苦处境的归属正确；补未来指向及被迫支配两行为。主审将插入语改为逗号并以句号分层。"
+    },
+    {
+      "id": "p032:2",
+      "paragraph": 32,
+      "type": "错译",
+      "before": "然而，只要一想到她，我的心灵便会自行滋生出一股魔力；一种根深蒂固的心理习惯，仿佛心灵里的一道褶痕，使得她的冷淡尽管令我难受，却仍在我与她之间维系着一种独特的关系；就连她这次冷淡的表示，也开始被这股魔力染上几分小说般的浪漫色彩；",
+      "after": "然而，我的心灵只要想到她，单凭自身的运转便会充满魔力；而一种心理习惯所形成的心灵褶痕，又以其内在的约束力，使我相对于希尔贝特不可避免地处在一个特殊、独一无二的位置上，哪怕这个位置令人痛苦。这股魔力和这种处境，已开始使这一次冷淡的表示也带上几分小说般的浪漫色彩；",
+      "source": "le charme dont, par son simple fonctionnement, se remplissait mon esprit dès qu’il songeait à elle, la position particulière, unique — fût elle affligeante — où me plaçait inévitablement, par rapport à Gilberte, la contrainte interne d’un pli mental, avaient commencé à ajouter, même à cette marque d’indifférence, quelque chose de romanesque",
+      "reason": "恢复“魔力”和“独特处境”共同给冷淡增添浪漫色彩的并列主干；将内在心理约束恢复为造成处境的力量，并将“哪怕令人痛苦”准确归还给该处境。原文并未说她的冷淡在二人之间维系实际关系。",
+      "review": "语义建议采纳；以逗号容纳让步语、句号分开下一并列判断，避免单侧破折号后紧接分号使层次不清。"
+    },
+    {
+      "id": "p032:3",
+      "paragraph": 32,
+      "type": "错译",
+      "before": "为什么她一直不得不把这件事瞒着我，为什么她要装出不见我也能幸福的样子，",
+      "after": "为什么她一直被迫把这份爱瞒着我，被迫装出不见我也能幸福的样子，",
+      "source": "la raison mystérieuse pour laquelle elle a été forcée de me le cacher jusqu’ici, de faire semblant de pouvoir être heureuse sans me voir",
+      "reason": "a été forcée 同时支配“隐瞒”和“假装”两个不定式；两个动作都被叙述者解释为不得已。“这份爱”明确 le 所回指的“一直爱我”这件事。",
+      "review": "恢复魔力与独特处境并列作用的主干，内在约束力和痛苦处境的归属正确；补未来指向及被迫支配两行为。主审将插入语改为逗号并以句号分层。"
+    },
+    {
+      "id": "p033:1",
+      "paragraph": 33,
+      "type": "错译",
+      "before": "忽然，我惊恐地停住了。",
+      "after": "忽然，我又会惊恐地停下来。",
+      "source": "Tous les soirs … Tout d’un coup je m’arrêtais effrayé.",
+      "reason": "未完成过去时延续每晚反复想象的情境；用“又会”避免将每每出现的惊恐转折误读成单次事件，保留“忽然”的突发意味。",
+      "review": "每晚反复的心理动作宜明确，可能实现的范围不能改成口头说出；末句按原文保留作品、心灵与爱情赠予的区分。"
+    },
+    {
+      "id": "p033:2",
+      "paragraph": 33,
+      "type": "错译",
+      "before": "因为我惟恐自己一旦把它们说出口，恰恰就把它们——那些最珍爱、最渴望的字句——弄得再也不可能真的从她口中说出来。",
+      "after": "因为我惟恐自己一旦把它们说出口，恰恰就把它们——那些最珍爱、最渴望的字句——排除在可能成为现实的范围之外。",
+      "source": "par peur, en les énonçant, d’exclure justement ceux-là -- les plus chers, les plus désirés -- du champ des réalisations possibles",
+      "reason": "原文说自己说出字句便使其失去实现的可能，并未说希尔贝特将以口头方式说出这些话；前文明确期待的是她写来的信。恢复抽象的可能性范围，同时删去无依据的永久性“再也”。",
+      "review": "每晚反复的心理动作宜明确，可能实现的范围不能改成口头说出；末句按原文保留作品、心灵与爱情赠予的区分。"
+    },
+    {
+      "id": "p033:3",
+      "paragraph": 33,
+      "type": "错译",
+      "before": "即便出于一种难以相信的巧合，她恰巧寄来了一封同我虚构的信字字相同的信，我会立即认出那不过是自己拟出的句子，我也不会觉得收到了什么并非来自我的东西，什么真实的、崭新的东西，一种真正来自我自身以外、不受我意志摆布、由爱情赐下的幸福。",
+      "after": "即便由于一种难以相信的巧合，希尔贝特从她那边寄来的恰好就是我虚构的这封信，由于我会从中认出那是自己的作品，也就不会觉得收到了什么并非来自我的东西，什么真实的、崭新的东西，一种存在于我的心灵之外、不受我意志摆布、真正由爱情赐下的幸福。",
+      "source": "Même si par une invraisemblable coïncidence, c’eût été justement la lettre que j’avais inventée que de son côté m’eût adressée Gilberte, y reconnaissant mon œuvre, je n’eusse pas eu l’impression de recevoir quelque chose qui ne vînt pas de moi, quelque chose de réel, de nouveau, un bonheur extérieur à mon esprit, indépendant de ma volonté, vraiment donné par l’amour.",
+      "reason": "以“由于……也就……”落实分词结构的因果作用，删除原文没有的“立即”和“那不过是”，还原mon œuvre的创作意味。用“心灵之外”准确对应mon esprit，并将“真正”归还给“由爱情赐下”，保留现实感、自主意志和爱情赠予的三层区分。",
+      "review": "每晚反复的心理动作宜明确，可能实现的范围不能改成口头说出；末句按原文保留作品、心灵与爱情赠予的区分。"
+    },
+    {
+      "id": "p034:1",
+      "paragraph": 34,
+      "type": "错译",
+      "before": "那一页谈的是古代神话的美",
+      "after": "那是贝戈特论古代神话之美的一页文字",
+      "source": "cette page de Bergotte sur la beauté des vieux mythes",
+      "reason": "补出同位结构明确给出的作者贝戈特，保持神话及拉辛取材关系。",
+      "review": "核对全段18单元，11项建议均有原文或中文句法依据；恢复女仆、活计、择地参照及意愿/讨好动机。第9项主审用让她看重自己，另同步修正直接隐喻和重复女工标记。"
+    },
+    {
+      "id": "p034:2",
+      "paragraph": 34,
+      "type": "错译",
+      "before": "我总把它和那颗玛瑙弹珠放在一起，带在身边。",
+      "after": "我总把它和那颗玛瑙弹珠一起留在身边。",
+      "source": "je gardais toujours auprès de moi",
+      "reason": "auprès de moi 只说保存于身旁，不必添加总随身携带的动作。",
+      "review": "核对全段18单元，11项建议均有原文或中文句法依据；恢复女仆、活计、择地参照及意愿/讨好动机。第9项主审用让她看重自己，另同步修正直接隐喻和重复女工标记。"
+    },
+    {
+      "id": "p034:3",
+      "paragraph": 34,
+      "type": "语句不通顺",
+      "before": "辨认到心上人身上",
+      "after": "从心上人身上辨认出来",
+      "source": "reconnaître dans l'être qu'il aime des qualités",
+      "reason": "“辨认到……身上”不合中文动宾搭配，应表达从所爱者身上认出所述品质。",
+      "review": "核对全段18单元，11项建议均有原文或中文句法依据；恢复女仆、活计、择地参照及意愿/讨好动机。第9项主审用让她看重自己，另同步修正直接隐喻和重复女工标记。"
+    },
+    {
+      "id": "p034:4",
+      "paragraph": 34,
+      "type": "错译",
+      "before": "我竟期待希尔贝特有朝一日甘愿走进我这过于熟悉、已被自己鄙弃的生活，成为它谦卑的助手，一个体贴、能帮我办事的女伴，夜里我工作时，帮我核对小册子的文字。",
+      "after": "希尔贝特有朝一日可能成为我这过于熟悉、已被自己鄙弃的生活中一个谦卑的女仆，一个省心又舒心的工作伙伴，夜里我工作时，帮我核对小册子的文字。",
+      "source": "Gilberte pourrait devenir un jour l'humble servante, la commode et confortable collaboratrice",
+      "reason": "原文幻想她成为为自己的生活服务的女仆与便利舒适的合作者；“助手”弱化 servante，“体贴”替换了便利舒适，“甘愿”则凭空增加她的意愿。",
+      "review": "核对全段18单元，11项建议均有原文或中文句法依据；恢复女仆、活计、择地参照及意愿/讨好动机。第9项主审用让她看重自己，另同步修正直接隐喻和重复女工标记。"
+    },
+    {
+      "id": "p034:note1",
+      "paragraph": 34,
+      "type": "修辞及注释同步修正",
+      "before": "我吻了吻那颗玛瑙弹珠，在我看来，⊂它仿佛代表了希尔贝特心里最美好、最忠诚、毫不轻浮的那一面⊃≼🧵这只是我的投射，后文矿物的规律即将反驳它≽；",
+      "after": "我吻了吻那颗玛瑙弹珠，⊂它就是女友心中最美好的那一部分，不轻浮而忠贞⊃≼🧵弹珠被写成女友之心的一部分；后文转而指出物之美独立于爱情，不能凭它认定对方爱自己。≽；",
+      "source": "la bille d’agate qui était la meilleure part du cœur de mon amie, la part qui n’était pas frivole, mais fidèle",
+      "reason": "恢复原文直接隐喻，避免改成仿佛代表的象征解释；后文否定的是以物之美证明被爱，注释不宜声称矿物规律反驳隐喻本身。"
+    },
+    {
+      "id": "p034:5",
+      "paragraph": 34,
+      "type": "错译",
+      "before": "才华或矿物的自然法则便决定了它们的质地",
+      "after": "才华或矿物的自然法则便决定了构成它们的要素",
+      "source": "leurs éléments avaient été fixés par le talent ou par les lois minéralogiques",
+      "reason": "éléments 同时指文学篇章与矿石的构成要素，“质地”把文学也说成了物质材料。",
+      "review": "核对全段18单元，11项建议均有原文或中文句法依据；恢复女仆、活计、择地参照及意愿/讨好动机。第9项主审用让她看重自己，另同步修正直接隐喻和重复女工标记。"
+    },
+    {
+      "id": "p034:6",
+      "paragraph": 34,
+      "type": "语句不通顺",
+      "before": "书里也好，石头里也好，没有什么会因希尔贝特不曾爱我而有丝毫不同；因此其中没有任何东西允许我读出一条幸福的讯息。",
+      "after": "即便希尔贝特不曾爱我，书里也好，石头里也好，都不会有丝毫不同；因此我也没有任何根据从中读出一条幸福的讯息。",
+      "source": "rien dans le livre ni dans la pierre n'eût été autre si Gilberte ne m'avait pas aimé, et que rien par conséquent ne m'autorisait à lire en eux un message de bonheur",
+      "reason": "明确反事实假设及其推论；autoriser 此处是提供判断根据，不是书或石头准许我做什么。",
+      "review": "核对全段18单元，11项建议均有原文或中文句法依据；恢复女仆、活计、择地参照及意愿/讨好动机。第9项主审用让她看重自己，另同步修正直接隐喻和重复女工标记。"
+    },
+    {
+      "id": "p034:7",
+      "paragraph": 34,
+      "type": "错译",
+      "before": "每天晚上都把白天那份未竟的功夫推倒重来",
+      "after": "每天晚上都把白天做坏了的活计拆毁、作废",
+      "source": "annulait, défaisait chaque soir le travail mal fait de la journée",
+      "reason": "mal fait 是做得不好，不是尚未完成；annuler/défaire 只说撤销、拆毁，不含重新开始。恢复与女工、线头相连的劳动比喻。",
+      "review": "核对全段18单元，11项建议均有原文或中文句法依据；恢复女仆、活计、择地参照及意愿/讨好动机。第9项主审用让她看重自己，另同步修正直接隐喻和重复女工标记。"
+    },
+    {
+      "id": "p034:note2",
+      "paragraph": 34,
+      "type": "注释定位词同步修正",
+      "before": "一位陌生的女工⊂无形的女工⊃",
+      "after": "一位⊂陌生的女工⊃",
+      "source": "une ouvrière inconnue",
+      "reason": "消除两个连续女工称谓，标记落在原文inconnue对应的陌生的女工上；保留已有注释内容。"
+    },
+    {
+      "id": "p034:8",
+      "paragraph": 34,
+      "type": "错译",
+      "before": "或为新年旅行做准备",
+      "after": "或准备在新年假期外出",
+      "source": "se préparer à une absence pour les vacances du jour de l'an",
+      "reason": "原文说明为新年假期离开此地作准备，未进一步指定旅行活动。",
+      "review": "核对全段18单元，11项建议均有原文或中文句法依据；恢复女仆、活计、择地参照及意愿/讨好动机。第9项主审用让她看重自己，另同步修正直接隐喻和重复女工标记。"
+    },
+    {
+      "id": "p034:9",
+      "paragraph": 34,
+      "type": "不符合现代中文习惯",
+      "before": "要在她眼中显得有价值",
+      "after": "要让她看重自己",
+      "source": "me faire valoir à ses yeux",
+      "reason": "faire valoir 表示设法使对方看重自己，“显得有价值”用语生硬且容易把人的评价写成物品估值。",
+      "review": "faire valoir核心为使自己受到看重；此译比在她眼里抬高自己更自然，亦避免单指自我吹嘘。"
+    },
+    {
+      "id": "p034:10",
+      "paragraph": 34,
+      "type": "错译",
+      "before": "而丝毫不考虑我家会不会也让我去那里度假",
+      "after": "而丝毫不考虑那是不是我家打算送我去的地方",
+      "source": "et nullement que ce fût celui où ma famille avait l'intention de m'envoyer",
+      "reason": "原文以我家已有的目的地意向为参照，指出她择地时不顾是否与之相同；现译变成我家将来是否准许我也去她所选之地，改变了时间和参照方向。",
+      "review": "核对全段18单元，11项建议均有原文或中文句法依据；恢复女仆、活计、择地参照及意愿/讨好动机。第9项主审用让她看重自己，另同步修正直接隐喻和重复女工标记。"
+    },
+    {
+      "id": "p034:11",
+      "paragraph": 34,
+      "type": "错译",
+      "before": "有时她向我保证，她爱我不如爱她的一个朋友，也不如前一天爱我，因为我的疏忽害她输了那一局；我便向她道歉，央求她告诉我，怎样才能让她重新更喜欢我，甚至比喜欢其他人还多。我要她对我说，这已经做到了；我为此恳求她，仿佛她能够随意改变对我的感情：仿佛只凭她愿不愿意、凭我哀求得够不够、凭我表现如何，她便能一句话改变心意。",
+      "after": "有时她肯定地对我说，她爱我不如爱她的一个朋友，也不如前一天爱我，因为我的疏忽害她输了那一局；我便向她道歉，央求她告诉我，怎样才能让她重新像从前那样爱我，进而爱我胜过其他人。我要她对我说，她已经又这样爱我了；我为此恳求她，仿佛她能够依她自己或我的意愿，按照我表现的好坏，为了讨我欢心，单凭她说出的几句话便改变对我的感情。",
+      "source": "pour qu'elle recommençât à m'aimer autant, pour qu'elle m'aimât plus que les autres ; je voulais qu'elle me dît que c'était déjà fait, je l'en suppliais comme si elle avait pu modifier son affection pour moi à son gré, au mien, pour me faire plaisir, rien que par les mots qu'elle dirait, selon ma bonne ou ma mauvaise conduite",
+      "reason": "autant 须说明恢复先前感情程度；à son gré, au mien 是依她或我的意愿，并无“我哀求得够不够”；补回 pour me faire plaisir 的讨好动机，同时保留凭言语及按表现改变感情的两项限定。assurait 在此是肯定地说，并非作出保证。",
+      "review": "核对全段18单元，11项建议均有原文或中文句法依据；恢复女仆、活计、择地参照及意愿/讨好动机。第9项主审用让她看重自己，另同步修正直接隐喻和重复女工标记。"
+    },
+    {
+      "id": "p035:1",
+      "paragraph": 35,
+      "type": "错译",
+      "before": "然而她接连的行为自有其明白无误的规律，我们的愿望对它无能为力；若想知道她明天会怎么做，我们该依据这清楚的行为规律，而不是依据自己的心愿。",
+      "after": "然而这一连串的行为所显示出的意思却是清楚的，我们的愿望无力改变它；若想知道这个人明天会怎么做，我们该以此为依据，而不是以自己的心愿为依据。",
+      "source": "il y a dans leur suite une clarté contre quoi notre désir ne peut rien et à laquelle, plutôt qu’à lui, nous devons demander quelles seront ses actions de demain",
+      "reason": "clarté 是一连串行为使其意义清楚可辨，原文并未把这种显明的意义称作“规律”，也未使用“无误”来担保判断的绝对确定性。两处一并调整，保持“行为显露的意思”与“主观愿望”之间的对照，同时以“这个人”承接泛指的 une personne。",
+      "review": "clarté是行为呈现出清楚意义，改文减少规律/无误的实化和绝对化，保留以行为而非心愿判断未来的论证。"
+    },
+    {
+      "id": "p036:1",
+      "paragraph": 36,
+      "type": "错译",
+      "before": "她对我的态度由来已久，早已形成，似乎不可能改变；而这种态度，就是冷淡",
+      "after": "希尔贝特对我的感情由来已久，已经不可能改变；而这种感情，就是冷淡",
+      "source": "que le sentiment de Gilberte pour moi, trop ancien déjà pour pouvoir changer, c’était l’indifférence",
+      "reason": "sentiment是对我的感情；trop ancien ... pour pouvoir changer明确断言已久而无法改变，不能加入“似乎”削弱爱情被说服后接受的判断。",
+      "review": "感情不可能改变是此刻爱情接受的断言；旧友情无计可施不等于已破裂，次日/节日条件及时间拟人、为新友谊奠基均应恢复。"
+    },
+    {
+      "id": "p036:2",
+      "paragraph": 36,
+      "type": "错译",
+      "before": "这段友谊确实无从挽回；它不会变了。",
+      "after": "对这段友谊，再也没什么办法可想了；它不会变了。",
+      "source": "il n’y a plus rien à faire de cette amitié-là, elle ne changera pas",
+      "reason": "原文说对这段友谊再无办法可想，未说友谊已经破裂而须挽回；修订避免把改变单向感情误读为修复失去的关系。",
+      "review": "感情不可能改变是此刻爱情接受的断言；旧友情无计可施不等于已破裂，次日/节日条件及时间拟人、为新友谊奠基均应恢复。"
+    },
+    {
+      "id": "p036:3",
+      "paragraph": 36,
+      "type": "错译",
+      "before": "于是从第二天起，或等到不久后某个节日、生日，也许等到新年——这些与众不同的日子，仿佛容许时间重新起步，甩掉过去的遗产，拒绝继承往昔留下的忧伤——我便会请求希尔贝特，结束过去的友情，重新开始一种新的友情。",
+      "after": "于是，第二天（或者，如果恰有一个节日将近，就等到那个日子——某个纪念日，也许是新年，那样一个不同于平日的日子，在这一天，时间重新起步，抛弃过去的遗产，拒绝继承过去的忧伤），我便会请求希尔贝特放弃我们旧有的友情，为一段新的友情奠定基础。",
+      "source": "Alors dès le lendemain (ou attendant une fête s’il y en avait une prochaine, un anniversaire, le nouvel an peut-être, un de ces jours qui ne sont pas pareils aux autres, où le temps recommence sur de nouveaux frais en rejetant l’héritage du passé, en n’acceptant pas le legs de ses tristesses) je demandais à Gilberte de renoncer à notre amitié ancienne et de jeter les bases d’une nouvelle amitié.",
+      "reason": "恢复次日即行动的时间关系和“若有节日将近”的条件；anniversaire保留纪念日的开放含义。去掉无依据的“仿佛容许”，让时间直接作为重新开始、拒绝继承忧伤的主体，并明确译出放弃旧友情、为新友情奠基的两步请求。",
+      "review": "感情不可能改变是此刻爱情接受的断言；旧友情无计可施不等于已破裂，次日/节日条件及时间拟人、为新友谊奠基均应恢复。"
+    },
+    {
+      "id": "p037:1",
+      "paragraph": 37,
+      "type": "不符合现代中文习惯",
+      "before": "只因为地图上标得出斯万夫妇所住的街道",
+      "after": "只因为能在地图上辨出斯万夫妇所住的那条街",
+      "source": "parce qu’on pouvait y distinguer la rue où habitaient M. et Mme Swann",
+      "reason": "distinguer 指从地图中辨认出街道；“地图上标得出”搭配不自然，改以隐含的读图者为辨认主体，更准确也更顺畅。",
+      "review": "distinguer指辨认出街道，par plaisir为说街名带来的快乐，并非直接写爱慕；主次动机与骑士忠诚的限定可恢复。"
+    },
+    {
+      "id": "p037:2",
+      "paragraph": 37,
+      "type": "错译",
+      "before": "无论谈起什么，我都出于爱慕、也出于骑士般的忠诚，设法提到那条街的名字",
+      "after": "为让自己高兴，也出于一种骑士般的忠诚，无论谈起什么，我总要提到那条街的名字",
+      "source": "Et par plaisir, par une sorte de fidélité chevaleresque aussi, à propos de n’importe quoi, je disais le nom de cette rue",
+      "reason": "par plaisir 是为了说出街名的乐趣，不等于“出于爱慕”；恢复 une sorte de 的“一种”，并以“总要提到”表达习惯性重复，避免“设法”增加原文没有明说的刻意筹划。",
+      "review": "distinguer指辨认出街道，par plaisir为说街名带来的快乐，并非直接写爱慕；主次动机与骑士忠诚的限定可恢复。"
+    },
+    {
+      "id": "p039:1",
+      "paragraph": 39,
+      "type": "语句不通顺",
+      "before": "我需要有人替我奏响这段音乐，光在心里默念那听不到的音色已经不够。",
+      "after": "我需要有人替我奏响这段音乐，仅仅默读还不能令我满足。",
+      "source": "de me faire jouer cette musique dont la lecture muette ne me suffisait pas",
+      "reason": "lecture muette 是默读，原译让音色成为默念的对象，搭配不通；改后恢复默读与实际奏响的对应。",
+      "review": "结合前文名字如新、无法习惯的语境，en même temps que d’être familier共用cesser结构，现译仍亲密方向相反；另恢复实际奏响/默读及期待好结果。按子agent提示同步某些及姓名注释位置。"
+    },
+    {
+      "id": "p039:2",
+      "paragraph": 39,
+      "type": "错译",
+      "before": "况且，斯万这个名字我早已熟知，如今却又变得陌生，",
+      "after": "况且，斯万这个名字我早已熟知，如今对我却像是一个新名字，",
+      "source": "Ce nom de Swann ... que je connaissais depuis si longtemps, était maintenant pour moi ... un nom nouveau.",
+      "reason": "补回早已熟知的名字如今如同新名字的明确判断，保留陌生化的修辞并与随后拆字母的惊异相衔接。",
+      "review": "结合前文名字如新、无法习惯的语境，en même temps que d’être familier共用cesser结构，现译仍亲密方向相反；另恢复实际奏响/默读及期待好结果。按子agent提示同步某些及姓名注释位置。"
+    },
+    {
+      "id": "p039:note1",
+      "paragraph": 39,
+      "type": "注释定位正文同步修正",
+      "before": "⊂仿佛失语症患者忽然认不得一个最常用的词⊃",
+      "after": "⊂仿佛某些失语症患者面对最常用的词也会觉得陌生⊃",
+      "source": "ainsi qu’il arrive à certains aphasiques à l’égard des mots les plus usuels",
+      "reason": "恢复certains限定，避免将比喻泛化为全部失语症患者，也不将名字如新的体验额外坐实为突然认不得；保留原注内容。"
+    },
+    {
+      "id": "p039:3",
+      "paragraph": 39,
+      "type": "错译",
+      "before": "它仍叫我感到亲密，却不再是一个纯真的名字。",
+      "after": "它不再让我觉得熟悉，同时也不再显得清白无辜。",
+      "source": "Et en même temps que d’être familier, il avait cessé de me paraître innocent.",
+      "reason": "en même temps que d’être familier 省略共用的 cesser，表示同时不再熟悉、不再显得无辜；原译“仍……却”倒转了前半句，且把熟悉误作亲密。",
+      "review": "结合前文名字如新、无法习惯的语境，en même temps que d’être familier共用cesser结构，现译仍亲密方向相反；另恢复实际奏响/默读及期待好结果。按子agent提示同步某些及姓名注释位置。"
+    },
+    {
+      "id": "p039:4",
+      "paragraph": 39,
+      "type": "错译",
+      "before": "或许能从中榨出一点儿快乐。",
+      "after": "或许能从中带来某种可喜的结果。",
+      "source": "j’en ferais peut-être sortir quelque chose d’heureux",
+      "reason": "此处期待的是反复谈论能促成一件好事，下句以希尔贝特永久来家中居住为例；不能缩成谈话本身带来的主观快乐。",
+      "review": "结合前文名字如新、无法习惯的语境，en même temps que d’être familier共用cesser结构，现译仍亲密方向相反；另恢复实际奏响/默读及期待好结果。按子agent提示同步某些及姓名注释位置。"
+    },
+    {
+      "id": "p039:note2",
+      "paragraph": 39,
+      "type": "注释位置及措辞同步修正",
+      "before": "我又夸起那位读*《辩论报》*的老太太⊂布拉坦夫人⊃≼🧵即前文在香榭丽舍读报的老妇人，此处首次出现全名；后文母亲将揭穿她的真实身份。≽（我曾向父母暗示，她是一位大使夫人，也许还是一位殿下），继续颂扬她的美貌、她的气派、她的高贵，直到有一天，凭希尔贝特曾提到的姓氏，我说，她大概叫布拉坦夫人。",
+      "after": "我又夸起那位读*《辩论报》*的老太太（我曾向父母暗示，她是一位大使夫人，也许还是一位殿下），继续颂扬她的美貌、她的气派、她的高贵，直到有一天，凭希尔贝特曾提到的姓氏，我说，她大概叫⊂布拉坦夫人⊃≼🧵即前文在香榭丽舍读报的老妇人，此处首次出现姓氏；后文母亲将揭穿她的真实身份。≽。",
+      "source": "la vieille dame qui lisait les Débats ... jusqu’au jour où ... elle devait s’appeler Mme Blatin",
+      "reason": "不在本句开头提前插入尚未交代的姓氏，将同一注释移到句末原文实际出现Mme Blatin之处；法文未给教名，注中全名相应改姓氏。"
+    },
+    {
+      "id": "p040:1",
+      "paragraph": 40,
+      "type": "错译",
+      "before": "你不记得了？你小时候去上体操课，那次体操课上，她明明不认识我，却硬要借着夸你“漂亮得不像个男孩”来跟我搭话；我为了躲开她，费了多少周折。",
+      "after": "你不记得你小时候上体操课时，我为了躲开她，费了多少周折吗？她明明不认识我，却硬要借着夸你“漂亮得不像个男孩”来跟我搭话。",
+      "source": "Tu ne te rappelles pas, quand tu étais enfant, les manèges que je faisais pour l'éviter à la leçon de gymnastique où, sans me connaître, elle voulait venir me parler sous prétexte de me dire que tu étais « trop beau pour un garçon ».",
+      "reason": "原文回忆母亲在孩子上体操课时躲避此人的周旋，没有指定“那次”；去掉新增的单次限制，并让反问完整落在母亲躲避她的举动上。",
+      "review": "去掉未明说的单次/攀附上流限定，恢复folle和Car的推断因果；fort commun主审保留很普通的程度，注释同步说明母亲对斯万夫人的偏见。"
+    },
+    {
+      "id": "p040:2",
+      "paragraph": 40,
+      "type": "错译",
+      "before": "她一门心思想攀附上流社会的人；若她当真认识斯万夫人，那她真是个怪人——我一向就这么看她。",
+      "after": "她一门心思想多结识些人；若她当真认识斯万夫人，那她准是有点疯疯癫癫的——我一向就这么想。",
+      "source": "Elle a toujours eu la rage de connaître du monde et il faut bien qu'elle soit une espèce de folle comme j'ai toujours pensé, si elle connaît vraiment Mme Swann.",
+      "reason": "connaître du monde 未限定上流社会，也未直接断言攀附；une espèce de folle 指有点疯，不能只弱化为古怪。保留条件关系，并用“准是”落实 il faut bien 的推断口气。",
+      "review": "去掉未明说的单次/攀附上流限定，恢复folle和Car的推断因果；fort commun主审保留很普通的程度，注释同步说明母亲对斯万夫人的偏见。"
+    },
+    {
+      "id": "p040:3",
+      "paragraph": 40,
+      "type": "错译",
+      "before": "虽说她出身卑微，",
+      "after": "因为她虽出身很普通，",
+      "source": "Car si elle était d'un milieu fort commun, au moins il n'y a jamais rien eu que je sache à dire sur elle.",
+      "reason": "补出 Car 的因果联系，使无品行污点成为上一句的理由；milieu fort commun 指平常社会环境，“卑微”加重了原文评价。后续带注释的品行判断原样保留。",
+      "review": "恢复Car因果，同时以很普通保留fort commun的程度，避免寻常过度淡化。"
+    },
+    {
+      "id": "p040:note1",
+      "paragraph": 40,
+      "type": "注释同步修正",
+      "before": "母亲嘲笑的只是她攀附权贵的虚荣，并非否认她品行端正",
+      "after": "在母亲看来，她虽出身普通，却一向没有品行方面的闲话；正因此，她竟与斯万夫人交往才显得不可思议，流露出母亲对斯万夫人的偏见。",
+      "source": "il faut bien qu’elle soit une espèce de folle ... si elle connaît vraiment Mme Swann. Car si elle était d’un milieu fort commun, au moins il n’y a jamais rien eu que je sache à dire sur elle.",
+      "reason": "原注只归结为攀附权贵，遮蔽Car引出的品行/交游反差及对斯万夫人的偏见；依本段话语逻辑同步改正。"
+    },
+    {
+      "id": "p041:1",
+      "paragraph": 41,
+      "type": "错译",
+      "before": "我常来往的那些人也认识他，他们竟能在日常生活中偶然遇见他。",
+      "after": "我常来往的那些人也认识他，而在随便哪一天的偶然机缘里，竟也可能遇上他。",
+      "source": "que des personnes que je fréquentais le connussent aussi et que dans les hasards d’une journée quelconque on pût être amené à le rencontrer",
+      "reason": "原文两个并列从句分别使用 des personnes 和泛指 on；现译“他们”将后一种偶遇限于前述熟人。替换保留泛指及“随便哪一天”的偶然性。",
+      "review": "偶遇为泛指on；rien que无漫不经心之意，aride无困倦动作，买伞为实有过去经历，恢复直接超自然形象。"
+    },
+    {
+      "id": "p041:2",
+      "paragraph": 41,
+      "type": "错译",
+      "before": "她漫不经心地说了句：",
+      "after": "她只说了句：",
+      "source": "rien qu’en disant",
+      "reason": "rien que 表示仅仅凭这一句话产生效果，没有交代母亲说话时是否漫不经心。",
+      "review": "偶遇为泛指on；rien que无漫不经心之意，aride无困倦动作，买伞为实有过去经历，恢复直接超自然形象。"
+    },
+    {
+      "id": "p041:3",
+      "paragraph": 41,
+      "type": "错译",
+      "before": "就在原本让我昏昏欲睡的流水账里，",
+      "after": "就在她那原本令我感到十分枯燥的叙述中，",
+      "source": "au milieu de son récit, fort aride pour moi",
+      "reason": "aride 表示叙述在我听来枯燥，未说我困倦欲睡，也未将叙述定性为流水账；用对应的主观枯燥感承托花的比喻即可。",
+      "review": "偶遇为泛指on；rien que无漫不经心之意，aride无困倦动作，买伞为实有过去经历，恢复直接超自然形象。"
+    },
+    {
+      "id": "p041:4",
+      "paragraph": 41,
+      "type": "错译",
+      "before": "得知那天下午，斯万那近乎超自然的身影竟会在人群中显现，只为了买一把伞——那是怎样一种忧郁的陶醉啊。",
+      "after": "得知那天下午，斯万曾去买一把伞，在人群中显出他那超自然的身影——那是怎样一种忧郁的陶醉啊。",
+      "source": "profilant dans la foule sa forme surnaturelle, Swann avait été acheter un parapluie",
+      "reason": "过去完成时述说已经发生的买伞行程，分词结构描绘同时显于人群的身形；原译“竟会”“只为了”增添假设及目的强调，“近乎”又削弱了直接神化斯万的修辞。替换恢复事实语气和两层描写。",
+      "review": "偶遇为泛指on；rien que无漫不经心之意，aride无困倦动作，买伞为实有过去经历，恢复直接超自然形象。"
+    },
+    {
+      "id": "p043:1",
+      "paragraph": 43,
+      "type": "错译",
+      "before": "她似乎总担心，一旦承认自己与斯万有了嫌隙，别人就会热心促成他们和解，而她并不愿因此结识斯万夫人。",
+      "after": "她不愿结识斯万夫人，所以似乎总担心，一旦承认我们一家与斯万有了嫌隙，别人就会过于热心地设法让他们和解。",
+      "source": "si elle eût avoué que nous étions en froid avec Swann, on eût cherché à les réconcilier plus qu'elle ne souhaitait, à cause de Mme Swann qu'elle ne voulait pas connaître",
+      "reason": "将 nous 的范围恢复为“我们一家”，以“设法”保留 chercher à 所表达的尝试，并补出 plus qu’elle ne souhaitait 的“超过母亲所愿”的限度；把不愿结识斯万夫人明确恢复为母亲担心他人过分撮合的原因，避免“而……因此”改变因果重心。",
+      "review": "nous指一家，chercher à保留尝试；plus比较限度及不愿认识妻子的担忧原因均应明确。"
+    },
+    {
+      "id": "p045:1",
+      "paragraph": 45,
+      "type": "错译",
+      "before": "仿佛我不仅戳穿了她与斯万关系融洽的假象，还企图促成两人的“和解”。",
+      "after": "仿佛我是在破坏她与斯万关系融洽的假象，并企图促成两人的“和解”。",
+      "source": "comme si j’avais attenté à la fiction de ses bons rapports avec Swann et essayé de travailler à un « rapprochement »",
+      "reason": "attenté à 表示损害或侵犯，不蕴含“已经揭穿”的结果；改成“是在破坏”保留母亲感到那层虚构受到了威胁的意思。将“不仅……还……”改为并列，避免擅自强化递进。",
+      "review": "attenter à为侵害/破坏，不蕴含已经揭露真相的成功结果；并列两行为更稳妥。"
+    },
+    {
+      "id": "p049:1",
+      "paragraph": 49,
+      "type": "错译",
+      "before": "他是到贡布雷来，可到了巴黎，他有别的事要做，我也有。",
+      "after": "他从前是来贡布雷的，可在巴黎，他有别的事要做，我也一样。",
+      "source": "il venait à Combray, et puis à Paris il a autre chose à faire et moi aussi",
+      "reason": "恢复未完成过去时与现在时的对照；à Paris 是地点“在巴黎”，不含到达巴黎的动作。",
+      "review": "恢复过去/现在及在巴黎的地点关系，去掉未明说的秘密，末句只让共同回忆引出致意动作，不增一眼认出的因果。"
+    },
+    {
+      "id": "p049:2",
+      "paragraph": 49,
+      "type": "错译",
+      "before": "我曾在香榭丽舍，在他面前为爱女儿的秘密战栗的时候",
+      "after": "我在香榭丽舍当着他的面为爱情战栗的时候",
+      "source": "quand je tremblais d'amour devant lui aux Champs-Élysées",
+      "reason": "d’amour 表示因爱情而战栗，原文没有“秘密”；删去增译并消除“爱女儿”的施受歧义，使地点与“当着他的面”的关系清楚。",
+      "review": "恢复过去/现在及在巴黎的地点关系，去掉未明说的秘密，末句只让共同回忆引出致意动作，不增一眼认出的因果。"
+    },
+    {
+      "id": "p049:3",
+      "paragraph": 49,
+      "type": "错译",
+      "before": "可母亲似乎并不觉得，“三街区”百货店的那个柜台有什么特别的魔力——斯万一眼认出她，就是因为她在他心中原本已有清楚而确定的身份，与他共有一些回忆，而那些回忆促使他走上前来，向她问好。",
+      "after": "可母亲似乎并不觉得“三街区”百货店的那个柜台有什么特别的魅力；正是在那里，斯万见到她的那一刻，她在他眼里是一个有明确身份的人，与他有着共同的回忆，而那些回忆促使他走近她，向她致意。",
+      "source": "Mais ma mère ne paraissait pas avoir trouvé un charme particulier à ce rayon des Trois Quartiers où elle avait représenté pour Swann, au moment où il l'avait vue, une personne définie avec qui il avait des souvenirs communs qui avaient motivé chez lui le mouvement de s'approcher d'elle, le geste de la saluer.",
+      "reason": "恢复 où 引出的柜台与人物存在之间的地点联系，保留“她是具体的人、与斯万有共同回忆”的叙述；删除无依据的“一眼认出”及其“就是因为”的因果改写，只将原文明示的因果用于共同回忆促使斯万走近、致意。",
+      "review": "恢复过去/现在及在巴黎的地点关系，去掉未明说的秘密，末句只让共同回忆引出致意动作，不增一眼认出的因果。"
+    },
+    {
+      "id": "p050:1",
+      "paragraph": 50,
+      "type": "语句不通顺",
+      "before": "正如它在砖石构成的巴黎城中，独独挑出一座房子：我独独为一幢房屋雕出特殊的大门，为它的窗子镀上珍贵的光彩。",
+      "after": "正如它在砖石构成的巴黎城中，独独挑出一座房子，为它雕饰大门，为它的窗子镀上珍贵的光彩。",
+      "source": "comme elle avait fait dans le Paris de pierre pour une certaine maison dont elle avait sculpté la porte cochère et rendu précieuses les fenêtres",
+      "reason": "原文只引出同一所房子，随后由想象力为它雕饰大门并美化窗子；删去中文重复引入房屋的结构，并使“它”（想象力）保持为施事。",
+      "review": "同一房屋重复引入并由想象力误转为我，是明确句法问题；分享长处宜改具备；d’un cran应补一等幅度。"
+    },
+    {
+      "id": "p050:2",
+      "paragraph": 50,
+      "type": "不符合现代中文习惯",
+      "before": "全看它在多大程度上分享了世上其余事物共有的长处",
+      "after": "全看它在多大程度上具备了那些世间共有的长处",
+      "source": "selon le degré où elle avait participé à des mérites communs au reste de l’univers",
+      "reason": "participer à des mérites在此表示具有某些普遍的长处；“分享长处”搭配生硬，也容易产生传播或交换优点的误读。改后保留评价程度及长处的普遍性。",
+      "review": "同一房屋重复引入并由想象力误转为我，是明确句法问题；分享长处宜改具备；d’un cran应补一等幅度。"
+    },
+    {
+      "id": "p050:3",
+      "paragraph": 50,
+      "type": "错译",
+      "before": "地位比希尔贝特的祖父还高的金融界人物",
+      "after": "地位比希尔贝特的祖父高上一等的金融界人物",
+      "source": "de financiers d’un cran supérieur à son grand-père",
+      "reason": "d’un cran具体表示高出一个等级，现译“还高”只留下比较方向，补回比较幅度。",
+      "review": "同一房屋重复引入并由想象力误转为我，是明确句法问题；分享长处宜改具备；d’un cran应补一等幅度。"
+    },
+    {
+      "id": "p051:1",
+      "paragraph": 51,
+      "type": "错译",
+      "before": "每逢希尔贝特告诉我她那天不能来香榭丽舍，我总想出去散步，专挑那些仿佛能让我离她更近一点的路线。",
+      "after": "每逢希尔贝特事先告诉我她哪天不来香榭丽舍，到了那天，我便设法选些能让我离她稍近一点的路线去散步。",
+      "source": "Les jours où Gilberte m’avait annoncé qu’elle ne devait pas venir aux Champs-Élysées, je tâchais de faire des promenades qui me rapprochassent un peu d’elle.",
+      "reason": "原文说的是预先告知某日不来的安排，不是因故不能来；tâchais 表示设法采取行动，不只是想去散步。删去原文没有的“仿佛”，使接近她成为选择散步路线的目的，并用“事先”“到了那天”交代先后关系。",
+      "review": "ne devait pas venir为预告缺席，tâchais指设法行动，删去仿佛的额外不确定性，保留选择路线以接近她的目的。"
+    },
+    {
+      "id": "p053:1",
+      "paragraph": 53,
+      "type": "错译",
+      "before": "那种令我痛苦又着迷的魔力，竟浸透了他的制服，连装饰镶边也不例外",
+      "after": "我曾在希尔贝特的名字中感到的那种令人痛苦的魅力，也浸透了他的制服，连装饰镶边也不例外",
+      "source": "pénétré jusque dans les galons de sa livrée du même charme douloureux que j’avais ressenti dans le nom de Gilberte",
+      "reason": "补回même…que的同一性及“在希尔贝特的名字中感到”这一被漏去的具体照应，保留魅力浸透至制服镶边的夸张。",
+      "review": "补回与希尔贝特名字相同的魅力及永久阻隔；恢复窗帘之间、目光及两项程度关系，去掉无原文的街头/偶尔限定。主审同时恢复surnaturelle的直接修辞。"
+    },
+    {
+      "id": "p053:2",
+      "paragraph": 53,
+      "type": "错译",
+      "before": "我天生就不配踏入他所把守的那个神秘生活",
+      "after": "我天生就不配，永远也无法踏入他所把守的那种神秘生活",
+      "source": "j’étais de ceux à qui une indignité originelle interdirait toujours de pénétrer dans la vie mystérieuse qu’il était chargé de garder",
+      "reason": "恢复toujours所表达的永久阻隔；同时把不自然的“那个……生活”改成“那种……生活”。",
+      "review": "补回与希尔贝特名字相同的魅力及永久阻隔；恢复窗帘之间、目光及两项程度关系，去掉无原文的街头/偶尔限定。主审同时恢复surnaturelle的直接修辞。"
+    },
+    {
+      "id": "p053:3",
+      "paragraph": 53,
+      "type": "错译",
+      "before": "夹层的窗户仿佛也知道自己将那个世界关在屋内；在垂着庄严薄纱的窗后，比起街上其他窗户，这些窗子倒更像希尔贝特凝望时的眼睛",
+      "after": "夹层的窗户仿佛也知道，自己紧闭着，遮住了那种生活；在庄重垂落的薄纱窗帘之间，这些窗户与其说像别的窗户，不如说更像希尔贝特的目光",
+      "source": "sur laquelle les fenêtres de l’entresol paraissaient conscientes d’être refermées, ressemblant beaucoup moins entre la noble retombée de leurs rideaux de mousseline à n’importe quelles autres fenêtres, qu’aux regards de Gilberte",
+      "reason": "恢复窗户自知紧闭于那种生活之外的拟人，把“窗后”的错误空间关系改为窗帘之间，并以“目光”对应regards，避免添出凝望动作和把目光实化为眼睛。",
+      "review": "补回与希尔贝特名字相同的魅力及永久阻隔；恢复窗帘之间、目光及两项程度关系，去掉无原文的街头/偶尔限定。主审同时恢复surnaturelle的直接修辞。"
+    },
+    {
+      "id": "p053:4",
+      "paragraph": 53,
+      "type": "错译",
+      "before": "我的想象早已将希尔贝特的父亲与世人截然分开，斯万偶尔在寻常街头现身，竟使现实世界也染上魔法",
+      "after": "在我的想象中，希尔贝特的父亲与世上其他人是那样不同，他出现在现实世界之中，又给这个世界带来那么多神奇色彩",
+      "source": "mon imagination différenciait tellement le père de Gilberte du reste de l’humanité, sa présence au milieu du monde réel y introduisait tant de merveilleux",
+      "reason": "恢复tellement与tant并列引出的两项程度原因；删去无依据的“早已”“偶尔”及缩窄现实世界为街头的表述，保留对斯万的神奇化感受。",
+      "review": "补回与希尔贝特名字相同的魅力及永久阻隔；恢复窗帘之间、目光及两项程度关系，去掉无原文的街头/偶尔限定。主审同时恢复surnaturelle的直接修辞。"
+    },
+    {
+      "id": "p053:5",
+      "paragraph": 53,
+      "type": "错译",
+      "before": "斯万这个近乎神迹的身影，随时可能在那里出现",
+      "after": "斯万那超自然的身影，随时可能在那里突然出现",
+      "source": "où pouvait se produire inopinément l’apparition surnaturelle",
+      "reason": "inopinément表示出乎意料地出现，单说“随时可能”不足以呈现突然显现的意味；局部补足即可保留原有比喻。",
+      "review": "补回inopinément，同时去掉近乎对surnaturelle的弱化，与本章其他直接神化斯万的表述一致。"
+    },
+    {
+      "id": "p054:1",
+      "paragraph": 54,
+      "type": "错译",
+      "before": "譬如，湖边的冷杉林后面，忽然接上一座像⊂弗吉尼亚农场⊃≼🏛️原文 ferme de la Virginie，意为具有美国弗吉尼亚地区情调的农场式景观；与岩洞、沼泽等并列，强调布洛涅树林中不同地方风景被人为拼接的效果。≽的田庄，里面栽着红叶树和美洲橡树；也可能接着一片高大的乔木林，一个步履轻盈、裹着软毛皮的散步女子，会忽然从林中现身，眼睛有一种野兽般的美",
+      "after": "譬如，一座像⊂弗吉尼亚农场⊃≼🏛️原文 comme une exploitation agricole dans la Virginie，意为具有美国弗吉尼亚地区情调的农场式景观；与岩洞、沼泽等并列，强调布洛涅树林中不同地方风景被人为拼接的效果。≽的田庄，里面栽着红叶树和美洲橡树，紧接在湖边的冷杉林或一片高大的乔木林后面；那乔木林中会忽然现身一个脚步飞快的散步女子，裹着柔软的毛皮，长着野兽般美丽的眼睛",
+      "source": "faisant succéder quelque ferme ... à une sapinière au bord du lac, ou à une futaie d’où surgit ... quelque promeneuse rapide",
+      "reason": "à une sapinière与à une futaie共同说明田庄接在什么景观之后，原译倒置了第二项；同时将rapide还原为脚步迅速，保留毛皮与兽眼的人兽类比。既有注释原样保留。",
+      "review": "采纳景观相接与人物速度修订，同时按本段实际法语纠正注释中并未出现的短引。"
+    },
+    {
+      "id": "p054:2",
+      "paragraph": 54,
+      "type": "语句不通顺",
+      "before": "这里于是成了女人们的花园⊂女人们的花园⊃",
+      "after": "这里是⊂女人们的花园⊃",
+      "source": "il était le Jardin des femmes",
+      "reason": "删去标注前重复的名称；était是判断而非“于是成了”的结果变化，保留注释锚及注释。",
+      "review": "恢复田庄接在两种树林之后的共同关系、脚步迅速、植物近旁感而非行走、珍贵寄生虫、仅仅的限制、化名现用、获得传授的信念与预先接受的时点，修顺末句并列和接触范围。"
+    },
+    {
+      "id": "p054:garden",
+      "paragraph": 54,
+      "type": "注释同步修正",
+      "before": "原文 jardin des femmes：把女人比作园中被观赏的珍奇花木，语带戏谑，也隐含凝视的目光，并非单纯的赞美。",
+      "after": "原文 Jardin des femmes：承接动物园的比喻，把女人写成园中被观看的珍奇生灵，也使她们与花木彼此映照，带有戏谑与凝视的意味。",
+      "source": "comme ces jardins zoologiques ... une promeneuse ... les beaux yeux d’une bête ... le Jardin des femmes",
+      "reason": "兼顾动物园、毛皮和兽眼的近邻比喻，不将此处仅解释成花木类比。"
+    },
+    {
+      "id": "p054:3",
+      "paragraph": 54,
+      "type": "错译",
+      "before": "我已远远嗅见金合欢的花香，仿佛那株强健而柔美的植物正向我走来，感到它的独一无二",
+      "after": "我已远远嗅见向四周散发的金合欢花香，感到一个强健而柔软的植物个体已在近旁，并感到它自成一格的特质",
+      "source": "leur parfum qui, irradiant alentour, faisait sentir de loin l’approche et la singularité d’une puissante et molle individualité végétale",
+      "reason": "香气预示正在接近的树木及其独特个性，并非树木朝叙述者行走；恢复香气向四周散发及强健/柔软的并置。",
+      "review": "恢复田庄接在两种树林之后的共同关系、脚步迅速、植物近旁感而非行走、珍贵寄生虫、仅仅的限制、化名现用、获得传授的信念与预先接受的时点，修顺末句并列和接触范围。"
+    },
+    {
+      "id": "p054:4",
+      "paragraph": 54,
+      "type": "错译",
+      "before": "宛如一群群长着翅膀、微微颤动的奇异小生灵",
+      "after": "宛如一群群长着翅膀、微微颤动的珍贵寄生虫",
+      "source": "comme des colonies ailées et vibratiles de parasites précieux",
+      "reason": "恢复寄生虫的具体意象与“珍贵”的审美修饰，避免把原文奇诡比喻泛化成无属性的小生灵。",
+      "review": "恢复田庄接在两种树林之后的共同关系、脚步迅速、植物近旁感而非行走、珍贵寄生虫、仅仅的限制、化名现用、获得传授的信念与预先接受的时点，修顺末句并列和接触范围。"
+    },
+    {
+      "id": "p054:names",
+      "paragraph": 54,
+      "type": "注释同步修正",
+      "before": "既是金合欢的名字，也是那些美人的名字",
+      "after": "先以金合欢之名引出女性化、慵懒温柔的联想，再类比舞会宾客的名字。",
+      "source": "leur nom féminin, désœuvré et doux ... comme ces valses ... le nom des belles invitées",
+      "reason": "区分金合欢之名及随后以宾客姓名作比，不把两者断为同一语法实指。"
+    },
+    {
+      "id": "p054:5",
+      "paragraph": 54,
+      "type": "错译",
+      "before": "如今一听见便叫人想起",
+      "after": "如今一听见便只叫人想起",
+      "source": "ne nous évoquent plus que le nom des belles invitées",
+      "reason": "补出ne ... que的排他限制，保留plus表示如今只剩这种联想的意味。",
+      "review": "恢复田庄接在两种树林之后的共同关系、脚步迅速、植物近旁感而非行走、珍贵寄生虫、仅仅的限制、化名现用、获得传授的信念与预先接受的时点，修顺末句并列和接触范围。"
+    },
+    {
+      "id": "p054:6",
+      "paragraph": 54,
+      "type": "错译",
+      "before": "而且多半是用她们昔日的化名；即使后来改姓，新姓也不过像遮住身份的一层面纱",
+      "after": "而且多半是用她们的化名；其中有了新姓氏的人，那新姓氏也不过像遮住身份的一层面纱",
+      "source": "mais le plus souvent sous leur nom de guerre ; leur nouveau nom, quand il y en avait un, n’était qu’une sorte d’incognito",
+      "reason": "化名仍是人们惯用的称呼，不应增“昔日”；新名字的存在条件也不宜改成后来发生的让步情节。",
+      "review": "恢复田庄接在两种树林之后的共同关系、脚步迅速、植物近旁感而非行走、珍贵寄生虫、仅仅的限制、化名现用、获得传授的信念与预先接受的时点，修顺末句并列和接触范围。"
+    },
+    {
+      "id": "p054:7",
+      "paragraph": 54,
+      "type": "错译",
+      "before": "她们仿佛深知这种美的秘密法则",
+      "after": "她们已获传授，通晓这些隐秘法则",
+      "source": "des lois occultes à la connaissance desquelles elles avaient été initiées",
+      "reason": "保留叙述者相信这些女人已入门获授秘密法则的确信，不另加“仿佛”削弱，也不漏掉initiées。",
+      "review": "恢复田庄接在两种树林之后的共同关系、脚步迅速、植物近旁感而非行走、珍贵寄生虫、仅仅的限制、化名现用、获得传授的信念与预先接受的时点，修顺末句并列和接触范围。"
+    },
+    {
+      "id": "p054:8",
+      "paragraph": 54,
+      "type": "语句不通顺",
+      "before": "她们的衣饰、马车，以及上千个细节一出现，我便预先当作一种启示接受下来",
+      "after": "她们的衣饰、车马以及上千个细节还未出现，我便预先将其视为一种启示",
+      "source": "j’acceptais d’avance comme une révélation l’apparition de leur toilette, de leur attelage, de mille détails",
+      "reason": "消除“一出现”与“预先”的时间抵牾，说明在见到之前已经抱定信念；车马也能包含attelage的马匹与车辆。",
+      "review": "恢复田庄接在两种树林之后的共同关系、脚步迅速、植物近旁感而非行走、珍贵寄生虫、仅仅的限制、化名现用、获得传授的信念与预先接受的时点，修顺末句并列和接触范围。"
+    },
+    {
+      "id": "p054:9",
+      "paragraph": 54,
+      "type": "语句不通顺",
+      "before": "甚至是一种更痛苦的骚动",
+      "after": "甚至还唤起一种更痛苦的骚动",
+      "source": "excitaient en moi autant d’amour qu’elle, même un trouble plus douloureux",
+      "reason": "爱与更痛苦的骚动同为父母在我心中唤起的感情，应保持并列宾语，避免把爱与骚动直接等同。",
+      "review": "恢复田庄接在两种树林之后的共同关系、脚步迅速、植物近旁感而非行走、珍贵寄生虫、仅仅的限制、化名现用、获得传授的信念与预先接受的时点，修顺末句并列和接触范围。"
+    },
+    {
+      "id": "p054:10",
+      "paragraph": 54,
+      "type": "语句不通顺",
+      "before": "因为他们同她最亲近的那一部分关系，恰是她生活中对我紧紧关闭的私密领域",
+      "after": "因为他们与她相接触的，正是她生活中不许我进入的私密部分",
+      "source": "parce que leur point de contact avec elle était cette partie intestine de sa vie qui m’était interdite",
+      "reason": "point de contact指父母与她接触所及的生活内里，原译“最亲近的那一部分关系”既增入比较级，也使关系与领域的判断搭配不清。",
+      "review": "恢复田庄接在两种树林之后的共同关系、脚步迅速、植物近旁感而非行走、珍贵寄生虫、仅仅的限制、化名现用、获得传授的信念与预先接受的时点，修顺末句并列和接触范围。"
+    },
+    {
+      "id": "p055:wing",
+      "paragraph": 55,
+      "type": "具体意象及注释定位修正",
+      "before": "一片⊂虹雉翅羽⊃",
+      "after": "一只⊂虹雉的翅翼⊃",
+      "source": "une aile de lophophore",
+      "reason": "aile是鸟翼而非单根羽毛，明确量词与定位词，原注内容不变。"
+    },
+    {
+      "id": "p055:1",
+      "paragraph": 55,
+      "type": "错译",
+      "before": "又对那些坐在马车里的先生们以眼神示意回应",
+      "after": "又向那些坐在马车里的先生们眨眼致意",
+      "source": "répondant d'un clin d'œil aux messieurs en voiture",
+      "reason": "clin d'œil 是眨眼示意的具体动作，不能仅泛化为用眼神回应。",
+      "review": "13项恢复眨眼、王者威仪、亲身经验、整车高度、未实现的往日愿望、口头应允、脱离车队、忍不住议论、反问回敬、同伴共同走过、身旁和时点及头转向她的现代中文表达。"
+    },
+    {
+      "id": "p055:2",
+      "paragraph": 55,
+      "type": "错译",
+      "before": "那简直是王者的仪仗、君主的驾临",
+      "after": "那简直是王者的威仪、君主的驾临",
+      "source": "image pour moi d'un prestige royal, d'une arrivée souveraine",
+      "reason": "prestige royal 表示王者令人慑服的威仪，不是仪卫或仪仗队。",
+      "review": "13项恢复眨眼、王者威仪、亲身经验、整车高度、未实现的往日愿望、口头应允、脱离车队、忍不住议论、反问回敬、同伴共同走过、身旁和时点及头转向她的现代中文表达。"
+    },
+    {
+      "id": "p055:3",
+      "paragraph": 55,
+      "type": "错译",
+      "before": "后来我对真正王权的认识已经比较具体，不再全凭想象",
+      "after": "后来我对女王权势的认识已不那么模糊，也有了更多亲身的体会",
+      "source": "parce que j'avais de leur pouvoir une notion moins vague et plus expérimentale",
+      "reason": "leur 回指真正的女王们；moins vague 与 plus expérimentale 分别强调不再模糊和更有实际经验，原译以不全凭想象替代了后者。",
+      "review": "13项恢复眨眼、王者威仪、亲身经验、整车高度、未实现的往日愿望、口头应允、脱离车队、忍不住议论、反问回敬、同伴共同走过、身旁和时点及头转向她的现代中文表达。"
+    },
+    {
+      "id": "p055:4",
+      "paragraph": 55,
+      "type": "错译",
+      "before": "车厢特意做得稍稍高一些",
+      "after": "车身特意做得稍稍高一些",
+      "source": "une incomparable victoria, à dessein un peu haute",
+      "reason": "haute 修饰整辆维多利亚式马车，原文没有将其高度限定在乘客车厢。",
+      "review": "13项恢复眨眼、王者威仪、亲身经验、整车高度、未实现的往日愿望、口头应允、脱离车队、忍不住议论、反问回敬、同伴共同走过、身旁和时点及头转向她的现代中文表达。"
+    },
+    {
+      "id": "p055:5",
+      "paragraph": 55,
+      "type": "错译",
+      "before": "我倒是愿意啊！",
+      "after": "我当时多么愿意啊！",
+      "source": "Comme j'aurais aimé !",
+      "reason": "过去条件式回顾当时未实现的愿望；补明时间并保留感叹，避免成为眼下意愿或无依据的辩白。",
+      "review": "13项恢复眨眼、王者威仪、亲身经验、整车高度、未实现的往日愿望、口头应允、脱离车队、忍不住议论、反问回敬、同伴共同走过、身旁和时点及头转向她的现代中文表达。"
+    },
+    {
+      "id": "p055:6",
+      "paragraph": 55,
+      "type": "错译",
+      "before": "可是，只要您愿意！",
+      "after": "当然可以，只要您愿意！",
+      "source": "Mais si vous voulez !",
+      "reason": "此处 Mais 加强口头应允，不表达转折；后文正是为对方安排脱离车队的机会。",
+      "review": "13项恢复眨眼、王者威仪、亲身经验、整车高度、未实现的往日愿望、口头应允、脱离车队、忍不住议论、反问回敬、同伴共同走过、身旁和时点及头转向她的现代中文表达。"
+    },
+    {
+      "id": "p055:7",
+      "paragraph": 55,
+      "type": "错译",
+      "before": "逮到机会就抄近路过去",
+      "after": "一有机会就驶出车队",
+      "source": "dès que je pourrai, je couperai",
+      "reason": "本段稍后以 couper la file 明确此动作是离开车队；不是走捷径到另一个地点。",
+      "review": "13项恢复眨眼、王者威仪、亲身经验、整车高度、未实现的往日愿望、口头应允、脱离车队、忍不住议论、反问回敬、同伴共同走过、身旁和时点及头转向她的现代中文表达。"
+    },
+    {
+      "id": "p055:8",
+      "paragraph": 55,
+      "type": "错译",
+      "before": "你那张坏嘴，什么闲话都敢说",
+      "after": "你总忍不住到处说长道短",
+      "source": "vous ne pouvez pas vous tenir de parler",
+      "reason": "原文说对方管不住自己的嘴，现译误改为无所不敢的胆量，并增加‘什么都’。",
+      "review": "13项恢复眨眼、王者威仪、亲身经验、整车高度、未实现的往日愿望、口头应允、脱离车队、忍不住议论、反问回敬、同伴共同走过、身旁和时点及头转向她的现代中文表达。"
+    },
+    {
+      "id": "p055:9",
+      "paragraph": 55,
+      "type": "错译",
+      "before": "我才懒得理你！",
+      "after": "我又管过你的闲事吗！",
+      "source": "Est-ce que je m'occupe de vous, moi !",
+      "reason": "此处反问自己何曾干涉对方，以回敬对方多嘴；不是声明懒得理睬对方。",
+      "review": "13项恢复眨眼、王者威仪、亲身经验、整车高度、未实现的往日愿望、口头应允、脱离车队、忍不住议论、反问回敬、同伴共同走过、身旁和时点及头转向她的现代中文表达。"
+    },
+    {
+      "id": "p055:10",
+      "paragraph": 55,
+      "type": "语句不通顺",
+      "before": "一边高谈阔论，一边从听他说话的朋友们中间走过，扬起手，向马车里的人像登台演戏似的，夸张地向车中致意",
+      "after": "在一群听他讲话的朋友当中走过，一路高谈阔论，扬起手，像在舞台上那样，朝马车里的人大幅度地挥手致意",
+      "source": "Coquelin passait en discourant au milieu d'amis qui l'écoutaient et faisait avec la main, à des personnes en voiture, un large bonjour de théâtre",
+      "reason": "消除‘向马车里的人……向车中’的重复，明确 large 是挥手幅度大；同时避免把与朋友一同走过误解成穿过一群停在原地的朋友。",
+      "review": "13项恢复眨眼、王者威仪、亲身经验、整车高度、未实现的往日愿望、口头应允、脱离车队、忍不住议论、反问回敬、同伴共同走过、身旁和时点及头转向她的现代中文表达。"
+    },
+    {
+      "id": "p055:11",
+      "paragraph": 55,
+      "type": "错译",
+      "before": "我自以为有勇气从她面前经过",
+      "after": "我觉得自己有勇气从她身旁经过",
+      "source": "je me sentais le courage de passer à côté d'elle",
+      "reason": "se sentir 没有‘自以为’所带的否定评语；à côté 是身旁，不是面前。",
+      "review": "13项恢复眨眼、王者威仪、亲身经验、整车高度、未实现的往日愿望、口头应允、脱离车队、忍不住议论、反问回敬、同伴共同走过、身旁和时点及头转向她的现代中文表达。"
+    },
+    {
+      "id": "p055:12",
+      "paragraph": 55,
+      "type": "错译",
+      "before": "果然，走到某一处，我会",
+      "after": "果然，过了一会儿，我便会",
+      "source": "À un moment en effet ... j'apercevais Mme Swann",
+      "reason": "À un moment 表示在某个时候，原译误作地点，还额外增加了走到那里这一动作。",
+      "review": "13项恢复眨眼、王者威仪、亲身经验、整车高度、未实现的往日愿望、口头应允、脱离车队、忍不住议论、反问回敬、同伴共同走过、身旁和时点及头转向她的现代中文表达。"
+    },
+    {
+      "id": "p055:13",
+      "paragraph": 55,
+      "type": "不符合现代中文习惯",
+      "before": "仿佛她唯一的正经事不过是出来舒展舒展筋骨，全没想到自己正被人看着，所有的头都朝她转过来",
+      "after": "仿佛她最要紧的事和此行的目的就是活动活动身体，全没想到自己正被人注视，人人都转头看她",
+      "source": "comme si sa grande affaire et son but avaient été de prendre de l'exercice, sans penser qu'elle était vue et que toutes les têtes étaient tournées vers elle",
+      "reason": "直接表达最要紧的事与目的，去掉无依据的‘唯一’和‘不过’；将法语‘所有的头’自然化为中文的行人转头，保留夸张程度。",
+      "review": "13项恢复眨眼、王者威仪、亲身经验、整车高度、未实现的往日愿望、口头应允、脱离车队、忍不住议论、反问回敬、同伴共同走过、身旁和时点及头转向她的现代中文表达。"
+    },
+    {
+      "id": "p056:1",
+      "paragraph": 56,
+      "type": "错译",
+      "before": "或者暗暗把她的穿着记在心里，日后好向见多识广的朋友打听，那些人马上就能告诉他们。",
+      "after": "或者打定主意记住她的穿着，好让消息更灵通的朋友凭这个线索辨认她，那些人立刻就能告诉他们她是谁。",
+      "source": "ou se promettaient de se rappeler la toilette comme un point de repère pour des amis plus instruits qui les renseigneraient aussitôt",
+      "reason": "se promettaient de se rappeler 写的是打算记住；服饰作为 point de repère，是让更知情的朋友据以辨认身份的线索。修订恢复这两层关系，并明确 renseignements 指她是谁。",
+      "review": "记住服饰是日后辨认的打算，point de repère为向知情朋友询问的线索，修订恢复意向和辨认关系。"
+    },
+    {
+      "id": "p058:1",
+      "paragraph": 58,
+      "type": "错译",
+      "before": "难怪我刚才觉得，那双忧伤的眼睛有些面熟……",
+      "after": "难怪呢，我刚才就在想，那双忧伤的眼睛……",
+      "source": "Mais je me disais aussi, ces yeux tristes\\...",
+      "reason": "原文只提起“那双忧伤的眼睛”便停顿，未明确说“有些面熟”；删去补足的判断，恢复自忖与回忆尚未说完的残句，同时保留恍然认出旧识的语气。",
+      "review": "恢复忧伤眼睛之后未说完的悬置句，不补面熟这一解释性判断。"
+    },
+    {
+      "id": "p060:1",
+      "paragraph": 60,
+      "type": "错译",
+      "before": "古怪别致、摆满",
+      "after": "十分奇特、摆着",
+      "source": "très étrange avec des chinoiseries",
+      "reason": "étrange 不包含“别致”的审美褒义，avec des chinoiseries 也没有“摆满”的数量信息；改文保留居所奇特及有中国风陈设这两层原意。",
+      "review": "étrange不必有别致的褒义，avec des chinoiseries不限定摆满，回到奇特和有中国式陈设。"
+    },
+    {
+      "id": "p061:1",
+      "paragraph": 61,
+      "type": "错译",
+      "before": "这些话我并没有听清",
+      "after": "人们议论的内容我并没有听见",
+      "source": "Sans entendre les réflexions",
+      "reason": "原文说未听见议论内容，只感到声名引起的低语，并非听见了一部分但未听清。",
+      "review": "未听见不能改为未听清，银行家从句修顺；脱帽礼的幅度/时长不等于举臂高度；修正地点状语和固定行当，末句保留不定指来人与反复场景。"
+    },
+    {
+      "id": "p061:2",
+      "paragraph": 61,
+      "type": "语句不通顺",
+      "before": "曾使我感到自己遭他轻蔑",
+      "after": "让我觉得他瞧不起我",
+      "source": "par lequel je me sentais méprisé",
+      "reason": "“遭他轻蔑”搭配生硬；新译明确轻视者与被轻视者，并去掉原文未强调的“曾”。",
+      "review": "未听见不能改为未听清，银行家从句修顺；脱帽礼的幅度/时长不等于举臂高度；修正地点状语和固定行当，末句保留不定指来人与反复场景。"
+    },
+    {
+      "id": "p061:3",
+      "paragraph": 61,
+      "type": "错译",
+      "before": "于是我脱帽的动作那么猛，手臂扬得那么高，行礼时间又那么长",
+      "after": "于是我向她行的脱帽礼那么夸张，动作幅度那么大，持续时间又那么长",
+      "source": "alors je lui tirais un si grand coup de chapeau, si étendu, si prolongé",
+      "reason": "原文夸大礼节的规模、展开幅度和时长，并未说动作猛烈或手臂扬得特别高；保留三层排比。",
+      "review": "未听见不能改为未听清，银行家从句修顺；脱帽礼的幅度/时长不等于举臂高度；修正地点状语和固定行当，末句保留不定指来人与反复场景。"
+    },
+    {
+      "id": "p061:4",
+      "paragraph": 61,
+      "type": "错译",
+      "before": "我只是她散步布洛涅树林时的一个次要人物：眼熟、无名，仿佛戏剧里一个有固定身份、却没有鲜明个性的小角色。",
+      "after": "我只是她在布洛涅树林散步时的一个次要人物：眼熟、无名，和戏剧里某一固定行当的角色一样，没有任何个人特征。",
+      "source": "un des personnages secondaires, familiers, anonymes, aussi dénués de caractères individuels qu’un « emploi de théâtre », de ses promenades au Bois",
+      "reason": "修正地点状语的语序；明确 emploi 是戏剧的固定行当，保留“同样不具个人特征”的比较，不把它缩成仅仅个性不鲜明。",
+      "review": "未听见不能改为未听清，银行家从句修顺；脱帽礼的幅度/时长不等于举臂高度；修正地点状语和固定行当，末句保留不定指来人与反复场景。"
+    },
+    {
+      "id": "p061:5",
+      "paragraph": 61,
+      "type": "错译",
+      "before": "她独自待不了多久，转眼便有一位熟人追了上来，那人我不认识，常戴一顶灰色高筒礼帽，和她一谈就是很久，他们各自的马车则在后面缓缓跟行。",
+      "after": "她独自待不了多久，很快就会有一位我不认识的朋友来同她会合，往往戴着一顶灰色高筒礼帽，和她一谈就是很久，两人的马车则在后面跟行。",
+      "source": "elle ne le restait pas longtemps, bientôt rejointe par quelque ami, souvent coiffé d’un « tube » gris, que je ne connaissais pas et qui causait longuement avec elle, tandis que leurs deux voitures suivaient",
+      "reason": "朋友是不定指、可随每次相遇变化的人，往往戴灰色礼帽也是反复场景的概括；避免译成同一熟人的穿戴习惯，恢复 ami 的朋友关系，并去掉原文未写的车行速度。",
+      "review": "未听见不能改为未听清，银行家从句修顺；脱帽礼的幅度/时长不等于举臂高度；修正地点状语和固定行当，末句保留不定指来人与反复场景。"
+    },
+    {
+      "id": "p062:1",
+      "paragraph": 62,
+      "type": "语句不通顺",
+      "before": "使它显得人工经营",
+      "after": "使它成为一处人工营造的场所",
+      "source": "qui en fait un lieu factice",
+      "reason": "“显得人工经营”搭配生硬；原文说明树林成为一处带人工营造性质的场所。",
+      "review": "六项恢复人工营造搭配、不能入睡的程度、思想专注而非视觉、窗帘两角与嘴角呼应、繁复多样的限制，以及散布各处、双排七叶树/布景画师/点景人物。树种在本章其余对应处同步校正。"
+    },
+    {
+      "id": "p062:2",
+      "paragraph": 62,
+      "type": "错译",
+      "before": "竟得了一场“枯叶热”，夜里也睡不安稳",
+      "after": "真像发了一场“枯叶热”，甚至叫人难以入睡",
+      "source": "une véritable fièvre des feuilles mortes qui peut aller jusqu’à empêcher de dormir",
+      "reason": "原文说对落叶的渴望如同发热，严重时能够使人无法入睡；“睡不安稳”降低了程度，“竟得了”又将程度的可能性写成已然患病。",
+      "review": "六项恢复人工营造搭配、不能入睡的程度、思想专注而非视觉、窗帘两角与嘴角呼应、繁复多样的限制，以及散布各处、双排七叶树/布景画师/点景人物。树种在本章其余对应处同步校正。"
+    },
+    {
+      "id": "p062:3",
+      "paragraph": 62,
+      "type": "错译",
+      "before": "不管我想专心做什么，枯叶的影子总在我试图注视的东西与思绪之间盘旋",
+      "after": "不论我想专注于什么事物，枯叶的影子总横在它与我的思绪之间，盘旋飞舞",
+      "source": "entre ma pensée et n’importe quel objet auquel je m’appliquais, et tourbillonnaient",
+      "reason": "objet是思想所专注的对象，并非专指眼睛试图注视的东西；同时补足s’interposaient所写的横亘与干扰，保留旋舞。",
+      "review": "六项恢复人工营造搭配、不能入睡的程度、思想专注而非视觉、窗帘两角与嘴角呼应、繁复多样的限制，以及散布各处、双排七叶树/布景画师/点景人物。树种在本章其余对应处同步校正。"
+    },
+    {
+      "id": "p062:4",
+      "paragraph": 62,
+      "type": "错译",
+      "before": "看见阳光从拉紧的窗帘缝隙里偷露微笑",
+      "after": "看见晴好的天气在合拢的窗帘两角露出微笑",
+      "source": "voyant le beau temps sourire aux coins des rideaux fermés comme aux coins d’une bouche close",
+      "reason": "恢复晴好天气的拟人，以及窗帘两角与下一意群嘴角之间的精确对应；fermés为合拢，并不意味着帘子拉紧。",
+      "review": "六项恢复人工营造搭配、不能入睡的程度、思想专注而非视觉、窗帘两角与嘴角呼应、繁复多样的限制，以及散布各处、双排七叶树/布景画师/点景人物。树种在本章其余对应处同步校正。"
+    },
+    {
+      "id": "p062:5",
+      "paragraph": 62,
+      "type": "语句不通顺",
+      "before": "那正是布洛涅树林显得最繁复的时辰与季节——也许是最繁复的",
+      "after": "那正是布洛涅树林也许显得最繁复多样的时辰与季节",
+      "source": "C’était l’heure et c’était la saison où le Bois semble peut-être le plus multiple",
+      "reason": "把“也许”的限制直接放在判断前，避免“最繁复”无必要的重复，兼顾multiple的多样意味。",
+      "review": "六项恢复人工营造搭配、不能入睡的程度、思想专注而非视觉、窗帘两角与嘴角呼应、繁复多样的限制，以及散布各处、双排七叶树/布景画师/点景人物。树种在本章其余对应处同步校正。"
+    },
+    {
+      "id": "p062:6",
+      "paragraph": 62,
+      "type": "错译",
+      "before": "即便在那些开阔、一眼能望出很远的地段，也会在某处看到：远处深色的树丛前——有的叶子已经落光，有的还留着夏日的绿叶——有两排橙色的栗树，仿佛在一幅刚动笔的画里，背景尚未上色，唯有这两列栗树先被画家染成橙黄；这两排树把那条林荫道铺展在充足的光线里，仿佛专为那些画师日后才会添上的、偶然经过的散步人物留出道路。",
+      "after": "即便在那些开阔、一眼能纵览大片空间的地段，这里那里，远处暗色的树丛前——有的叶子已经落光，有的还留着夏日的绿叶——也有两排橙色的七叶树，仿佛在一幅刚动笔的画里，布景画师还没给其余部分着色，唯独这两排树已被画了出来；这两排树把林荫道铺展在充足的光线里，供那些日后才会添入画中的点景人物散步。",
+      "source": "Même dans les parties découvertes où l’on embrasse un grand espace, çà et là ... un double rang de marronniers orangés ... avoir seul encore été peint par le décorateur qui n’aurait pas mis de couleur sur le reste ... pour la promenade épisodique de personnages qui ne seraient ajoutés que plus tard.",
+      "reason": "恢复散见各处而非单一某处的空间关系；marronniers指七叶树；保留布景画师只先画出双排树、其余仍未着色，以及林荫道等待日后点景人物出现的整体比拟。“偶然经过”未能表达épisodique在画面中的附带地位。",
+      "review": "六项恢复人工营造搭配、不能入睡的程度、思想专注而非视觉、窗帘两角与嘴角呼应、繁复多样的限制，以及散布各处、双排七叶树/布景画师/点景人物。树种在本章其余对应处同步校正。"
+    },
+    {
+      "id": "p063:1",
+      "paragraph": 63,
+      "type": "语句不通顺",
+      "before": "而在别处，别的地方却又仿佛五月初，树叶刚从睡梦中醒来",
+      "after": "在别处，却又仿佛迎来树叶的五月，树叶才刚从睡梦中醒来",
+      "source": "Ailleurs encore c’était le premier éveil de ce mois de mai des feuilles",
+      "reason": "删除“别处/别的地方”的重复，并明确五月属于秋叶复苏的拟喻。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:2",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "仿佛就在今晨突然开满了花",
+      "after": "叶子从今晨起便已仿佛开满了花",
+      "source": "et celles d’un empelopsis ... depuis le matin même étaient tout en fleur",
+      "reason": "celles代替feuilles，开花是对叶子的视觉拟喻；补明主语，恢复从今晨起的状态，去掉无依据的突然。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:3",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "为了植物实验或节日布景",
+      "after": "为了植物学上的需要或节日布景",
+      "source": "soit dans un intérêt botanique, soit pour la préparation d’une fête",
+      "reason": "植物学上的考虑不一定是做实验，避免无据限定。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:4",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "栽下两三株珍奇品种，叶形奇幻",
+      "after": "栽下两三种珍奇树木，叶丛奇幻",
+      "source": "deux ou trois espèces précieuses aux feuillages fantastiques",
+      "reason": "espèces数树种而不数植株；feuillages指整体叶丛而非仅指叶片形状。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:5",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "那些仍挂着叶子的树，仿佛阳光照到哪里，哪里的叶子质地就发生了变化——早晨的阳光几乎平射，到了暮色将至时，又会回复这种斜度：那时阳光仿佛一盏忽然点亮的灯，从远处把人工灯火般温暖的光投向叶丛，点燃一棵树顶梢的叶子，而树顶的叶子仿佛燃起火焰，树干却仍像一座暗淡而不会燃烧的烛台。",
+      "after": "那些仍挂着叶子的树，仿佛从阳光照到的地方起，自身的材质便发生了变化——早晨的阳光几乎平射，几小时后，暮色初起时，又会重新变得近乎水平：那时阳光仿佛一盏点亮的灯，从远处把人工灯火般温暖的反光投向叶丛，使树梢最高处的叶子燃烧起来，整棵树却仍是一座暗淡而不会燃烧的烛台，托着自己那燃烧的顶冠。",
+      "source": "ils semblaient subir une altération de leur matière ... quelques heures plus tard ... dans le crépuscule commençant ... un arbre qui reste le candélabre incombustible et terne de son faîte incendié",
+      "reason": "改正树木材质被缩作叶子质地、暮色初起被写成将至两处，补回几小时的时间衔接；删除叶梢燃烧的重复，并使整株树作为烛台承托燃烧顶冠。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:tree-leaf",
+      "paragraph": 63,
+      "type": "树种及注释同步修正",
+      "before": "阳光将栗树叶映得厚如砖块",
+      "after": "阳光将七叶树叶映得厚如砖块",
+      "source": "marronniers",
+      "reason": "与第62段树种校正统一：法文marronnier在此为七叶树类，非食用栗属；同步本章对应正文与注释。",
+      "sources": [
+        "https://www.snhf.org/fiche-plante/marronnier-dinde/",
+        "https://www.iplant.cn/info/Aesculus%20hippocastanum?t=z"
+      ]
+    },
+    {
+      "id": "p063:tree-note",
+      "paragraph": 63,
+      "type": "树种及注释同步修正",
+      "before": "此处形容栗树叶在阳光下的色块与纹样",
+      "after": "此处形容七叶树叶在阳光下的色块与纹样",
+      "source": "marronniers",
+      "reason": "与第62段树种校正统一：法文marronnier在此为七叶树类，非食用栗属；同步本章对应正文与注释。",
+      "sources": [
+        "https://www.snhf.org/fiche-plante/marronnier-dinde/",
+        "https://www.iplant.cn/info/Aesculus%20hippocastanum?t=z"
+      ]
+    },
+    {
+      "id": "p063:map",
+      "paragraph": 63,
+      "type": "修饰关系及注释定位修正",
+      "before": "⊂阿尔默农维尔、普雷卡特朗、马德里、赛马场、大湖⊃≼🏛️均为布洛涅树林内或其周边的散步、餐饮、游乐与赛马地点；此处只是叙述者眼中的地理索引，不必逐一定位。≽的岸边",
+      "after": "⊂阿尔默农维尔、普雷卡特朗、马德里、赛马场、大湖岸边⊃≼🏛️均为布洛涅树林内或其周边的散步、餐饮、游乐与赛马地点；此处只是叙述者眼中的地理索引，不必逐一定位。≽",
+      "source": "Armenonville, le Pré Catelan, Madrid, le Champ de courses, les bords du Lac",
+      "reason": "只有末项是大湖岸边，不能把的岸边挂到整串地点后。保留原注内容，岸边随末项进入同一定位标记。"
+    },
+    {
+      "id": "p063:6",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "给那些无用的小建筑让出位置；另一些则被柔软如平台的草坪托举在前",
+      "after": "为它让出位置，或者草坪像一座柔软的平台，将它托举在前",
+      "source": "un moulin à qui les arbres en s’écartant faisaient place ou qu’une pelouse portait en avant sur sa moelleuse plate-forme",
+      "reason": "原文平行关系从句列同一建筑显露的两种方式，没有分成那些建筑与另一些建筑。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:7",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "这片树林另有一种用途，并非仅仅供树木自由生长",
+      "after": "这片树林有一种与树木的生命无关的用途",
+      "source": "qu’il répondait à une destination étrangère à la vie de ses arbres",
+      "reason": "étrangère à明确说用途与树木生命无关，不是仅仅不止用于让树木自由生长。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:8",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "外物其实并不足以引发这份欢欣",
+      "after": "这份欢欣其实并非由任何外物引起",
+      "source": "sans comprendre que rien au dehors ne la motive",
+      "reason": "恢复rien的全称否定，避免把无外在动因弱化为外物作用不足。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:9",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "每天总有几个小时被树林收藏在枝叶间的那件杰作——每天在树林里出现片刻的那些美丽女人",
+      "after": "每天总有几个小时被树林收藏在枝叶间的那件杰作——那些美丽的散步女子",
+      "source": "ce chef-d’œuvre des belles promeneuses qu’ils enferment chaque jour pendant quelques heures",
+      "reason": "补出promeneuses的散步身份，去除原文没有而与几个小时重复的“每天出现片刻”。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:10",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "把原本分开的树干配作一束花",
+      "after": "把不同的枝干配在一起，组成一束束花",
+      "source": "mariait ensemble les tiges diverses et composait des bouquets",
+      "reason": "恢复不同枝干相配、组成花束的两层动作及花束复数。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:11",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "仿佛用光与影这两把锋利的剪刀",
+      "after": "借助光束与阴影构成的有力剪刀",
+      "source": "s’aidant du ciseau puissant du rayon et de l’ombre",
+      "reason": "ciseau为单数，光与影协作构成同一剪裁工具；puissant侧重有力而非锋利。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:12",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "一个孤零零的光影幽灵",
+      "after": "一个光的幽灵",
+      "source": "un seul fantôme de clarté",
+      "reason": "un seul指两树合成一个，不表示孤独；clarté为光，与前面的暗影柱形成明暗对照。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:dryad",
+      "paragraph": 63,
+      "type": "语句不通顺",
+      "before": "它们唤起我对",
+      "after": "它们在我心中唤起",
+      "source": "ils m’évoquaient la dryade, la belle mondaine rapide et colorée",
+      "reason": "与采纳的树精的形象衔接，避免唤起我对树精的形象这一不通搭配。"
+    },
+    {
+      "id": "p063:13",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "的想象：她像个活泼、鲜艳、来去匆匆的社交界美人",
+      "after": "的形象：那位鲜艳夺目、来去匆匆的社交界美人",
+      "source": "la dryade, la belle mondaine rapide et colorée",
+      "reason": "树精与社交美人为同位关系，不是树精又像另一位美人；去掉额外的活泼。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:14",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "仿佛也迫使这女子感受季节的更迭",
+      "after": "也迫使这女子像树木一样感受季节的力量",
+      "source": "obligent à ressentir comme eux la puissance de la saison",
+      "reason": "恢复与树木一样的比较及季节力量，并去掉削弱原文肯定动作的仿佛。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:tree-trianon",
+      "paragraph": 63,
+      "type": "树种及注释同步修正",
+      "before": "特里亚农的栗树与丁香",
+      "after": "特里亚农的七叶树与丁香",
+      "source": "marronniers",
+      "reason": "与第62段树种校正统一：法文marronnier在此为七叶树类，非食用栗属；同步本章对应正文与注释。",
+      "sources": [
+        "https://www.snhf.org/fiche-plante/marronnier-dinde/",
+        "https://www.iplant.cn/info/Aesculus%20hippocastanum?t=z"
+      ]
+    },
+    {
+      "id": "p063:15",
+      "paragraph": 63,
+      "type": "语句不通顺",
+      "before": "也没有固定在一座供奉爱神的小庙里⊂供奉爱神的小庙⊃≼🏛️🪶原文作 un petit temple à l'amour，指林中供点景的小神庙式建筑，与爱情的记忆相映；并非某一处确切的真实景点。≽",
+      "after": "也没有固定在一座⊂供奉爱神的小庙⊃≼🏛️🪶原文作 un petit temple à l'amour，指小型神庙式园林建筑；此处也与爱情的记忆相映。≽里",
+      "source": "dans un petit temple à l’amour",
+      "reason": "删除注释锚前重复出现的小庙短语，保留整段既有注释及全部标记不变。",
+      "review": "采纳删除重复小庙短语，同时删除无从本段确认的并非真实景点断言，保留中性的建筑与爱情意象说明。"
+    },
+    {
+      "id": "p063:16",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "维多利亚式敞篷马车那高耸的车身",
+      "after": "维多利亚式敞篷马车的高度",
+      "source": "à la hauteur d’une victoria",
+      "reason": "hauteur仅说高度；高耸为原文没有的程度判断。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:17",
+      "paragraph": 63,
+      "type": "语句不通顺",
+      "before": "一如许多年前在同一些路上推动我的那一个",
+      "after": "一如许多年前驱使我走上这些路的那股欲望",
+      "source": "aussi ardent que celui qui me poussait bien des années auparavant dans ces mêmes chemins",
+      "reason": "以欲望复现celui的指代，避免“推动我的那一个”在中文中悬空生硬。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:18",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "，马车早已被现代汽车取代",
+      "after": "",
+      "source": "il n’y avait plus que des automobiles",
+      "reason": "删除由眼前只剩汽车增写出的历史总结，尤其原文没有早已这一时间判断。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:19",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "那些小得仿佛只是一顶简单冠冕的女帽",
+      "after": "那些低矮得仿佛只是一顶简单冠冕的小女帽",
+      "source": "de petits chapeaux de femmes si bas qu’ils semblaient une simple couronne",
+      "reason": "petits和bas分别指小巧及低矮，后者才是像一圈冠冕的直接原因。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:spelling",
+      "paragraph": 63,
+      "type": "注释引文拼写修正",
+      "before": "chiffrons liberty",
+      "after": "chiffons liberty",
+      "source": "des chiffons liberty",
+      "reason": "按本段法文纠正注释中多出的r。"
+    },
+    {
+      "id": "p063:20",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "而所有这些新的景象，我已失去那种能注入眼前景物、使之获得质感、整体性和真实感的信仰；眼前的新景物七零八落、随意飘过，仿佛没有内在的真实，它们在我眼里不再含有任何美，无法像往昔那样供我把零散细节组合成一个完美形象。",
+      "after": "而所有这些新的景象，我已没有信仰可以注入其中，赋予它们实在性、统一性与存在；它们零散而随意地从我眼前掠过，毫无真实可言，其中不含任何能让我的双眼像往昔那样试着组合起来的美。",
+      "source": "je n’avais plus de croyance à y introduire pour leur donner la consistance, l’unité, l’existence ; elles passaient éparses ... sans vérité ... aucune beauté que mes yeux eussent pu essayer comme autrefois de composer",
+      "reason": "还原由信仰赋予景象实在、统一与存在的论述；去除仿佛、内在、零散细节及完美形象的附加限定，保留双眼尝试组织美的主体作用。",
+      "review": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    {
+      "id": "p063:21",
+      "paragraph": 63,
+      "type": "错译",
+      "before": "仿佛要遮掩我们已丧失的能力：不能再使新事物显得真实",
+      "after": "为了掩盖我们已丧失了赋予新事物以真实的能力这一事实",
+      "source": "pour masquer le manque de la puissance que nous avons perdue de donner de la réalité à des choses nouvelles",
+      "reason": "pour明确表示掩盖能力缺失的作用，不是仿佛如此；同时让掩盖的对象明确为能力已经丧失这一事实。",
+      "review": "用这一事实收束已丧失能力的完整命题，使掩盖对象明确对应le manque，不误成能力本身。"
+    },
+    {
+      "id": "p064:1",
+      "paragraph": 64,
+      "type": "错译",
+      "before": "那种布料都算不上的裙装",
+      "after": "那种甚至不是用布料做成的裙装",
+      "source": "des robes qui ne sont pas même en étoffe",
+      "reason": "en étoffe 表示制作材料，原文是裙装甚至不是布制的夸张抱怨，不是把裙装与布料划为同一类别。",
+      "review": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    },
+    {
+      "id": "p064:2",
+      "paragraph": 64,
+      "type": "错译",
+      "before": "有些人看着这些可怕的女人，头上顶着像鸟笼或菜园般的夸张帽子，他们又怎么可能体会得到",
+      "after": "有些人看着这些可怕的女人，见她们帽上仿佛堆着一座鸟舍或一片菜园，又怎么可能体会得到",
+      "source": "ces horribles créatures sous leurs chapeaux couverts d'une volière ou d'un potager",
+      "reason": "帽上覆盖的鸟羽花果被比作鸟舍、菜园，并非帽子外形像鸟笼；同时明确帽子属于被观看的女人，消除现译分句的主语歧义。",
+      "review": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    },
+    {
+      "id": "p064:3",
+      "paragraph": 64,
+      "type": "语句不通顺",
+      "before": "一顶帽沿只挺出一枝直直的鸢尾花的小帽",
+      "after": "一顶只有一枝笔直的鸢尾花伸出帽外的小帽",
+      "source": "un petit chapeau que dépassait une seule fleur d'iris toute droite",
+      "reason": "dépassait 的主语是鸢尾花，帽子是宾语；现译“帽沿只挺出”施受不清，宜让花作“伸出”的主语，并保留单枝与笔直。",
+      "review": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    },
+    {
+      "id": "p064:4",
+      "paragraph": 64,
+      "type": "错译",
+      "before": "帽上斜斜挺出两片刀锋般的山鹑羽",
+      "after": "帽上挺出两片刀锋般的山鹑羽",
+      "source": "un simple béret que dépassaient deux couteaux de plumes de perdrix",
+      "reason": "原文写刀形羽饰高出贝雷帽，没有给出“斜斜”的方向；删去这一具体方位增译，保留羽饰形态。",
+      "review": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    },
+    {
+      "id": "p064:5",
+      "paragraph": 64,
+      "type": "错译",
+      "before": "然而在她周围，只凭那束压在她胸前的紫罗兰，她寓所里那种人为的温煦便被带到寒风里",
+      "after": "然而，仅凭那束压在她胸前的紫罗兰，她寓所里那种人为营造的温煦，便仿佛又在她周围浮现",
+      "source": "autour de laquelle la tiédeur factice de son appartement était évoquée, rien que par le bouquet de violettes qui s'écrasait à son corsage",
+      "reason": "était évoquée 是寓所温暖被唤起的联想，借花束在她周围浮现；不是把实体暖意带到寒风里。“人为营造”也较单说“人为的”清楚。",
+      "review": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    },
+    {
+      "id": "p064:6",
+      "paragraph": 64,
+      "type": "语句不通顺",
+      "before": "望着窗外的落雪。",
+      "after": "望着窗外的落雪？",
+      "source": "Aurais-je même pu leur faire comprendre ... les fleurs qui regardaient par la fenêtre close la neige tomber ?",
+      "reason": "花朵望雪的描写仍处在开头“我又怎能让他们明白”的长反问内部；问号应落在整个句子的终点。",
+      "review": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    },
+    {
+      "id": "p064:7",
+      "paragraph": 64,
+      "type": "错译",
+      "before": "记忆把它们维系成一个不能随意拆开的整体",
+      "after": "记忆使它们在同一个整体中保持着平衡",
+      "source": "notre mémoire maintient équilibrées dans un assemblage",
+      "reason": "原文不仅说这些部分被组合，还强调记忆维持各部分的平衡；后文已完整说明不得抽去或拒绝任何一部分，不必在此重复“不能拆开”。",
+      "review": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    },
+    {
+      "id": "p064:8",
+      "paragraph": 64,
+      "type": "错译",
+      "before": "会亮起菊花燃起的橙色火光、深红的焰、粉白的火舌",
+      "after": "会闪耀着菊花橙色的火光、通红的焰、粉红与洁白的火舌",
+      "source": "luiraient les feux orangés, la rouge combustion, la flamme rose et blanche des chrysanthèmes",
+      "reason": "rose et blanche 是粉红与白两色的火焰，“粉白”容易被读成单一浅粉色；同时消除“亮起……燃起”的重复而保持三组火焰意象。",
+      "review": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    },
+    {
+      "id": "p064:9",
+      "paragraph": 64,
+      "type": "错译",
+      "before": "恰像另一些我曾未能品出乐趣的时刻",
+      "after": "恰像另一些我曾未能从中找到自己所渴望的快乐的时刻",
+      "source": "des instants pareils à ceux où ... je n'avais pas su découvrir les plaisirs que je désirais",
+      "reason": "遗漏的 que je désirais 指明未能发现的是当时自己所渴求的快乐，既非所有一般乐趣，也不只是未能品味；该限定与随后欲望及其追求的快乐相互呼应。",
+      "review": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    },
+    {
+      "id": "p064:10",
+      "paragraph": 64,
+      "type": "错译",
+      "before": "然而如今，即便那些时刻本身不会带我走向什么幸福，仅仅重温它们便已足够迷人。",
+      "after": "然而如今，即便那些时刻没有把我引向任何结果，在我看来，它们本身也曾有足够的魅力。",
+      "source": "Mais maintenant, même ne me conduisant à rien, ces instants me semblaient avoir eu eux-mêmes assez de charme.",
+      "reason": "原文说如今回看，往昔时刻即使未带来所求结果，本身也曾有魅力。现译把“这些时刻本身曾有魅力”改为“重温它们足够迷人”，且把过去未有结果改成将来不会获得幸福，须恢复判断对象和时间关系。",
+      "review": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    },
+    {
+      "id": "p064:11",
+      "paragraph": 64,
+      "type": "错译",
+      "before": "在金合欢道——也就是桃金娘道——",
+      "after": "在金合欢道——桃金娘道——",
+      "source": "dans l'avenue des Acacias -- l'allée de Myrtes -- ... dans les bosquets virgiliens",
+      "reason": "插语与后面的维吉尔树丛形成诗境叠映；“也就是”容易令人误以为两者是可考的同一条道路的两个名称。删去断言式连接，让原文破折号中的联想关系保留。",
+      "review": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    },
+    {
+      "id": "p064:12",
+      "paragraph": 64,
+      "type": "错译",
+      "before": "大自然重新开始统治布洛涅树林；这片树林曾是女人的极乐园——如今，这个幻念早已从中飞散。",
+      "after": "大自然重新开始统治布洛涅树林；以为这片树林是女人极乐园的幻念，如今早已从中飞散。",
+      "source": "La nature recommençait à régner sur le Bois d'où s'était envolée l'idée qu'il était le Jardin élyséen de la Femme",
+      "reason": "“树林是女人的极乐园”在原文始终是 idée 的内容，现译先把它陈述成过去事实才补称幻念。将判断整体置于“幻念”内部，保留观念消失后自然再临的关系。",
+      "review": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    },
+    {
+      "id": "p064:13",
+      "paragraph": 64,
+      "type": "错译",
+      "before": "，仿佛在宣告：这片不再为人间幻梦所用的树林，已恢复了非人的寂静与空旷，也帮我更好地懂得：",
+      "after": "，仿佛在宣告这片已失去昔日用途的树林中那非人的空旷；它们也帮我更好地懂得：",
+      "source": "les grands chênes qui ... semblaient proclamer le vide inhumain de la forêt désaffectée, et m'aidaient à mieux comprendre",
+      "reason": "vide inhumain 是非人的空旷，désaffectée 是失去旧日用途；原文没有“恢复寂静”，且前句明写鸟的尖叫。另将“它们也帮我”明确接回橡树，避免冒号后误读成树林的空旷帮助理解。",
+      "review": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    },
+    {
+      "id": "p064:14",
+      "paragraph": 64,
+      "type": "错译",
+      "before": "也来自记忆中的画面不再是眼前感官直接捕获的东西",
+      "after": "也来自这些画面并不由感官感知这一点",
+      "source": "le charme qui leur vient de la mémoire même et de n'être pas perçus par les sens",
+      "reason": "魅力一方面来自记忆本身，另一方面来自这些画面不由感官感知的性质。“不再”“眼前”“直接”加入了原文没有的时间变化及程度限定，会弱化这里对记忆画面与感官知觉的区分。",
+      "review": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    },
+    {
+      "id": "p064:15",
+      "paragraph": 64,
+      "type": "错译",
+      "before": "怀念一幅景象，其实不过是在怀念一个一去不返的时刻",
+      "after": "对某一景象的回忆，不过是对某一时刻的眷恋",
+      "source": "le souvenir d'une certaine image n'est que le regret d'un certain instant",
+      "reason": "原文有意区分 souvenir 的回忆与 regret 的眷恋怅惜，将对图景的记忆还原为对时刻的情感；前后均译“怀念”抹去了这层揭示。",
+      "review": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    }
+  ],
+  "rejected": [
+    {
+      "id": "p024:1",
+      "paragraph": 24,
+      "type": "错译",
+      "before": "对我们那样活泼、那样随随便便",
+      "after": "和我们相处时那样活泼、举止那样急促",
+      "source": "si vive et brusque avec nous",
+      "reason": "brusque说动作或举止的急促、突兀；“随随便便”主要指态度不拘礼数，泛化了原文具体行为特征。改文保留她与玩伴相处时的活泼急促，和对老太太正式、拘谨的反差。",
+      "review": "急促的举止仅突出速度，未必比现译更好地保留brusque与拘谨礼节的对照，现译可保留。"
+    }
+  ]
+}

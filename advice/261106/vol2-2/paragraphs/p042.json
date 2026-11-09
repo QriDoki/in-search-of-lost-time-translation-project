@@ -1,0 +1,24 @@
+{
+  "id": 42,
+  "assessment": "本段仅由一问及叙述性引语标识组成，译文完整保留了叙述者追问母亲与斯万是否彼此招呼的意思；人称、相互关系及问答衔接均恰当，无须修改。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Est-ce que vous vous êtes dit bonjour ?",
+      "translation_anchor": "——你们互相问好了吗？",
+      "finding": "此处 vous 指上段在百货店碰面的母亲与斯万，第二个 vous 为相互用法，se dire bonjour 表示彼此问候、打招呼；译为“你们互相问好”没有把动作误作仅由母亲单方面发起。复合过去时询问那次相遇中是否实际发生了问候，中文“了吗”对应妥当。Est-ce que 为普通疑问句式，现译的直接问句既保留少年叙述者对斯万的关切，也能自然引出下一段母亲“是他主动过来”的回答。“问好”在此可用，不必为口语偏好强改为“打招呼”。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "demandai-je.",
+      "translation_anchor": "我问。",
+      "finding": "demandai-je 是倒装的引语归属语，主语为叙述者 je，动词为简单过去时；译为问句后置的“我问”准确交代说话人。汉语无需另加过去时标记，也不必增添原文没有的语气、动作或问话对象；与前一单元连接顺畅，保留。"
+    }
+  ],
+  "changes": [],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p042"
+  }
+}

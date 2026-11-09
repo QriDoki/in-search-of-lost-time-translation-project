@@ -1,0 +1,60 @@
+{
+  "id": 53,
+  "assessment": "本段对门房、窗户及斯万被少年的爱意神秘化这一递进总体把握正确，但第一长句漏去门房身上的魅力与“希尔贝特”名字所带感受相同这一关键照应，也弱化了永久遭拒的意味；窗帘与窗户的空间关系误写成“窗后”，且将目光实化为眼睛。第二长句的两项程度原因基本保留，但添加“偶尔在寻常街头”使现实世界中的存在被缩成特定街景，结尾又淡化了意外突然显现的意思。建议作局部修订，保留长句的想象性和比较结构。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Puis, nous poursuivions notre route jusque devant leur porte cochère où un concierge différent de tout concierge… qu’aux regards de Gilberte.",
+      "translation_anchor": "随后，我们继续赶路，一直走到他们家那扇车马大门前。……这些窗子倒更像希尔贝特凝望时的眼睛。",
+      "finding": "本单元由抵达车马大门引出门房，再经门房的仿佛知情转向窗户的仿佛自觉，最后落到窗户与希尔贝特目光的相似。porte cochère译“车马大门”、différent de tout concierge译“和世上其他看门人都不一样”均保留少年主观感受；补出的“在我眼里”有上下文依据。pénétré jusque dans les galons de sa livrée表示魅力浸透制服直至镶边，现译层次清楚；但du même charme douloureux que j’avais ressenti dans le nom de Gilberte明说这是我曾在希尔贝特名字中感到的同一种令人痛苦的魅力，现译仅写“痛苦又着迷的魔力”，漏去同一性与名字这一感情来源，应补足。de ceux à qui une indignité originelle interdirait toujours de pénétrer表明我属于因先天的不配而永远被阻于门外的人，译成“我天生就不配”可接受，但应恢复toujours的永久性。la vie mystérieuse是门房守护的生活，sur laquelle…être refermées指窗户仿佛知道自己紧闭着遮住那生活；原译主动说“将那个世界关在屋内”偏离窗户自觉紧闭的拟人方式。entre la noble retombée de leurs rideaux de mousseline描述窗户处在庄重垂落的薄纱窗帘之间，“在……窗后”则错置位置，且让主语窗户像在自身后面。beaucoup moins…qu’aux regards de Gilberte是更像希尔贝特的目光而不像一般窗户，“凝望时的眼睛”把目光换成器官，也添加凝望动作；宜恢复目光，使门房、窗户仿佛都懂得拒绝我的修辞相贯通。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "D’autres fois nous allions sur les boulevards et je me postais à l’entrée de la rue Duphot… l’apparition surnaturelle.",
+      "translation_anchor": "另一些日子，我们到林荫大道上去，我守候在迪福街街口；……我就已经激动起来。",
+      "finding": "D’autres fois承接另一些散步场合，me postais是占定位置等候，现译“守候在……街口”合适；on m’avait dit只写有人曾告诉我，常看见斯万经过是去看牙医，现译保留了信息来源、频度和目的。后半句有两项并列的程度原因：想象使希尔贝特之父与其余人类那样不同，他在现实世界中的存在又带来那么多神奇之物，二者共同由que引出尚未抵达玛德莱娜便已激动的结果。现译“截然分开”能传出特殊化，但“早已”并非原文所指的程度；“偶尔在寻常街头现身”又新增频率并缩窄au milieu du monde réel的范围，宜恢复想象中的差异与现实世界中的存在两层。“还没走到……一想到要靠近……”准确保留avant même与à la pensée的提前激动，相关教堂注释无需改动。末尾inopinément强调出乎预料地突然显现，“随时可能”侧重时间上的可能性，尚欠突然性；补入“突然”即可。“近乎神迹的身影”可传达apparition surnaturelle在少年的主观想象中如神迹般的意味，无须另加神学解释。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "那种令我痛苦又着迷的魔力，竟浸透了他的制服，连装饰镶边也不例外",
+      "after": "我曾在希尔贝特的名字中感到的那种令人痛苦的魅力，也浸透了他的制服，连装饰镶边也不例外",
+      "source": "pénétré jusque dans les galons de sa livrée du même charme douloureux que j’avais ressenti dans le nom de Gilberte",
+      "reason": "补回même…que的同一性及“在希尔贝特的名字中感到”这一被漏去的具体照应，保留魅力浸透至制服镶边的夸张。"
+    },
+    {
+      "type": "错译",
+      "before": "我天生就不配踏入他所把守的那个神秘生活",
+      "after": "我天生就不配，永远也无法踏入他所把守的那种神秘生活",
+      "source": "j’étais de ceux à qui une indignité originelle interdirait toujours de pénétrer dans la vie mystérieuse qu’il était chargé de garder",
+      "reason": "恢复toujours所表达的永久阻隔；同时把不自然的“那个……生活”改成“那种……生活”。"
+    },
+    {
+      "type": "错译",
+      "before": "夹层的窗户仿佛也知道自己将那个世界关在屋内；在垂着庄严薄纱的窗后，比起街上其他窗户，这些窗子倒更像希尔贝特凝望时的眼睛",
+      "after": "夹层的窗户仿佛也知道，自己紧闭着，遮住了那种生活；在庄重垂落的薄纱窗帘之间，这些窗户与其说像别的窗户，不如说更像希尔贝特的目光",
+      "source": "sur laquelle les fenêtres de l’entresol paraissaient conscientes d’être refermées, ressemblant beaucoup moins entre la noble retombée de leurs rideaux de mousseline à n’importe quelles autres fenêtres, qu’aux regards de Gilberte",
+      "reason": "恢复窗户自知紧闭于那种生活之外的拟人，把“窗后”的错误空间关系改为窗帘之间，并以“目光”对应regards，避免添出凝望动作和把目光实化为眼睛。"
+    },
+    {
+      "type": "错译",
+      "before": "我的想象早已将希尔贝特的父亲与世人截然分开，斯万偶尔在寻常街头现身，竟使现实世界也染上魔法",
+      "after": "在我的想象中，希尔贝特的父亲与世上其他人是那样不同，他出现在现实世界之中，又给这个世界带来那么多神奇色彩",
+      "source": "mon imagination différenciait tellement le père de Gilberte du reste de l’humanité, sa présence au milieu du monde réel y introduisait tant de merveilleux",
+      "reason": "恢复tellement与tant并列引出的两项程度原因；删去无依据的“早已”“偶尔”及缩窄现实世界为街头的表述，保留对斯万的神奇化感受。"
+    },
+    {
+      "type": "错译",
+      "before": "斯万这个近乎神迹的身影，随时可能在那里出现",
+      "after": "斯万这个近乎神迹的身影，随时可能在那里突然出现",
+      "source": "où pouvait se produire inopinément l’apparition surnaturelle",
+      "reason": "inopinément表示出乎意料地出现，单说“随时可能”不足以呈现突然显现的意味；局部补足即可保留原有比喻。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p053"
+  }
+}

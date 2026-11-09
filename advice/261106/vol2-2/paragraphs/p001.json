@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "assessment": "三句的比较结构、空间布置和样板寝室的比喻均完整保留；未见漏译或指代错置。第一句把池水的蓝色改写成浮动的蓝光，轻微改变了原文意象，建议恢复水色；其余保留。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "aucune ne ressemblait moins aux chambres de Combray ... comme les parois polies d'une piscine où l'eau bleuit",
+      "translation_anchor": "没有一间比巴尔贝克海滨大酒店里的那一间更不像贡布雷的房间了；像蓝光浮动的游泳池那光滑的池壁",
+      "finding": "aucune...moins...que 表示海滨酒店的房间与贡布雷最不相像，现译的双重比较方向正确。贡布雷气氛中的 grenue、pollinisée、comestible、dévote 分别化为细粒、花粉、可品尝、虔敬，保留了原文故意把触觉、味觉及宗教感混合的修辞；不宜仅因罕见就改平。酒店墙壁像光滑池壁圈住清澈、蔚蓝、带盐气的空气，也正确保留了容器比喻。不过 où l’eau bleuit 的主体是水、说的是池水泛蓝，现译“蓝光浮动”换成了光且增加浮动，应恢复水的蓝色。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "avait varié la décoration des pièces ... telle ou telle partie du tableau changeant de la mer se reflétait ... qu'interrompaient seuls les pleins de l'acajou",
+      "translation_anchor": "让每个房间的装饰各不相同；一排矮书柜沿着三面墙伸展开去；各扇玻璃随着所在位置的不同，映出那幅不断变化的海景的一角",
+      "finding": "avait varié 的对象是各房间的装饰，现译没有误成同一房间不断改装；sur trois côtés 与 dans celle que je me trouvai habiter 都落在“我住的”那间房里。柜门玻璃按位置映出变化海景的不同部分，是装潢师未预见的效果，现译将插入语后置，指向仍清楚。frise de claires marines 是一列明亮海景如饰带展开，les pleins 与玻璃相对，译成柜身实板隔断海景，准确且中文可读。无需另改。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Si bien que toute la pièce avait l'air d'un de ces dortoirs modèles ... des sujets en rapport avec le genre de site où l'habitation doit se trouver",
+      "translation_anchor": "于是整个房间就像展示“现代风格”家具的博览会上陈列的那种样板寝室；设想这些艺术品能使将来住在这里的人赏心悦目",
+      "finding": "Si bien que 承接玻璃海景构成装饰带的结果，现译“于是”衔接正确。“样板寝室”保留展览中示范房间的意思；on a supposées 没有说艺术品实际已经使住客快乐，现译“设想……能”保留了这种设定。题材与住房所在地的环境类型相配，现译以“风光相称”落实到此处海滨场景，未丢失比喻功能。整句虽长但冒号后说明层次清楚，保留。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "像蓝光浮动的游泳池那光滑的池壁",
+      "after": "像池水泛蓝的游泳池那光滑的池壁",
+      "source": "comme les parois polies d'une piscine où l'eau bleuit",
+      "reason": "où l’eau bleuit 说池水呈现蓝色，未出现浮动的光。改为“池水泛蓝”恢复意象主体，也使修饰关系明确。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p001"
+  }
+}

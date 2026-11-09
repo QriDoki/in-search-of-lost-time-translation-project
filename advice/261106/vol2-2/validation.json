@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-09",
+  "base_commit": "bdae506256944a0e76baa2a66d7d2e934fb1430e",
+  "reports_json": 64,
+  "reports_markdown": 64,
+  "independent_agents": 64,
+  "source_units": 427,
+  "all_units_covered": true,
+  "all_before_unique_and_nonoverlapping": true,
+  "replay_matches_dev": true,
+  "source_unchanged": true,
+  "baseline_hash_matches_main": true,
+  "title_preserved": true,
+  "paragraph_count": 64,
+  "annotation_count": 150,
+  "annotation_delimiters_preserved": true,
+  "changed_annotation_indices": [
+    21,
+    39,
+    71,
+    79,
+    88,
+    92,
+    95,
+    106,
+    107,
+    109,
+    134,
+    140,
+    145
+  ],
+  "annotation_changes_documented": true,
+  "dev_sha256": "6c28205dfddc4398d2145bc690f261664ef0dd74376306110949976fe289e7c6",
+  "git_diff_check": true,
+  "build": {
+    "command": "POLISH_VERSION=dev npm run build",
+    "status": "passed",
+    "exit_code": 0,
+    "warnings": "构建保留仓库已有的其他章节标题、出版信息、arrange.json来源提示及分块体积提示；本次未扩展修改。"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 24,
+  "assessment": "10个原文句子／意群均已核对。错过会面、等待使时空与人物都获得魅力、窥见希尔贝特的另一重生活，以及斯万的贵族交往被爱情放大的过程基本完整。建议将brusque从泛指随便的态度改为急促的举止，保持它与屈膝行礼、拘谨微笑之间的具体反差；其余保留。第8单元的lieux读法有疑点，仅留待主审核查，不据猜测改译。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "J'emmenais Françoise au-devant de Gilberte ... il y a déjà un quart d'heure que Gilberte est arrivée",
+      "translation_anchor": "我带着弗朗索瓦丝，朝我以为希尔贝特会来的方向迎去……希尔贝特已经来了十五分钟啦",
+      "finding": "au-devant表示迎上去，去到凯旋门却未遇见、返草坪时已认定她不来，与女孩突然扑来报信的先后关系完整。原文未完成过去时写反复发生的情境，中文以连贯叙述呈现而不必逐次标出习惯性。un quart d’heure为十五分钟，现译准确；voix brève延续前文短促嗓音，保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Elle va repartir bientôt.",
+      "translation_anchor": "她马上就要走。",
+      "finding": "va repartir是即将再次离开，提示刚到不久而停留将尽；现译“马上就要走”与前句已到十五分钟相连，时间迫切感保留，不需加重成已经离去。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "On vous attend pour faire une partie de barres.",
+      "translation_anchor": "大家等着你玩一局抢垒呢。",
+      "finding": "on指等候开局的伙伴，目的为玩一局barres；“大家等着你”与游戏目的对应。vous在此儿童对话中译“你”可接受，不必机械改成敬称。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Pendant que je montais l'avenue des Champs-Élysées ... Mademoiselle ayant profité du beau temps pour faire des courses pour elle ; et M. Swann allait venir chercher sa fille",
+      "translation_anchor": "我沿着香榭丽舍大街往上走的时候，希尔贝特正从布瓦西-当格拉街过来……斯万先生过一会儿就要来接女儿",
+      "finding": "pendant que说明两人走不同路线的同时性，家庭女教师趁晴办事解释了改道；现译关系清楚。faire des courses可指购物或外出办事，“办了点事”保留其宽泛义；pour elle具体是为女教师自身还是为希尔贝特，本段不足以绝对排除另一读法，不强加代词解释。allait venir仍是将来接人，译“过一会儿就要来”未误成已经接走。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Aussi c'était ma faute ... une immense étendue d'espace et de temps ... elle m'était décochée en plein cœur ... le mystère de sa vie inconnue",
+      "translation_anchor": "所以错在我。我本不该离开草坪……我由此触到了她那不为人知的生活里的秘密",
+      "finding": "原文先自责离开固定地点，再由无法确定她的路线和到达时刻，推及整片香榭丽舍及整个下午都成为可能出现她的时空；现译冒号和破折号把这一层次展开，并未把等待仅限于某个角落。non seulement...mais encore还把魅力推到身影本身，现译“不只是……而且还有”对应。四点／两点半、做客帽／游戏帽、咖啡馆／戏台三组对照完整；décochée的箭喻也保留。最后从外观推知无从跟随的活动与出门留家的制约，未误写为已知具体行程。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Gilberte, si vive et brusque avec nous, faisant une révérence ... un sourire timide, d'un air compassé",
+      "translation_anchor": "我看见希尔贝特对我们那样活泼、那样随随便便，却向……屈膝行礼……神情拘谨",
+      "finding": "小姑娘催促“我”跑去开局、希尔贝特向读报太太正式行礼、羞怯微笑和拘谨姿态都对应；这些动作使“我”想到她在父母及其朋友面前的另一面，现译保留了这层推想。brusque主要说动作或举止急促、突兀，现译“随随便便”却泛化为不拘礼数的态度，虽切合整体对照，仍丢失与活泼并列的具体举止特征，建议局部恢复。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Mais de cette existence, personne ne me donnait l’impression comme M. Swann qui venait un peu après pour retrouver sa fille.",
+      "translation_anchor": "可是，关于这重生活，再没有谁像斯万先生那样，给我留下那么深的印象——他过一会儿就来接女儿",
+      "finding": "de cette existence继续指“我”无从进入的另一重生活；personne...comme突出斯万最能唤起对这种生活的感受，并不是说其他人完全没有作用。现译用“再没有谁像……那么深”保留比较强度，后半时间仍为稍后来接女儿，衔接完整。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "C’est que lui et Mme Swann ... contenaient pour moi ... un inconnu inaccessible, un charme douloureux",
+      "translation_anchor": "这是因为，他和斯万夫人……藏着一种不可接近的未知、一种令人痛苦的魅力",
+      "finding": "父母同住、控制学业游戏友谊这三项原因均已译出，未知魅力在父母身上甚至比希尔贝特更强的递进也保留。现译后置解释父母对女儿的支配及未知生活的来源，整体仍处于“在我眼里”的主观框架中，不必再次加上客观断言式解释。底本写des lieux tout-puissants，若按字面“对她全能的地点”理解颇突兀，可能涉及字词或隐喻层面的疑点；现译转述为父母地位没有保留这个词的字面，暂不据推测判定或改成其他法词，留主审核查。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Tout ce qui les concernait ... son chapeau gris et de son manteau à pèlerine ... un personnage historique",
+      "translation_anchor": "凡与他们有关的一切，我都时刻挂在心上……像是一位历史人物",
+      "finding": "原文因持续关注而使斯万的灰帽、披肩大衣先引发心跳，心跳平复后又如同读过多部传记的历史人物般令人着迷；现译分号和插入语保留这两个层次。过去常见却不好奇与如今专注最细微特点的反差也完整，未把比喻当作斯万真的具有历史人物身份。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "Ses relations avec le comte de Paris ... personne d’autre n’eût jamais connu les Orléans ... tant était profond l’incognito dont il était enveloppé",
+      "translation_anchor": "他与……巴黎伯爵……的交往……他在人群中竟隐没得如此彻底，仿佛无人知道他是谁",
+      "finding": "贡布雷时漠不关心、如今觉得奇妙，以及仿佛只有斯万认识奥尔良家的夸张均已保留。各阶层散步者在现译中概括为“各色散步人群”，结合贵族关系与普通背景的对照尚可理解，无须为字面扩写。斯万不索取特别敬意与旁人根本不知其身份、也未想到给敬意两层意思都在，incognito译为无人知道他是谁，而非主动乔装，合乎上下文。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "对我们那样活泼、那样随随便便",
+      "after": "和我们相处时那样活泼、举止那样急促",
+      "source": "si vive et brusque avec nous",
+      "reason": "brusque说动作或举止的急促、突兀；“随随便便”主要指态度不拘礼数，泛化了原文具体行为特征。改文保留她与玩伴相处时的活泼急促，和对老太太正式、拘谨的反差。"
+    }
+  ],
+  "annotation_notes": [
+    {
+      "anchor": "comme il convenait à des lieux tout-puissants sur elle en qui il aurait eu sa source",
+      "status": "原文待核",
+      "reason": "底本lieux与父母支配女儿的上下文搭配突兀，可能存在词形或隐喻解释问题。现译转述为父母地位，未保留lieux字面；请主审如有必要核对底本，不据猜测改成其他法词。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p024"
+  }
+}

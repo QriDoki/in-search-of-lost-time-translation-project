@@ -1,0 +1,52 @@
+{
+  "id": 36,
+  "assessment": "本段基本保留了爱情人格化的自问自答，以及明知旧友谊无望、却立即试图另起一段友谊的反复心理。需修正三处：希尔贝特感情不可改变的断言被“似乎”削弱，“无从挽回”将无计可施偏移为修复破裂关系，末句则把次日立即行动写成“从第二天起”，并弱化时间重新开始的拟人比喻、淡化为新友谊奠基的具体说法。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Ces paroles nouvelles, mon amour les entendait ; elles le persuadaient que le lendemain ne serait pas différent ... trop ancien déjà pour pouvoir changer ... c’est moi seul qui aimais.",
+      "translation_anchor": "我的爱情听见了这番前所未有的话；它们使它相信，明天不会和过去所有的日子有什么不同；她对我的态度由来已久，早已形成，似乎不可能改变；而这种态度，就是冷淡；在我与希尔贝特的友谊里，只有我一个人在爱着。",
+      "finding": "首句将mon amour人格化为听话、受说服者，译为“我的爱情”与后文答话相接，宜保留；“前所未有”略强化nouvelles的新意，但承接前段新秩序揭示的话语，可作修辞处理而不必另改。三层que均为爱情接受的判断：明日与往日无异，希尔贝特长久以来的感情就是冷淡，友谊中只有我在爱。第一层比较和末层moi seul的单向性已译出。中层sentiment指对我的感情，“态度”转成外在表现；trop ancien déjà pour pouvoir changer是“已持续太久，不能改变”，没有“似乎”的不确定性，应恢复确信口气。“早已形成”只是解释性重复，可随本处合并。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "« C’est vrai, répondait mon amour, il n’y a plus rien à faire de cette amitié-là, elle ne changera pas.",
+      "translation_anchor": "“说得对，”我的爱情答道，“这段友谊确实无从挽回；它不会变了。”",
+      "finding": "C’est vrai与“说得对”相合，répondait mon amour继续维持爱情答话的拟人方式；elle指这段友谊，“它不会变了”无误。il n’y a plus rien à faire de cette amitié-là表示对这段友谊再无办法可想、再不能使它产生期望中的变化，不必预设友谊已经破裂或丧失。“无从挽回”容易使读者理解为修复关系已经不可能，而本段实际仍有友谊，只是感情单向。宜改成“再也没什么办法可想了”，保留下一句“它不会变了”的解释作用。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Alors dès le lendemain (ou attendant une fête s’il y en avait une prochaine ... où le temps recommence sur de nouveaux frais ... ) je demandais à Gilberte de renoncer à notre amitié ancienne et de jeter les bases d’une nouvelle amitié.",
+      "translation_anchor": "于是从第二天起，或等到不久后某个节日、生日，也许等到新年——这些与众不同的日子，仿佛容许时间重新起步，甩掉过去的遗产，拒绝继承往昔留下的忧伤——我便会请求希尔贝特，结束过去的友情，重新开始一种新的友情。",
+      "finding": "Alors承接爱情承认无计可施后的行动，dès le lendemain强调就在次日便提出请求；“从第二天起”容易读成此后持续请求的起点，应恢复“第二天……便”的对应。括号提供另一个时点：若恰有节日将近，也可能等到那天；现译“不久后某个节日”把有条件的等待写成了预定会有的日程。anniversaire未指明谁的生日，也可为纪念日，宜用“某个纪念日”保留范围。un de ces jours仍指其中一天；时间在那天重新起步，主动抛弃过去的遗产、拒绝忧伤的遗赠。现译“仿佛容许”增加模态和一个隐含的许可关系，减弱原文直陈的拟人，宜删。末尾renoncer à与jeter les bases分别是放弃旧友情、为新友情奠定基础，后者不仅是一般的“重新开始”，保留“奠定基础”也能呈现他试图从头重建、绕过既有结论的执拗。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "她对我的态度由来已久，早已形成，似乎不可能改变；而这种态度，就是冷淡",
+      "after": "希尔贝特对我的感情由来已久，已经不可能改变；而这种感情，就是冷淡",
+      "source": "que le sentiment de Gilberte pour moi, trop ancien déjà pour pouvoir changer, c’était l’indifférence",
+      "reason": "sentiment是对我的感情；trop ancien ... pour pouvoir changer明确断言已久而无法改变，不能加入“似乎”削弱爱情被说服后接受的判断。"
+    },
+    {
+      "type": "错译",
+      "before": "这段友谊确实无从挽回；它不会变了。",
+      "after": "对这段友谊，再也没什么办法可想了；它不会变了。",
+      "source": "il n’y a plus rien à faire de cette amitié-là, elle ne changera pas",
+      "reason": "原文说对这段友谊再无办法可想，未说友谊已经破裂而须挽回；修订避免把改变单向感情误读为修复失去的关系。"
+    },
+    {
+      "type": "错译",
+      "before": "于是从第二天起，或等到不久后某个节日、生日，也许等到新年——这些与众不同的日子，仿佛容许时间重新起步，甩掉过去的遗产，拒绝继承往昔留下的忧伤——我便会请求希尔贝特，结束过去的友情，重新开始一种新的友情。",
+      "after": "于是，第二天（或者，如果恰有一个节日将近，就等到那个日子——某个纪念日，也许是新年，那样一个不同于平日的日子，在这一天，时间重新起步，抛弃过去的遗产，拒绝继承过去的忧伤），我便会请求希尔贝特放弃我们旧有的友情，为一段新的友情奠定基础。",
+      "source": "Alors dès le lendemain (ou attendant une fête s’il y en avait une prochaine, un anniversaire, le nouvel an peut-être, un de ces jours qui ne sont pas pareils aux autres, où le temps recommence sur de nouveaux frais en rejetant l’héritage du passé, en n’acceptant pas le legs de ses tristesses) je demandais à Gilberte de renoncer à notre amitié ancienne et de jeter les bases d’une nouvelle amitié.",
+      "reason": "恢复次日即行动的时间关系和“若有节日将近”的条件；anniversaire保留纪念日的开放含义。去掉无依据的“仿佛容许”，让时间直接作为重新开始、拒绝继承忧伤的主体，并明确译出放弃旧友情、为新友情奠基的两步请求。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p036"
+  }
+}

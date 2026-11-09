@@ -1,0 +1,26 @@
+{
+  "id": 26,
+  "assessment": "本段的晴天、期待落空及向希尔贝特流露失望的事件关系均已传达。“没法”把主观上无力振作、维持掩饰的心理状态泛化成了无法做到，宜补足原文 courage 所表达的内在心力不足；其余措辞可保留。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Un de ces jours de soleil qui n'avait pas réalisé mes espérances, je n'eus pas le courage de cacher ma déception à Gilberte.",
+      "translation_anchor": "那又是个辜负我期待的晴天，我没法向希尔贝特掩饰自己的失望。",
+      "finding": "Un de ces jours de soleil 指此前所述那些晴天中的某一天；qui n’avait pas réalisé mes espérances 以这一天为先行词，写这一天没有实现“我”的期望，译为“辜负我期待的晴天”保留了拟人意味。“那又是个”略带回指与重现之感，在这些晴天的叙述脉络中可接受。主句 je n’eus pas le courage de cacher 写的是“我”当时没有足够的心力去掩饰失望，并非客观上无法掩饰，也不是希尔贝特已经识破；现译“没法”未交代这一心理动因，改为“没有心力”更明确。à Gilberte 是隐瞒所针对的对象，中文改说“在希尔贝特面前掩饰”自然且不改变对象；déception 对应“失望”，保留。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "我没法向希尔贝特掩饰自己的失望",
+      "after": "我没有心力在希尔贝特面前掩饰自己的失望",
+      "source": "je n’eus pas le courage de cacher ma déception à Gilberte",
+      "reason": "n’avoir pas le courage de 在此强调心力不足，无法勉力维持掩饰；“没法”只表达一般的不能，淡化了叙述者内在的心理状态。“在……面前掩饰”也比“向……掩饰”更合中文搭配。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p026"
+  }
+}

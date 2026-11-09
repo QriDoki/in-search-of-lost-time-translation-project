@@ -1,0 +1,60 @@
+{
+  "id": 10,
+  "assessment": "8个句子／切分单元均已核对。译文完整保留叙述者从远远徘徊到参与游戏的过程、希尔贝特不能到场的不同缘由，以及她的自然态度与叙述者痛苦之间的反差；未发现须改的错译、漏译或中文句法问题。原文最后以家庭女教师自己怕雨解释缺席，译文也明确保留了这一讽刺性动因。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Retournerait-elle seulement aux Champs-Élysées ?",
+      "translation_anchor": "她还会再来香榭丽舍吗？",
+      "finding": "条件式疑问表达叙述者连她是否会回来都不能确定的忐忑；‘还会再来……吗’自然传达了这种不确定，并未误成已经断定她不会回来。seulement 在此加强疑问，不必机械补成‘仅仅’。保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "je tournais tout le temps autour de l'endroit ... elle me fit demander si je voulais compléter leur camp",
+      "translation_anchor": "我成天在她和女伴们玩耍的地方转悠……她便让人来问我愿不愿意加入她们那队，把人数补齐",
+      "finding": "次日未见、随后几日再见、不断在附近徘徊，最终因游戏一方人数不足而获邀，事件顺序与因果均完整。me fit demander 是托人询问，译文没有误成她亲自来邀请；compléter leur camp 指补足她们这一队，已由‘加入她们那队，把人数补齐’明确。désormais 与 chaque fois 的合义为从此凡她在场便一起玩，不是说后来每天都在，译文与下一句的转折相容。保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "ses cours, le catéchisme, un goûter, toute cette vie séparée de la mienne ... par deux fois, condensée dans le nom de Gilberte",
+      "translation_anchor": "因为要上课、要上……教理问答课……要去人家家里吃……点心……这个与我隔绝的世界曾两度凝聚在她的名字中",
+      "finding": "三种缺席缘由均译出；它们共同显现她与叙述者分离的生活，译成‘自有一个……世界’是贴合上文的形象化表达。par deux fois 的两次体验分别发生在贡布雷坡径与香榭丽舍草坪，译文明确列出，名字所凝聚的是她的生活世界，指代未错。‘痛苦地感到……从我身旁掠过’保留感知与痛感，并无把世界真的从身边经过的写实误解。保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "si c'était à cause de ses études ... d'un air chagrin qui me consolait un peu ; mais en revanche ... J'espère bien que non !",
+      "translation_anchor": "若是因为功课……说时一脸懊丧，让我稍稍得到安慰；可是反过来，当她受邀参加下午的聚会……但愿不用来！",
+      "finding": "长句的两种情形区分准确：功课使她不能来，她显得懊丧，因此安慰了希望她同样不舍的‘我’；受邀赴聚会时她反而盼着不来，形成使‘我’痛苦的反差。译文保留叙述者事先不知聚会仍问她是否来玩的插入信息。matinée 在这里指白日尤其午后的社交聚会，‘下午的聚会’合乎语境；‘但愿不用来’作为女孩脱口而出的回应，与下句连读表达盼望去朋友家的意思。保留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "J'espère bien que maman me laissera aller chez mon amie.",
+      "translation_anchor": "但愿妈妈肯让我去我女伴家。",
+      "finding": "me laissera aller 是盼望母亲允许去朋友家，尚非已经得到许可；译文的‘但愿……肯让我’保留这一愿望与许可关系。mon amie 在儿童女伴语境下译‘女伴’恰当，没有将其爱情化。保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Du moins ces jours-là, je savais ... tandis que d'autres fois, c'était à l'improviste ... elle disait : « Ah !",
+      "translation_anchor": "至少那些日子，我知道自己见不到她；而另一些时候，是她母亲临时带她出去买东西，第二天她便说：‘啊，",
+      "finding": "Du moins 表达即便受挫，至少已预知见不到她；它与临时被母亲带去购物的情形相对。译文以‘至少……而另一些时候……临时’保留了预知与意外的区别。faire des courses 在此为外出购物，译法正确；其后的说明发生在第二天，时序未混。句末感叹词与下一单元是同一句引语，连读核对。保留。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "oui, je suis sortie avec maman ... comme une chose naturelle, et qui n'eût pas été pour quelqu'un le plus grand malheur possible",
+      "translation_anchor": "对了，我跟妈妈出去了。’仿佛这是件再自然不过的事，而对另一个人来说，这本来会是天大的不幸。",
+      "finding": "她事后轻描淡写地承认随母亲外出，仿佛并不构成任何灾难；quelqu'un 暗指叙述者。现译将原文受‘仿佛’支配的否定反讽转写为‘她觉得自然，而另一个人遭遇大不幸’的明示对照，中文层次清楚，也未反转实际情感事实。‘另一个人’保留原文不用‘我’直说的距离，‘天大的不幸’对应最高程度的痛苦。保留。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "son institutrice, qui pour elle-même craignait la pluie, ne voulait pas l'emmener",
+      "translation_anchor": "她的……家庭女教师……自己怕雨，不肯带她去香榭丽舍。",
+      "finding": "pour elle-même 强调怕淋雨的是女教师本人，并非她替希尔贝特担心身体；现译‘自己怕雨’准确保留动因。ne voulait pas 是不肯带她出去而非做不到，译‘不肯’正确。恶劣天气、女教师不愿陪同、希尔贝特缺席的关系完整，句式自然。保留。"
+    }
+  ],
+  "changes": [],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p010"
+  }
+}
