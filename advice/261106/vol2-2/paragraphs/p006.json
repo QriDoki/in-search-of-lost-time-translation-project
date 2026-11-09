@@ -1,0 +1,93 @@
+{
+  "id": 6,
+  "assessment": "本段由一整句构成，以分号展开十个意群。条件、比较以及各地名引出的色彩、材质和声音意象基本传达完整。建议明确de préférence的优先选择意味，避免“本情愿”的生硬搭配；并将coiffe的头饰意象与légère的轻盈质感译得更准确。黄油塔注释的具体建筑归属仅凭本段不能核实，供主审另查。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Si ma santé s'affermissait ... j'aurais voulu m'arrêter de préférence dans les villes les plus belles",
+      "translation_anchor": "倘若我身体渐渐好起来……那我本情愿在最美的几座城市停留",
+      "finding": "Si引出身体好转、父母许可两个条件，sinon...du moins把巴尔贝克的长期逗留退而求其次为乘车游览；译文没有把假设误作已经落实的旅行。火车时刻、想象中多次乘车和诺曼底／布列塔尼均保留。但de préférence是优先、较愿选择，“本情愿”在现代汉语中容易呈现本来甘愿或让步口吻，并未清楚表达偏好，建议改为“更愿意”。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "comment choisir plus qu'entre des êtres individuels, qui ne sont pas interchangeables ... Bayeux ... dentelle rougeâtre ... vieil or",
+      "translation_anchor": "这哪里是在几座城市之间挑，分明是在几个不能互相替代的人之间作选择……暗红花边……古旧的金色",
+      "finding": "原文把各城视为不能互换的个体，反问其间选择何尝比在个体间选择容易；现译借人来落实拟人语气，呼应上段“像人一样”，比较的难以取舍意味仍在。巴约的高耸、贵重红色花边和末音节照亮顶端的旧金色均依次保留；“暗红”是rougeâtre在本段旧色调中的可接受表达。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Vitré dont l'accent aigu losangeait de bois noir le vitrage ancien",
+      "translation_anchor": "名字上那枚尖音符仿佛用黑色木条把古老的窗格分成菱形",
+      "finding": "原文以尖音符作主语，把古老玻璃窗用黑木框成菱形；译文“仿佛”明确这是地名引发的图像，而未误当实际建筑描述。黑木、窗格、菱形三个视觉要素均在，注释解释音符与拼写，正文不需进一步扩写。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "le doux Lamballe qui, dans son blanc, va du jaune coquille d'œuf au gris perle",
+      "translation_anchor": "温柔的……朗巴勒……一身白色，从蛋壳黄渐渐过渡到珍珠灰",
+      "finding": "doux的柔和质感与白色范围内从蛋壳黄到珠灰的色阶都保留。“一身白色”延续拟人，并不意味着蛋黄而与白色矛盾；coquille d’œuf确指蛋壳色。现译自然，无需改动。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Coutances, cathédrale normande, que sa diphtongue finale, grasse et jaunissante, couronne par une tour de beurre",
+      "translation_anchor": "库唐斯，在我眼中是一座诺曼底大教堂……浑厚、泛着黄意的双元音……戴上了一座“黄油塔”",
+      "finding": "原文把库唐斯整体想成诺曼底大教堂，并让末尾浑厚而泛黄的双元音替它冠上黄油塔；译文加“在我眼中”“仿佛”使想象的层次清楚，grasse的音色与beurre的物质联想均未丢失。正文可保留。不过原文只说une tour de beurre，无法单据此确认注释所称“库唐斯圣母大教堂钟楼的俗称”，该建筑归属应另外核查。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Lannion avec le bruit, dans son silence villageois, du coche suivi de la mouche",
+      "translation_anchor": "拉尼永，村落的寂静中响起马车辚辚的声音，后面还跟着一只苍蝇",
+      "finding": "村落寂静与马车声的反衬准确；suivi de la mouche的被修饰对象是coche，译文使苍蝇跟在马车后面，指代无误。“辚辚”将车声具象化而未改变信息，正文及既有寓言注释可保留。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Questambert, Pontorson, risibles et naïfs, plumes blanches et becs jaunes éparpillés sur la route de ces lieux fluviatiles et poétiques",
+      "translation_anchor": "凯斯坦贝尔、蓬托尔松，可笑而天真，白羽黄喙，散落在通往这些多水而诗意之地的路上",
+      "finding": "两个地名在声音联想中化作可笑天真的白羽黄嘴形象，现译没有擅自补出具体鸟种。“多水”较泛，但fluviatiles在这里正与河水、沿河城镇的后续图景相接，整体指向未失；“通往……的路上”可接受，无须把这种无动词列举强改成说明文。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Benodet, nom à peine amarré que semble vouloir entraîner la rivière au milieu de ses algues",
+      "translation_anchor": "这个名字仿佛还没在岸边系牢，河水仿佛就要把它带进自己的海藻丛中",
+      "finding": "原文用系泊不牢的名字比船，让河水似乎要将其拖进水草；译文系牢、河水带走和仿佛的非实指语气均在。“在岸边”是系泊图像的合理落实；algues译海藻在此河海交接的图像中不致造成需要确定纠正的偏差。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Pont-Aven, envolée blanche et rose de l'aile d'une coiffe légère qui se reflète en tremblant dans une eau verdie de canal",
+      "translation_anchor": "轻软头巾的翅翼扬起一片白与粉，倒影在泛绿的运河水中轻轻颤动",
+      "finding": "白色和粉色的扬起、帽饰的翅翼与水中颤动倒影均保留。但coiffe是戴在头上的罩帽／头饰，不宜落实为软质围裹的“头巾”；légère强调轻巧轻盈，并没有“软”。建议用“轻盈头饰”保留不具体判定帽型的余地，恢复轻盈而不增加软质材料。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "Quimperlé, lui, mieux attaché et, depuis le moyen âge, entre les ruisseaux ... pointes émoussées d'argent bruni",
+      "translation_anchor": "则系得更牢，自中世纪以来便夹在溪流之间……一根根磨钝的暗银尖锋",
+      "finding": "mieux attaché与前文贝诺代尚未系牢相对照，现译“则系得更牢”关系明确；中世纪以来夹在溪流间、流水呢喃与珍珠光泽也保留。末尾是灰色画面与透过蛛网和彩窗、如磨钝银尖的阳光所绘色调相似，译文分成两小句，比较对象没有错置。“尖锋”与“磨钝”构成原文已有的张力，不宜单因中文不常见而删平。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "不符合现代中文习惯",
+      "before": "那我本情愿在最美的几座城市停留",
+      "after": "那我更愿意在最美的几座城市停留",
+      "source": "j'aurais voulu m'arrêter de préférence dans les villes les plus belles",
+      "reason": "de préférence表示优先选择或偏好，“本情愿”搭配生硬，且容易读成原本甘愿；改为“更愿意”使条件下的偏好清楚。"
+    },
+    {
+      "type": "错译",
+      "before": "轻软头巾的翅翼",
+      "after": "轻盈头饰的翅翼",
+      "source": "l'aile d'une coiffe légère",
+      "reason": "coiffe是头罩／帽饰等头上服饰，并未指定软质头巾；légère说轻盈而非柔软。改用较中性的“头饰”，保留翅翼比喻和轻盈质感。"
+    }
+  ],
+  "annotation_notes": [
+    {
+      "anchor": "库唐斯圣母大教堂钟楼的俗称",
+      "status": "待核",
+      "reason": "本段只写une tour de beurre，属于地名声音所生想象，未直接说明库唐斯实有此俗称。建议主审核查注释的具体建筑归属；此处不据不确定文化事实改正文或注释。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p006"
+  }
+}

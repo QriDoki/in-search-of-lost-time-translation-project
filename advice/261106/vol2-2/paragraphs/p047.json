@@ -1,0 +1,24 @@
+{
+  "id": 47,
+  "assessment": "本段两处否定义务与反问、以及以不认识斯万妻子为由的辩解，原译均完整传达；语气与母亲在邻段急于否认双方失和、却不愿结识斯万夫人的态度相合。中文简洁通顺，无需修订。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "On n'est pas obligé d'inviter tout le monde ; est-ce qu'il m'invite ?",
+      "translation_anchor": "谁也没义务请遍所有人；他请过我吗？",
+      "finding": "前半句的 on 是泛指，n'est pas obligé 否定的是请客的义务，并非说不得邀请；“谁也没义务”准确保留此层否定，“请遍所有人”也传达 tout le monde 的范围。后半句以斯万是否邀请自己反问，作为不再邀请他的辩解，原译保持了双方互请的逻辑和带有抵触情绪的口吻。法文 m'invite 用现在时，侧重他是否有邀请自己的行为或惯例；汉语“请过我吗”在此以有无受邀经历表达同一反问，未增加某次具体邀约或时间范围，不必机械改成较生硬的“他请我吗”。保留分号也使一般辩解与反问衔接清楚。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Je ne connais pas sa femme.",
+      "translation_anchor": "我可不认识他妻子。",
+      "finding": "je 指母亲，sa 指斯万；“我”“他妻子”的人物关系正确。ne connais pas 是不认识、未结识其妻，并非不知道他已有妻子；原译保留这一关键区别。结合前文母亲不愿结识斯万夫人的叙述，此句同时是对没有往来的解释和自我辩护。“可”是中文对话中合宜的强调，未把原文的不认识擅自改成明确拒绝结识，也没有增添对斯万夫人的评价，可以保留。"
+    }
+  ],
+  "changes": [],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p047"
+  }
+}

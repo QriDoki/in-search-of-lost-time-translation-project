@@ -1,0 +1,107 @@
+{
+  "id": 23,
+  "assessment": "11个逐句／意群单元均已核对。晴日的希望、见面落空与老太太把椅票当赠花般展示的连续描写基本完整；建议恢复阳台脱离墙面的意象和雕像举童接受太阳赐福的关系，修整一处生硬动机句式，并避免“胸衣”在现代中文造成内衣歧义。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Si elle me donnait parfois ... les jours mêmes sur lesquels j'avais le plus compté",
+      "translation_anchor": "她有时也对我表示出这样的友情……偏偏在那些我最寄予厚望的日子里，她往往如此",
+      "finding": "Si在这里引出让步式对照：她虽有友情表示，也常显得不乐意见我；并非友情表示造成痛苦。现译两个“有时”及“可”保留交替和对立；偏偏是期待最重的日子这一反差也完整，不必改成机械条件句。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "la vague anticipation d'un grand bonheur ... l'hiver recevait jusqu'au soir la visite inopinée et radieuse d'une journée de printemps",
+      "translation_anchor": "我确信希尔贝特会到香榭丽舍来……一个明媚的春日，要留到天黑才走",
+      "finding": "主干是从春日迹象认定能见希尔贝特，欢喜只像更大幸福的模糊预告。现译将时间从句后置展开，虽长但仍能读出清晨获得天气预兆的原因。母亲已经梳洗、黑发如高塔、白皙丰润的手留肥皂味，及钢琴上尘柱与街头风琴两个感官线索均保留。冬天接待春日客人直到晚上的拟人，也与原文一致；“在光里”是尘柱可见的语境性落实，不构成信息偏移。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "la dame d'en face avait fait décamper ... un rayon ... était déjà revenu la continuer",
+      "translation_anchor": "对面的女士推开窗……转眼又回来接着睡它的觉",
+      "finding": "推窗使光线突然从椅旁逃跑、一次跳过餐室全宽、随即回来继续午睡，译文主语一贯为那道阳光，未误作女士横越房间。原文将日光拟人化的睡与逃保留；déjeunions在上学时段译午饭合理，过去完成时的先睡后逃又归的顺序清楚。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "les balcons, descellés par le soleil et vaporeux, flottaient ... comme des nuages d'or",
+      "translation_anchor": "阳台在阳光中仿佛散开了轮廓，朦朦胧胧，像一朵朵金色的云浮在屋前",
+      "finding": "一点钟上课、三点前不能赴游园之约以及放学后走向香榭丽舍的时序无误；金色微光如请柬、街道人群和云状阳台也保留。不过desceller的此处词形descellés强调被解开建筑上的固定、仿佛脱离墙面，正因此能“漂浮”；“散开了轮廓”换成边缘模糊，只保留了vaporeux的一层，应恢复脱离依附的意象。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Hélas !",
+      "translation_anchor": "唉！",
+      "finding": "独立感叹承接先前天气与希望的欢欣，转到没有见到希尔贝特的失望；现译位置及语气一致。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "je ne trouvais pas Gilberte, elle n'était pas encore arrivée",
+      "translation_anchor": "我却找不到希尔贝特，她还没有来",
+      "finding": "不是希尔贝特已经离去，而是尚未来到。现译“还没有来”准确保留尚未发生，且“却”对应前面期待的落空，保留。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "la statue qui semblait tendre l'enfant qu'elle portait et qui ruisselait de rayons à la bénédiction du soleil",
+      "translation_anchor": "雕像抱着孩子，仿佛正将孩子举向外面，满身是阳光的洗礼",
+      "finding": "不可见的太阳滋养草坪、草尖亮光、鸽子如从庄严土地掘出的古雕像，以及我凝视天际等候她跟着女教师出现，都完整。句末tendre l'enfant ... à la bénédiction du soleil是将孩子举向太阳的赐福；孩子沐在光中与举起接受祝福共同构成画面。现译增入“向外面”而没交代所举向的祝福，把祝福改写为笼统洗礼，削弱姿态的解释，应明确孩子被举起接受太阳的祝福。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "La vieille lectrice des Débats ... un geste amical ... Quel joli temps",
+      "translation_anchor": "老太太坐在她的扶手椅上……朝他友好地挥挥手，喊道：“多好的天气！”",
+      "finding": "常读《辩论报》的老太太仍在原位，先招呼的是看守人；现译没有与后来的租椅妇混淆。挥手的友好姿态与赞叹好天气，延续她主动与园中各阶层熟络的表现，保留。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "comme si ç'avait été un bouquet ... par amabilité pour le donateur, la place la plus flatteuse possible",
+      "translation_anchor": "仿佛那是一束花；为了这束花，她出于对送花人的亲切，要替它寻一个最体面的位置",
+      "finding": "收费者走近后，老太太将十生丁票插进手套口，仿佛收到花束，原译清楚保留这场做作表演。对赠花人表示殷勤或客气，是替花选好位置的动机，不是票真的由对方赠送。“为了这束花”与后面的目的重复，“出于对送花人的亲切”搭配生硬，建议整理为“为了向送花人表示好意”，维持假想赠礼的语境。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "en indiquant son corsage ... Vous reconnaissez vos roses",
+      "translation_anchor": "一个女人指着自己的胸衣对年轻人说“您认得出您的玫瑰吧！”",
+      "finding": "找到位置后转脖子、理围脖、亮出手腕黄票并向租椅妇微笑，构成模仿女人展示情人赠花的动作，现译主客体和讽刺意味均清楚。corsage在这幅展示玫瑰的图景中是衣服胸前部分；现代中文“胸衣”常使人理解为内衣，建议用“衣襟”表明花别在外衣前部的展示位置。引语的vos保留为“您的”，正确点出年轻人就是赠花者。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "»",
+      "translation_anchor": "时，露的就是这样的笑容。",
+      "finding": "本单元只是上一单元引语的右引号，原文内容均已在第10项核对；中文已闭合引语并完成笑容的比较句，无漏译。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "阳台在阳光中仿佛散开了轮廓，朦朦胧胧，像一朵朵金色的云浮在屋前。",
+      "after": "阳台仿佛被阳光从墙上卸了下来，朦朦胧胧，像一朵朵金色的云浮在屋前。",
+      "source": "les balcons, descellés par le soleil et vaporeux, flottaient devant les maisons comme des nuages d'or",
+      "reason": "descellés说阳台仿佛被解除建筑上的固定，与后文漂浮相接；现译仅写轮廓散开，遗漏脱离墙面的具体意象。修订以仿佛限定，保留其视觉幻象性质。"
+    },
+    {
+      "type": "错译",
+      "before": "雕像抱着孩子，仿佛正将孩子举向外面，满身是阳光的洗礼。",
+      "after": "雕像仿佛正举起怀里那浑身流淌着光芒的孩子，让他接受太阳的祝福。",
+      "source": "la statue qui semblait tendre l'enfant qu'elle portait et qui ruisselait de rayons à la bénédiction du soleil",
+      "reason": "tendre l'enfant à la bénédiction du soleil说明伸举孩子所朝向的太阳赐福；现译改成“向外面”，又将祝福泛化为洗礼，未保留姿态的寓意。修订同时保留怀抱、举起、流淌的光与太阳赐福。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "为了这束花，她出于对送花人的亲切，要替它寻一个最体面的位置。",
+      "after": "为了向送花人表示好意，她要替这束花寻一个最体面的位置。",
+      "source": "pour qui elle cherchait, par amabilité pour le donateur, la place la plus flatteuse possible",
+      "reason": "“出于对某人的亲切”不合通常搭配，且两个目的成分叠置使句子拖沓。用“向送花人表示好意”表达amabilité的动机，花束仍承接前面的假想。"
+    },
+    {
+      "type": "不符合现代中文习惯",
+      "before": "一个女人指着自己的胸衣对年轻人说",
+      "after": "一个女人指着自己的衣襟对年轻人说",
+      "source": "une femme, en indiquant son corsage à un jeune homme",
+      "reason": "此处展示的是胸前佩花的位置，“胸衣”在现代中文容易被理解为内衣；“衣襟”能自然呈现胸前衣服上的玫瑰，同时保留与老太太展示手腕椅票的对照。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p023"
+  }
+}

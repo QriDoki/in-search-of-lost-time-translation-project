@@ -1,0 +1,384 @@
+{
+  "method": "从本任务本地会话保存的实际工具调用恢复报告；保留literal数据或重放经过静态检查且限制仅写指定段落JSON的原始Python。未重新生成审校结论。",
+  "original_base_commit": "bdae506256944a0e76baa2a66d7d2e934fb1430e",
+  "original_temporary_worktree_lost": true,
+  "restored_report_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    63,
+    64
+  ],
+  "source_units_total_for_restored": 377,
+  "restored_report_provenance": {
+    "1": {
+      "session": "rollout-2026-11-08T23-14-35-01a1bbb9-c17c-7193-ad0e-192531662445.jsonl",
+      "call_id": "call_eca9b4083cba4cbb9b23036fa33dcea3",
+      "timestamp": "2026-11-08T15:15:33.025Z"
+    },
+    "28": {
+      "session": "rollout-2026-11-08T23-42-10-01a1bbd3-01cf-70d2-897b-ae6f570dabdd.jsonl",
+      "call_id": "call_9c00a06d1ad84df3ba518f8dba00450b",
+      "timestamp": "2026-11-08T15:44:53.343Z"
+    },
+    "38": {
+      "session": "rollout-2026-11-08T23-55-08-01a1bbde-df5d-7fd2-b35c-ae614822f233.jsonl",
+      "call_id": "call_b86ae0516ec34860865dad9e4739809d",
+      "timestamp": "2026-11-08T15:57:47.833Z"
+    },
+    "40": {
+      "session": "rollout-2026-11-08T23-57-32-01a1bbe1-12d3-7932-9ed5-2155d8917017.jsonl",
+      "call_id": "call_aca0029dc15c4237b19c177c7b09cb58",
+      "timestamp": "2026-11-08T16:01:39.507Z"
+    },
+    "33": {
+      "session": "rollout-2026-11-08T23-46-23-01a1bbd6-dd59-7f72-9bc4-260e4f134411.jsonl",
+      "call_id": "call_aaf6a651325d4f97ad1f9680e47912ba",
+      "timestamp": "2026-11-08T15:50:10.138Z"
+    },
+    "6": {
+      "session": "rollout-2026-11-08T23-17-07-01a1bbbc-1335-7403-abc4-d1d05ecfd10a.jsonl",
+      "call_id": "call_c0257fe223084524ad00d8efad70e7ca",
+      "timestamp": "2026-11-08T15:18:58.836Z"
+    },
+    "36": {
+      "session": "rollout-2026-11-08T23-50-58-01a1bbdb-0f64-7980-9e60-4f32749888b0.jsonl",
+      "call_id": "call_2d360e533e6443438d8c22c596a4eb1e",
+      "timestamp": "2026-11-08T15:54:50.595Z"
+    },
+    "12": {
+      "session": "rollout-2026-11-08T23-21-24-01a1bbbf-fd03-76e2-9b37-3cbe763a27a9.jsonl",
+      "call_id": "call_006ebfba7131413b9aa71709ce79663a",
+      "timestamp": "2026-11-08T15:22:26.691Z"
+    },
+    "42": {
+      "session": "rollout-2026-11-08T23-59-52-01a1bbe3-362f-77b2-bf53-8835d15aee9d.jsonl",
+      "call_id": "call_77b516c29fa54139ac4d0c30c457b796",
+      "timestamp": "2026-11-08T16:02:25.333Z"
+    },
+    "22": {
+      "session": "rollout-2026-11-08T23-33-16-01a1bbca-dbda-74f1-8c6d-d4335ccd1b3e.jsonl",
+      "call_id": "call_6a33d854bcdf42d18e2b8a2fe8b0cbc8",
+      "timestamp": "2026-11-08T15:36:52.478Z"
+    },
+    "11": {
+      "session": "rollout-2026-11-08T23-21-17-01a1bbbf-e266-7033-9ff2-889f6bed0ced.jsonl",
+      "call_id": "call_7f8be3c9b0dc41678e6b7803fe8926a0",
+      "timestamp": "2026-11-08T15:22:37.215Z"
+    },
+    "20": {
+      "session": "rollout-2026-11-08T23-29-47-01a1bbc7-aa11-7843-a204-6910849d32f2.jsonl",
+      "call_id": "call_88c075b3348a4cba8c8a406e0d6cebac",
+      "timestamp": "2026-11-08T15:33:05.103Z"
+    },
+    "5": {
+      "session": "rollout-2026-11-08T23-16-30-01a1bbbb-8210-7512-ab6c-aa71fb59ff91.jsonl",
+      "call_id": "call_7927159773444353b04bfeb3f70ba596",
+      "timestamp": "2026-11-08T15:18:37.447Z"
+    },
+    "17": {
+      "session": "rollout-2026-11-08T23-26-31-01a1bbc4-af10-75e0-a496-5ee1393c579a.jsonl",
+      "call_id": "call_af947b963c1d4b33ba594ff56df7585c",
+      "timestamp": "2026-11-08T15:29:24.844Z"
+    },
+    "4": {
+      "session": "rollout-2026-11-08T23-15-52-01a1bbba-ec26-75e0-a6ba-5bcbb37d2769.jsonl",
+      "call_id": "call_102ebe8706844d33a50c400d3fb9da1d",
+      "timestamp": "2026-11-08T15:17:15.142Z"
+    },
+    "37": {
+      "session": "rollout-2026-11-08T23-54-13-01a1bbde-0b8b-7e80-b393-2df70658d76a.jsonl",
+      "call_id": "call_8cdb5ae22d1c46c1b1fe37cfbe6a4a58",
+      "timestamp": "2026-11-08T15:57:18.770Z"
+    },
+    "32": {
+      "session": "rollout-2026-11-08T23-46-06-01a1bbd6-9c28-7602-a09d-2469d954744b.jsonl",
+      "call_id": "call_575647b53e884671ab309f128fdd93d4",
+      "timestamp": "2026-11-08T15:50:11.190Z"
+    },
+    "13": {
+      "session": "rollout-2026-11-08T23-22-15-01a1bbc0-c653-71e1-9378-ed6d530ed60e.jsonl",
+      "call_id": "call_32e7497feb7347fe8a02423dcc8434d4",
+      "timestamp": "2026-11-08T15:25:34.465Z"
+    },
+    "27": {
+      "session": "rollout-2026-11-08T23-39-30-01a1bbd0-9262-7df1-8f5b-60f65b9dc902.jsonl",
+      "call_id": "call_7e64922965664bd58d04924dbc881119",
+      "timestamp": "2026-11-08T15:42:31.387Z"
+    },
+    "14": {
+      "session": "rollout-2026-11-08T23-22-56-01a1bbc1-64e2-7292-973e-42fe54b2b3b4.jsonl",
+      "call_id": "call_d131eb06d7c84359a6e5e340a87e7113",
+      "timestamp": "2026-11-08T15:26:36.687Z"
+    },
+    "8": {
+      "session": "rollout-2026-11-08T23-19-07-01a1bbbd-e755-76b1-888a-e21b63a325a7.jsonl",
+      "call_id": "call_75f8c2aae6844008b67a43b10b72bfe4",
+      "timestamp": "2026-11-08T15:20:12.882Z"
+    },
+    "9": {
+      "session": "rollout-2026-11-08T23-19-20-01a1bbbe-18ed-7442-8276-d19b336e52f7.jsonl",
+      "call_id": "call_2f59e6342e204b9e9fe3e49abb6c862b",
+      "timestamp": "2026-11-08T15:21:03.795Z"
+    },
+    "30": {
+      "session": "rollout-2026-11-08T23-42-53-01a1bbd3-aabd-73b3-a31c-d1040a81ee11.jsonl",
+      "call_id": "call_d956677a13bb48c3884c82e04619c4b6",
+      "timestamp": "2026-11-08T15:45:43.894Z"
+    },
+    "18": {
+      "session": "rollout-2026-11-08T23-27-08-01a1bbc5-3f89-7421-8ce3-bff5d356633c.jsonl",
+      "call_id": "call_ec0174870ae64b86b42880b7a2457da6",
+      "timestamp": "2026-11-08T15:30:34.015Z"
+    },
+    "41": {
+      "session": "rollout-2026-11-08T23-58-09-01a1bbe1-a3da-7b71-9624-5f9980eb9157.jsonl",
+      "call_id": "call_6f9357d81062464a80c63b9a05c6db28",
+      "timestamp": "2026-11-08T16:01:59.924Z"
+    },
+    "15": {
+      "session": "rollout-2026-11-08T23-23-12-01a1bbc1-a508-72f0-8c3b-f817a84d6328.jsonl",
+      "call_id": "call_87aa02922d26418bbb489a334d51f272",
+      "timestamp": "2026-11-08T15:26:18.088Z"
+    },
+    "29": {
+      "session": "rollout-2026-11-08T23-42-24-01a1bbd3-3a4d-7790-82ae-378ee9a0e87e.jsonl",
+      "call_id": "call_c9a48f3cbf5447439b37013ea3ec694c",
+      "timestamp": "2026-11-08T15:46:06.123Z"
+    },
+    "25": {
+      "session": "rollout-2026-11-08T23-37-09-01a1bbce-69e1-7ff1-b778-998ce05c3eee.jsonl",
+      "call_id": "call_cb0a6c3722144ab18eed398a9229330f",
+      "timestamp": "2026-11-08T15:42:04.209Z"
+    },
+    "21": {
+      "session": "rollout-2026-11-08T23-30-57-01a1bbc8-bd32-7ec3-ae29-20a2cd875efc.jsonl",
+      "call_id": "call_22c96225208a4b12917facee67392bb9",
+      "timestamp": "2026-11-08T15:34:04.073Z"
+    },
+    "10": {
+      "session": "rollout-2026-11-08T23-20-28-01a1bbbf-24b9-7b03-a895-65cbecce72f1.jsonl",
+      "call_id": "call_54aa4405c5ab4880acfa15904c5c7f28",
+      "timestamp": "2026-11-08T15:21:46.369Z"
+    },
+    "39": {
+      "session": "rollout-2026-11-08T23-55-21-01a1bbdf-1241-7173-80be-c5b732438e33.jsonl",
+      "call_id": "call_4a02d0c5d8d8457b9a8b8e3aee46ccf1",
+      "timestamp": "2026-11-08T15:59:23.079Z"
+    },
+    "31": {
+      "session": "rollout-2026-11-08T23-45-06-01a1bbd5-b0ba-7cf1-9bdb-b1b8c414ed02.jsonl",
+      "call_id": "call_ef0f8e2ddc18464b9df9beca6febfa05",
+      "timestamp": "2026-11-08T15:47:48.603Z"
+    },
+    "51": {
+      "session": "rollout-2026-11-09T00-09-08-01a1bbeb-b0ee-7b71-93e1-6f04f35e2371.jsonl",
+      "call_id": "call_a40b6b35adee484685bdb64097f28842",
+      "timestamp": "2026-11-08T16:12:57.923Z"
+    },
+    "46": {
+      "session": "rollout-2026-11-09T00-05-24-01a1bbe8-48a6-7c90-8487-c5706eb615a4.jsonl",
+      "call_id": "call_31efeba80af049cd8319cbc5efbf5fe5",
+      "timestamp": "2026-11-08T16:08:07.212Z"
+    },
+    "49": {
+      "session": "rollout-2026-11-09T00-08-51-01a1bbeb-7003-7663-8d4a-ddc041e94a72.jsonl",
+      "call_id": "call_3da3ba90cd3c401ca432725334aeb019",
+      "timestamp": "2026-11-08T16:12:46.758Z"
+    },
+    "53": {
+      "session": "rollout-2026-11-09T00-16-07-01a1bbf2-184c-7ac2-8bc7-eb37277c49c3.jsonl",
+      "call_id": "call_9f64fdcc44204ae29b93015ccd8fad04",
+      "timestamp": "2026-11-08T16:19:52.279Z"
+    },
+    "45": {
+      "session": "rollout-2026-11-09T00-02-49-01a1bbe5-eb1d-77d1-98d9-a308228e9969.jsonl",
+      "call_id": "call_7228b16ba47c499a806d6116ef3b7736",
+      "timestamp": "2026-11-08T16:05:57.364Z"
+    },
+    "50": {
+      "session": "rollout-2026-11-09T00-09-00-01a1bbeb-92a9-7fa0-8b52-49bcef96855f.jsonl",
+      "call_id": "call_9ce75634d3444e819290b30a975bc471",
+      "timestamp": "2026-11-08T16:13:04.809Z"
+    },
+    "48": {
+      "session": "rollout-2026-11-09T00-06-13-01a1bbe9-068e-7432-b849-ff6186a7cd04.jsonl",
+      "call_id": "call_86133a6be0e945b7a578359ff9769dd9",
+      "timestamp": "2026-11-08T16:08:43.622Z"
+    },
+    "52": {
+      "session": "rollout-2026-11-09T00-13-22-01a1bbef-9366-7852-ab54-d1981f3b1a22.jsonl",
+      "call_id": "call_e1f3f8c1d55f4d029a834f8fc606d9a6",
+      "timestamp": "2026-11-08T16:15:55.105Z"
+    },
+    "47": {
+      "session": "rollout-2026-11-09T00-05-33-01a1bbe8-6a46-70f0-97fc-adf5a1bf8618.jsonl",
+      "call_id": "call_e2cbfd0bb1a44bfc9ef5e7e2e368f34f",
+      "timestamp": "2026-11-08T16:08:31.570Z"
+    },
+    "44": {
+      "session": "rollout-2026-11-09T00-02-40-01a1bbe5-c586-7d50-b8a3-ad27f240f416.jsonl",
+      "call_id": "call_5a9bcc9a4ab54cb9bdeb7b0998c3d7e1",
+      "timestamp": "2026-11-08T16:05:10.582Z"
+    }
+  },
+  "replayed_report_provenance": [
+    {
+      "session": "rollout-2026-11-08T23-14-41-01a1bbb9-d9b0-7212-8601-bac58e3757a8.jsonl",
+      "call_id": "call_93de49b12e5140a99429dea6edde3c9e",
+      "paragraphs": [
+        2
+      ]
+    },
+    {
+      "session": "rollout-2026-11-08T23-14-48-01a1bbb9-f41c-7091-b43c-5b8ff71c69ca.jsonl",
+      "call_id": "call_2ede4f464b224a328beaee25fb1e535b",
+      "paragraphs": [
+        3
+      ]
+    },
+    {
+      "session": "rollout-2026-11-08T23-17-30-01a1bbbc-6bef-7190-a685-884a521b5f3c.jsonl",
+      "call_id": "call_404538095ea44774b647de6098d43d56",
+      "paragraphs": [
+        7
+      ]
+    },
+    {
+      "session": "rollout-2026-11-08T23-25-54-01a1bbc4-1be5-7313-9224-522f68545495.jsonl",
+      "call_id": "call_66d5931a242b4e85a044bd2fafcb167e",
+      "paragraphs": [
+        16
+      ]
+    },
+    {
+      "session": "rollout-2026-11-08T23-28-30-01a1bbc6-808f-7942-af4b-8619fcf5804c.jsonl",
+      "call_id": "call_8d951ef20e0f44999c46734957d84b83",
+      "paragraphs": [
+        19
+      ]
+    },
+    {
+      "session": "rollout-2026-11-08T23-33-23-01a1bbca-f881-7122-9523-c11c173b2f07.jsonl",
+      "call_id": "call_dfad5e108a744219afb0a0746b62b85e",
+      "paragraphs": [
+        23
+      ]
+    },
+    {
+      "session": "rollout-2026-11-08T23-33-23-01a1bbca-f881-7122-9523-c11c173b2f07.jsonl",
+      "call_id": "call_98285200b1bf431fa1037e3add6cd91b",
+      "paragraphs": [
+        23
+      ]
+    },
+    {
+      "session": "rollout-2026-11-08T23-34-30-01a1bbcb-fb81-7b20-8a31-fdaf51c391e9.jsonl",
+      "call_id": "call_eb432f886cad4620a380e5e5adcca56d",
+      "paragraphs": [
+        24
+      ]
+    },
+    {
+      "session": "rollout-2026-11-08T23-38-45-01a1bbcf-e0ff-7f02-9f0b-e494b97b7aec.jsonl",
+      "call_id": "call_823ce8de058946f9892447507831c71a",
+      "paragraphs": [
+        26
+      ]
+    },
+    {
+      "session": "rollout-2026-11-08T23-50-51-01a1bbda-f358-7632-8fd9-d2fa94a700df.jsonl",
+      "call_id": "call_759a1ba16b75407db45395636cfe9e89",
+      "paragraphs": [
+        35
+      ]
+    },
+    {
+      "session": "rollout-2026-11-08T23-48-06-01a1bbd8-71f8-75d3-9d22-3793853a5ead.jsonl",
+      "call_id": "call_9d54160762914a379bd2b8f1394cd669",
+      "paragraphs": [
+        34
+      ]
+    },
+    {
+      "session": "rollout-2026-11-09T00-01-53-01a1bbe5-110c-7a31-9559-299ca49d63f6.jsonl",
+      "call_id": "call_60e486b61a8d4ce5b24e0b4c71e75b13",
+      "paragraphs": [
+        43
+      ]
+    },
+    {
+      "session": "rollout-2026-11-09T00-01-53-01a1bbe5-110c-7a31-9559-299ca49d63f6.jsonl",
+      "call_id": "call_fd42f448fc0e49d9aa244584f484c936",
+      "paragraphs": [
+        43
+      ]
+    },
+    {
+      "session": "rollout-2026-11-09T00-13-13-01a1bbef-6f22-7701-9eb8-da5dd9caa774.jsonl",
+      "call_id": "call_8b51f2817b3f41bd845561ab1fb2cbe9",
+      "paragraphs": [
+        64
+      ]
+    },
+    {
+      "session": "rollout-2026-11-09T00-13-04-01a1bbef-4b6d-7ca3-8bac-7ad1b5d53e70.jsonl",
+      "call_id": "call_4ae5bc7e15e14ab590acc391886354ce",
+      "paragraphs": [
+        63
+      ]
+    }
+  ],
+  "final_report_count": 64,
+  "all_restored_and_new_reports_validated": true
+}

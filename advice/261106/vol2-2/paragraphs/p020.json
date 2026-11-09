@@ -1,0 +1,50 @@
+{
+  "id": 20,
+  "assessment": "五个原文单元均已逐句核对。索书、寄出气送快信、次日获赠小册子及邮政印记使私人幻想获得外界印证的过程完整；末句圆形邮戳的形状可补回，同时将“被……覆上了”的生硬被动句改顺。其余保留原有长句和紫色缎带意象。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "toujours préoccupé du désir d'entendre la Berma dans une pièce classique ... une brochure où Bergotte parlait de Racine",
+      "translation_anchor": "我仍然惦记着要听贝尔玛演一出古典剧，便问她有没有一本贝戈特谈",
+      "finding": "toujours承接前段对贝尔玛及古典戏剧的向往，现译“仍然惦记着”保留连续性。间接问句si elle ne possédait pas是问她是否有这本册子，并非断言她没有；现译“有没有”正确。两个关系从句均修饰brochure，分别交代作者谈拉辛、书已无法购得，现译“市面上已经找不到”明确表达绝版／缺售，不误成作者不再谈论，保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Elle m'avait prié de lui en rappeler le titre exact ... ce nom de Gilberte Swann que j'avais tant de fois tracé sur mes cahiers.",
+      "translation_anchor": "她请我把小册子的准确书名再告诉她一遍；当天晚上，我便寄去一封简短的",
+      "finding": "她请求补告准确书名，当晚叙述者写出并寄送短笺，先后次序无误。后文明确同一件信为pneumatique／petit bleu，现译前后一贯用“气送快信”并有已有注释说明，未因télégramme的名称变化误分成另一封信。写在信封上的Gilberte Swann与过去练习本上反复写下的姓名相连，现译保留了从独自描写姓名到实际寄达对方的变化，保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "dans un paquet noué de faveurs mauves et scellé de cire blanche, la brochure qu'elle avait fait chercher.",
+      "translation_anchor": "第二天，她给我带来一个小包，用淡紫色丝带扎着，封着白色火漆，里面是她托人寻来的那本小册子。",
+      "finding": "Le lendemain是次日，fait chercher为使人寻找而非女孩亲自寻找，现译“托人寻来”准确。faveurs在包扎语境是丝带，mauves与cire blanche的淡紫、白色分别保留；包中带来的是先前所求册子，并非另外赠送书，中文层次清楚，保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Vous voyez que c'est bien ce que vous m'avez demandé ... tirant de son manchon le télégramme que je lui avais envoyé.",
+      "translation_anchor": "“您看，这的确是您跟我要的东西，”她说着，从",
+      "finding": "bien强调她带来的正是所求之物，现译“的确”相符；tirant分词表示说话时取出原信，不是册子本身被藏在手笼内。现译分清小包中的册子与从手笼抽出的气送快信，已有手笼注释也未改变正文动作。引语礼貌称呼与原文vous一致，保留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "j'eus peine à reconnaître les lignes vaines et solitaires de mon écriture sous les cercles imprimés qu'y avait apposés la poste, sous les inscriptions qu'y avait ajoutées au crayon un des facteurs",
+      "translation_anchor": "我几乎认不出自己写下的那几行原本空洞、孤零零的字，如今，那几行字被邮戳与投递员的铅笔字覆上了",
+      "finding": "插入语说明同一张蓝纸短笺昨天还只是私人书写，经送至门房、再交到女孩房间，已成为她真实收到的珍贵物件；现译两次转交、价值转变及收件地址上认出自己笔迹的关系均保留。圆形印记与投递员铅笔添加文字构成外部世界的证据，现译概括为邮戳有据，但“被……覆上了”不如“字上盖着／添上”自然，可同时补出cercles的圆形。末尾紫色腰带式印记与前文淡紫丝带呼应，épouser、maintenir、relever、réjouir依次化作与梦结合、稳住、托起、使之欢喜；现译保持印记对梦的支持作用，不把女孩行为直接当作爱情告白，保留这一比喻。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "如今，那几行字被邮戳与投递员的铅笔字覆上了；",
+      "after": "如今，那几行字上盖着一个个圆形邮戳，又添上了投递员用铅笔写的字；",
+      "source": "sous les cercles imprimés qu'y avait apposés la poste, sous les inscriptions qu'y avait ajoutées au crayon un des facteurs",
+      "reason": "“那几行字被……覆上了”搭配生硬，改成“字上盖着……又添上……”明确两类邮政标记附着于原笔迹的关系；圆形对应cercles，未增添新物件。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p020"
+  }
+}

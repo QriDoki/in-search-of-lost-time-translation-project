@@ -1,0 +1,64 @@
+{
+  "id": 21,
+  "assessment": "四个原文单元均已逐项核对。直呼名字带来的亲密、名字仿佛把叙述者置于口中的拟人、剥果皮的比喻和目光与言语同步亲密均完整保留。建议把petit nom从易被理解为乳名的“小名”改为“名字”，恢复社会称谓与父母共有的关系，并修整结尾“对此的意识”的生硬表达；相关小名注释需由主审同步处理。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "vous pouvez m'appeler Gilberte ... je vous appellerai par votre nom de baptême",
+      "translation_anchor": "您可以叫我希尔贝特；反正我呀，我也要直呼您的名字",
+      "finding": "她允许叙述者称Gilberte，并表明自己要使用他的nom de baptême，即与姓氏相对的个人名字。现译及注释已交代直呼教名的亲密层级，未误解为改用tu；en tous cas的单方面决定用“反正我呀”传达，口吻自然。保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "C'est trop gênant.",
+      "translation_anchor": "老是这么客客气气的，真不自在。",
+      "finding": "gênant在此随前面称谓谈话，表达彼此仍拘于正式称呼的不自在。现译以“老是这么客客气气的”补明语境所指，未改变人物态度或添加新的情节，可保留口语化表达。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "elle continua encore un moment à se contenter de me dire « vous » ... elle la termina par mon petit nom",
+      "translation_anchor": "她仍只用“您”称呼我，并没有叫我的名字……然后用我的小名收了尾",
+      "finding": "continua encore un moment保留了一阵子的迟延，不是立即叫名字；叙述者提醒后，女孩特地构造一句话以便用上新词，外语语法例句的比喻传达完整。petit nom在这里延续前文nom de baptême，指与姓氏相对的个人名字，并无另外一个乳名或昵称的交代。“小名”易使中文读者误认为乳名，应改为“名字”。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "sans plus aucune des modalités sociales qui appartenaient aussi, soit à ses autres camarades, soit, quand elle disait mon nom de famille, à mes parents ... non sans témoigner la conscience, le plaisir et jusque la gratitude qu’il en avait",
+      "translation_anchor": "剥去一切社会身份的外壳……至于我的姓氏，则还使我仍附属于家族……而且并不掩饰自己对此的意识、快乐乃至感激",
+      "finding": "回忆中的赤裸和被含在口中是名字带来的心理感受，现译与注释保持虚拟性质；depouiller/devetir及剥果皮的连续动作也保留。modalités sociales是可与他人共有的社会身份/称谓标志：或与其他玩伴共有，或在称姓时与自己的父母共有。现译把后一关系换成“附属于家族”，增加从属意味并漏掉父母共有同一姓氏这一限定，应还原。插入语中嘴唇用力咬字的样子像父亲，比较主体正确。结尾目光与话语达到同样的新亲密程度，并在微笑中流露对这种亲密的自觉、快乐甚至感激；现译“对此的意识”生硬且指向不明，建议用明确的“对这份亲密的自觉”修整，保留拟人。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "然后用我的小名收了尾。",
+      "after": "然后用我的名字收了尾。",
+      "source": "elle la termina par mon petit nom",
+      "reason": "petit nom在本段与nom de baptême相应，指个人名字，与姓氏和泛称vous相对；中文“小名”通常指乳名，容易另生未经原文交代的称呼。"
+    },
+    {
+      "type": "错译",
+      "before": "剥去一切社会身份的外壳；那些身份标志也同样适用于她的其他玩伴；至于我的姓氏，则还使我仍附属于家族。",
+      "after": "不再带有任何社会身份的标志：这些标志或是她其他玩伴也有的，或是在她称呼我的姓氏时，我与父母共有的。",
+      "source": "les modalités sociales qui appartenaient aussi, soit à ses autres camarades, soit, quand elle disait mon nom de famille, à mes parents",
+      "reason": "appartenaient aussi表示身份/称谓标志也属于他人；后一类明确指称姓时与父母共有的标志，不是自己附属于家族。修订恢复两类共有标志的平行结构。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "而且并不掩饰自己对此的意识、快乐乃至感激，还带着一丝微笑。",
+      "after": "还伴着一丝微笑，流露出对这份亲密的自觉、欣喜乃至感激。",
+      "source": "non sans témoigner la conscience, le plaisir et jusque la gratitude qu’il en avait, en se faisant accompagner d’un sourire",
+      "reason": "“对此的意识”是抽象名词直搬且指代含混；明确为对新亲密的自觉，并将微笑和流露感情连起来，保留原文拟人及感激的递进。"
+    }
+  ],
+  "annotation_notes": [
+    {
+      "anchor": "指小名被女孩亲口念出时的心理感受",
+      "status": "建议同步修正",
+      "reason": "正文建议将petit nom译作名字；既有注释中的“小名”也应相应改为“名字”或“教名”，以免仍被理解为乳名。这里只留给主审处理，不改注释。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p021"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": 2,
+  "assessment": "8个句子逐一核对。梦境与现实的对照、对自然真实性的要求和勒格朗丹引文均无明确错译或漏译；第6句现有“凭……相对立”句式生硬，且使判断依据的归属不够清楚，建议一处通顺调整。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Mais rien ne ressemblait moins non plus à ce Balbec réel",
+      "translation_anchor": "同样，我常在风暴天气里梦见的巴尔贝克，也与真实的巴尔贝克迥然不同",
+      "finding": "开句把梦中的巴尔贝克同真实地点相对照，non plus 承接上段房间的差异；现译用‘同样／也／迥然不同’传达这一关系，虽将否定最高级改写为程度描写，并未颠倒比较。后半 quand 说明做梦时的风暴天气，si fort que 引出弗朗索瓦丝防瓦片的叮嘱；现译保留去香榭丽舍的情境、危险和她哀叹报纸灾难的口吻，未将现实风暴误作已经到海边看见的风暴。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "moins comme un beau spectacle que comme un moment dévoilé",
+      "translation_anchor": "与其说把它看作壮丽的景观，不如说把它看作大自然真实生命中展露的一瞬",
+      "finding": "moins…que…不是否认风暴可供观赏，而是把真实自然的显露置于观赏之前；‘与其说／不如说’对应准确。ou plutôt 随即修正上一判断：只有非为取悦自己而人为安排、具有必然性与不可更易性的景象才美，现译的‘或者不如说’及‘必然如此、不随人意改变’保留递进和限定；末尾风景与伟大艺术两例也齐全。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "ce que je croyais plus vrai que moi-même",
+      "translation_anchor": "只有那些我认为比我自身更真实的东西",
+      "finding": "ne…que 的排他性和 je croyais 的主观判断均已译出，比较对象是‘我自身’，没有误为比我的想象更真实。后半并列‘天才的一点思想’与自然的力量或优美；livrée à elle-même、sans l'intervention des hommes 均落在自然如何显现这一层，现译‘大自然不受人干预、任其自然时所显现’正确，未把不受干预误系于天才。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "le beau son de sa voix, isolément reproduit par le phonographe",
+      "translation_anchor": "正如母亲那悦耳的声音，纵使被留声机单独复制出来",
+      "finding": "sa voix 在后文 notre mère 得到所指，提前译作母亲的声音清楚。两个 de même 构成类比：声音的机械复制不能补偿失去母亲，模拟风暴也不能打动叙述者；现译保留两项假设和 indifférent 的无动于衷，没有把未然式写成已经发生的丧母事实。‘单独复制’略带直译痕迹，但对应 isolément，读来可解，不必改。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "pour que la tempête fût absolument vraie",
+      "translation_anchor": "风暴若要绝对真实，海岸本身也得是天然的海岸",
+      "finding": "pour que 表示叙述者为风暴真实性设定的条件；现译用‘若要／也得’理顺中文。non une digue 排除的是市政新造防波堤，municipalité 不是泛称人类，现译均保留；没有把自然海岸说成风暴造成的海岸。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "par tous les sentiments qu'elle éveillait en moi, me semblait",
+      "translation_anchor": "大自然凭它在我心中唤起的种种情感，恰恰与人类的机械造物最相对立",
+      "finding": "核心词义正确，但 par…修饰的是叙述者何以有 me semblait 这一感受；现译‘大自然凭它……相对立’把依据不自然地挂到大自然自身的行为上。将唤起的情感写为‘使我觉得’的主语，既恢复主观判断，也消除‘凭……最相对立’的生硬搭配，建议作通顺调整。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Moins elle portait leur empreinte et plus elle offrait d'espace",
+      "translation_anchor": "它身上人类的印记越少，我的心就越有舒展的余地",
+      "finding": "Moins…plus…为双向比较，人类印记越少，心灵伸展空间越大。现译把 l'expansion de mon cœur 化为‘我的心舒展’，保留空间隐喻并符合中文习惯；their 所指人类也明确，没有改成自然印记。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "le nom de Balbec que nous avait cité Legrandin",
+      "translation_anchor": "我记住了勒格朗丹向我们提起的巴尔贝克这个名字",
+      "finding": "avait retenu 写记住此前听来的名字，现译与‘他说’连起信息来源，顺序清楚。comme d'une plage toute proche 把巴尔贝克介绍为邻近那些海岸的海滨地，现译‘一片海滩，紧挨着’对应；引文的 funèbres、naufrages、six mois de l'année 以及雾的裹尸布与浪沫意象均保留。‘沉船’在此指海难的常见具体结果，可接受，不必替换成重复出现的‘海难’。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "何况，在我看来，大自然凭它在我心中唤起的种种情感，恰恰与人类的机械造物最相对立。",
+      "after": "何况，大自然在我心中唤起的种种情感，使我觉得它与人类的机械造物最为对立。",
+      "source": "D'ailleurs la nature, par tous les sentiments qu'elle éveillait en moi, me semblait ce qu'il y avait de plus opposé aux productions mécaniques des hommes.",
+      "reason": "par tous les sentiments…说明叙述者产生判断的依据，现译“凭……最相对立”搭配生硬；改成“种种情感，使我觉得”使主观判断与其依据清楚相接。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p002"
+  }
+}

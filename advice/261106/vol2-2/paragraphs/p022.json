@@ -1,0 +1,45 @@
+{
+  "id": 22,
+  "assessment": "三个原文句子／单元均已核对。两种希尔贝特与两个自我的对照、恋爱之心独有的欲望，以及总把眼前所得当作通往未来幸福的阶梯，译文基本完整。建议恢复le passé的范围及tenir pour rien的评价义，并调整长句末尾“把……不看作”的生硬否定句式。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Mais au moment même, je ne pouvais apprécier la valeur de ces plaisirs nouveaux.",
+      "translation_anchor": "然而就在当时，我估量不出这些新快乐的价值。",
+      "finding": "Mais将事后的分析与当时不能领会快乐价值对照，au moment même由“就在当时”传达；ne pouvais apprécier不是快乐并未发生，而是无法体会其价值，现译“估量不出……价值”保留区别。ces plaisirs nouveaux承接前段赠书、直呼名字等亲密进展，所指没有错接，保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Ils n’étaient pas donnés par la fillette que j’aimais, au moi qui l’aimait, mais par l’autre ... ni le cœur indisponible qui seul aurait pu savoir le prix d’un bonheur, parce que seul il l’avait désiré.",
+      "translation_anchor": "给我快乐的，不是那个被我爱着的希尔贝特，而是那个和我一起游戏的“她”；接受快乐的，也不是那个爱她的我，而是陪她游戏的另一个“我”",
+      "finding": "原文同时区分给予快乐者与接受快乐者，现译拆为两个“不……而……”结构，使两组对应清楚，未误成真实存在两个人。游戏中的另一个我既没有真正希尔贝特的记忆，也没有那颗已为爱情所占据的心；现译对cœur indisponible作“已被爱情完全占据”的说明符合此处两个自我的分工。qui seul与parce que seul均回指心：唯有曾渴望幸福的心才能懂得其价值，现译两次“只有”及因果方向均准确，保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Même après être rentré à la maison ... cette même nécessité me forçait à tenir le passé pour rien ... non pas en eux-mêmes et comme s’ils se suffisaient, mais comme des échelons nouveaux où poser le pied",
+      "translation_anchor": "即便回到家以后，我也品尝不到它们。因为每一天，正是同一股无法抗拒的心理力量……一面又迫使我把昨天的一切化为乌有……迫使我把她给过我的那些小小的优待不看作优待本身",
+      "finding": "Même après保留“即便回家以后”这一递进；goûter以“品尝”延续快乐的味觉隐喻。原文一个nécessité既让他期待明天终于清晰平静地看见希尔贝特、听见告白及解释，又让他忽视过去，现译“一面……一面……”及“同一股”保持同源心理力量。唯一实质偏移是le passé不限昨天，tenir pour rien是视作不值一提，并非使往事消失；“把昨天的一切化为乌有”应改。原文non pas ... mais ...对照优待本身足以满足与只充当下一步台阶，现译意思可辨，但“把……不看作优待本身，不认为……”的否定位置和重复搭配生硬，建议合成“不把……当作本身就足以令人满足的东西”，再接现有“而看作……台阶”。末尾终于到达尚未遇见的幸福，是不断向未来推迟满足的结果，现译方向正确。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "把昨天的一切化为乌有",
+      "after": "把过去的一切都看作无足轻重",
+      "source": "tenir le passé pour rien",
+      "reason": "le passé涵盖已经发生的过去，不限于昨天；tenir pour rien说的是主观上不予看重，不是把往事消灭。修订恢复时间范围及评价关系。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "迫使我把她给过我的那些小小的优待不看作优待本身，不认为它们已经足够",
+      "after": "迫使我不把她给过我的那些小小的优待当作本身就足以令人满足的东西",
+      "source": "à considérer les petits avantages qu’elle m’avait donnés non pas en eux-mêmes et comme s’ils se suffisaient",
+      "reason": "“把……不看作优待本身”否定位置生硬，且“优待看作优待本身”近于循环表述。改为“不把……当作本身就足以令人满足的东西”，保留不以眼前所得为满足的意思，并与后接“而看作……台阶”顺畅衔接。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p022"
+  }
+}

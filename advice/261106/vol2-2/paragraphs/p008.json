@@ -1,0 +1,50 @@
+{
+  "id": 8,
+  "assessment": "本段五个句子／单元的禁止就医安排、未能旅行的失望、想象副本与现实花园的对照均对应完整，未见明确错译或漏译。建议将“有天才”这一生硬搭配改为现代中文常用说法，其余保留。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "il défendit aussi d'une façon absolue ... à laquelle Bergotte trouvait du génie ... consolé de n'avoir pas été à Florence et à Venise, de n'aller pas à Balbec",
+      "translation_anchor": "他还断然不许家里放我去剧院看……演戏；这位卓越的女演员，贝戈特认为她有天才，她的表演本可以让我领略……从而让我对未能去佛罗伦萨和威尼斯、也去不成巴尔贝克稍感安慰。",
+      "finding": "il承接上段医生，现译“他还断然不许”保留禁令和递进；entendre la Berma 在剧院表演语境译“看……演戏”无误。m’aurait consolé 为未实现的可能，现译“本可以”保留反事实语气；两组不定式区分未曾去佛罗伦萨、威尼斯及去不成巴尔贝克，现译也区分了。aussi important et aussi beau 所指与旅行所得同样重要美好，未添成已实际体验。不过“认为她有天才”不合现代中文常用搭配，宜改为“认为她是个天才”。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "On devait se contenter de m'envoyer chaque jour aux Champs-Élysées, sous la surveillance d'une personne qui m'empêcherait de me fatiguer et qui fut Françoise, entrée à notre service après la mort de ma tante Léonie.",
+      "translation_anchor": "于是大家只好每天把我送到香榭丽舍，由一个专门照看我、不让我劳累的人陪着，这人便是弗朗索瓦丝，她是在莱奥妮姑妈去世后到我们家帮佣的。",
+      "finding": "se contenter 表示在医嘱限制下只能采取的安排，“只好”贴合语境。surveillance 和 empêcher de me fatiguer 对应照看并防止劳累；qui fut Françoise 明确照看者就是弗朗索瓦丝，现译无指代混乱。entrée à notre service 的过去先行关系及在莱奥妮去世之后来帮佣的信息均保留。“姑妈”沿用本章底稿的称谓，不凭本段单独重定亲属关系。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Aller aux Champs-Élysées me fut insupportable.",
+      "translation_anchor": "去香榭丽舍令我难以忍受。",
+      "finding": "原文以短句突转，从家人的替代安排转入自己的抗拒；现译对应的是去香榭丽舍这件事令我难以忍受，而未误成身体上无力前往。句式简洁，保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Si seulement Bergotte les eût décrits dans un de ses livres, sans doute j’aurais désiré de les connaître, comme toutes les choses dont on avait commencé par mettre le « double » dans mon imagination.",
+      "translation_anchor": "要是贝戈特曾在某本书中描写过香榭丽舍，我大概也会像对其他那些先在想象中有了“副本”的事物一样，渴望去亲眼看看。",
+      "finding": "les 指香榭丽舍，现译明示地名，避免中文代词歧义。Si seulement 与条件式过去时组成未实现的假设，现译“要是……曾……大概也会”正确；sans doute 在此可译“大概”。double 是现实事物先进入想象的形象副本，现译和既有注释对应，没有误作第二件实物。“先在想象中有了”保留先后顺序。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Elle les réchauffait, les faisait vivre, leur donnait une personnalité ... mais dans ce jardin public rien ne se rattachait à mes rêves.",
+      "translation_anchor": "想象把它们暖热，让它们活起来，赋予它们一种个性，于是我便想在现实中重新找到它们；然而在这座公共花园里，没有一样东西与我的梦相连。",
+      "finding": "Elle 的先行词是 imagination，现译用“想象”明确主语，未误认“副本”。réchauffait、faisait vivre、donnait une personnalité 的三重作用依次对应“暖热”“活起来”“个性”；“暖热”虽罕见，但保留想象为事物注入温度的具体修辞，可接受，不必抹平。retrouver 与 réalité 对应在现实里重新找到它们；分号后转折说明现实花园无梦的关联，并未把原文 rien 的全面否定减弱。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "不符合现代中文习惯",
+      "before": "贝戈特认为她有天才",
+      "after": "贝戈特认为她是个天才",
+      "source": "à laquelle Bergotte trouvait du génie",
+      "reason": "“有天才”是直接照搬法语 avoir/trouver du génie 的生硬搭配；中文通常说某人“是个天才”或“有非凡才华”。此处赞赏的是演员的天才，改为“是个天才”保留评价力度且表达自然。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p008"
+  }
+}

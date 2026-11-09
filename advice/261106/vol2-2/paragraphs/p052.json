@@ -1,0 +1,18 @@
+{
+  "id": 52,
+  "assessment": "本段是弗朗索瓦丝见叙述者因看见斯万家的老管家而激动驻足后发出的问话。现译保留了对异常神态的询问、第二人称敬称和简短口语语气，语义及衔接均无须修订。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Qu'est-ce que vous avez ?",
+      "translation_anchor": "您怎么了？",
+      "finding": "Qu’est-ce que vous avez 在此是询问对方出了什么事、为何神情举止异常的口语表达，不按 avoir 的字面义译为“您有什么”。上段说明叙述者看见斯万家老管家便激动得停步，弗朗索瓦丝随即问这句话；“您怎么了？”准确承接这一情境，也保留了原句未点明具体缘由的开放问法。vous 译作“您”与仆人对叙述者的称呼关系相容；破折号和问号保留了独立对话形式，中文简短自然，无漏增译。"
+    }
+  ],
+  "changes": [],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p052"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 60,
+  "assessment": "本段对旧日美貌的感叹、居所的中国风陈设，以及卖报声引出的私密回忆，均已传达；第三句中共同受扰和由她叫说话人起床的主客体也正确。第二句把 étrange 扩成带审美褒义的“古怪别致”，又把无数量限定的 avec des chinoiseries 加强为“摆满”，建议收回这两处增意，其余保留。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Oui, mais si vous l’aviez connue à ce moment-là, ce qu’elle était jolie !",
+      "translation_anchor": "是啊，可您要是那时候认识她，就知道她有多漂亮了！",
+      "finding": "Oui, mais 承接上一位谈话者说她如今依旧美丽，并把重心转回往昔；“是啊，可”保留了这一转折。si vous l’aviez connue 指假设对方当年认识她，ce qu’elle était jolie 是强烈感叹，译文补出汉语所需的“就知道”，使省略的条件关系自然展开，没有改变时间或美貌程度，可保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Elle habitait un petit hôtel très étrange avec des chinoiseries.",
+      "translation_anchor": "她当时住在一幢古怪别致、摆满⊂中国式陈设⊃",
+      "finding": "habiter un petit hôtel 在此指居住于一幢小型私宅，“小宅子”没有误解成旅馆，可保留。très étrange 强调居所十分奇特，并不自带“别致”的雅趣褒义；avec des chinoiseries 仅说明有中国风陈设，不能推出室内“摆满”。建议将相邻措辞改为“十分奇特、摆着”，既保留 très 的程度，也去掉原文没有的审美评价和数量强化。中国式陈设及其原有注释不变。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Je me rappelle que nous étions embêtés par le bruit des crieurs de journaux, elle a fini par me faire lever.",
+      "translation_anchor": "我记得我们被卖报的吆喝吵得心烦，末了她还是叫我起了床。",
+      "finding": "Je me rappelle 引出说话人亲历的回忆，nous 指他与她共同受到困扰；embêtés par le bruit des crieurs de journaux 译为被卖报人的吆喝吵得心烦，保留了声音来源及厌烦感。elle a fini par me faire lever 的施事是她、被叫起的人是“我”，“末了……叫我起了床”对应最终发生的动作，并保留这段闲谈所透露的亲密意味；没有擅自说明起床的具体目的，可保留。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "古怪别致、摆满",
+      "after": "十分奇特、摆着",
+      "source": "très étrange avec des chinoiseries",
+      "reason": "étrange 不包含“别致”的审美褒义，avec des chinoiseries 也没有“摆满”的数量信息；改文保留居所奇特及有中国风陈设这两层原意。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p060"
+  }
+}

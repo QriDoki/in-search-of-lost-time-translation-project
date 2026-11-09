@@ -1,0 +1,44 @@
+{
+  "id": 56,
+  "assessment": "本段对斯万夫人的惹眼气派、观众联想及旁观者口吻基本传达完整。主要问题在第三单元：原文写旁观者打算记住服饰，作为日后供朋友辨认身份的线索，现译将这一打算写成已经记住，并弱化了服饰作为辨认依据的作用。其余可保留。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Ceux même qui ne la connaissaient pas étaient avertis par quelque chose de singulier et d'excessif ... que ce devait être quelque personne connue.",
+      "translation_anchor": "即使是那些不认识她的人，也能从她身上某种不寻常、近乎夸张的气息中意识到，这想必是位知名人物",
+      "finding": "Ceux même 强调连不认识她的人也能察觉，ce devait être 是对身份的推断，译作“即使……也”“想必”均合适。“不寻常、近乎夸张的气息”保留了 singulier et excessif 所指的异样、过度醒目的整体印象。插入语把这种察觉戏比为心灵感应的辐射，再与贝尔玛表演臻于绝妙时感染不懂戏的观众相比；现译虽将插入语后移，仍保留了“或许”的假设口气、观众并不识货及掌声被激发的因果，可保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Ils se demandaient : « Qui est-ce ?",
+      "translation_anchor": "他们自问：“这是谁？”",
+      "finding": "se demandaient 是旁观者在心中提出疑问，而非直接向斯万夫人发问；“自问”准确，并自然衔接下一单元向路人打听或准备询问朋友的两种做法。保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "interrogeaient quelquefois un passant, ou se promettaient de se rappeler la toilette comme un point de repère pour des amis plus instruits qui les renseigneraient aussitôt.",
+      "translation_anchor": "有时向一位路人打听，或者暗暗把她的穿着记在心里，日后好向见多识广的朋友打听，那些人马上就能告诉他们。",
+      "finding": "interrogeaient quelquefois un passant 的动作与频率译得准确。se promettaient de se rappeler 表示下定决心或打算记住，而非已把衣着记在心里；comme un point de repère pour des amis 又明确指出，这身服饰是提供给更了解情况的朋友、供其辨认身份的线索。现译两次泛说“打听”，没有清楚交代服饰如何发挥作用。建议写明记忆的意向和辨认的依据；qui les renseigneraient aussitôt 则保留为这些朋友当即就能说出她是谁。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "D'autres promeneurs, s'arrêtant à demi, disaient :",
+      "translation_anchor": "另一些散步的人半停下脚步，说道：",
+      "finding": "D’autres 将这批人同前面不知其身份的人区别开来；s’arrêtant à demi 是脚步半停、欲停未停，现译的“半停下脚步”虽带法文式的细微动作感，仍可理解，且与下一段直接点出斯万夫人身份的对话衔接。冒号与说话提示均保留。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "或者暗暗把她的穿着记在心里，日后好向见多识广的朋友打听，那些人马上就能告诉他们。",
+      "after": "或者打定主意记住她的穿着，好让消息更灵通的朋友凭这个线索辨认她，那些人立刻就能告诉他们她是谁。",
+      "source": "ou se promettaient de se rappeler la toilette comme un point de repère pour des amis plus instruits qui les renseigneraient aussitôt",
+      "reason": "se promettaient de se rappeler 写的是打算记住；服饰作为 point de repère，是让更知情的朋友据以辨认身份的线索。修订恢复这两层关系，并明确 renseignements 指她是谁。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p056"
+  }
+}
