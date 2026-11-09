@@ -1,0 +1,9 @@
+{
+  "id": 150,
+  "assessment": "逐句核对，译文准确传达尚未看过贝尔玛演出以及父母不许去剧院的意思；称呼、语气与上下文衔接自然，无需修改。",
+  "changes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p150"
+  }
+}

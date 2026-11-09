@@ -1,0 +1,17 @@
+{
+  "id": 20,
+  "assessment": "逐句核对后，译文整体准确，口语语气与自责、感伤的转折自然。仅有一处将原文推测语气译为确定判断，建议补回；其余保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "是给卢梭夫人的。",
+      "after": "想必是给卢梭夫人的。",
+      "source": "ce sera pour M^me^ Rousseau",
+      "reason": "此处将来时表达说话人当下的推测，直译为“是”使猜测变成确定陈述；“想必是”保留原文语气。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p020"
+  }
+}

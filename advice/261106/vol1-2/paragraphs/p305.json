@@ -1,0 +1,104 @@
+{
+  "id": 305,
+  "assessment": "逐句及按长句意群核对。译文完整保留了别墅的封闭视野、女子隐居以求姓名不为人知的苦涩快感、路人与负心人毫无交集的三层推想，以及归来脱手套的收束。需修订两处：原文“有意”修饰离开旧地的行为，现译移作整场放弃都“出于心甘情愿”，改变了女子忍痛断念的心理层次；末尾将“徒然的优雅”写成“优雅得毫无用处”，误成程度或结果关系。其余保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "你能感到，她这场放弃出于心甘情愿：她离开了那些至少还可能瞥见心上人的地方，来到这个从未见过他的地方。",
+      "after": "你能感到，她怀着断念的心情，有意离开了那些至少还可能瞥见心上人的地方，来到这个从未见过他的地方。",
+      "source": "dans son renoncement, elle avait volontairement quitté des lieux où elle aurait pu du moins apercevoir celui qu’elle aimait",
+      "reason": "volontairement修饰quitté，说明她有意选择离开还能见到爱人的地点；dans son renoncement交代断念、自我割舍的处境。现译把行为的主动性移成整场放弃都“心甘情愿”，又用冒号将后文变成解释，容易抹平仍爱着对方却主动断绝见面可能的矛盾心境。"
+    },
+    {
+      "type": "错译",
+      "before": "那副优雅得毫无用处的长手套",
+      "after": "那副空有优雅风致的长手套",
+      "source": "de longs gants d’une grâce inutile",
+      "reason": "inutile修饰grâce，指手套的优雅已不能为她赢得或留住所爱之人，因此徒然；“优雅得毫无用处”在中文里形成优雅达到某种程度或导致无用的关系，原文没有这一层逻辑。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Parfois, au bord de l’eau entourée de bois ... une maison dite de plaisance, isolée, perdue",
+      "translation_anchor": "有时，在林木环绕的水边，我们会遇见一座所谓供人游憩的乡间别墅，孤零零，遗世独立",
+      "finding": "Parfois与rencontrions表示散步中偶尔遇到的景象，译文“有时”“会遇见”保留反复性。maison de plaisance为供休憩游乐的居所，译成“供人游憩的乡间别墅”符合水边语境；isolée、perdue共同突出僻处、孤悬的感觉，“孤零零，遗世独立”虽较文雅，仍承担这一描写，可保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "qui ne voyait rien du monde que la rivière qui baignait ses pieds",
+      "translation_anchor": "对世界一无所见，只看得到洗濯它墙脚的河水",
+      "finding": "ne ... rien ... que限定别墅所见仅有河流，并非绝对看不见任何事物；中文通过“只看得到”接续前面的“一无所见”，限定关系明确。qui指别墅，ses pieds是拟人化的屋脚，“它墙脚”指代无误，且保留了房屋能看见世界的拟人笔法。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Une jeune femme dont le visage pensif et les voiles élégants n’étaient pas de ce pays",
+      "translation_anchor": "窗框里映出一位年轻女子：她那若有所思的面容和雅致的面纱，都不像是这地方的人会有的",
+      "finding": "pensif修饰面容，voiles élégants指雅致面纱，均有对应。“n’étaient pas de ce pays”通过面容与装束表明她不属于本地，中文“都不像是这地方的人会有的”将隐含判断展开，未变成单纯断言面纱产地。将句末的窗框形象提前，中文主语和观察位置仍清楚，可保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "qui sans doute était venue, selon l’expression populaire « s’enterrer » là, goûter le plaisir amer",
+      "translation_anchor": "她多半是照俗话说的，来这儿“把自己活埋”，为的是品尝一种苦涩的快感",
+      "finding": "sans doute在此为推测，译“多半”没有写成已证实的动机。“s’enterrer”借埋葬比喻退隐，“把自己活埋”保留俗语的强烈意象；goûter与plaisir amer译成“品尝”“苦涩的快感”，保留主动追求与痛苦并存的悖论。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "de sentir que son nom, le nom surtout de celui dont elle n’avait pu garder le cœur, y était inconnu",
+      "translation_anchor": "感到自己的名字，尤其是那个她没能留住其心的男人的名字，在此地无人知晓",
+      "finding": "苦涩快感来自两个姓名均不为当地人知晓，重心尤其在那位男子，译文“自己的名字，尤其是……男人的名字”保留递进。dont ... garder le cœur指未能留住男子的爱情，并非没记住姓名；“没能留住其心”对应正确。y回指隐居之处，“在此地”明确。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "s’encadrait dans la fenêtre qui ne lui laissait pas regarder plus loin que la barque amarrée près de la porte",
+      "translation_anchor": "窗框里映出一位年轻女子……透过那扇窗，她最多只能望见门前系泊的小船",
+      "finding": "女子嵌入窗框的视觉构图已在前置句“窗框里映出”表达，此处另起一句承接窗口限制视野的关系。ne ... pas ... plus loin que强调无法望到船以外，“最多只能望见”保留界限；amarrée是系泊、près de la porte是近门处，“门前系泊”无实质漏义。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Elle levait distraitement les yeux en entendant derrière les arbres de la rive la voix des passants",
+      "translation_anchor": "听见岸上树后传来行人的话音，她心不在焉地抬起眼",
+      "finding": "en entendant交代抬眼的触发条件，中文将听见话音置前，先后和因果均清楚。distraitement为心不在焉地，与后文她确信行人与爱人毫无关系相连，译文未误作专注寻找。岸边树木遮住行人，保留了先闻其声后见其面的空间条件。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "dont avant qu’elle eût aperçu leur visage, elle pouvait être certaine que jamais ils n’avaient connu, ni ne connaîtraient l’infidèle",
+      "translation_anchor": "还没瞧见那些面孔，她就可以断定：他们从来不曾、也永远不会认识那个负心人",
+      "finding": "dont引出关于这些行人的确信；leur与ils均指行人，译文“那些面孔”“他们”衔接明确。avant标记尚未看见面孔便已断定，中文完整保留。过去未认识与将来也不会认识的双重否定均译出，l’infidèle回指未能留住其心的男子，译“负心人”合适。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "que rien dans leur passé ne gardait sa marque, que rien dans leur avenir n’aurait l’occasion de la recevoir",
+      "translation_anchor": "他们的过去不曾留下那人的印记，他们的将来也没有机会承接它",
+      "finding": "两个que分句继续属于她的确信，分别否认行人的过去带有男子的印记，以及未来获得这种印记的可能。sa中的所属者是男子，la回指marque，“那人的印记”“它”指代正确。中文“不曾留下”将保有印记略作事件表达，但未改变其过去与男子没有交集的核心含义；“承接它”延续印记比喻，可保留。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "On sentait que, dans son renoncement, elle avait volontairement quitté des lieux",
+      "translation_anchor": "你能感到，她这场放弃出于心甘情愿：她离开了那些",
+      "finding": "On sentait是观察者从女子处境中感到的心理事实，“你能感到”可作泛指读者保留。问题在volontairement直接修饰quitté：主动的是离开旧地、切断见面机会的选择；并非说明她对失恋和放弃本身全都心甘情愿。将此意群改成“她怀着断念的心情，有意离开了”，让自我割舍与主动离去分别得到表达。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "où elle aurait pu du moins apercevoir celui qu’elle aimait, pour ceux-ci qui ne l’avaient jamais vu",
+      "translation_anchor": "那些至少还可能瞥见心上人的地方，来到这个从未见过他的地方",
+      "finding": "aurait pu表达若仍留在旧地至少可能看见爱人的潜在机会，“至少还可能瞥见”对应。pour引出以新处替换旧处，译“离开……来到……”衔接准确。ceux-ci指眼前这些地方，qui把地点人格化为从未见过那个男人的见证者，译文“这个从未见过他的地方”保留此修辞，虽改为单数概括眼前所在，不损害对照。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "Et je la regardais, revenant de quelque promenade sur un chemin où elle savait qu’il ne passerait pas",
+      "translation_anchor": "我望着她散步归来——那条路她明知那人不会经过——",
+      "finding": "revenant在此交代女子散步回来，译文“望着她散步归来”主语明确；il指所爱的男子，“那人”承接正确。où ... ne passerait pas说明她特意走在明知他不会出现的路上，并非偶然没遇见；“明知”“不会经过”保留她切断相逢希望的意识，破折号插入语亦能保存原句的回折。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "ôter de ses mains résignées de longs gants d’une grâce inutile",
+      "translation_anchor": "望着她用认命的双手，褪下那副优雅得毫无用处的长手套",
+      "finding": "regardais的观察对象最终落在脱下手套的动作，“望着她……褪下”保持句法主干；résignées转喻双手显出的顺受、认命，现译可保留。d’une grâce inutile写优雅本身徒然、无人领受，现译“优雅得毫无用处”却使“得”引出程度或结果，偏离修饰关系；改“空有优雅风致”以保留美丽与徒劳并置的收束。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p305"
+  }
+}

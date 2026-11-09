@@ -1,0 +1,38 @@
+{
+  "id": 7,
+  "assessment": "本段整体准确传达了弗朗索瓦丝对来访一家人的偏爱，以及新年赏钱场面的幽默意味。逐句核对后，建议修正帽饰结构、收钱时羞赧的情态与希腊悲剧作家比喻的对象，并删去结尾无原文依据的回答描写。其余长句、修辞及元旦赠礼注释可保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "帽翼浆得笔挺，又硬又脆，仿佛是糖丝编成的——帽檐下面",
+      "after": "帽上的褶管挺括而脆薄，仿佛是糖丝制成的——褶管下面",
+      "source": "sous les tuyaux d'un bonnet éblouissant, raide et fragile comme s'il avait été de sucre filé",
+      "reason": "tuyaux 指帽上管状的褶饰，原文并未写帽翼或帽檐；“浆得”也增添了原文没有的制作细节。"
+    },
+    {
+      "type": "错译",
+      "before": "接住它的那只手慌慌张张，却早已伸在那里",
+      "after": "接住它的那只手羞羞答答，却早已伸在那里",
+      "source": "une main confuse, mais tendue",
+      "reason": "confuse 在收取赏钱的语境中指羞赧、难为情，与手已伸出形成反差；“慌慌张张”偏向动作忙乱，失去原文含意。"
+    },
+    {
+      "type": "错译",
+      "before": "她怀着希腊悲剧作家敬畏命运般的敬畏",
+      "after": "她怀着不亚于希腊悲剧作家的敬重",
+      "source": "elle avait pour les liens invisibles que noue entre les membres d'une famille la circulation d'un même sang, autant de respect qu'un tragique grec",
+      "reason": "比较双方敬重的对象都是血缘纽带，原文没有转而比较希腊悲剧作家对命运的敬畏；补入“命运”改变了比喻所强调的家族血缘观念。"
+    },
+    {
+      "type": "错译",
+      "before": "长得像不像外祖母——她一一答着，乐在其中。",
+      "after": "长得像不像外祖母。",
+      "source": "s'il ressemblait à sa grand'mère",
+      "reason": "原句止于母亲提出的几个问题，没有描写弗朗索瓦丝逐一回答或回答时的心情；删去新增的动作和心理叙述。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p007"
+  }
+}

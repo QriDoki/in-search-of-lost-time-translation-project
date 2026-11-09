@@ -1,0 +1,24 @@
+{
+  "id": 42,
+  "assessment": "本段总体完整保留了教堂石材、彩窗与光影的层层比喻及长句节奏。核对后修正两处词义：abbés应指修道院院长，非泛称神父；usée jusqu’à la corde指磨损至露出经纬，并非快要断裂。其余译文及注释保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "贡布雷历代神父就葬在下面",
+      "after": "贡布雷历代修道院院长就葬在下面",
+      "source": "la noble poussière des abbés de Combray, enterrés là",
+      "reason": "abbés在此指修道院院长；“神父”泛化了原文所指的教会职衔。"
+    },
+    {
+      "type": "错译",
+      "before": "那柔和的玻璃织锦的经纬，磨损到快要断裂，却依然发亮",
+      "after": "那柔和的玻璃织锦已磨损得露出经纬，却依然发亮",
+      "source": "montrer brillante et usée jusqu’à la corde la trame de leur douce tapisserie de verre",
+      "reason": "usé jusqu’à la corde意为磨得露出织物经纬、磨得透薄；原译误解成经纬濒临断裂，改变了以织锦喻玻璃的视觉形象。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p042"
+  }
+}

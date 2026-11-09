@@ -1,0 +1,17 @@
+{
+  "id": 91,
+  "assessment": "前半段对幽暗清凉与街上阳光的比照，以及想象所得的完整夏景，均译得准确。末句把“休息”直接比作“一只手”，且漏去激流所比喻的“活动”，使静止与内在活跃并存的意象不够完整，建议修订。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "我的休息才像一只手，静静搁在奔流的河水中央，承受着一整条奔流不息的激流的冲击与跃动。",
+      "after": "我的休息便如一只手静止在流水中时的休息，承受着如激流般涌来的种种活动的冲击与激荡。",
+      "source": "pareil au repos d'une main immobile au milieu d'une eau courante, le choc et l'animation d'un torrent d'activité",
+      "reason": "原文比较的是两种静息状态，而非把休息比作手；“激流”比喻书中奇遇带来的活动，原译遗漏activité，容易让后半句只剩实指的水流。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p091"
+  }
+}

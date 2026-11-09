@@ -1,0 +1,87 @@
+{
+  "id": 213,
+  "assessment": "本段三句已按烹饪场景、器皿枚举、青豆与芦笋描写、精灵幻化及夜壶笑谑逐一核对。原译保留了自然之力受命烹饪的拟人、芦笋颜色的天界意象以及高雅与粗俗并置的语气；晚饭已开始准备的译法在厨房语境中成立。建议修订器皿范围枚举的中文结构、青豆已排齐数好的状态表达，以及芦笋色泽向根部逐渐变淡的方向。夜壶原有注释与原文并不矛盾，完整保留。",
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "那些器皿，大缸、汤锅、铜锅、煮鱼锅、盛野味的陶罐、点心模子和奶油小罐，中间一应俱全地排着各种尺寸的炖锅。",
+      "after": "那些器皿，从大缸、汤锅、铜锅、煮鱼锅，到盛野味的陶罐、点心模子和奶油小罐，其间还有一整套各种尺寸的炖锅。",
+      "source": "qui allaient des grandes cuves, marmites, chaudrons et poissonnières, aux terrines pour le gibier, moules à pâtisserie, et petits pots de crème en passant par une collection complète de casseroles de toutes dimensions",
+      "reason": "原文以从大器皿到小器皿的范围结构列举，en passant par补入一整套各种尺寸的锅。原译缺少与枚举相配的从、到，并把器皿种类的涵盖关系写成实物在中间排列，造成句法悬空。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "一颗颗排列、点数，像游戏里的绿色弹珠",
+      "after": "一颗颗排齐、数好，像游戏里的绿色弹珠",
+      "source": "les petits pois alignés et nombrés comme des billes vertes dans un jeu",
+      "reason": "alignés和nombrés均修饰桌上的青豆，表示已经排列并数过的状态；原译的排列、点数像是青豆在执行动作，尤其点数缺少施动者，改为结果状态更符合句法及眼前景象。"
+    },
+    {
+      "type": "错译",
+      "before": "凭着一层不属于尘世的虹彩，不知不觉一路渐变到根部",
+      "after": "凭着一层不属于尘世的虹彩，不知不觉一路渐淡到根部",
+      "source": "se dégrade insensiblement jusqu'au pied ... par des irisations qui ne sont pas de la terre",
+      "reason": "se dégrade在颜色描写中指色调逐渐减弱、变淡，并非只说颜色发生变化；保留原译的虹彩意象，同时补足由穗尖向根部淡化的方向。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "À cette heure où je descendais apprendre le menu, le dîner était déjà commencé",
+      "translation_anchor": "我下楼打听晚饭菜单的时候，厨房里已经开始准备晚饭了。",
+      "finding": "descendais和était的未完成过去时构成当时惯常的厨房场景，中文用的时候承接；apprendre le menu是打听菜谱内容。dîner était déjà commencé在紧接烹饪过程的语境下译为晚饭已开始准备合适，添加厨房里只是明确场所，没有误写成众人已经开饭。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Françoise, commandant aux forces de la nature devenues ses aides, comme dans les féeries où les géants se font engager comme cuisiniers",
+      "translation_anchor": "弗朗索瓦丝指挥着那些化身为她帮手的自然之力，就像神话剧里受雇当厨子的巨人",
+      "finding": "devenues ses aides修饰自然之力，原译保留其成为帮手的拟人关系；où引出神话剧中巨人受雇作厨子的情景，比拟弗朗索瓦丝驱使强大自然力量的架势。中文把插入的比喻放到冒号前，仍能与后面的煤、蒸汽及火相连，保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "frappait la houille, donnait à la vapeur des pommes de terre à étuver et faisait finir à point par le feu les chefs-d'œuvre culinaires d'abord préparés",
+      "translation_anchor": "她敲打着煤块，把土豆交给蒸汽去焖，又让炉火把那些先在陶匠烧制的器皿里备好的烹饪杰作烧得恰到好处",
+      "finding": "三项动作依次由她直接敲煤、把土豆交给蒸汽、使火完成菜肴组成，译文均保留使役和自然力量拟人的关系。à point是恰到好处，d'abord préparés说明先在器皿里备好再由火完成，没有漏掉准备与完成的先后。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "dans des récipients de céramistes qui allaient des grandes cuves ... aux terrines ... en passant par une collection complète de casseroles de toutes dimensions",
+      "translation_anchor": "那些器皿，大缸、汤锅、铜锅、煮鱼锅、盛野味的陶罐、点心模子和奶油小罐，中间一应俱全地排着各种尺寸的炖锅。",
+      "finding": "céramistes译作陶匠，器皿主要类别也均有对应；但qui allaient de ... à ...是涵盖范围，en passant par补充中间类别，原文没有描写锅在桌面如何排列。原译缺少从、到连接，且用排着增入空间陈列关系，建议调整为范围结构并明确collection complète为一整套。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Je m'arrêtais à voir sur la table, où la fille de cuisine venait de les écosser, les petits pois alignés et nombrés comme des billes vertes dans un jeu",
+      "translation_anchor": "我停住脚步，看桌上厨房女工刚刚剥好的青豆，一颗颗排列、点数，像游戏里的绿色弹珠",
+      "finding": "venait de表示女工刚剥完，les回指青豆，译文对应清楚；像游戏里的绿色弹珠保留大小、色泽与排列引起的联想。但alignés et nombrés表示所见青豆已经排好数过，并非描述它们或叙述者正在点数，故建议把排列、点数改为排齐、数好。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "mais mon ravissement était devant les asperges, trempées d'outre-mer et de rose et dont l'épi, finement pignoché de mauve et d'azur, se dégrade insensiblement jusqu'au pied ... par des irisations qui ne sont pas de la terre",
+      "translation_anchor": "但真正让我心醉的是那些芦笋，浸染着群青与玫瑰红，穗尖精细地点染着淡紫与天蓝，凭着一层不属于尘世的虹彩，不知不觉一路渐变到根部——根部却还沾着它们生长处的泥土。",
+      "finding": "mais突出芦笋比青豆更令叙述者陶醉；群青、玫瑰红、淡紫、天蓝分别对应四种色彩，pignoché的细笔点染也保留。破折号插入语准确保留根部仍沾泥与超尘世虹彩的反差。se dégrade则有由上而下逐渐淡去的方向，原译渐变未充分表达，建议只改为渐淡。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Il me semblait que ces nuances célestes trahissaient les délicieuses créatures qui s'étaient amusées à se métamorphoser en légumes",
+      "translation_anchor": "在我看来，这些天上的色泽泄露了那些可爱精灵的行踪：她们一时兴起，把自己变成了蔬菜",
+      "finding": "Il me semblait保留叙述者想象而非客观断言；trahissaient译为泄露行踪，说明颜色使隐身蔬菜的精灵露出真相。s'étaient amusées说明先前为了游戏而变身，一时兴起在中文中传达玩乐动机。créatures译为精灵并采用她们承接，符合后面的神话剧、恶作剧语境，可保留。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "à travers le déguisement de leur chair comestible et ferme ... en ces couleurs naissantes d'aurore, en ces ébauches d'arc-en-ciel, en cette extinction de soirs bleus, cette essence précieuse",
+      "translation_anchor": "透过那可以食用的紧实肉身的伪装，让人在这些初生曙光般的色泽里、在这些彩虹的雏形里、在这些蓝色黄昏的消逝里，隐约看见那种珍贵的本质",
+      "finding": "可食用、紧实均修饰伪装成蔬菜的肉身；译文保留精灵本质透过外表显露的逻辑。三组en平行列出曙光初生、彩虹未成与蓝色黄昏消逝，译文依次保留，没有把这三种色彩观感误作真实时间顺序；隐约看见也传达laissaient apercevoir的有限显露。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "que je reconnaissais encore quand, toute la nuit qui suivait un dîner où j'en avais mangé, elles jouaient, dans leurs farces poétiques et grossières comme une féerie de Shakespeare, à changer mon pot de chambre en un vase de parfum",
+      "translation_anchor": "而在吃过芦笋的晚餐之后的整个夜里，当她们像莎士比亚的神话剧一样，玩起既诗意又粗俗的恶作剧，把我的⊂夜壶变成一只香水瓶⊃≼🪶芦笋食后会使尿液带上特殊气味，作者借此把烹调、身体与恶作剧串成一线，故有此夸张的比喻。≽时，我依然认得出这种本质。",
+      "finding": "que回指精灵的珍贵本质，elles继续指变身的精灵，j'en avais mangé指吃过芦笋，译文均明示或正确承接。toute la nuit的整夜时长和encore的仍能认出均保留。诗意与粗俗并列和莎士比亚神话剧的比拟使香气意象落到夜壶，译文保持这一笑谑，不将其解释性改写为尿液气味；既有注释完整保留。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p213"
+  }
+}

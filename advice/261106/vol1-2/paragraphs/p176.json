@@ -1,0 +1,24 @@
+{
+  "id": 176,
+  "assessment": "全段叙述、神甫的口吻及主要指代基本准确。两处宜修订：faire-part未指明丧事，译作讣告缩窄了原义；amateur指艺术爱好者，译作行家把其鉴赏身份说得过强。其余保留，原有注释不变。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "她便搬出某一份讣告来自辩",
+      "after": "她便搬出某一份家事通知来自辩",
+      "source": "elle tâchait de se défendre en alléguant une certaine lettre de faire part",
+      "reason": "faire-part泛指向亲友通报婚丧等家事的通知，此处没有明确说明是讣告，不宜擅自限定为丧事。"
+    },
+    {
+      "type": "错译",
+      "before": "他是位行家，认为那扇窗的工艺还要更精美呢",
+      "after": "他是位艺术爱好者，认为那扇窗的工艺还要更精美呢",
+      "source": "qui est amateur et qui la regarde comme d’un plus beau travail",
+      "reason": "amateur在此指爱好艺术、参与鉴赏的人，译成行家过度强调其专业判断资格。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p176"
+  }
+}

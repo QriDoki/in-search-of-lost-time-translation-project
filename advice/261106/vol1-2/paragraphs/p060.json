@@ -1,0 +1,24 @@
+{
+  "id": 60,
+  "assessment": "已逐句核对。译文总体完整，午餐铺陈、钟声拟人及甜点与艺术馈赠的比拟均予保留。两处宜修订：期待带来的愉快只属起初，原文没有持续一整天之意；父亲是巧克力甜点的爱好者，amateur 在此不表示专业行家。原有注释与本次改文无冲突。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "这份期待原本使她一整天心情愉快，可欧拉莉稍一迟到，便开始变味，很快又变成一种像饿过了头那样难受的状态。",
+      "after": "这份期待在这样的日子里起初使她心情愉快，可欧拉莉稍一迟到，很快就使她难受得像饿过了头一样。",
+      "source": "la perspective l'entretenait ces jours-là dans un état agréable d'abord, mais bien vite douloureux comme une faim excessive, pour peu qu'Eulalie fût en retard",
+      "reason": "ces jours-là 指这些星期天，d'abord 与 bien vite 对应先愉快、很快难受的变化；译作“一整天心情愉快”增加了原文没有的持续时间，且与后文相抵牾。"
+    },
+    {
+      "type": "错译",
+      "before": "他是个行家",
+      "after": "他爱吃这一口",
+      "source": "mon père qui était amateur",
+      "reason": "amateur 在此表示喜爱这类甜点的人；“行家”增加了专业鉴赏能力之意，“爱吃这一口”更准确地说明弗朗索瓦丝特意献给父亲的缘由。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p060"
+  }
+}

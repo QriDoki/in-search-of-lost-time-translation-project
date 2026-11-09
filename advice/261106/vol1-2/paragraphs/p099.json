@@ -1,0 +1,24 @@
+{
+  "id": 99,
+  "assessment": "原文的事件顺序、人物指代及骑兵如洪流漫过街道的比喻均已传达。两处细节值得修订：牙齿是磕断而非脱落，仆人是排成一排而非多排。原有胸甲骑兵注释中的“头戴金属胸甲与头盔”把胸甲写成戴在头上，存在知识性表述错误；依要求保留注释不动。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "磕掉了一颗牙",
+      "after": "磕断了一颗牙",
+      "source": "se cassant une dent",
+      "reason": "casser 指折断、磕断牙齿，原文没有牙齿整颗脱落的意思。"
+    },
+    {
+      "type": "错译",
+      "before": "我们的仆人们正一排排坐在大门外的椅子上",
+      "after": "我们的仆人们正排成一排坐在大门外的椅子上",
+      "source": "nos domestiques assis en rang sur des chaises en dehors de la grille",
+      "reason": "en rang 表示排成一排；“一排排”增加了多排的空间布局。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p099"
+  }
+}

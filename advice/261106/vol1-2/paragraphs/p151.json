@@ -1,0 +1,17 @@
+{
+  "id": 151,
+  "assessment": "原译信息完整，贝尔玛出演两剧及斯万不认同艺术等级之意均准确；仅将 si vous voulez 的让步插语调整为自然的中文，保留原有注释。",
+  "changes": [
+    {
+      "type": "不符合现代中文习惯",
+      "before": "就算您愿意这么说吧，她也不过是个演员",
+      "after": "您尽可以说，她不过是个演员",
+      "source": "ce n’est qu’une actrice si vous voulez",
+      "reason": "si vous voulez 在此让步承认“不过是个演员”这一说法；原译“就算您愿意这么说吧”生硬，且将让步落在对方是否愿意上，改为自然的让步口吻。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p151"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "id": 319,
+  "assessment": "已按原文顺序逐句、并按长句的主要意群详细核对。整体保留两条散步路线如何承载精神生活、使记忆深植、引起误认又赋予今日经验深度的论述，以及国王与回忆录作者、浮岛、地层、母亲之吻等修辞结构。建议修改六处：精神生活被误换为泛称事物；真理出现及其记忆的指代含混；树篱花香替换关系的病句；“那两个那边”的中文结构；coquelicots植物名；一般人物、情谊被限缩为女性及爱情的例句。农庄距离依本段原文保留“不远”，不以邻段不同表述统一。提洛岛注释原样保留，未与修改冲突。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Aussi le côté de Méséglise et le côté de Guermantes restent-ils pour moi liés",
+      "translation_anchor": "所以，梅塞格利丝那边和盖尔芒特家那边，在我记忆里始终同许多小事连在一起",
+      "finding": "Aussi引出前段精神状态体验的结果，“所以”正确；les petits événements是精神生活中的小事，并非两条路线本身的轶事。后文“我们平行度过的种种生活里……一种”正确还原celle的筛选关系，“最跌宕多姿、最富情节”保留两个最高级，末尾点明精神生活，整句可保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Sans doute elle progresse en nous insensiblement et les vérités qui en ont changé pour nous le sens et l’aspect",
+      "translation_anchor": "无疑，它在我们身上不知不觉地推进；那些让我们重新理解事物的意义与面貌、又为我们开辟新路的真理",
+      "finding": "elle是精神生活，insensiblement指进展不易察觉，译文开头保留此意；但en仍指精神生活，不能换成泛称“事物”。真理改变的是精神生活在我们眼中的意义、面貌；据此修改此处，其余“开辟新路”与原文相合。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "nous en préparions depuis longtemps la découverte ; mais c’était sans le savoir",
+      "translation_anchor": "我们早就在为发现它们暗暗做着准备，只是自己浑然不觉",
+      "finding": "此处en转而指那些真理，未完成过去时及depuis longtemps说明发现以前已经长期酝酿；“早就在……做着准备”保留过程性。“暗暗”若孤立可含有意秘密进行，但紧接“自己浑然不觉”已限定无意识，故不另改。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "elles ne datent pour nous que du jour, de la minute où elles nous sont devenues visibles",
+      "translation_anchor": "对我们来说，这些真理的纪年，只能从它们在我们眼前变得可见的那一天、那一分钟算起",
+      "finding": "ne…que限定我们为真理确定起点的时刻，而不是否定其此前酝酿；“只能从……算起”准确。由一天缩到一分钟体现顿悟的精确瞬间，译文完整保留；“纪年”虽略具文言色彩，能承载dater的时间比喻，无须改。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Les fleurs qui jouaient alors sur l’herbe, l’eau qui passait au soleil, tout le paysage qui environna leur apparition",
+      "translation_anchor": "那时在草地上嬉闹的花，阳光下流过的水，围绕着它们显现的整片风景",
+      "finding": "花、水并列后总括于整片风景，原译层次正确；但leur apparition指真理的出现，不是花、水显现。紧邻两个物象后使用“它们”使指代错接，故与下半句一并明确为“那些真理”。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "continue à accompagner leur souvenir de son visage inconscient ou distrait",
+      "translation_anchor": "至今仍带着懵懂或恍惚的面目，伴随在它们的记忆里",
+      "finding": "continue说明回忆至今仍有背景风景相伴，son visage属于风景，拟人形象保留；leur souvenir意为对那些真理的记忆。“它们的记忆里”可能读成风景或真理自身拥有记忆，且“伴随在……里”搭配松散，改为伴随着对真理的记忆。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "quand ils étaient longuement contemplés par cet humble passant, par cet enfant qui rêvait -- comme l’est un roi, par un mémorialiste perdu dans la foule",
+      "translation_anchor": "当这个卑微的过路人、这个爱做梦的孩子久久凝望它们时——正如一位国王被淹没在人群中的回忆录作者凝望那样",
+      "finding": "ils前指景物，卑微的过客与做梦的孩子同指叙述者；类比中的国王对应自然景物，藏在人群中的回忆录作者对应孩子。“被淹没在人群中的回忆录作者”可解析为被动句的施事，虽较长但没有将国王写成淹没在人群中，保留。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "ce coin de nature, ce bout de jardin n’eussent pu penser que ce serait grâce à lui qu’ils seraient appelés à survivre en leurs particularités les plus éphémères",
+      "translation_anchor": "这一角自然、这一小段花园绝想不到，将有赖于他，它们才注定要在自己最转瞬即逝的细节里存活下来",
+      "finding": "自然与花园被拟人化，条件过去式表示当时绝不可能预见；lui指凝望它们的孩子，非国王或回忆录作者。“有赖于他”及“最转瞬即逝的细节”分别保存存续的媒介与看似悖论的短暂特征，语义可保留。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "ce parfum d’aubépine qui butine le long de la haie où les églantiers le remplaceront bientôt",
+      "translation_anchor": "那沿树篱一路采撷的山楂花香——野蔷薇很快就要取代它的所在",
+      "finding": "butine把花香拟作沿篱采蜜者，“采撷”可保留其主动游移的诗意。où回指树篱，le回指花香，表达野蔷薇随后开花而以其香气替换山楂花香。原译“取代它的所在”破坏地点及替换对象关系，须改为完整插入语。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "un bruit de pas sans écho sur le gravier d’une allée, une bulle formée contre une plante aquatique par l’eau de la rivière et qui crève aussitôt",
+      "translation_anchor": "小径砾石上一声没有回响的脚步；河水贴着一株水生植物泛起、随即破灭的一个水泡",
+      "finding": "两项继续列举瞬逝印象：无回响的是脚步声，译文“一声……脚步”是中文允许的声音借代；泡由河水在水草旁形成且立即破裂，译文的施事、位置及先后关系齐全，无须修改。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "mon exaltation les a portés et a réussi à leur faire traverser tant d’années successives, tandis qu’alentour les chemins se sont effacés",
+      "translation_anchor": "我的亢奋托起了它们，让它们成功穿越了接踵而至的悠悠岁月；而在四周，一条条小路已经湮灭",
+      "finding": "les指前列气味、声音、气泡等印象，“亢奋托起”保留情感承载记忆的隐喻；tandis que对照印象的长存与现实道路、行人及对行人的记忆一起消失。后文两次“死了”保留对记忆的拟人表达，未漏掉第二层遗忘。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "Parfois ce morceau de paysage amené ainsi jusqu’à aujourd’hui se détache si isolé de tout, qu’il flotte incertain dans ma pensée comme une Délos fleurie",
+      "translation_anchor": "有时，这片被一路带到今天的风景，如此彻底地从万事万物中剥离出来，以致它在我的思绪里飘忽不定，像一座繁花盛开的⊂提洛岛⊃",
+      "finding": "si…que说明景物因脱离原有联系而在思想中漂浮，译文因果程度结构完整；不是整座岛真实迁入思想，译文“像”保留比喻。后文国度、年代、乃至梦的递进保留来源不能确定的状态。原注释完整保留，其漂浮岛说明与此处修辞不矛盾。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "Mais c’est surtout comme à des gisements profonds de mon sol mental, comme aux terrains résistants sur lesquels je m’appuie encore",
+      "translation_anchor": "但尤其是，我应当把梅塞格利丝那边和盖尔芒特家那边，看作我精神土壤深处的矿藏，看作我至今仍赖以支撑的坚实地层",
+      "finding": "转折由偶尔孤悬的景物记忆转到两条路线整体的深层支撑，surtout是主要观看方式而非排除前述经验。“矿藏／坚实地层”保留连续地质隐喻，“至今仍”对应encore，保留。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "C’est parce que je croyais aux choses, aux êtres, tandis que je les parcourais",
+      "translation_anchor": "正因为我走遍那两个那边时相信物、相信人",
+      "finding": "强调句的原因是当年游历时仍对人、物有信念，不是两地本身具有客观优越性。原译“那两个那边”方位词结构生硬，“走遍”也较原文强调穷尽；改为“在那两边漫游”。后文“唯一存在”准确保留les seuls的排他性，两个encore分别落实为今日仍认真对待、仍获快乐。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "Soit que la foi qui crée soit tarie en moi, soit que la réalité ne se forme que dans la mémoire",
+      "translation_anchor": "也不知是那种创造一切的信念在我心中已经枯竭，还是现实唯有在记忆中才能成形",
+      "finding": "两个soit que给出解释当下经验的两种可能，并不作确定裁断，“也不知是……还是……”恰当；创造性的信念已干涸与现实只能在记忆形成的命题均保留。新见的花“不是真花”属于叙述者主观感受，译文“在我看来”保留此限定。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "Le côté de Méséglise avec ses lilas, ses aubépines, ses bluets, ses coquelicots, ses pommiers",
+      "translation_anchor": "梅塞格利丝那边，有它的丁香、山楂树、矢车菊、罂粟和苹果树",
+      "finding": "列举两边植物和水域，后一组蝌蚪、睡莲、毛茛皆对应原文。coquelicots为虞美人，译成通常指另一物种的“罂粟”不够准确，修改该植物名。两地共同构成向往居住之地的永久范型，“永远……确立……模样”保留ont constitué à tout jamais的作用。"
+    },
+    {
+      "unit": 17,
+      "source_anchor": "où j’exige avant tout qu’on puisse aller à la pêche, se promener en canot, voir des ruines de fortifications gothiques",
+      "translation_anchor": "在那里，我首先要求能去钓鱼、能划小船，能看见哥特式防御工事的废墟",
+      "finding": "关系从句说明理想地域必须满足的条件，“首先要求”保留avant tout和exige。钓鱼、舟游、废堡及麦田中的教堂四项未漏；“像圣安德烈-德尚教堂那样”限定最后一项，质朴、金黄如麦垛的比喻也归于教堂，译文关系明确。"
+    },
+    {
+      "unit": 18,
+      "source_anchor": "parce qu’ils sont situés à la même profondeur, au niveau de mon passé, sont immédiatement en communication avec mon cœur",
+      "translation_anchor": "因为它们就长在同样的深度、与我过去的水平线齐平，它们立刻便与我的心相通",
+      "finding": "旅行中再见花木触动内心，理由是它们与往昔记忆处于同一深度，接续精神土层隐喻；“长在”稍将心理位置植物化，但后接过去的水平线已说明比喻所指，未理解成实际根系深度，保留。"
+    },
+    {
+      "unit": 19,
+      "source_anchor": "Et pourtant, parce qu’il y a quelque chose d’individuel dans les lieux",
+      "translation_anchor": "然而，正因为每个地方都有某种独一无二的东西",
+      "finding": "此处转折不是撤回花木唤起往昔的效果，而是强调具体地点仍不可替代。译文先提出地方的独特性，再说同样美乃至更美的别处睡莲无法满足重游欲，比较对象和递进均准确。"
+    },
+    {
+      "unit": 20,
+      "source_anchor": "pas plus que le soir en rentrant -- à l’heure où s’éveillait en moi cette angoisse qui plus tard émigre dans l’amour",
+      "translation_anchor": "就像当年傍晚回屋时——正是在那个时刻，那种焦虑在我心里苏醒，它日后移居进爱情",
+      "finding": "pas plus que将不能用别处风景替代旧地类比于不能用更美、更聪慧的母亲替代自己的母亲；译文末尾“绝不会”保留否定。“日后”“还可能”区分焦虑进入爱情与可能永久相随，时间及可能性未丢失。"
+    },
+    {
+      "unit": 21,
+      "source_anchor": "Non ; de même que ce qu’il me fallait pour que je pusse m’endormir heureux, avec cette paix sans trouble qu’aucune maîtresse n’a pu me donner depuis",
+      "translation_anchor": "不；当年要让我幸福地入睡，让我获得那份此后再没有任何情人能带给我的安宁",
+      "finding": "Non加强前句不可替代性，de même que将与后面的风景再作对照；原译分句较长，但前面的需要、后面的“所需要的正是她本人”完整呼应。aucune及depuis所表达此后没有任何情人能给予同样安宁的绝对判断均保留。"
+    },
+    {
+      "unit": 22,
+      "source_anchor": "puisqu’on doute d’elles encore au moment où on croit en elles et qu’on ne possède jamais leur cœur comme je recevais dans un baiser celui de ma mère",
+      "translation_anchor": "因为在相信她们的那一刻，我们对她们仍存着怀疑，我们永远无法占有她们的心，不像我在一个吻里接受母亲的心那样",
+      "finding": "elles指情人，celui指心；相信同时仍怀疑的悖论不是先信后疑，译文“一刻……仍”准确。吻中得到整颗母亲的心与永远无法拥有情人的心形成比较，随后“没有一丝……没有一点……”保存毫无保留、无任何非为自己而存的意念的递进，保留。"
+    },
+    {
+      "unit": 23,
+      "source_anchor": "c’est que ce fût elle, c’est qu’elle inclinât vers moi ce visage où il y avait au-dessous de l’œil quelque chose qui était, paraît-il, un défaut",
+      "translation_anchor": "所需要的正是她本人，正是她把那张脸俯向我：据说眼睛下方带着一个瑕疵的那张脸，而我爱那个瑕疵，一如爱她脸上的其余一切",
+      "finding": "重复c’est que强调必须是自己的母亲。“据说”保留paraît-il的保留态度，表明瑕疵只是旁人所认定；“一如爱……其余一切”保留叙述者对该特征同等的爱，没有把它写成虽有缺陷仍爱，保留。"
+    },
+    {
+      "unit": 24,
+      "source_anchor": "de même ce que je veux revoir, c’est le côté de Guermantes que j’ai connu, avec la ferme qui est peu éloignée des deux suivantes",
+      "translation_anchor": "同样，我想重见的，正是我所认识的那个盖尔芒特家那边：橡树林荫道入口处的那座农庄，离随后紧挨在一起的两座农庄不远",
+      "finding": "回到de même的第二项：要重见的是熟识的特定盖尔芒特风景。“不远”对应本段peu éloignée，不能为了与邻段assez distante的表述一致擅改。两座后续农庄互相靠拢，第一座在橡树林荫道入口，空间关系保留。"
+    },
+    {
+      "unit": 25,
+      "source_anchor": "ces prairies où, quand le soleil les rend réfléchissantes comme une mare, se dessinent les feuilles des pommiers",
+      "translation_anchor": "还有那些草地，当太阳把它们照得像水塘一样闪闪反光，苹果树的叶子便一一显影",
+      "finding": "太阳使草地如池塘般反光，苹果树叶的轮廓在其上显现；“显影”承接光影图案，可保留，并未写成水中真实倒影。随后的夜梦风景以个性攫住自己、醒来无法找回，个性属于风景而非叙述者，译文主宾及梦醒对照均清楚。"
+    },
+    {
+      "unit": 26,
+      "source_anchor": "Sans doute pour avoir à jamais indissolublement uni en moi des impressions différentes, rien que parce qu’ils me les avaient fait éprouver en même temps",
+      "translation_anchor": "无疑，正因为把种种不同的印象永远地、牢不可破地联结在我身上——仅仅因为它们让我同时感受了这些印象",
+      "finding": "两地仅因引发印象的时间相同，就令不同印象永久绑定，进而使未来易遭失望、犯错；译文保留“仅仅因为”的关键因果及日后影响。“埋下伏笔”比m’ont exposé更比喻化，但明确相同因果而未将过错说成早已发生，保留。"
+    },
+    {
+      "unit": 27,
+      "source_anchor": "Car souvent j’ai voulu revoir une personne sans discerner que c’était simplement parce qu’elle me rappelait une haie d’aubépines",
+      "translation_anchor": "我常常想再见某个人，却没有分辨出那不过是因为她让我想起一道山楂树篱；一阵单纯的旅行欲望，竟诱使我相信、也让别人相信那是旧情复燃",
+      "finding": "这一整句举例解释上句的过错，补出Car的因果承接；elle由personne的语法阴性而来，并不指定女性，修改“她”。regain d’affection是感情或情谊的复萌，“旧情复燃”过于限定爱情。保留两层误认：自己相信并令对方相信，实际冲动只是想旅行。"
+    },
+    {
+      "unit": 28,
+      "source_anchor": "Mais par là même aussi, et en restant présents en celles de mes impressions d’aujourd’hui auxquelles ils peuvent se relier",
+      "translation_anchor": "但也正因为如此，它们始终留驻在我今天的种种印象里——凡是能与它们相连的印象——并赋予这些印象基座、深度，比其他印象多出一个维度",
+      "finding": "同一联想机制既可造成误认，也可给今日相联的印象增加深度，Mais和par là même的逆转、同因关系在译文保留。插入语限定只有可相联的那部分今日印象，未泛化到全部经验；基座、深度和多一维度保存地层及空间比喻。"
+    },
+    {
+      "unit": 29,
+      "source_anchor": "Ils leur ajoutent aussi un charme, une signification qui n’est que pour moi",
+      "translation_anchor": "它们还为这些印象增添一种魅力、一种只属于我一个人的意义",
+      "finding": "Ils仍是两边，leur是今日印象；意义的专属性以ne…que限定于叙述者，译文对应清楚。“魅力”与“意义”两个并列贡献均保留，不宜将它们改写成可供他人共享的审美评价。"
+    },
+    {
+      "unit": 30,
+      "source_anchor": "Quand par les soirs d’été le ciel harmonieux gronde comme une bête fauve et que chacun boude l’orage",
+      "translation_anchor": "夏日的夜晚，当和谐的天空像猛兽般咆哮、人人都在埋怨雷暴时",
+      "finding": "夏夜天空和谐却如猛兽低吼，反差为原文所设，不宜以常识改平。人人不悦与叙述者独自陶醉构成对照；“出神伫立”对应rester seul en extase，丁香看不见却持续留香的并置保留。c’est au côté de Méséglise que je dois明确感官经验归因于梅塞格利丝往昔，“归功于”准确。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "那些让我们重新理解事物的意义与面貌、又为我们开辟新路的真理",
+      "after": "那些改变了我们眼中精神生活的意义与面貌、又为我们开辟新路的真理",
+      "source": "les vérités qui en ont changé pour nous le sens et l’aspect",
+      "reason": "en承接上文la vie intellectuelle，指真理改变了精神生活对我们而言的意义与面貌；原译改成重新理解泛指的“事物”，移换了受影响的对象。"
+    },
+    {
+      "type": "错译",
+      "before": "围绕着它们显现的整片风景，至今仍带着懵懂或恍惚的面目，伴随在它们的记忆里",
+      "after": "围绕着那些真理显现的整片风景，至今仍带着懵懂或恍惚的面目，伴随着对那些真理的记忆",
+      "source": "tout le paysage qui environna leur apparition continue à accompagner leur souvenir de son visage inconscient ou distrait",
+      "reason": "两个leur都指前句的真理；紧接花、水写“它们”容易误指花、水，且“伴随在它们的记忆里”把记忆的对象误写成拥有记忆的主体。明确真理的显现及对真理的记忆，保留风景的拟人面貌。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "那沿树篱一路采撷的山楂花香——野蔷薇很快就要取代它的所在",
+      "after": "那沿树篱一路采撷的山楂花香——在那道树篱上，野蔷薇的花香很快便会取代它",
+      "source": "ce parfum d’aubépine qui butine le long de la haie où les églantiers le remplaceront bientôt",
+      "reason": "où定位于树篱，le指山楂花香。原译“取代它的所在”既可能成为取代地点，也使破折号内的说明缺乏完整结构。改成完整的地点说明和替换关系，保留butine将花香写成采蜜者的修辞。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "正因为我走遍那两个那边时相信物、相信人",
+      "after": "正因为我在那两边漫游时相信物、相信人",
+      "source": "C’est parce que je croyais aux choses, aux êtres, tandis que je les parcourais",
+      "reason": "les承接两条散步路线；“那两个那边”是数量结构与方位词叠接，不成自然中文。“漫游”承接parcourais而不额外强调已穷尽路线。"
+    },
+    {
+      "type": "错译",
+      "before": "丁香、山楂树、矢车菊、罂粟和苹果树",
+      "after": "丁香、山楂树、矢车菊、虞美人和苹果树",
+      "source": "ses lilas, ses aubépines, ses bluets, ses coquelicots, ses pommiers",
+      "reason": "coquelicot指田野常见的虞美人（Papaver rhoeas），不是通常中文所指的罂粟（Papaver somniferum）；此处作为沿途植物名称应予区分。"
+    },
+    {
+      "type": "错译",
+      "before": "我常常想再见某个人，却没有分辨出那不过是因为她让我想起一道山楂树篱；一阵单纯的旅行欲望，竟诱使我相信、也让别人相信那是旧情复燃",
+      "after": "因为我常常想再见某个人，却没有分辨出那不过是因为这个人让我想起一道山楂树篱；一阵单纯的旅行欲望，竟诱使我相信、也让别人相信那是感情的重新萌发",
+      "source": "Car souvent j’ai voulu revoir une personne sans discerner que c’était simplement parce qu’elle me rappelait une haie d’aubépines, et j’ai été induit à croire, à faire croire à un regain d’affection, par un simple désir de voyage",
+      "reason": "Car解释上文的失望与过错，宜保留因果承接；une personne的语法阴性不限定人物性别，“她”无据。affection可以指一般情谊，“旧情复燃”通常专指恋爱复合，缩窄了此处因联想而误判感情的论述。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p319"
+  }
+}

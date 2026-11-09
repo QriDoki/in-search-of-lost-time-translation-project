@@ -1,0 +1,35 @@
+{
+  "id": 192,
+  "assessment": "已逐句核对。译文准确传达姑妈突然想起漏问弥撒到场时间、急令弗朗索瓦丝追赶欧拉莉的语意与急切口吻；“瞧我这记性”自然转达原文感叹语气，“举扬圣体”对应弥撒中的élévation。未发现值得修订的实质问题，保留原译。",
+  "changes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p192"
+  },
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Est-ce qu'Eulalie est déjà partie ?",
+      "translation_anchor": "欧拉莉已经走了吗？",
+      "finding": "Est-ce que构成直接问句，déjà与完成时est partie询问欧拉莉此时是否已经离开；译文“已经走了吗”保留完成状态与询问语气。人名及说话人向弗朗索瓦丝打听欧拉莉去向的关系明确，保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Croyez-vous que j'ai oublié de lui demander",
+      "translation_anchor": "瞧我这记性，居然忘了问她",
+      "finding": "Croyez-vous que在此接感叹号，意为“你想想，我居然忘了……”，并非真正征求对方是否相信；“瞧我这记性，居然”将这种惊觉漏问、自责的口头感叹自然转为中文。j’ai oublié是姑妈自己已经漏做的事，“忘了”对应完成意义；lui回指欧拉莉，“她”的指向一致。译文未把否定或责任转移给弗朗索瓦丝，保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "si M^me^ Goupil était arrivée à la messe avant l'élévation",
+      "translation_anchor": "古比尔夫人望弥撒时，是不是赶在举扬圣体之前到的",
+      "finding": "si引导demander的间接疑问，问的是古比尔夫人是否在弥撒举扬圣体以前到场，而非是否参加过弥撒；译文“是不是……之前到的”保留问题焦点。était arrivée表示所询到场事件先于眼下谈话，中文由“到的”及弥撒场景表达既往事件，无须再加时间标记。à la messe对应“望弥撒”，élévation对应“举扬圣体”；“赶在”在此表达先于该仪式环节到场，并未独立叙述奔跑或迟到，保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Courez vite après elle !",
+      "translation_anchor": "快去追她回来！",
+      "finding": "Courez为对弗朗索瓦丝的命令，vite要求立即、迅速行动，après elle要求追赶刚离开的欧拉莉；“快去追她”完整保留动作与紧迫感。原文未单列“回来”，但姑妈刚说漏问问题，此处追人的目的即恢复询问机会，“追回来”属于中文语境下合理显化；邻段“没能追上欧拉莉”也确认追赶对象，未造成需修订的情节增译，保留。"
+    }
+  ]
+}

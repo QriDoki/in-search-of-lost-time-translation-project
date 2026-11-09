@@ -1,0 +1,74 @@
+{
+  "id": 256,
+  "assessment": "本段从临行装束写到向山楂告别，继而许诺成年后的生活，动作、情绪和末句的取舍关系基本完整。需改两处：首句把父母较早定下日期改成了回程日期较早；寻找者应一直是母亲，且raidillon所含的陡坡地形未译出。其余保留，包括悲剧公主的比拟、对梳头之手的怨怼及对成人社交生活的拒绝。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "那一年，父母把回巴黎的日子定得比往常早了一些。",
+      "after": "那一年，父母比往常稍早些定下了回巴黎的日子。",
+      "source": "quand, un peu plus tôt que d'habitude, mes parents eurent fixé le jour de rentrer à Paris",
+      "reason": "插入的时间状语修饰eurent fixé，写父母定下日期这一动作较早发生；原译的‘把……日子定得……早’改成了比较回程日期本身。调整状语位置，保留这一语义区别。"
+    },
+    {
+      "type": "错译",
+      "before": "他们到处找我，最后母亲在紧邻坦松维尔的那条小径上找到了泪流满面的我",
+      "after": "母亲到处找我，最后在紧邻坦松维尔的那条陡峭小路上找到了泪流满面的我",
+      "source": "après m'avoir cherché partout, ma mère me trouva en larmes dans le petit raidillon contigu à Tansonville",
+      "reason": "après m'avoir cherché的隐含主语由ma mère承接，是母亲四处寻找后发现我；原译‘他们’误承前面的家里人。raidillon指陡峭的小路或坡道，‘小径’遗漏了地形特征。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Cette année-là, quand, un peu plus tôt que d'habitude, mes parents eurent fixé le jour de rentrer à Paris",
+      "translation_anchor": "那一年，父母把回巴黎的日子定得比往常早了一些。",
+      "finding": "原文把‘较往常早’插在quand和mes parents eurent fixé之间，修饰定下返程日期的动作；译文把‘早’置于‘把……日子定得’之后，转而说明返程日提前。改为‘父母比往常稍早些定下了……’，使时间状语的作用对象明确。原文与后文共属一个长句，中文在此断句不妨碍事件先后，保留句号。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "le matin du départ, comme on m'avait fait friser pour être photographié, coiffer avec précaution un chapeau que je n'avais encore jamais mis et revêtir une douillette de velours",
+      "translation_anchor": "动身那天早上，为了拍照，家里人给我卷好了头发，小心戴上一顶我从没戴过的帽子，还穿上一件丝绒外套",
+      "finding": "原文on m'avait fait统摄卷发、戴帽和穿外衣三项装扮，目的pour être photographié在译文中前置，关系清楚。‘家里人给我’引出后面连续动作，戴帽穿衣的对象仍可顺畅理解为我；que je n'avais encore jamais mis所指是帽子，译为‘我从没戴过的’无误。douillette是保暖外衣，‘丝绒外套’在此足以传达衣物及材质，无需增添服饰说明。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "après m'avoir cherché partout, ma mère me trouva en larmes dans le petit raidillon contigu à Tansonville",
+      "translation_anchor": "他们到处找我，最后母亲在紧邻坦松维尔的那条小径上找到了泪流满面的我",
+      "finding": "寻找和找到的主语均为ma mère；原译另立‘他们’使寻找者成了前面的家里人，应改由母亲连续施事。petit raidillon除了路小，还有陡峭坡道之义，须补为‘陡峭小路’。contigu à Tansonville译‘紧邻坦松维尔’、en larmes译‘泪流满面’均有对应。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "en train de dire adieu aux aubépines, entourant de mes bras les branches piquantes, et, comme une princesse de tragédie à qui pèseraient ces vains ornements",
+      "translation_anchor": "我正在向山楂树们告别，双臂搂着扎人的枝条，活像悲剧里的一位公主，被这些无用的装饰压得喘不过气",
+      "finding": "en train de和现在分词呈现母亲发现我时正在做的事，译文的‘正在’和连续动作保留了这一同时关系。‘搂着扎人的枝条’对应双臂环抱带刺树枝。公主比拟中pèseraient是假拟的压迫感，‘活像……被……压得喘不过气’已置于比喻框架；‘无用的装饰’对应vains ornements，保留对临行盛装的厌烦与悲剧姿态。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "ingrat envers l'importune main qui en formant tous ces nœuds avait pris soin sur mon front d'assembler mes cheveux, foulant aux pieds mes papillotes arrachées et mon chapeau neuf",
+      "translation_anchor": "我一点也不感谢那只替我梳头、惹我厌烦的手——正是它卷出一个个发结，把我的头发在前额上细细拢好；我把扯下来的卷发纸和新帽子统统踩在脚下",
+      "finding": "ingrat形容叙述者忘恩，l'importune main以手代装扮我的人；译文保留‘不感谢’和‘惹我厌烦’，没有误把怨怼对象改成头发。发结、前额及细心整理均有交代。papillotes为卷发用的纸卷，‘扯下来的卷发纸’准确传达arrachées和物件用途；foulant aux pieds的践踏动作及新帽子都保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Ma mère ne fut pas touchée par mes larmes, mais elle ne put retenir un cri à la vue de la coiffe défoncée et de la douillette perdue. Je ne l'entendis pas",
+      "translation_anchor": "母亲并不为我的眼泪所动，可一看见踩瘪的帽子和毁掉的外套，她禁不住惊叫了一声。我没有听见。",
+      "finding": "两个否定分别是母亲不被眼泪感动和无法抑制惊叫，译文‘并不……可……禁不住’准确保留反差。coiffe指帽子部分，此处以‘帽子’概括其被踩坏的状态，接上前文践踏动作，语义可通；perdue指衣服毁坏而非丢失，译文判断正确。Je ne l'entendis pas中的l'承接母亲的叫声，紧接‘惊叫了一声’译‘我没有听见’指代明确。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Ô mes pauvres petites aubépines ... ce n'est pas vous qui voudriez me faire du chagrin, me forcer à partir. Vous, vous ne m'avez jamais fait de peine ! Aussi je vous aimerai toujours.",
+      "translation_anchor": "哦，我可怜的小山楂树啊……你们才不会让我伤心，不会逼我走。你们呀，从来没有伤害过我！所以我会永远爱你们。",
+      "finding": "ce n'est pas vous qui以排除式强调将山楂与逼我离开的人对照，‘你们才不会’保留重音与抱怨。第二句的Vous, vous再次强调山楂，译为‘你们呀’相应；‘从来没有’对应ne ... jamais过去至今的否定。Aussi在此是由前述无伤害推出永久爱恋的结果，‘所以’准确。‘伤害过我’与前句‘让我伤心’在语境中同属情感痛苦，未转为身体伤害。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Et, essuyant mes larmes, je leur promettais, quand je serais grand, de ne pas imiter la vie insensée des autres hommes et, même à Paris, les jours de printemps, au lieu d'aller faire des visites et écouter des niaiseries, de partir dans la campagne voir les premières aubépines.",
+      "translation_anchor": "擦着眼泪，我向它们许诺：等我长大了，绝不去学别的成年人那种疯狂的生活；哪怕在巴黎，一到春天，也不去登门拜访、听那些无聊的闲话，而要跑到乡下去看最早开放的山楂花。",
+      "finding": "essuyant表许诺时擦泪，译文同步处理；leur指山楂，‘它们’衔接正确。quand je serais grand是相对童年叙述时间的将来，‘等我长大了’对应。两个承诺是不模仿他人的无理性生活以及春日去乡间看初开的山楂；‘不去……而要……’保留au lieu de的取舍。même à Paris的让步、les jours de printemps的季节条件、premières的初开意味均已译出。中文‘别的成年人’将hommes依成年后的生活语境具体化，不损害此处拒绝世俗社交的意思，保留。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p256"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": 94,
+  "assessment": "本段关于阅读如何使虚构人物的情感成为内在经验的论述基本完整，长句层次与修辞总体保留。修订两处：将小说的情节误译为‘行动’，以及将情感与行动是否显得真实误转为人物是否真实，并补回‘新型人物’的限定、消除同一句中的重复。其余保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "我所投身的那场行动给我的种种情感",
+      "after": "我所参与的故事情节带给我的种种情感",
+      "source": "les émotions que me donnait l'action à laquelle je prenais part",
+      "reason": "此处action指小说情节，后文即说这些事件发生在所读的书里；‘那场行动’误成一次具体行动。"
+    },
+    {
+      "type": "错译",
+      "before": "既然如此，既然我们已将他们的情感与行动当成自己的，他们看起来是否真实，又有什么关系呢？反正我们已经把它们变成了自己的东西，它们就在我们心中发生，当我们急切地翻动书页时，我们呼吸的快慢、目光的强度，全由它们支配。",
+      "after": "既然如此，这些新型人物的行动与情感在我们看来是否真实，又有什么关系呢？既然我们已经把它们变成了自己的东西，既然它们就在我们心中发生，当我们急切地翻动书页时，我们呼吸的快慢、目光的强度，全由它们支配。",
+      "source": "Qu'importe dès lors que les actions, les émotions de ces êtres d'un nouveau genre nous apparaissent comme vraies, puisque nous les avons faites nôtres, puisque c'est en nous qu'elles se produisent",
+      "reason": "原文‘显得真实’的主语是新型人物的行动与情感，译文‘他们看起来是否真实’却指向人物本身；原译还漏掉‘新型’的限定，并将‘我们已将它们化为己有’重复表达两次。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p094"
+  }
+}

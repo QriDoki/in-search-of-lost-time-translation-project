@@ -1,0 +1,123 @@
+{
+  "id": 241,
+  "assessment": "本段关于两条散步路线的地理关系、少年时代的想象以及不同下午彼此封闭的比喻，整体译出，长句的递进层次也基本保留。逐句核对后有三处明确值得修订：梅塞格利丝既被地形遮蔽，译作“可望”与后文冲突；经由东方去西方的荒谬路线被改成了通常成立的“从东边往西走”；精神距离所分隔的对象是两个“那边”，译文却无据转成“人”。其余个别解释性措辞不影响核心含义，保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "就像地平线一样可望而不可即——无论走多远，都被一片与贡布雷已然不同的地貌褶皱遮去视线",
+      "after": "就像地平线一样无法抵达——无论走多远，都被一片与贡布雷已然不同的地貌褶皱遮住，无法望见",
+      "source": "quelque chose d'inaccessible comme l'horizon, dérobé à la vue, si loin qu'on allât, par les plis d'un terrain",
+      "reason": "inaccessible说无法到达，dérobé à la vue说梅塞格利丝被地形遮住、看不见。“可望而不可即”增加了可以望见的意思，与后面的视觉遮蔽相抵触；“遮去视线”又未明确被遮蔽的是梅塞格利丝。改文区分到达不了与望不见两层意思。"
+    },
+    {
+      "type": "错译",
+      "before": "就像“从东边往西走”一样，是毫无意思的说法",
+      "after": "就像“经由东边去西边”一样，是毫无意义的说法",
+      "source": "aussi dénuée de sens que prendre par l'est pour aller à l'ouest",
+      "reason": "prendre par表示取道、经由，与前面的“取道盖尔芒特去梅塞格利丝”对应。原译“从东边往西走”只说由东向西，是有意义的正常行进方向，失去了原文用以说明两个“那边”在意识中不能互通的类比。此处dénuée de sens指没有意义，“毫无意思”也容易误作无趣。"
+    },
+    {
+      "type": "错译",
+      "before": "它不仅使人疏远，还把人分隔开来，还把人放到另一个平面上",
+      "after": "它不仅拉远距离，还把两者分隔开来，使它们处于不同的平面上",
+      "source": "une de ces distances dans l'esprit qui ne font pas qu'éloigner, qui séparent et mettent dans un autre plan",
+      "reason": "这一关系从句继续解释两个“那边”之间的精神距离，éloigner、séparent及mettent的对象均承接两地，并无泛指人的成分。原译三次加“人”，将意识中两处空间的分隔误写成人际疏远，削弱了下一句封闭下午比喻的逻辑衔接。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Car il y avait autour de Combray deux « côtés » pour les promenades, et si opposés qu'on ne sortait pas en effet de chez nous par la même porte",
+      "translation_anchor": "因为在贡布雷郊外有两条截然相反的散步路线，想去哪一条，出门走的根本不是同一扇门",
+      "finding": "Car承上解释上一段为何从菜园小门出去，译作“因为”正确。deux côtés是两个方向上的散步区域，译文先释为两条路线，再以“那边”标出原词，能使后续路线指称清楚。si opposés que的程度及结果以“截然相反”“根本不是同一扇门”表达；“想去哪一条”在中文中略口语化，但可明白理解为想走哪一条路线，无须修改。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "le côté de Méséglise-la-Vineuse, qu'on appelait aussi le côté de chez Swann parce qu'on passait devant la propriété de M. Swann pour aller par là, et le côté de Guermantes",
+      "translation_anchor": "一条是梅塞格利丝-拉维纳兹那边，也叫斯万家那边，因为走这条路要从斯万先生的庄园前经过；另一条是盖尔芒特家那边",
+      "finding": "并列两方以及第一方的别称均有译出。parce que说明叫“斯万家那边”的缘由，译文保留经过庄园的路线关系，并未将庄园误作散步终点。“两个‘方向’、两个‘那边’”属于对côtés的解释性展开，不构成另两条路线；此处保留既有译法。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "De Méséglise-la-Vineuse, à vrai dire, je n'ai jamais connu que le « côté » et des gens étrangers qui venaient le dimanche se promener à Combray",
+      "translation_anchor": "说实在的，对于梅塞格利丝-拉维纳兹，我从来只认识这条“那边”路线，还有那些星期天到贡布雷来散步的外乡人",
+      "finding": "à vrai dire的自我限定、ne ... jamais ... que的“从来只”、以及认识的两类对象都得到表达。étrangers是相对于当地人而言的陌生外乡人，译文没有误作外国人。星期天到贡布雷散步修饰这些外乡人，中文修饰关系清楚。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "des gens que, cette fois, ma tante elle-même et nous tous ne « connaissions point » et qu'à ce signe on tenait pour « des gens qui seront venus de Méséglise »",
+      "translation_anchor": "这种人，这一回连我姑妈自己和我们大家也“根本不认识”，而凭这个标志，就把他们当作“想必是从梅塞格利丝来的人”",
+      "finding": "“这一回连我姑妈自己”保留了对姑妈惯于认得来往者的反讽。à ce signe承接不认识这一特征，译作“凭这个标志”指向明确。seront venus的先将来时在这里表推测，不是未来要来；“想必是从……来的人”正确呈现推测语气。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Quant à Guermantes je devais un jour en connaître davantage, mais bien plus tard seulement",
+      "translation_anchor": "至于盖尔芒特，我日后总有一天会对它了解得更多，但那要晚得多",
+      "finding": "devais un jour是从当时回望后来经历的叙述预示，“日后总有一天会”保持时间视角。bien plus tard seulement的很晚才发生，由“但那要晚得多”传达；en指盖尔芒特，“对它”衔接正确。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "pendant toute mon adolescence, si Méséglise était pour moi quelque chose d'inaccessible comme l'horizon, dérobé à la vue, si loin qu'on allât, par les plis d'un terrain qui ne ressemblait déjà plus à celui de Combray",
+      "translation_anchor": "而在我的整个少年时代，如果说梅塞格利丝对我而言就像地平线一样可望而不可即——无论走多远，都被一片与贡布雷已然不同的地貌褶皱遮去视线",
+      "finding": "全少年时代的时间范围和“无论走多远”的让步均已保留；qui ne ressemblait déjà plus修饰地形，译文“与贡布雷已然不同的地貌”关系正确。但inaccessible只说明无法到达，dérobé à la vue更明说被遮住而看不见，“可望而不可即”凭空加入可见，且“遮去视线”未清晰表达被遮对象。列入修改，改成“无法抵达”及“被……遮住，无法望见”。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Guermantes, lui, ne m'est apparu que comme le terme plutôt idéal que réel de son propre « côté », une sorte d'expression géographique abstraite comme la ligne de l'équateur, comme le pôle, comme l'orient",
+      "translation_anchor": "那么盖尔芒特在我眼中，就只是它自己那条“那边”路线的一个与其说实在、不如说理想的终点，一种抽象的地理表述，就像赤道线、就像极地、就像东方",
+      "finding": "si ... Guermantes, lui ...将两地在少年意识中的不同性质并置，译成“如果说……那么……”可读。ne ... que的限定、plutôt idéal que réel的重心都已体现。son propre指盖尔芒特自己的“那边”，译文没有移到梅塞格利丝。赤道、极点、东方的列举为抽象地理概念作比，中文“极地”略宽于pôle，但仍落在地理想象范围，不另作改动。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Alors, « prendre par Guermantes » pour aller à Méséglise, ou le contraire, m'eût semblé une expression aussi dénuée de sens que prendre par l'est pour aller à l'ouest",
+      "translation_anchor": "因此，“从盖尔芒特那边走”去梅塞格利丝，或者反过来，在我看来就像“从东边往西走”一样，是毫无意思的说法",
+      "finding": "Alors承接少年时代的地理想象，m’eût semblé表达在那种意识条件下会有的判断，中文叙述基本顺接；“或者反过来”也保留了路线互换。但两次prendre par都表示取道：后半须同样是经由东边去西边。原译成通常有意义的从东向西行走，破坏了aussi dénuée de sens que的荒谬类比，列入修改。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Comme mon père parlait toujours du côté de Méséglise comme de la plus belle vue de la plaine qu'il connût et du côté de Guermantes comme du type de paysage de rivière",
+      "translation_anchor": "由于父亲总说梅塞格利丝那边是他所见过的最美的平原风光，说盖尔芒特那边是河流风景的典范",
+      "finding": "句首Comme表示原因，后两处comme分别引出父亲给予两条路线的评价，译文用“由于……说……是……”区分了关系。qu’il connût限定为父亲所知所见中最美，而非客观断言天下第一；“他所见过的”保留了限定。type译“典范”与后文理想化的论述一致。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "je leur donnais, en les concevant ainsi comme deux entités, cette cohésion, cette unité qui n'appartiennent qu'aux créations de notre esprit ; la moindre parcelle de chacun d'eux me semblait précieuse et manifester leur excellence particulière",
+      "translation_anchor": "我便把它们当作两个独立的实体来构想，赋予它们那种唯有我们精神的造物才具备的凝聚与统一；两者中哪怕最小的一部分，在我看来都是珍贵的，都彰显着它们各自特有的卓越",
+      "finding": "leur、les及chacun d’eux连续指两条路线，译文“它们”“两者”“各自”准确维持指代。en les concevant表示构想的方式或同时发生的心理过程，译文先“当作……构想”再“赋予”可成立。ne ... que限定精神造物独有的统一性，“唯有……才”保留；最小部分也体现各自特质的递进，译文完整。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "tandis qu'à côté d'eux, avant qu'on fût arrivé sur le sol sacré de l'un ou de l'autre, les chemins purement matériels au milieu desquels ils étaient posés comme l'idéal de la vue de plaine et l'idéal du paysage de rivière, ne valaient pas plus la peine d'être regardés que par le spectateur épris d'art dramatique les petites rues qui avoisinent un théâtre",
+      "translation_anchor": "而在它们旁边，在人们抵达其中一方的神圣地界之前，那些纯然物质性的小路——两条路线就安放在这些小路中间，如同平原风光之理想、河流风景之理想——并不比醉心戏剧艺术的观众眼中剧院附近的小巷更值得一看",
+      "finding": "tandis que对照珍贵的两“那边”与普通路径，译文用“而”并另起句保留逻辑。avant que是进入神圣区域之前，非直到进入以后；译文正确。au milieu desquels及ils分别对应小路及两条路线，插入语清楚区分。末尾省略结构把我看普通道路与戏迷看剧院旁小巷类比，译成“不比……观众眼中……更值得一看”恢复了比较所需的中文结构，没有把“不值得”误移到戏剧本身。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "Mais surtout je mettais entre eux, bien plus que leurs distances kilométriques, la distance qu'il y avait entre les deux parties de mon cerveau où je pensais à eux",
+      "translation_anchor": "但尤其重要的是，我在两者之间设置的，与其说是几公里的里程，不如说是我大脑中想到它们的那两个部分之间的距离",
+      "finding": "Mais surtout将重点转到精神距离，译文“但尤其重要的是”明确递进。两处eux均指梅塞格利丝和盖尔芒特，中文“两者”“它们”一致；où说明分别在大脑两部分想到这两地，译文含义齐全。bien plus que强调精神距离远较地理距离重要，中文“与其说……不如说……”虽改用取舍句式，仍传达论述重心；“几公里”作为里程的泛称并未造成实际路线的量化判断，此处保留。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "une de ces distances dans l'esprit qui ne font pas qu'éloigner, qui séparent et mettent dans un autre plan",
+      "translation_anchor": "那是精神空间里的一种距离，它不仅使人疏远，还把人分隔开来，还把人放到另一个平面上",
+      "finding": "ne font pas que不是完全否定拉远，而是“不只拉远”，这一递进原译已有体现。但关系从句描述精神距离怎样分隔两地，不是人的人际关系；原译连续补“人”使对象发生偏移。列入修改，明确为拉远距离、分隔两者并使之处于不同平面，从而与随后两个下午的封闭容器相衔接。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "Et cette démarcation était rendue plus absolue encore parce que cette habitude que nous avions de n'aller jamais vers les deux côtés un même jour, dans une seule promenade, mais une fois du côté de Méséglise, une fois du côté de Guermantes",
+      "translation_anchor": "而且这种分界变得更加绝对，因为我们有个习惯：从不在同一天、同一次散步中走向两条路线，而是一次走梅塞格利丝那边，一次走盖尔芒特家那边",
+      "finding": "cette démarcation回指精神中两地的分隔，“这种分界”衔接正确。plus absolue encore及parce que形成进一步强化及其原因，译文均保留。n’aller jamais ... un même jour, dans une seule promenade是不将两方纳入同日同次散步，中文没有误成从不去任何一边；mais une fois ... une fois ...清楚说明每次择一。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "les enfermait pour ainsi dire loin l'un de l'autre, inconnaissables l'un à l'autre, dans les vases clos et sans communication entre eux d'après-midi différents",
+      "translation_anchor": "这个习惯可以说把它们远远地封存在彼此隔绝、互不相识的状态里，封存在一个个互不流通、密封容器般的不同下午里",
+      "finding": "les指两条路线，而施动原因是上述习惯，中文“这个习惯……它们”准确。pour ainsi dire的比喻保留为“可以说”；inconnaissables l’un à l’autre将两个地方拟人化，译“互不相识”保有修辞。vases clos ... d’après-midi différents将不同下午各当作封闭容器，中文调整为“密封容器般的不同下午”，同样表达容器之间互不流通，并未错成两条路线在同一个下午里封闭。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p241"
+  }
+}

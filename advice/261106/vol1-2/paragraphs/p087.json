@@ -1,0 +1,31 @@
+{
+  "id": 87,
+  "assessment": "本段的乔托壁画与怀孕女工之间的比拟、象征与实际负担的关系及长句逻辑总体准确。修正将房间关闭擅自具体化为上锁、将连续两年使用同一女工误限为任职满两年，以及把 simple 的限制语气译为负担本身简单的三处；原有注释予以保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "那间上了锁的书房",
+      "after": "那间已经关闭的书房",
+      "source": "le cabinet de repos maintenant fermé",
+      "reason": "fermé只说明房间如今关闭，不说明已经上锁；原译增添了锁门的具体情节。"
+    },
+    {
+      "type": "错译",
+      "before": "因为我们家的女工从没有哪个连着干满两年",
+      "after": "因为我们家从没有连续两年用同一个厨房女工",
+      "source": "car nous n'eûmes jamais la même deux ans de suite",
+      "reason": "原文说连续两年从未是同一个人，不是说没有人的任职时长达到整整两年。"
+    },
+    {
+      "type": "错译",
+      "before": "它于她只是一份简单而沉重的负担",
+      "after": "它于她不过是一份沉重的负担",
+      "source": "comme un simple et pesant fardeau",
+      "reason": "simple在这里强调仅仅是负担，呼应她不理解其象征意义；不是形容负担简单。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p087"
+  }
+}

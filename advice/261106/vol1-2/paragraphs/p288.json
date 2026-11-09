@@ -1,0 +1,37 @@
+{
+  "id": 288,
+  "assessment": "本段两句已逐句核对。首句准确点出凡德伊小姐沿用了父亲谈及乐曲时的原话；次句保留了叙述者根据女友回答作出的推断，并保留“亵渎仪式—礼仪应答”的宗教修辞。仅调整“礼拜仪式式”这一叠用“式”而显生硬的表达，并补明原文 ses 所指的女友。原注完整保留，与修改无矛盾。",
+  "changes": [
+    {
+      "type": "不符合现代中文习惯",
+      "before": "那套礼拜仪式式的应答",
+      "after": "她那套礼拜仪式般的应答",
+      "source": "ses réponses liturgiques",
+      "reason": "“礼拜仪式式”连续叠用“式”，中文构词生硬；改为“礼拜仪式般”保留将反复说出的亵渎之语比作礼仪应答的修辞。“她”对应 ses，指说出这番回答的女友。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Je me souvins que c'étaient les mots que M. Vinteuil avait dits à mon père à propos du morceau de musique.",
+      "translation_anchor": "我记起来，当初凡德伊先生为了那支乐曲的事对我父亲说的正是这几句话。",
+      "finding": "“Je me souvins”译“我记起来”，保留突然忆及旧事的叙述动作；“c’étaient les mots”译“正是这几句话”，明确指向上段关于肖像放错地方的话，说明女儿重复了父亲过去说过的话。“M. Vinteuil”与“à mon père”分别落实为凡德伊先生和叙述者的父亲，人物指代没有倒置；“当初”交代 avait dits 所表示的先前言说。“为了那支乐曲的事”承接 à propos du morceau de musique，表示所谈的话题，中文虽略口语化但语义清楚，可保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Ce portrait leur servait sans doute habituellement pour des profanations rituelles",
+      "translation_anchor": "这张肖像无疑惯常被她们用来举行⊂仪式性的亵渎⊃≼🪶这里指按固定仪式反复重演的亵渎举动，并非真正的宗教礼仪。≽",
+      "finding": "“Ce portrait”承接前段凡德伊先生的肖像；“leur”指凡德伊小姐与女友，译“她们”准确。“servait ... habituellement pour”译为“惯常被……用来”，保留肖像反复充当亵渎对象的用途；“profanations rituelles”译“仪式性的亵渎”，保留亵渎行为程式化的意味。sans doute 在此是叙述者依据随后话语作出的判断，“无疑”是可成立的肯定性推测表达，后半句“想必”也呈现了推断语气，毋须另改。现有注释强调并非真正宗教礼仪，与这一比喻关系一致，完整保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "car son amie lui répondit par ces paroles qui devaient faire partie de ses réponses liturgiques :",
+      "translation_anchor": "因为她女友的回话，想必也属于那套礼拜仪式式的应答：",
+      "finding": "car 引出前一判断的根据：女友的应答显得熟练而程式化，因此推想肖像常用于这种亵渎。“她女友”对应 son amie；虽未另外明说 lui 所指的凡德伊小姐，但上段由小姐发话，本句女友接话，中文上下文足以确定回答对象。“想必”准确体现 devaient 的推测义，而非义务上的“应该”；句末冒号保留 ces paroles 对下段原话的引出作用。“礼拜仪式式”叠用“式”不合中文习惯，改为“她那套礼拜仪式般的应答”，保留 liturgiques 的宗教比拟，并以“她”明示 ses 指女友所有的惯常应答。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p288"
+  }
+}

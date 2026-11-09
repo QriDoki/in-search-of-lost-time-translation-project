@@ -1,0 +1,110 @@
+{
+  "id": 271,
+  "assessment": "本段依次核对了读书后散步的身体感受、情绪宣泄与真正认识之间的区别，以及蒙舒凡雨后景物触发的领悟。译文保留了思想经澄清而获得安宁的比喻、雨后金光与微笑的呼应，整体语义和叙述次序完整。建议修订两处：将“必要的启发者”误作“揭示者”的词义偏差，以及结句将“本分”当作“止步、努力”的主语所造成的句式不顺。其余措辞虽有可商榷处，尚不构成必须改动的问题。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "不可或缺的揭示者",
+      "after": "不可或缺的启发者",
+      "source": "le nécessaire inspirateur",
+      "reason": "inspirateur指促成、启发这些发现的事物，与前面的“偶然的背景”构成发现产生条件上的对照；“揭示者”变成直接揭露既有事实的一方，偏离了“那边”给予叙述者灵感的意思。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "我的本分不该止步于这几个不透明的字眼，而应努力把自己的狂喜看得更清楚些",
+      "after": "我本该不满足于这几个不透明的字眼，而应努力把自己的狂喜看得更清楚些",
+      "source": "mon devoir eût été de ne pas m’en tenir à ces mots opaques et de tâcher de voir plus clair dans mon ravissement",
+      "reason": "原文两个不定式都说明“我”应当做什么，eût été又带有回顾未尽责任的意味。原译让“我的本分”同时充当“止步”和“努力”的主语，搭配不顺。“我本该”使两个动作都归于叙述者，并保留应当进一步认识自身感受的自省。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Mes promenades de cet automne-là furent d’autant plus agréables",
+      "translation_anchor": "那年秋天的散步格外愉快，因为都是在长时间读书之后进行的",
+      "finding": "d’autant plus agréables que说明愉快程度因先前长时间阅读而增加；“格外愉快，因为……”保留了这层原因及比较程度。cet automne-là与après分别落实为“那年秋天”和“之后”，时间关系无误。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Quand j’étais fatigué d’avoir lu toute la matinée dans la salle, jetant mon plaid sur mes épaules, je sortais",
+      "translation_anchor": "一上午在客厅里读累了，我便把披毯往肩上一甩，出门去",
+      "finding": "读了一上午而疲倦，继而披毯出门，三个动作的先后和共同主语均清楚。jetant的动态译成“一甩”，plaid译成“披毯”，不改变叙述事实；“一上午……读累了”的反复性由本段概述散步的语境承担。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "mon corps obligé depuis longtemps de garder l’immobilité ... comme une toupie qu’on lâche",
+      "translation_anchor": "我的身体被迫静止了许久，原地却积蓄了满满的兴奋与速度，此刻便像一只松了手的陀螺，需要把它们朝四面八方消耗掉",
+      "finding": "mais所连的静止与蓄积活力的反差由“却”明确标出；les指animation et vitesse，译文“它们”承接“兴奋与速度”，指代完整。“松了手的陀螺”保留释放后向各处耗散蓄积力量的比喻，没有把静止误解为缺乏活力。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Les murs des maisons ... recevaient des coups de parapluie ou de canne, entendaient des cris joyeux",
+      "translation_anchor": "房舍的墙壁、坦松维尔的树篱、鲁森维尔树林里的树木、蒙舒凡背倚的那丛灌木，都挨过我雨伞和手杖的敲打，听过我欢乐的叫喊",
+      "finding": "四组景物的列举完整，s’adosse的关系正确译为蒙舒凡“背倚”灌木。受敲打和听叫喊的拟人化谓语保留；法文ou表示敲打工具可为伞或杖，中文在反复散步的总述中合列二者，不必据此判为同一时刻使用两件工具。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "qui n’étaient, les uns et les autres, que des idées confuses ... pour avoir préféré ... une issue immédiate",
+      "translation_anchor": "而这敲打和叫喊，无非是些令我亢奋的混乱念头罢了——这些念头之所以没能抵达澄明中的安宁，是因为它们不肯走缓慢艰难的澄清之路，宁可图个轻松，转向某个现成的出口排遣掉",
+      "finding": "les uns et les autres回指敲打与叫喊两类表现，“这敲打和叫喊”明确消除了指代歧义；ne ... que译作“无非……罢了”。未在光明中获得安宁的主语是混乱念头，原因是选择容易而即时的宣泄、放弃缓慢艰难的澄清，译文保留了这一因果和两条路径的对照。“现成的出口”结合“排遣掉”表达随即发泄的便捷性；光明与安宁的认识论比喻亦未被删去。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "La plupart des prétendues traductions ... sous une forme indistincte qui ne nous apprend pas à le connaître",
+      "translation_anchor": "所谓对我们感受过的东西的翻译，大多也是如此：只是帮我们把它摆脱掉，让它以一种模糊的形态离开我们，而这种形态并不能教会我们认识它",
+      "finding": "“所谓”和“大多”对应prétendues与La plupart，既保留对“翻译”的质疑，也没有扩大成一概否定。两处“它”均指我们曾感受到的东西；原文强调表达只能将感受排出而未使其成为认识对象，译文的“摆脱掉—离开—不能……认识”完整呈现此逻辑。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Quand j’essaye de faire le compte de ce que je dois au côté de Méséglise ... le cadre fortuit ou le nécessaire inspirateur",
+      "translation_anchor": "当我清算自己欠梅塞格利丝那边些什么——对于那些微不足道的发现，“那边”有时只是偶然的背景，有时又是不可或缺的揭示者",
+      "finding": "faire le compte与ce que je dois被处理为“清算自己欠……些什么”，保留回顾所得、感念其来源的账目比喻；humbles découvertes译成“微不足道的发现”，保留自谦口吻。cadre fortuit是发现偶然发生的环境，而nécessaire inspirateur是发现得以产生的必要启发来源。“背景”可保留，“揭示者”须改“启发者”，以免改变发现与地点之间的关系。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "c’est cet automne-là ... que je fus frappé pour la première fois de ce désaccord entre nos impressions et leur expression habituelle",
+      "translation_anchor": "正是那年秋天的一次散步中，在护着蒙舒凡的那道灌木丛生的坡地旁，我第一次吃惊地察觉到，我们的印象与它们的习惯表达之间竟如此脱节",
+      "finding": "强调句与pour la première fois均落到“正是……第一次”，talus broussailleux的地形和灌木也已译出。leur指impressions，译文“它们的习惯表达”虽稍抽象，但仍清楚指印象通常被表达的方式；“脱节”保留désaccord的不一致，并以“吃惊”体现fut frappé的突然触动。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Après une heure de pluie et de vent ... une petite cahute ... le soleil venait de reparaître",
+      "translation_anchor": "在与风雨兴致勃勃地搏斗了一个钟头之后，我来到蒙舒凡的水塘边，塘前有一间覆着瓦片的小棚屋，凡德伊先生的园丁把园艺工具存放在那里；此时太阳刚刚重新露面",
+      "finding": "“搏斗了一个钟头”将前一小时的风雨及与之相抗的时段连起来，allégresse译成“兴致勃勃”，没有误作受苦。到塘边时太阳刚重现，venait de的紧近过去由“刚刚”保留；小屋瓦顶、园丁身份及储藏园具的用途均齐全。devant une petite cahute经“塘前有”稍转为场景定位，仍交代塘边小屋这一共同视野，不影响叙述进程。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "ses dorures lavées par l’averse reluisaient à neuf ... à la crête duquel se promenait une poule",
+      "translation_anchor": "它的金色被骤雨洗过，在天空、树木、棚屋的墙上焕然一新地闪亮，也闪在还没干透的瓦顶上——一只母鸡正在屋脊上踱步",
+      "finding": "ses指太阳，译文“它的金色”保留金光如镀金饰面的描写；洗过后重新发亮的比喻、天空到树木再到墙与瓦顶的铺陈顺序均在。duquel回指屋顶，译作“屋脊”明确；encore mouillé与母鸡踱步的持续状态都已体现。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "Le vent ... les herbes folles ... et les plumes de duvet ... les unes et les autres ... jusqu’à l’extrémité de leur longueur",
+      "translation_anchor": "吹着的风把墙缝里长出的野草和母鸡身上的绒毛都平平地拽直，它们任风的气息把自己抽展到全长的尽头，一副无生命而轻飘的东西那种听之任之的姿态",
+      "finding": "风同时作用于墙上野草和母鸡绒毛，les unes et les autres明确包括两类轻物，译文以“都”和“它们”保留。“平平地”体现horizontalement，“全长的尽头”对应完全顺风伸展；末尾“听之任之”传达abandon的被动顺从，与inertes et légères的轻而无自主动作相接。句式略繁复，但未损害两组细节平行随风的画面，可保留。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "Le toit de tuile faisait dans la mare ... une marbrure rose, à laquelle je n’avais encore jamais fait attention",
+      "translation_anchor": "瓦顶在塘水里——太阳让塘水重新变得能反光——映出一片玫瑰色的大理石纹路，我先前从未留意过",
+      "finding": "太阳使水面重新有映照能力是屋顶倒影显出的条件，插入语保留了该关系。marbrure以大理石纹路比喻水上倒影的斑纹，译文没有误成实际石材；“先前从未留意过”准确保持过去完成时所表达的此前未曾注意。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "Et voyant sur l’eau et à la face du mur un pâle sourire répondre au sourire du ciel ... « Zut, zut, zut, zut. »",
+      "translation_anchor": "我看见水面上和墙壁表面浮起一抹苍白的微笑，回应着天空的微笑，我满腔狂热地挥舞着收拢的雨伞喊出声来：“该死，该死，该死，该死。”",
+      "finding": "水与墙上的微笑回应天空微笑，主从方向及两处反光的拟人化均准确；此处四次Zut的脱口感叹译为四次“该死”，结合“满腔狂热”的情境可读作兴奋时无意义的咒语。refermé明确是收拢的雨伞，挥舞动作与喊声并行的关系无遗漏。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "Mais en même temps je sentis que mon devoir eût été de ne pas m’en tenir à ces mots opaques et de tâcher de voir plus clair dans mon ravissement",
+      "translation_anchor": "可与此同时我感觉到，我的本分不该止步于这几个不透明的字眼，而应努力把自己的狂喜看得更清楚些",
+      "finding": "Mais en même temps表明喊叫同时已有反省，译文“可与此同时”保留了这层并行的转折；mots opaques与voir plus clair延续上文澄明和模糊的对照，译作“不透明”“更清楚”可保留。需要修改主语：“我的本分”不能自然地“努力”；改用“我本该”统领不满足于感叹和探究狂喜两个行为，也更清楚地呈现eût été的回顾性自责。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p271"
+  }
+}

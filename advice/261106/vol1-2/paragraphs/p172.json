@@ -1,0 +1,17 @@
+{
+  "id": 172,
+  "assessment": "整体准确保留了欧拉莉到来时姑妈的喜悦，以及弗朗索瓦丝刻意迎合、逐字传话的神态。末句将“尽职地转述原话”扩写成自我表明身份、字斟句酌并唯恐转述不准，增加了原文没有的心理活动，宜还原其句法关系。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "以表明自己虽然用的是间接引语，却是个尽职的仆人，还格外字斟句酌，唯恐自己没有准确转述神甫屈尊说出的原话：",
+      "after": "以表明自己虽然用的是间接引语，却仍像一个尽职的仆人那样，转述的是来客屈尊说出的原话：",
+      "source": "pour montrer que, malgré l’emploi du style indirect, elle rapportait, en bonne domestique, les paroles mêmes dont avait daigné se servir le visiteur",
+      "reason": "原文的表明对象是“转述的正是来客原话”，“en bonne domestique”修饰转述行为；没有“字斟句酌”“唯恐不准确”的心理描写。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p172"
+  }
+}

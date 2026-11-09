@@ -1,0 +1,9 @@
+{
+  "id": 190,
+  "assessment": "本段称呼、辞别时让对方休息的语气及疲惫状态均与原文相符；“不打扰您休息了”自然传达 je vous laisse reposer，“累坏了”契合上下文中姑妈精疲力竭的表现，无须修改。",
+  "changes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p190"
+  }
+}

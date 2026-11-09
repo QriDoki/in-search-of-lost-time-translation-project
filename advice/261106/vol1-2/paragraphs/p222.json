@@ -1,0 +1,80 @@
+{
+  "id": 222,
+  "assessment": "本段完整保留了家人商议赴宴、外祖母为勒格朗丹辩解，以及叙述者由父亲的疑虑转入认识他人本性的议论。后半段关于言论与行为不一致、当事人不肯承认、感官证据因孤立而受怀疑的推论衔接清楚。两处值得修订：外祖母所否认的是已经发生的失礼行为，宜避免译成泛指或将来的“会失礼”；“n’est guère”只是“不大像”，原译“根本不是”把判断说得过于绝对。其余措辞虽有意译，未发现须改的实质问题。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "On se demandait à la maison si on devait m’envoyer tout de même dîner avec M. Legrandin.",
+      "translation_anchor": "家里人在商量，是否还是照样送我去勒格朗丹先生家吃晚饭。",
+      "finding": "“On…à la maison”指家里人，“si on devait”是商议是否应当如此，“tout de même”承接此前的不快，译作“还是照样”保留了即便如此仍赴宴的关系。“送我去……家吃晚饭”把与勒格朗丹共进晚餐落实为赴他家，符合下一段露台晚餐的情境，可保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Mais ma grand’mère refusa de croire qu’il eût été impoli.",
+      "translation_anchor": "但外祖母不肯相信他会失礼。",
+      "finding": "“Mais”引出外祖母对家人怀疑的反驳；“eût été impoli”回指已经发生、正在被评议的行为。原译“会失礼”容易读作她对他一贯品性或未来行为的预测，应改为“失了礼”，明确争论的是此次既有行为。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Vous reconnaissez vous-même qu’il vient là avec sa tenue toute simple qui n’est guère celle d’un mondain.",
+      "translation_anchor": "你们自己也承认，他上那儿去穿一身再简单不过的衣服，根本不是交际场中人的穿戴。",
+      "finding": "“Vous reconnaissez vous-même”是借对方承认的事实作论据，“là”指双方已知的场所，译文“那儿”保留指代而未擅自落实。“tenue toute simple”强调衣着朴素；“celle”回指衣着，“mondain”指交际场中人，均已译出。但“n’est guère”意为“不大是／不大像”，并非“根本不是”，须减弱否定程度，以保留外祖母凭衣着作推断的口气。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Elle déclarait qu’en tous cas, et à tout mettre au pis, s’il l’avait été, mieux valait ne pas avoir l’air de s’en être aperçu.",
+      "translation_anchor": "她声称，无论如何，就算把事情想到最坏处、他真失了礼，也最好装出没看出来的样子。",
+      "finding": "“Elle”仍是外祖母，“s’il l’avait été”中的“l’”回指失礼，译文已明确补出。“en tous cas”与“à tout mettre au pis”分别为无论如何和作最坏打算，译文保留了层层让步；“ne pas avoir l’air de s’en être aperçu”是不要显出已经察觉的样子，译作“装出没看出来”准确传达了待人处世的主张。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "À vrai dire mon père lui-même, qui était pourtant le plus irrité contre l’attitude qu’avait eue Legrandin, gardait peut-être un dernier doute sur le sens qu’elle comportait.",
+      "translation_anchor": "说实话，父亲虽是对勒格朗丹那副态度最为恼火的人，对那态度究竟是何含义，他也许仍存着最后一丝疑虑。",
+      "finding": "“lui-même”与“pourtant”构成递进中的让步：连最恼火的父亲也未完全断定其态度的含义。译文用“虽……他也许仍……”呈现这种关系，“最为”保留最高级，“也许”保留叙述者推测。“elle”指态度，译文重复“那态度”使指代清楚；“最后一丝疑虑”也保留了仍残存疑问之意。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Elle était comme toute attitude ou action où se révèle le caractère profond et caché de quelqu’un : elle ne se relie pas à ses paroles antérieures",
+      "translation_anchor": "这态度就像一切能泄露一个人深层隐秘性格的举止或行为：它同此人先前的言论对不上号",
+      "finding": "句首“Elle”仍承接勒格朗丹的态度，继而以“toute attitude ou action”概括所有显露隐蔽本性的言行。“深层隐秘性格”保留“profond et caché”的两层修饰，“泄露”也符合本性不经意显露的语境。“ne se relie pas”原指与先前言论缺乏可见联系，译作“对不上号”在此恰当表现无法据以相互印证的脱节，并非新增具体矛盾事实。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "nous ne pouvons pas la faire confirmer par le témoignage du coupable qui n’avouera pas",
+      "translation_anchor": "我们也没法让过错方自己作证来确认它，因为他绝不会承认",
+      "finding": "“la”回指泄露本性的态度或行为，“témoignage du coupable”是由行为者自己提供的证词；译文“过错方自己作证来确认它”保持此一证据关系。“qui n’avouera pas”解释为何无法取得确认，译文以“因为”显出原文关系；“不会承认”中的宾语由前文承接，并无漏译必要信息。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "nous en sommes réduits à celui de nos sens dont nous nous demandons, devant ce souvenir isolé et incohérent, s’ils n’ont pas été le jouet d’une illusion",
+      "translation_anchor": "我们只能依靠感官的证词，而单独留在记忆里的这桩事显得如此格格不入，以致我们反倒怀疑起自己的眼睛。",
+      "finding": "“celui”承接“témoignage”，译文完整落实为“感官的证词”；“en sommes réduits à”是别无他证，只能如此。“ce souvenir isolé et incohérent”指无法与其余印象贯通的孤立记忆，“单独留在记忆里”“格格不入”分别传达这两项性质。原文由这一记忆引发“感官是否受了幻觉蒙蔽”的疑问，译文以“以致……怀疑起自己的眼睛”意译为怀疑亲见之事的可靠性；结合此前目睹勒格朗丹态度的情境，此处“眼睛”可理解为感官作证的具体化，无须为字面对齐而改。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "de sorte que de telles attitudes, les seules qui aient de l’importance, nous laissent souvent quelques doutes.",
+      "translation_anchor": "于是，这类态度——恰恰是唯一要紧的那些——往往给我们留下几分疑虑。",
+      "finding": "“de sorte que”收束前述证据不能互证的推论，译文“于是”保留因果结果；“les seules qui aient de l’importance”反过来强调这些令人疑惑的态度偏偏最重要，破折号中的“恰恰是唯一要紧的那些”保留这层强调。“souvent”“quelques doutes”分别对应“往往”“几分疑虑”，没有把有限疑虑扩大成彻底否认。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "但外祖母不肯相信他会失礼。",
+      "after": "但外祖母不肯相信他失了礼。",
+      "source": "Mais ma grand’mère refusa de croire qu’il eût été impoli.",
+      "reason": "原文讨论已经发生的行为，“会失礼”容易成为对其品性或未来行为的泛指；改为完成意义以明确回指。"
+    },
+    {
+      "type": "错译",
+      "before": "根本不是交际场中人的穿戴",
+      "after": "不大像交际场中人的穿戴",
+      "source": "qui n’est guère celle d’un mondain",
+      "reason": "“ne…guère”是程度有限的否定；“根本不是”过度加强了外祖母的判断。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p222"
+  }
+}

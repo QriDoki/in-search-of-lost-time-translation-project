@@ -1,0 +1,43 @@
+{
+  "id": 238,
+  "assessment": "本段原文为一个长句，译文分成两句，仍保留了赶去安抚姑妈、说明没有遭遇意外、以散步路线解释晚归的完整逻辑。人物指代清楚，盖尔芒特方向及其与回家时间难定的关系也已译出。仅末尾“很难说准”将原文“从来无法确定”的否定断言弱化为困难程度，建议恢复；其余措辞无需为贴合法语句式而改动。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Et sans avoir pris le temps d'enlever nos affaires, nous montions vite chez ma tante Léonie",
+      "translation_anchor": "我们来不及卸下随身的东西，便赶紧上楼到莱奥妮姑妈那里",
+      "finding": "“sans avoir pris le temps”表示没有先花时间收拾卸下随身物品便上楼，“来不及……便赶紧……”传达了顾不上停留的急切，并非漏掉先后次序。“nos affaires”译作“随身的东西”保留其概括范围；“montions”对应“上楼”，去处“chez ma tante Léonie”及共同动作的主语“我们”均清楚。未完成过去时在上下文中叙述惯常晚归情景，中文不必逐一加“总是”。本意群保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "pour la rassurer et lui montrer que, contrairement à ce qu'elle imaginait déjà, il ne nous était rien arrivé",
+      "translation_anchor": "好让她放心，让她看到：与她已经想象的情形恰恰相反，我们并没有出事",
+      "finding": "“pour”引出上楼的目的，译文“好让”准确连接前文；“la”“lui”“elle”都指莱奥妮姑妈，中文连续使用“她”不会引起歧义。“il ne nous était rien arrivé”是否定发生了不测，“并没有出事”符合此处安抚语境；“已经想象”与“恰恰相反”也分别保留“déjà”和“contrairement”的时间、对照关系。冒号使“让她看到”的具体内容清楚展开，可保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "mais que nous étions allés « du côté de Guermantes » et, dame, quand on faisait cette promenade-là, ma tante savait pourtant bien",
+      "translation_anchor": "不过是去了“盖尔芒特家那边”。况且姑妈自己也知道，走那条路散步",
+      "finding": "“mais que”接续“lui montrer”，以去了盖尔芒特方向解释晚归，而不是发生了意外；“不过是去了”保持这种解释性的转折。“du côté de Guermantes”译作“盖尔芒特家那边”与路线名称对应。“dame”是带有辩解意味的口语插语，译文未单立感叹词，但“况且”承接辩解，“自己也知道”传达了姑妈本来就清楚此事的语气，可接受。“quand on faisait cette promenade-là”是泛指走这一条散步路线时的情况，中文“走那条路散步”未误作某个新事件。原文此处仍在长句内，中文断句不损害前后说明关系。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "qu'on ne pouvait jamais être sûr de l'heure à laquelle on serait rentré",
+      "translation_anchor": "归家的钟点原本就很难说准",
+      "finding": "“on”继续泛指走这条路线的人；“serait rentré”着眼于出游时尚未确定的回家时刻，中文“归家的钟点”能够承接这一前瞻关系。需要修正的是“ne pouvait jamais être sûr”：其意是向来无法确定，并非仅仅较难预测。“很难说准”弱化了“jamais”的否定范围，改为“从来就没法说准”，保留对晚归的解释力度，并与前面的“姑妈自己也知道”自然衔接。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "归家的钟点原本就很难说准",
+      "after": "归家的钟点从来就没法说准",
+      "source": "on ne pouvait jamais être sûr de l'heure à laquelle on serait rentré",
+      "reason": "“ne pouvait jamais être sûr”强调走这条路线向来无法确定返回时间；“很难说准”仅表示困难，削弱了“jamais”的否定范围。改文保留原句的习惯性概括及辩解语气。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p238"
+  }
+}

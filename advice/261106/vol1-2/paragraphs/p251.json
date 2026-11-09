@@ -1,0 +1,49 @@
+{
+  "id": 251,
+  "assessment": "本段以同一长句串联夫人的呼唤、陌生先生的瞪视及姑娘的离去，译文分为两句后仍保留了动作先后与人物关系，未见漏译。人物位置、我尚未看见夫人而不认识先生的区别、姑娘突然停止微笑以及不回头的动作均有对应；“驯顺、莫测而又狡黠”也保留了外在服从与内心难测并存的描写。仅布料名“coutil”译作“粗条纹布”不够准确，应改作“粗斜纹布”，避免把织物类别误作条纹图案。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "粗条纹布衣服",
+      "after": "粗斜纹布衣服",
+      "source": "un monsieur habillé de coutil",
+      "reason": "coutil指结实厚密的斜纹布料，而“条纹”指布面图案，二者不是同一概念；原文没有单独说明衣料带条纹。改为“粗斜纹布”以保留布料质地而不额外限定花纹。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Allons, Gilberte, viens ; qu’est-ce que tu fais",
+      "translation_anchor": "——行了，希尔贝特，过来；你在干什么呢",
+      "finding": "呼唤名字后接命令“viens”，再追问正在做什么，译文的“过来”“你在干什么呢”保持了指向姑娘的第二人称和催促语气。“Allons”在这里是催促的感叹语，结合后文权威口气译成“行了”可通，不必单独改成实义的行动动词。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "cria d’une voix perçante et autoritaire une dame en blanc que je n’avais pas vue",
+      "translation_anchor": "一位我先前没有看见的穿白衣裙的夫人尖声喝道，口气专横",
+      "finding": "原文在引语后交代说话者，perçante描述声音尖锐，autoritaire描述发号施令的口气；“尖声喝道，口气专横”完整传达二者。“我先前没有看见”保留过去完成时的相对时间，即呼唤之前我未注意到这位夫人，并非不认识她。“穿白衣裙”承接en blanc，体现全身白色装束，适合此处人物描写。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "et à quelque distance de laquelle un monsieur habillé de coutil et que je ne connaissais pas fixait sur moi des yeux qui lui sortaient de la tête",
+      "translation_anchor": "离她不远处，一位身穿粗条纹布衣服、我不认识的先生瞪着我，眼珠子都快鼓出了眼眶",
+      "finding": "de laquelle回指夫人，译为“离她不远处”清楚区分夫人与先生；“我不认识”也正确对应ne connaissais pas，与前面尚未看见夫人不同。fixait sur moi和des yeux qui lui sortaient de la tête以“瞪着我，眼珠子都快鼓出了眼眶”保留了注视对象及夸张的瞪眼姿态。不过coutil是布料名称，“条纹”却是图案，需将“粗条纹布衣服”改为“粗斜纹布衣服”。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "et cessant brusquement de sourire, la jeune fille prit sa bêche",
+      "translation_anchor": "姑娘蓦地收起笑容，拿起小铲",
+      "finding": "cessant brusquement de sourire的主语是姑娘，译文用“姑娘蓦地收起笑容”消除了前面先生作主语带来的歧义，并保留突然停止微笑的转折。prit sa bêche译成“拿起小铲”，保留了拿取园艺工具的动作；中文在主语已明时省略物主代词，不影响所属关系。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "et s’éloigna sans se retourner de mon côté, d’un air docile, impénétrable et sournois",
+      "translation_anchor": "头也不朝我这边回一下，神情驯顺、莫测而又狡黠地走开了",
+      "finding": "“走开了”对应s’éloigna，“头也不朝我这边回一下”对应sans se retourner de mon côté，否定的范围是离去时不回头朝我看，译文表达完整。三个并列形容词分别写服从的外表、无法窥测的内心及隐蔽狡黠的神态；“驯顺、莫测而又狡黠”保留了这种并置与张力。“神情……地走开”虽带较长状语，在这里仍能顺畅修饰离去动作，无须拆改。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p251"
+  }
+}

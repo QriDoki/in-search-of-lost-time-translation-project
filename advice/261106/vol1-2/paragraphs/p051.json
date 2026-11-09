@@ -1,0 +1,24 @@
+{
+  "id": 51,
+  "assessment": "逐句核对，人物经历、文化修养及家人对勒格朗丹的评价基本准确，原段修辞和语气可保留。修订一处主语关系含混的句子，并将“像念书”改为符合原文书面腔意味的表达；原有注释保留。",
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "专业用不上这些修养却给他们的谈吐增色不少。",
+      "after": "这些修养虽在专业上派不上用场，却给他们的谈吐增色不少。",
+      "source": "que leur spécialisation professionnelle n'utilise pas et dont profite leur conversation",
+      "reason": "原译前半句以“专业”为主语，后半句却转为修养使谈吐增色，缺少主语转换标记，读来易误解。改后明确两个分句均围绕“这些修养”展开。"
+    },
+    {
+      "type": "错译",
+      "before": "太像念书",
+      "after": "太像书上的话",
+      "source": "un peu trop comme un livre",
+      "reason": "这里批评谈吐过于书面化、不够自然，并非说他讲话像在念书。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p051"
+  }
+}

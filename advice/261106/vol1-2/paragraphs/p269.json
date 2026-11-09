@@ -1,0 +1,141 @@
+{
+  "id": 269,
+  "assessment": "逐句核对后，本段时间转换、两派对病因的相反判断、弗朗索瓦丝的悲痛与敬爱，以及叙述者在书本审美和日常行为间的矛盾，均有完整译出。建议三处小修：原文并未说两派自行宣布获胜；vénération在此宜译出崇敬，以免同前面的恐惧混淆；女主人的bon cœur是善良的心，并不只是心软。其余长句虽作分句处理，关系仍清楚，予以保留。器质性疾病处原有注释保留，与本次修订无冲突。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "这下两派人都宣布自己获胜",
+      "after": "这下两派人的说法都得到了印证",
+      "source": "faisant triompher à la fois ceux qui prétendaient ... et non moins les autres",
+      "reason": "使役分词说姑妈的死同时让两派占了理，并没有两派作出胜利宣告的行为；改为两种说法同时得到印证，保留原文讽刺性的悖论。"
+    },
+    {
+      "type": "错译",
+      "before": "其实是敬畏与爱",
+      "after": "其实是崇敬与爱",
+      "source": "qui était de la vénération et de l'amour",
+      "reason": "vénération指深切的尊崇；前文已经明说crainte（恐惧），此处的发现是那种恐惧竟培养出了崇敬和爱。译作敬畏会把已被揭示的新感情继续与畏惧混同。"
+    },
+    {
+      "type": "错译",
+      "before": "心肠又软、一说就动",
+      "after": "心地善良，又容易被打动",
+      "source": "au bon cœur facile à fléchir",
+      "reason": "bon cœur明确包含心地善良；原译只剩心软，又以一说就动过度限定打动的方式。改文保留善良和容易被打动两个意思，与不可预测的决断、难以识破的计谋并列。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Si le temps était mauvais dès le matin",
+      "translation_anchor": "如果一早天气就坏，父母便放弃散步，我也不出门",
+      "finding": "si引出反复发生的天气条件；dès le matin译为一早，mes parents与je分别对应父母放弃散步、我不出门，因条件而产生的两项结果清楚。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Mais je pris ensuite l'habitude ... dans l'automne où nous dûmes venir",
+      "translation_anchor": "但后来我养成了习惯：每逢这样的日子，独自朝梅塞格利丝-拉维纳兹那边走去散步。那是在后来那个秋天",
+      "finding": "ensuite和dans l'automne共同界定后来养成独自散步习惯的时间；ces jours-là回指早晨即天气不好的日子，译文每逢这样的日子保留回指。法文一句拆成两句，后一时间补充仍明确约束该习惯，并无时间错置。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "pour la succession de ma tante Léonie, car elle était enfin morte, faisant triompher",
+      "translation_anchor": "我们不得不为莱奥妮姑妈的遗产来贡布雷——因为姑妈终于去世了，这下两派人都宣布自己获胜",
+      "finding": "succession在公证人等下文语境中是遗产继承事宜，来贡布雷的目的已表达；enfin的终于保留叙述者略带冷意的口吻。但faisant triompher是她的死使两派的主张占理，不含自行宣告的行为，建议改这下两派人的说法都得到了印证。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "son régime affaiblissant ... une maladie non pas imaginaire mais organique",
+      "translation_anchor": "一拨人早就断言她那套伤身的调养法迟早会要她的命；另一拨人则始终坚称她得的不是臆想病，而是⊂器质性的病⊃",
+      "finding": "第一派把死归因于使身体衰弱的调养法，第二派则把死看作确有器质性疾病的证据；非臆想而器质性的对立完整，finirait par的最终后果也用迟早表现。原注释不改。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "à l'évidence de laquelle ... quand elle y aurait succombé ; et ne causant ... sauvage",
+      "translation_anchor": "等她真的一命呜呼，怀疑派再不肯，也得认这个明摆着的事实。而她的死只使一个人陷入深重的悲痛，而这个人却悲痛得近乎狂乱",
+      "finding": "de laquelle和y均指第二派所说的疾病，译文紧接该病陈述，事实的回指可辨；seraient bien obligés用再不肯也得表现被迫承认。ne ... qu'à un seul限制真正深痛者只有一人，sauvage承接douleur而非形容此人的性情，译为悲痛得近乎狂乱正确。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Pendant les quinze jours ... ne laissa personne lui donner aucun soin",
+      "translation_anchor": "在姑妈最后生病的那半个月里，弗朗索瓦丝一刻不曾离开她，没有脱过衣服睡觉，不许任何人插手照料，直到遗体入土才离开",
+      "finding": "最后一次病程持续十五天译为半个月，信息相当。三重否定依次表达不离开、不脱衣、不给别人照料的机会；睡觉是对不脱衣守护的语境化表达。son corps指姑妈遗体，直到入土才离开延续她连死后也守在身边的意思，主语没有混淆。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "cette sorte de crainte ... avait développé chez elle un sentiment",
+      "translation_anchor": "那时我们才明白，弗朗索瓦丝长年生活在恐惧之中——怕姑妈的恶语、猜疑和怒火——这种恐惧在她心里养成了一种感情",
+      "finding": "主句是我们此时才明白，宾语中的因果是长期畏惧使她产生一种感情；译文用破折号展开恐惧的三个对象，再以这种恐惧回收主语，虽拆开层次，因果及chez elle所指都明确。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "que nous avions pris pour de la haine et qui était de la vénération et de l'amour",
+      "translation_anchor": "我们曾以为是恨，其实是敬畏与爱",
+      "finding": "两个关系从句同修饰感情，译文曾以为与其实是保留误认和真相的对照。vénération宜改崇敬；敬畏带回了前文crainte的畏惧意味，削弱由恐惧发展为尊崇的揭示。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Sa véritable maîtresse ... au bon cœur facile à fléchir ... n'était plus",
+      "translation_anchor": "她真正的女主人——决断无法预料，诡计难以拆穿，心肠又软、一说就动——她的女王，她那神秘而全能的君主，已经不在人世",
+      "finding": "三个特征描述同一位姑妈，女主人、女王、君主是层层追加的同位称谓；句末才落到不在人世，译文保留这一哀悼语势。bon cœur须补足心地善良，facile à fléchir是容易被打动，未限于一说即动，建议合改该特征。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "À côté d'elle nous comptions pour bien peu de chose",
+      "translation_anchor": "与她相比，我们根本无足轻重",
+      "finding": "elle指姑妈；在弗朗索瓦丝心目中，我们相对姑妈分量甚轻，译文用与她相比说明à côté的比较义，没有误当成空间上站在她身旁。根本无足轻重略强化但符合bien peu的强调，可保留。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "Il était loin le temps où ... autant de prestige que ma tante",
+      "translation_anchor": "当初我们刚来贡布雷度假时，在弗朗索瓦丝眼里，我们的声望一度与姑妈不相上下，那样的日子早已遥远",
+      "finding": "autant ... que的等量比较译作不相上下，时间指开始到贡布雷度假的时期；译文把已遥远的判断后置，仍保留今昔对照，声望的判断者明确是弗朗索瓦丝。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "Cet automne-là, tout occupés des formalités ... n'ayant guère de loisir ...",
+      "translation_anchor": "那个秋天，父母忙于办理种种手续，忙于同公证人和佃户交谈，几乎没有闲暇出门——何况天气也处处作梗——便习惯于让我独自朝梅塞格利丝那边散步",
+      "finding": "正式手续及同公证人、佃户会谈是无暇陪伴的原因，天气又妨碍出游，译文便和何况区分主因与附加因素。sans eux用独自表达，与开头独行习惯相呼应。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "enveloppé dans un grand plaid ... d'autant plus volontiers ... scandalisaient Françoise",
+      "translation_anchor": "身上裹一条防雨的大披毯；我越是感觉到那苏格兰格纹令弗朗索瓦丝看不惯，就越乐意把它往肩上披",
+      "finding": "enveloppé修饰外出散步的我，防雨是披毯的作用；d'autant plus ... que的程度因果译作越是越，表现对冒犯她的期待，而非格纹本身令人喜爱。苏格兰格纹对应rayures écossaises，可保留。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "dans l'esprit de qui ... la couleur ... le deuil ... parce que",
+      "translation_anchor": "她脑子里怎么也塞不进“衣服颜色与服丧无关”的道理；何况我们为姑妈之死流露的悲伤本就让她不快：我们没有办盛大的丧宴，谈起她时也没有换上一种特殊的声调，我有时甚至还哼着小曲",
+      "finding": "qui和à qui均指弗朗索瓦丝。译文保留她不接受衣服颜色与服丧无关的观点；冒号后三例是她不满意家人哀悼方式的理由，两个没有加上甚至哼曲形成递进，否定及人物指代清楚。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "Je suis sûr que dans un livre ... d'après la Chanson de Roland et le portail",
+      "translation_anchor": "我敢说，要是在书里——在这一点上我和弗朗索瓦丝如出一辙——这种依照《罗兰之歌》和圣安德烈-德尚教堂门廊而来的服丧观，我会觉得十分亲切",
+      "finding": "dans un livre及m'eût été是书中呈现这一观念时的假设感受，译文要是在书里、我会对应；括入自比弗朗索瓦丝的判断没有遗漏。两个文化参照共同说明服丧观的古老风貌，未被误译为真实服丧的地点。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "Mais dès que Françoise était auprès de moi ... le moindre prétexte",
+      "translation_anchor": "可只要弗朗索瓦丝在我身边，就有一个恶魔撺掇我巴望她动怒；我抓住哪怕最小的由头对她说",
+      "finding": "Mais转折于书本中的欣赏，dès que表她一在旁便触发的反复行为；一个恶魔是原文自我讽刺的比喻，译文保留，不额外合理化这种挑衅。最小的由头对应le moindre prétexte。"
+    },
+    {
+      "unit": 17,
+      "source_anchor": "parce que c'était une bonne femme, malgré ses ridicules, mais nullement parce que c'était ma tante",
+      "translation_anchor": "我惋惜姑妈，是因为她尽管有种种可笑之处，仍是个好女人，而绝不是因为她是我姑妈",
+      "finding": "两个parce que对照人格好与亲属身份这两种悼念理由；malgré让步承认其可笑处而不取消善良，nullement用绝不是保留强否定，句式层次清楚。"
+    },
+    {
+      "unit": 18,
+      "source_anchor": "qu'elle eût pu être ma tante ... aucune peine, propos qui m'eussent semblé ineptes dans un livre",
+      "translation_anchor": "她就算是我姑妈，也可能叫我厌恶，她的死也可能不叫我有一丝难过——这些话，若是印在书里，我会觉得荒谬透顶",
+      "finding": "虚拟假设表达亲属身份不能保证受爱戴或引发哀痛，并非实际断言自己厌恶姑妈；就算、也可能保留该区别。末尾propos回指整套挑衅说辞，与上一句在书中喜欢传统服丧观构成自我揭露，译文这些话的回指及书中假设都明确。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p269"
+  }
+}

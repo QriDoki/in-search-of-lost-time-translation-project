@@ -1,0 +1,17 @@
+{
+  "id": 8,
+  "assessment": "本段基本准确，叙述顺序、父母去世多年而仍受悼念的情感及妈妈轻柔体贴的语气均已传达。末尾“问个没完”增加了原文没有的嫌烦或失度意味，宜调整，以保留妈妈耐心关切的语气。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "问起他们生前过日子的种种细节，问个没完",
+      "after": "细细询问他们生前生活的种种细节",
+      "source": "lui parlait d’eux avec douceur, lui demandait mille détails sur ce qu’avait été leur vie",
+      "reason": "mille détails强调询问细致而多，呼应avec douceur的温柔关切；“问个没完”容易带出嫌烦、无休无止的评价，原文并无此意。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p008"
+  }
+}
