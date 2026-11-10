@@ -1,0 +1,19 @@
+polish/dev/chapters/polished-vol1-3.md
+  s_2bda960c11f321::t_a238fef84c0918 265
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "5dab175103b5c3f3240a889bdfc45e968b7ac9f5",
+  "prompts": {},
+  "sessions": {
+    "s_2bda960c11f321": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5bb7f299-11b7-4ecb-ba52-e7f005798c3e",
+        "model": "deepseek-flash"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
