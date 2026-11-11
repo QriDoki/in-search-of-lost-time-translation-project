@@ -1,0 +1,21 @@
+advice/261106/vol3-1/README.md
+  s_3ad418202c8614::t_50ab44055d2588 302-309
+advice/261106/vol3-1/validation.json
+  s_3ad418202c8614::t_50ab44055d2588 1-11,14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "6f48e6a47d0e294a5dd44214b013fb8638c270bd",
+  "prompts": {},
+  "sessions": {
+    "s_3ad418202c8614": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf2c-e36c-7811-8aa7-a9846d94dfa2",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
