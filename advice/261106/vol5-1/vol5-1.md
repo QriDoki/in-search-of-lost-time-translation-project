@@ -1,6 +1,6 @@
 # vol5-1 逐段审校索引
 
-已暂停：200/239 段已由独立子 agent 审校；采纳 668 项修改，涉及 179 段，21 个已审段保留现译；39 段待审。
+已完成：239/239 段已由独立子 agent 审校；采纳 785 项修改，涉及 214 段，25 个已审段保留现译；0 段待审。
 
 | 段号 | 法文段首 | 报告 | 采纳修改数 |
 | --- | --- | --- | --- |
@@ -204,3 +204,42 @@
 | 198 | Parfois une gentille attention de telle ou telle éveillait en moi | [逐句分析](paragraphs/p198.md) · [原始建议](reports/p198.json) | 1 |
 | 199 | « Mais au lieu d'écrire des bêtises, cria-t-elle en se tournant d | [逐句分析](paragraphs/p199.md) · [原始建议](reports/p199.json) · [补充1](p199-review-supplement.md) | 9 |
 | 200 | « C'est à croire qu'elle a copié cela, s'écria-t-elle quand elle  | [逐句分析](paragraphs/p200.md) · [原始建议](reports/p200.json) · [补充1](p200-review-supplement.md) | 9 |
+| 201 | L'admiration et l'attention avaient donné si chaud à Albertine qu | [逐句分析](paragraphs/p201.md) · [原始建议](reports/p201.json) | 2 |
+| 202 | Pendant ce temps, je songeais à la petite feuille de bloc-notes q | [逐句分析](paragraphs/p202.md) · [原始建议](reports/p202.json) | 2 |
+| 203 | L'état caractérisé par l'ensemble des signes auxquels nous reconn | [逐句分析](paragraphs/p203.md) · [原始建议](reports/p203.json) | 7 |
+| 204 | Mais pour une grande part, notre étonnement vient surtout de ce q | [逐句分析](paragraphs/p204.md) · [原始建议](reports/p204.json) | 6 |
+| 205 | Quant à l'harmonieuse cohésion où se neutralisaient depuis quelqu | [逐句分析](paragraphs/p205.md) · [原始建议](reports/p205.json) | 8 |
+| 206 | Je rejoignis Andrée, recommençai à lui faire des éloges d'Alberti | [逐句分析](paragraphs/p206.md) · [原始建议](reports/p206.json) | 5 |
+| 207 | Nous étions sortis du petit bois et avions suivi un lacis de chem | [逐句分析](paragraphs/p207.md) · [原始建议](reports/p207.json) | 4 |
+| 208 | Nous allâmes retrouver les autres jeunes filles pour rentrer. Je  | [逐句分析](paragraphs/p208.md) · [原始建议](reports/p208.json) | 0 |
+| 209 | Pendant tout ce retour, l'image d'Albertine noyée dans la lumière | [逐句分析](paragraphs/p209.md) · [原始建议](reports/p209.json) | 3 |
+| 210 | Quelques jours après la partie de furet, comme nous étant laissés | [逐句分析](paragraphs/p210.md) · [原始建议](reports/p210.json) | 3 |
+| 211 | Dans la semaine qui suivit je ne cherchai guère à voir Albertine. | [逐句分析](paragraphs/p211.md) · [原始建议](reports/p211.json) | 3 |
+| 212 | Je tâchai d'obtenir d'Elstir, mais sans dire à personne que je l' | [逐句分析](paragraphs/p212.md) · [原始建议](reports/p212.json) | 3 |
+| 213 | Puisque Andrée ne m'avait pas cru quand je lui disais que la fami | [逐句分析](paragraphs/p213.md) · [原始建议](reports/p213.json) | 1 |
+| 214 | Elle était généralement en tiers dans mes rendez-vous avec son am | [逐句分析](paragraphs/p214.md) · [原始建议](reports/p214.json) | 2 |
+| 215 | Environ un mois après le jour où nous avions joué au furet, on me | [逐句分析](paragraphs/p215.md) · [原始建议](reports/p215.json) | 3 |
+| 216 | Nous fûmes rejoints par Octave qui ne fit pas de difficulté pour  | [逐句分析](paragraphs/p216.md) · [原始建议](reports/p216.json) | 7 |
+| 217 | J'allai dîner avec ma grand-mère, je sentais en moi un secret qu' | [逐句分析](paragraphs/p217.md) · [原始建议](reports/p217.json) · [补充1](paragraphs/p217-coverage-supplement.md) | 6 |
+| 218 | J'avais cru que l'amour que j'avais pour Albertine n'était pas fo | [逐句分析](paragraphs/p218.md) · [原始建议](reports/p218.json) | 5 |
+| 219 | Si cette sorte de vogue qu'avait obtenue Albertine ne paraissait  | [逐句分析](paragraphs/p219.md) · [原始建议](reports/p219.json) | 7 |
+| 220 | Plaisant plus qu'elle ne voulait et n'ayant pas besoin de clairon | [逐句分析](paragraphs/p220.md) · [原始建议](reports/p220.json) | 3 |
+| 221 | Elle fut certainement désolée de n'avoir pu me faire plaisir et m | [逐句分析](paragraphs/p221.md) · [原始建议](reports/p221.json) | 5 |
+| 222 | Mes rêves se retrouvaient libres maintenant de se reporter sur te | [逐句分析](paragraphs/p222.md) · [原始建议](reports/p222.json) | 3 |
+| 223 | N'importe, Andrée, comme Rosemonde et Gisèle, même plus qu'elles, | [逐句分析](paragraphs/p223.md) · [原始建议](reports/p223.json) | 2 |
+| 224 | Ce n'était plus simplement l'attrait des premiers jours, c'était  | [逐句分析](paragraphs/p224.md) · [原始建议](reports/p224.json) | 2 |
+| 225 | Il errait entre elles d'autant plus voluptueusement que sur ces v | [逐句分析](paragraphs/p225.md) · [原始建议](reports/p225.json) | 3 |
+| 226 | Il en était d'Albertine comme de ses amies. Certains jours, mince | [逐句分析](paragraphs/p226.md) · [原始建议](reports/p226.json) | 3 |
+| 227 | Sans doute leurs visages à toutes avaient bien changé pour moi de | [逐句分析](paragraphs/p227.md) · [原始建议](reports/p227.json) | 1 |
+| 228 | J'avais remplacé au fond du cerveau de ces jeunes filles le mépri | [逐句分析](paragraphs/p228.md) · [原始建议](reports/p228.json) | 3 |
+| 229 | Pour n'importe laquelle de mes amies de la petite bande, comment  | [逐句分析](paragraphs/p229.md) · [原始建议](reports/p229.json) | 2 |
+| 230 | Les géographes, les archéologues nous conduisent bien dans l'île  | [逐句分析](paragraphs/p230.md) · [原始建议](reports/p230.json) | 3 |
+| 231 | Puis les concerts finirent, le mauvais temps arriva, mes amies qu | [逐句分析](paragraphs/p231.md) · [原始建议](reports/p231.json) | 3 |
+| 232 | Parfois pourtant la pluie trop cinglante nous retenait, ma grand' | [逐句分析](paragraphs/p232.md) · [原始建议](reports/p232.json) | 1 |
+| 233 | -- Cela fera tant de plaisir à Maurice. | [逐句分析](paragraphs/p233.md) · [原始建议](reports/p233.json) | 0 |
+| 234 | Et quand dans le hall je les rencontrai tous trois, ce fut M. de  | [逐句分析](paragraphs/p234.md) · [原始建议](reports/p234.json) | 0 |
+| 235 | -- Vous ne nous ferez pas le plaisir de dîner avec nous ? | [逐句分析](paragraphs/p235.md) · [原始建议](reports/p235.json) | 0 |
+| 236 | En somme j'avais bien peu profité de Balbec, ce qui ne me donnait | [逐句分析](paragraphs/p236.md) · [原始建议](reports/p236.json) | 1 |
+| 237 | Le directeur m'offrait pour l'année prochaine de meilleures chamb | [逐句分析](paragraphs/p237.md) · [原始建议](reports/p237.json) | 1 |
+| 238 | Il avait fallu quitter Balbec en effet, le froid et l'humidité ét | [逐句分析](paragraphs/p238.md) · [原始建议](reports/p238.json) | 1 |
+| 239 | Je savais que mes amies étaient sur la digue mais je ne les voyai | [逐句分析](paragraphs/p239.md) · [原始建议](reports/p239.json) | 3 |

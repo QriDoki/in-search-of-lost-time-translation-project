@@ -58,5 +58,29 @@
     "kind": "kinship-specificity-question",
     "text": "raw-md/vol1/chapters/002.md:7明确grand’tante为祖父的女性堂表亲、Léonie为其女；本段仍沿用全书传统姑祖母/姑妈称呼，不在孤立段落扩写谱系。全书亲属称谓统一时按此证据复核，勿仅凭tante/grand’tante认定现代中文的精确血亲关系。",
     "report": "paragraphs/p192.md"
+  },
+  {
+    "id": 211,
+    "kind": "kinship-specificity-question",
+    "text": "本段与相邻段仅tante不足以区分姑姨，博纳唐夫人姑母暂沿用，不凭孤段改称；全书亲属关系统一时复核，不阻塞。",
+    "report": "paragraphs/p211.md"
+  },
+  {
+    "id": 222,
+    "kind": "acceptable-ambiguity",
+    "text": "coureur在运动语境可指竞赛选手，现译赛车手具体化较强，但未获足够证据指定运动项目或排除该读法；保留，不新增注释，不阻塞。",
+    "report": "paragraphs/p222.md"
+  },
+  {
+    "id": 226,
+    "kind": "source-reference-question",
+    "text": "Leucothoé de Virgile照底本及现译保留；本轮未确证具体互文，不擅改人物/作者或新增出处注，不阻塞。",
+    "report": "paragraphs/p226.md"
+  },
+  {
+    "id": 231,
+    "kind": "abbreviation-question",
+    "text": "B.C.B.本段指地方铁路，缩写全称无足够旁证；保留现注谨慎限定，正文删除未获支持的窄轨，不臆补全称。",
+    "report": "paragraphs/p231.md"
   }
 ]

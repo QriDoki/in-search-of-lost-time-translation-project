@@ -43,5 +43,6 @@ readme=f"""# vol5-1 逐段逐句审校
 保留原作修辞、人物口吻及可接受的多义；不以纯粹偏好强行缩短长句。底本疑点和未采纳建议保留在相应段落报告中，未据猜测改动法语原文。
 """
 if partial:readme=readme.replace('validate-review.py','validate-review.py --partial')
+if (base/'final-review-notes.md').exists():readme+='\n[全章主审一致性复核](final-review-notes.md)。\n'
 (base/'README.md').write_text(readme)
 print('indexed',count,'changed paragraphs',len(changed),'applied changes',len(applied))
