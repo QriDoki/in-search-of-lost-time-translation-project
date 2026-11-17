@@ -1,0 +1,21 @@
+{
+  "id": 68,
+  "changes": [
+    {
+      "old": "恭恭敬敬地向那片“风景”望上一眼",
+      "new": "虔诚地向那片“风景”礼拜一番",
+      "reason": "faire mes dévotions 明写宗教礼拜，与 station、vénération、adoration、reliquaires、sacristain 连成比喻；现译只剩恭敬地观看，弱化了整段以观景为礼拜的修辞。以“礼拜一番”恢复宗教动作，不添加具体仪式。"
+    },
+    {
+      "old": "可是透视和暮色替它保住了体积，又给它添上精细的雕镂，像给它套了一只天鹅绒的匣子",
+      "new": "可是透视和傍晚的光线在保留它立体形貌的同时，又赋予它精细的雕镂，仿佛还为它配上了一只天鹅绒的匣子",
+      "reason": "la perspective et la lumière du soir 是 donner 的并列主语，en lui conservant son volume 是同时发生的伴随动作；“替它保住了体积”既生硬又像阻止体积流失。volume 在视觉艺术语境中指立体形貌；lumière du soir 明指晚间光线，用“傍晚的光线”较“暮色”准确，也与结尾 relique d’or 呼应。"
+    },
+    {
+      "old": "像合上圣龛的两扇门那样",
+      "new": "像合上圣物匣的两扇门那样",
+      "reason": "ceux 指 battants；châsse 为保存圣徒遗物的匣或箱，可作教堂形，承接上文 reliquaires 的微型建筑。以“圣物匣”衔接前文，避免“圣龛”使读者理解成墙上供奉神像的龛洞。已核对法兰西学院词典及法国文化部文物词表。"
+    }
+  ],
+  "notes": []
+}

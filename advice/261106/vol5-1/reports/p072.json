@@ -1,0 +1,16 @@
+{
+  "id": 72,
+  "changes": [
+    {
+      "old": "我再不能从海堤回来时穿过餐厅了",
+      "new": "我从海堤回来，再也不能穿过餐厅了",
+      "reason": "je ne pouvais plus rentrer de la digue par la salle à manger 表示从海堤返回时不再能取道餐厅；调整状语位置，消除“不能从海堤回来时”这一拗口黏连，不改变路径与否定范围。"
+    },
+    {
+      "old": "穷人和游民",
+      "new": "穷人和好奇的围观者",
+      "reason": "des pauvres et des curieux 中 curieux 是名词，指因好奇而前来观看的人，并非无业游民；法国学术院词典 curieux 词条的“ La foule des curieux ”可佐证此用法。"
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": 51,
+  "changes": [
+    {
+      "old": "却带着一种手势上的从容——那来自身体的柔韧和对动作的娴熟掌握，以及对世上其余一切人的由衷轻蔑——",
+      "new": "却动作娴熟自如——那来自身体的充分柔韧，以及对世上其余一切人的由衷轻蔑——",
+      "reason": "maîtrise de gestes 是动作的娴熟控制，不只手势从容；que donne 后只有身体充分柔韧与对他人的真诚轻蔑两个来源，现译另添“对动作的娴熟掌握”为来源，使结果与原因重复。"
+    },
+    {
+      "old": "四肢各自独立，互不相干",
+      "new": "四肢各自活动，彼此毫不牵动",
+      "reason": "dans une pleine indépendance de chacun de leurs membres par rapport aux autres 指各肢动作彼此独立，与前段抬腿便牵动全身形成对照；“互不相干”容易读成肢体之间毫无联系。"
+    },
+    {
+      "old": "尽管她们各是一副绝不相同的类型",
+      "new": "尽管她们各有与其余人全然不同的模样",
+      "reason": "chacune fût un type absolument différent des autres 指每人的形貌类型不同；“一副……类型”搭配不成立，改为自然中文并明示相互比较。"
+    },
+    {
+      "old": "就像某幅文艺复兴画里那位阿拉伯型的东方博士",
+      "new": "就像某幅文艺复兴画里一位有着阿拉伯人相貌的东方博士",
+      "reason": "quelque tableau 与 un roi Mage 都是不定指；type arabe 指外貌类型，现译“那位”徒增特指，“阿拉伯型”也较生硬。"
+    },
+    {
+      "old": "也无法把它们归到某个我本可以从人群中分出、并认出来的少女身上",
+      "new": "也无法把它们归到某个被我从其余人中单独分辨出来、并认准的少女身上",
+      "reason": "je ne pouvais pas les rapporter à telle jeune fille que j’eusse séparée des autres et reconnue 说无法将特征归属于一个已经个别化、可辨认的对象；虚拟式置于否定语境，不是“本可以”所暗示的本来有能力但未去做。des autres 此处是其余少女，不是一般人群。"
+    },
+    {
+      "old": "使整个少女群中荡漾着一种和谐的浮动，一种流动的、集体的、移动的美的持续转移",
+      "new": "使整个少女群中荡漾着一种和谐的浮动，让一种流动的、为她们共有而又游移不定的美在她们之间不断流转",
+      "reason": "propageait à travers leur groupe … la translation continue d’une beauté fluide, collective et mobile 延续美在尚未分出个体的群体中连续流转的意象；“集体的、移动的美的持续转移”名词链生硬，改为动词结构，保留流动、共有、游移三个层面。"
+    }
+  ],
+  "notes": []
+}

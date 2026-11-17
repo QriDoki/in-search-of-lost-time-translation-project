@@ -1,0 +1,16 @@
+[
+  {
+    "id": 165,
+    "old": "于是差点开口请阿尔贝蒂娜替我引见。",
+    "reason": "主审否决原报告代词改动：引见目标是认识少女的男性朋友，阿尔贝蒂娜紧接明确说不能把我介绍给gigolo；lui可且应承接她，事后告知不意味着先前想请奥克塔夫。保留原译。 从原no-op adjustment迁移，拒绝项不计实际修改。",
+    "decision": "rejected",
+    "source_report": "reports/p165.json"
+  },
+  {
+    "id": 200,
+    "old": "她的眼珠燃着火。",
+    "reason": "原文prunelles en feu为直接燃烧夸张，现译“眼珠燃着火”可理解，且与前文眼珠几乎凸出的兴奋形象衔接。改成“像在燃烧”把断言式夸张改成明喻，仅属润色偏好；本轮不为改而改，保留原译。",
+    "decision": "rejected",
+    "source_report": "reports/p200.json"
+  }
+]

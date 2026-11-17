@@ -1,0 +1,18 @@
+{
+  "id": 126,
+  "changes": [
+    {
+      "old": "尽管这些感觉不由分说地包围着我们",
+      "new": "尽管它们仿佛不顾我们的意愿，将我们包围",
+      "reason": "ils 前指下文 glacis、pénombre 等感性景象，并非感觉本身；comme malgré nous 的 comme 带有仿佛、似乎的保留语气，现译遗漏。改为它们，让指代仍落在随后列举的景物上。"
+    },
+    {
+      "old": "被太阳炙烤的土地，那挥之不去的燥意；那干燥只是被远处透明的空气与树影遮掩着",
+      "new": "被太阳炙烤的土地那坚实的干燥，只隔着远景与树影透明的薄幕",
+      "reason": "la résistante sécheresse 写土地坚实而干燥的质感，挥之不去将 résistante 转成时间上的持续；que voilait seulement 的关系代词承接 sécheresse，la transparence de l’éloignement et de l’ombre des arbres 是距离及树荫形成的透明遮层，原文没有远处的空气。新译保留透明遮蔽的悖论与整体知觉形象。"
+    }
+  ],
+  "notes": [
+    "保留原有 🪶 修辞注；“作者有意为之”属解释性断言，主审可酌量是否弱化，未据此新增替换。"
+  ]
+}

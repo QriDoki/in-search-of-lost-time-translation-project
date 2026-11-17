@@ -1,0 +1,11 @@
+{
+  "id": 43,
+  "changes": [
+    {
+      "old": "不幸的是，外祖母因拍照而高兴，我却为此不快；这种不快显然全写在脸上，弗朗索瓦丝都察觉到了，于是她不由自主地赶忙把它加深，对我说了一番感伤而动情的话，而我偏不愿显出赞同的样子。",
+      "new": "不幸的是，拍照的打算，尤其是外祖母似乎因此感到的高兴，令我不快；这种不快流露得相当明显，让弗朗索瓦丝察觉到了；她便急忙对我说了一番感伤而动情的话，无意中反倒加深了我的不快，而我偏不愿显出赞同这番话的样子。",
+      "reason": "le projet de séance photographique et surtout la satisfaction que ma grand’mère paraissait en ressentir 是造成不快的两个并列因素，现译漏掉“拍照的打算”，也漏掉“尤其”和“似乎”；suffisamment apercevoir pour que 仅指流露得足以被察觉，不支持“全写在脸上”；involontairement 说明弗朗索瓦丝无意中加重了我的不快，并非不由自主地急于加重不快。将 en me tenant 的手段关系和 auquel 的指代写清。"
+    }
+  ],
+  "notes": []
+}

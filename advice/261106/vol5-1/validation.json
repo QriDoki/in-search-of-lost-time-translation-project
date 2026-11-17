@@ -1,0 +1,93 @@
+{
+  "status": "passed_partial",
+  "review_status": "paused",
+  "reviewed_paragraphs": 200,
+  "total_paragraphs": 239,
+  "next_paragraph": 201,
+  "unstarted_paragraphs": [
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239
+  ],
+  "applied_changes": 668,
+  "changed_paragraphs": 179,
+  "retained_reviewed_paragraphs": 21,
+  "rejected_original_suggestions": 2,
+  "base_commit": "ee8577781ef9cd1af33c910c4d8d2ee8f86dc382",
+  "source_sha256": "738886d029be4e6dfc3aa51bcf93f49c43c1a2a9a701ceacd037451bc42c2435",
+  "dev_sha256": "7882128017005092f259a02e6f5a2859e4deb77d028e7e546343419d824be6e3",
+  "checks": {
+    "independent_agents_and_full_reports": 200,
+    "original_changes_unique_and_non_overlapping": true,
+    "all_original_suggestions_have_applied_or_rejected_decisions": true,
+    "exact_replay_matches_dev": true,
+    "source_unchanged": true,
+    "paragraph_count_preserved": 239,
+    "unreviewed_201_239_unchanged": true,
+    "annotation_structure_and_recorded_additions_deletions": true,
+    "index_rows_and_local_links": true,
+    "unexpected_trailing_whitespace": 0,
+    "intentional_markdown_hard_breaks": 55
+  },
+  "commands": [
+    {
+      "command": "python3 advice/261106/vol5-1/validate-review.py --partial",
+      "exit_code": 0
+    },
+    {
+      "command": "POLISH_VERSION=dev npm run build",
+      "exit_code": 0,
+      "log": "build-validation.log",
+      "existing_notices": [
+        "既有其他章节标题提示",
+        "既有大于500kB包体提示"
+      ]
+    },
+    {
+      "command": "git diff --cached --check -- polish/dev/chapters/polished-vol5-1.md",
+      "exit_code": 0
+    },
+    {
+      "command": "git -c core.whitespace=-blank-at-eol diff --cached --check -- advice/261106/vol5-1",
+      "exit_code": 0,
+      "note": "保留原始报告中55处合法Markdown两空格换行；已另检无意外尾空格。"
+    }
+  ],
+  "pause_reason": "用户要求完成当前批次后暂停；未启动201及以后；恢复须从201开始。"
+}

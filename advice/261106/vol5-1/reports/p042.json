@@ -1,0 +1,21 @@
+{
+  "id": 42,
+  "changes": [
+    {
+      "old": "反复拿不定主意该梳哪种发式",
+      "new": "拿不定主意该戴哪顶帽子",
+      "reason": "hésitait entre diverses coiffures中coiffure也指帽子、头饰；后文同一拍照场景明确出现le magnifique chapeau de ma grand’mère，应据此取帽子义，不能写成梳发式；原文无须增加“反复”。"
+    },
+    {
+      "old": "是不是一直把她看得过于完美了",
+      "new": "是不是一直把她看得过高了",
+      "reason": "si je ne la plaçais pas trop haut是把她置于过高的位置、评价过高，并未直接断言“完美”；保留叙述者重新衡量外祖母品格的递进。"
+    },
+    {
+      "old": "对自身外表的事毫不在意",
+      "new": "对与自己有关的事如此淡泊",
+      "reason": "détachée ... de ce qui concernait sa personne指对涉及自身的事情淡泊、超脱；外表是当下诱因，但法文未把范围限定为外表。改译保留其自我关切的广义，也承接后面的爱俏疑问。"
+    }
+  ],
+  "notes": []
+}

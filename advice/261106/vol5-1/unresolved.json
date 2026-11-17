@@ -1,0 +1,62 @@
+[
+  {
+    "id": 22,
+    "kind": "source-text-question",
+    "text": "底本及多版本均作Athènes，荷马《奥德赛》第十三歌相关说话者为Athènè。未找到普鲁斯特权威异文；保留雅典人并记录疑点，不擅改法文。",
+    "report": "paragraphs/p022.md"
+  },
+  {
+    "id": 53,
+    "kind": "acceptable-ambiguity",
+    "text": "casquette marine可能侧重藏青色或海员式帽。本句未有充分依据排除两义，保留现译藏青色鸭舌帽；不作为阻塞问题。",
+    "report": "paragraphs/p053.md"
+  },
+  {
+    "id": 52,
+    "kind": "syntactic-question",
+    "text": "底本qui与单数produit挂接曲折；按un milieu social为主语理解并理顺中文，保留法文。",
+    "report": "paragraphs/p052.md"
+  },
+  {
+    "id": 65,
+    "kind": "technical-referent-question",
+    "text": "colonne montante词典建筑义可为竖向管道，但老式电梯具体部件未核实；正文保守改竖直的立柱，消除立柱正在上升的误读，不增写液压或电气构造。",
+    "report": "paragraphs/p065.md"
+  },
+  {
+    "id": 87,
+    "kind": "acceptable-ambiguity",
+    "text": "toile décente所指具体遮画方式未获可靠注本解释，保留现译遮盖大意，不指认具体艺术作品，不作为阻塞问题。",
+    "report": "paragraphs/p087.md"
+  },
+  {
+    "id": 122,
+    "kind": "proper-name-question",
+    "text": "Redon具体身份与标准中文译名未独立确证，保留原字样；删除旧注将雕刻转译误说文字译笔的内容，不以未核身份立论。",
+    "report": "paragraphs/p122.md"
+  },
+  {
+    "id": 132,
+    "kind": "source-text-question",
+    "text": "同幅水彩原文先roses后œillets，现译各照原文玫瑰/石竹，不擅自统一。métiers在身体/节奏并列中的具体指向未确证，保留职业，不增释。",
+    "report": "paragraphs/p132.md"
+  },
+  {
+    "id": 143,
+    "kind": "kinship-specificity-question",
+    "text": "cousine未区分堂表，现译表姐妹。本段无家谱证据，暂保留，不武断改为堂亲或增注；全书统一亲属称谓时可复核，不阻塞。",
+    "report": "paragraphs/p143.md"
+  },
+  {
+    "id": 176,
+    "kind": "kinship-specificity-question",
+    "text": "泛指少女母辈tante未区分姑姨，现译姨母。本段未给各少女家谱，暂保留，不机械改姑母或扩释；全书亲属称谓统一时复核，不阻塞。",
+    "report": "paragraphs/p176.md"
+  },
+  {
+    "id": 192,
+    "kind": "kinship-specificity-question",
+    "text": "raw-md/vol1/chapters/002.md:7明确grand’tante为祖父的女性堂表亲、Léonie为其女；本段仍沿用全书传统姑祖母/姑妈称呼，不在孤立段落扩写谱系。全书亲属称谓统一时按此证据复核，勿仅凭tante/grand’tante认定现代中文的精确血亲关系。",
+    "report": "paragraphs/p192.md"
+  }
+]

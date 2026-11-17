@@ -1,0 +1,21 @@
+{
+  "id": 154,
+  "changes": [
+    {
+      "old": "来自长久的休息和一番特别的衣着打扮",
+      "new": "来自长时间的休息和在梳妆打扮上的特别花费",
+      "reason": "repos prolongé 指长时间休息，frais de toilette spéciaux 明说梳妆打扮上的特别花费，现译遗漏费用义；与下文耗费这些投入相衔接。"
+    },
+    {
+      "old": "一刻也不分享这种错觉",
+      "new": "一刻也没抱有这种错觉",
+      "reason": "ne partagea pas un instant cette illusion 指片刻也不曾认同、抱有这种错觉；“分享错觉”是生硬搭配，改用自然中文并保持过去叙事。"
+    },
+    {
+      "old": "认识阿尔贝蒂娜能有多少乐趣",
+      "new": "结识阿尔贝蒂娜的乐趣究竟有多大价值",
+      "reason": "la valeur du plaisir 是讨论乐趣的价值，照应 fort peu précieux，非仅讨论快乐的数量或强度；connaître 此处承接结识。"
+    }
+  ],
+  "notes": []
+}

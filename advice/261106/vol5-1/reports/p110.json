@@ -1,0 +1,26 @@
+{
+  "id": 110,
+  "changes": [
+    {
+      "old": "此后我便总是迟到",
+      "new": "此后我吃午饭便总是迟到",
+      "reason": "je n’y arrivais plus qu’en retard 中 y 回指午餐场合；补明“吃午饭”，避免中文把迟到理解为去海滩迟到。"
+    },
+    {
+      "old": "还没上甜点就起身",
+      "new": "离上甜点还早就起身",
+      "reason": "bien avant le dessert 强调远在甜点之前，原译只表先后，遗漏 bien 所表示的提前幅度。"
+    },
+    {
+      "old": "想把地平线拉得更长",
+      "new": "想把视野延伸得更远",
+      "reason": "prolonger l’horizon 在挪斜椅子、从餐厅窥望少女的语境中指拓展可见范围；“把地平线拉得更长”使读者误以为在延长一条实体线。"
+    },
+    {
+      "old": "流动而魔性的幻觉",
+      "new": "流动而魔鬼般的幻象",
+      "reason": "hallucination mobile et diabolique 指活动着的、带魔鬼意味的幻视；“魔性”在现代中文容易被理解为滑稽、洗脑的流行语，削弱与 rêve ennemi 相连的敌意、诱惑。"
+    }
+  ],
+  "notes": []
+}
