@@ -1,0 +1,12 @@
+{
+  "id": 117,
+  "edits": [
+    {
+      "old": "人只有在转述并非由自己形成的信念时才会这样",
+      "new": "人只有对并非由自己形成的信念才会这样",
+      "reason": "原文 n'apporte qu'aux convictions qu'on ne s'est pas formées soi-même 只限定信念来源，无「转述」这一动作，现译增译并窄化了泛论范围",
+      "type": "增译"
+    }
+  ],
+  "optional": []
+}
