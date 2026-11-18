@@ -20,7 +20,7 @@ def sha(p):
 
 def blocks(path):
     text = open(path, encoding="utf-8").read()
-    return [b for b in re.split(r"\n\s*\n", text) if b.strip()]
+    return [b.strip() for b in re.split(r"\n\s*\n", text) if b.strip()]
 
 
 def main():
