@@ -5,7 +5,7 @@
 - 对应关系依 `docs/chapter-map.md`：法文 `raw-md/vol6/chapters/001.md` ↔ 开发稿 `polish/dev/chapters/polished-vol6-1.md`。
 - 编号按空行分隔的正文段落，从001起；标题块不计，共417段。段号保持不变，每段单独启动一个审校子 agent。
 - 每份记录按法文句子逐一核对，长句内同时检查分句、指代、时态、否定范围与比喻；无修改的句子也说明保留理由。修订经主审合入开发稿，主审撤回或追加的决定在相应记录中注明。
-- 当前完成：**101/417**；其中 **87** 段修改，**14** 段保留。
+- 当前完成：**150/417**；其中 **119** 段修改，**31** 段保留。
 
 ## 逐段记录
 
@@ -112,3 +112,52 @@
 | [099](paragraphs/099.md) | Et il fronçait le sourcil à cause de son ennui et aussi… | 保留 | `/root/paragraph_coordinator/p099` |
 | [100](paragraphs/100.md) | -- Cours donc faire du feu dans ma chambre, dit-il à un… | 保留 | `/root/paragraph_coordinator/p100` |
 | [101](paragraphs/101.md) | Puis, de nouveau, il se détournait vers moi, et le mono… | 保留 | `/root/paragraph_coordinator/p101` |
+| [102](paragraphs/102.md) | -- Non ! vous ici, dans ce quartier où j'ai tant pensé … | 保留 | `/root/paragraph_coordinator/p102` |
+| [103](paragraphs/103.md) | Un officier, grand, beau, majestueux, déboucha à pas le… | 修订 | `/root/paragraph_coordinator/p103` |
+| [104](paragraphs/104.md) | -- Il faut que je dise un mot au capitaine, me chuchota… | 保留 | `/root/paragraph_coordinator/p104` |
+| [105](paragraphs/105.md) | Et, partant au pas de charge, précédé de son monocle qu… | 修订 | `/root/paragraph_coordinator/p105` |
+| [106](paragraphs/106.md) | Pour revenir au son, qu'on épaississe encore les boules… | 修订 | `/root/paragraph_coordinator/p106` |
+| [107](paragraphs/107.md) | Seulement il y aussi des suppressions de bruits qui ne … | 修订 | `/root/paragraph_coordinator/p107` |
+| [108](paragraphs/108.md) | Celui, bien plus relatif, qui régnait dans la petite ch… | 修订 | `/root/paragraph_coordinator/p108` |
+| [109](paragraphs/109.md) | -- Ah ! Robert, qu'on est bien chez vous, lui dis-je ; … | 修订 | `/root/paragraph_coordinator/p109` |
+| [110](paragraphs/110.md) | Et en effet, si cela n'avait pas été défendu, quel repo… | 修订 | `/root/paragraph_coordinator/p110` |
+| [111](paragraphs/111.md) | -- Ah ! vous aimeriez mieux coucher ici près de moi que… | 保留 | `/root/paragraph_coordinator/p111` |
+| [112](paragraphs/112.md) | -- Oh ! Robert, vous êtes cruel de prendre cela avec ir… | 保留 | `/root/paragraph_coordinator/p112` |
+| [113](paragraphs/113.md) | -- Eh bien ! vous me flattez, me dit-il, car j'ai juste… | 保留 | `/root/paragraph_coordinator/p113` |
+| [114](paragraphs/114.md) | -- Et il a permis ? m'écriai-je.… | 保留 | `/root/paragraph_coordinator/p114` |
+| [115](paragraphs/115.md) | -- Sans aucune difficulté.… | 保留 | `/root/paragraph_coordinator/p115` |
+| [116](paragraphs/116.md) | -- Oh ! je l'adore !… | 保留 | `/root/paragraph_coordinator/p116` |
+| [117](paragraphs/117.md) | -- Non, c'est trop. Maintenant laissez-moi appeler mon … | 修订 | `/root/paragraph_coordinator/p117` |
+| [118](paragraphs/118.md) | Plusieurs fois entrèrent l'un ou l'autre des camarades … | 修订 | `/root/paragraph_coordinator/p118` |
+| [119](paragraphs/119.md) | -- Allons, fous le camp.… | 保留 | `/root/paragraph_coordinator/p119` |
+| [120](paragraphs/120.md) | Je lui demandais de les laisser rester.… | 保留 | `/root/paragraph_coordinator/p120` |
+| [121](paragraphs/121.md) | -- Mais non, ils vous assommeraient : ce sont des êtres… | 修订 | `/root/paragraph_coordinator/p121` |
+| [122](paragraphs/122.md) | -- Ce n'est pas le capitaine qui m'a permis de rester i… | 保留 | `/root/paragraph_coordinator/p122` |
+| [123](paragraphs/123.md) | -- Non, Dieu merci, car l'homme que vous « adorez » pou… | 修订 | `/root/paragraph_coordinator/p123` |
+| [124](paragraphs/124.md) | Je regardais la photographie de sa tante et la pensée q… | 修订 | `/root/paragraph_coordinator/p124` |
+| [125](paragraphs/125.md) | Robert, sans en connaître les causes, était touché de m… | 修订 | `/root/paragraph_coordinator/p125` |
+| [126](paragraphs/126.md) | Mais, dès le second jour, il me fallut aller coucher à … | 修订 | `/root/paragraph_coordinator/p126` |
+| [127](paragraphs/127.md) | Or, je m'étais trompé. Je n'eus pas le temps d'être tri… | 修订 | `/root/paragraph_coordinator/p127` |
+| [128](paragraphs/128.md) | Si je voulais sortir ou rentrer sans prendre l'ascenseu… | 修订 | `/root/paragraph_coordinator/p128` |
+| [129](paragraphs/129.md) | Avant de me coucher, je voulus sortir de ma chambre pou… | 修订 | `/root/paragraph_coordinator/p129` |
+| [130](paragraphs/130.md) | Ce qu'on aurait fait le jour, il arrive en effet, le so… | 修订 | `/root/paragraph_coordinator/p130` |
+| [131](paragraphs/131.md) | Non loin de là est le jardin réservé où croissent comme… | 修订 | `/root/paragraph_coordinator/p131` |
+| [132](paragraphs/132.md) | Quelquefois je n'avais rien entendu, étant dans un de c… | 修订 | `/root/paragraph_coordinator/p132` |
+| [133](paragraphs/133.md) | On appelle cela un sommeil de plomb ; il semble qu'on s… | 修订 | `/root/paragraph_coordinator/p133` |
+| [134](paragraphs/134.md) | Quand j'avais fini de dormir, attiré par le ciel ensole… | 修订 | `/root/paragraph_coordinator/p134` |
+| [135](paragraphs/135.md) | -- J'espère que vous ne m'en voulez pas de vous avoir d… | 保留 | `/root/paragraph_coordinator/p135` |
+| [136](paragraphs/136.md) | -- Mais non, j'ai pensé simplement que vous aviez envie… | 修订 | `/root/paragraph_coordinator/p136` |
+| [137](paragraphs/137.md) | Il écoutait mes explications, me répondait avec précisi… | 修订 | `/root/paragraph_coordinator/p137` |
+| [138](paragraphs/138.md) | -- Que faites-vous maintenant ? disais-je à Saint-Loup.… | 保留 | `/root/paragraph_coordinator/p138` |
+| [139](paragraphs/139.md) | -- Je vais vous quitter, car on part en marche dans tro… | 保留 | `/root/paragraph_coordinator/p139` |
+| [140](paragraphs/140.md) | -- Alors ça vous a beaucoup gêné de venir ?… | 保留 | `/root/paragraph_coordinator/p140` |
+| [141](paragraphs/141.md) | -- Non, ça ne m'a pas gêné, le capitaine a été très gen… | 修订 | `/root/paragraph_coordinator/p141` |
+| [142](paragraphs/142.md) | -- Mais si je me levais vite et si j'allais de mon côté… | 保留 | `/root/paragraph_coordinator/p142` |
+| [143](paragraphs/143.md) | -- Je ne vous le conseille pas ; vous êtes resté éveill… | 修订 | `/root/paragraph_coordinator/p143` |
+| [144](paragraphs/144.md) | Mais un peu plus tard j'allai souvent voir le régiment … | 修订 | `/root/paragraph_coordinator/p144` |
+| [145](paragraphs/145.md) | Quelquefois ma fatigue était plus grande encore : j'ava… | 修订 | `/root/paragraph_coordinator/p145` |
+| [146](paragraphs/146.md) | Les jours où il y avait repos et où Saint-Loup ne pouva… | 修订 | `/root/paragraph_coordinator/p146` |
+| [147](paragraphs/147.md) | L'un disait que le capitaine avait acheté un nouveau ch… | 修订 | `/root/paragraph_coordinator/p147` |
+| [148](paragraphs/148.md) | -- Oui, mon frère l'a aperçu à « la Paix », disait un a… | 修订 | `/root/paragraph_coordinator/p148` |
+| [149](paragraphs/149.md) | -- Comment était son gilet ?… | 保留 | `/root/paragraph_coordinator/p149` |
+| [150](paragraphs/150.md) | -- Il n'avait pas de gilet blanc, mais mauve avec des e… | 修订 | `/root/paragraph_coordinator/p150` |
