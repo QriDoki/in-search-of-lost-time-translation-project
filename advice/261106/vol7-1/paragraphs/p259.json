@@ -1,0 +1,24 @@
+{
+  "id": 259,
+  "edits": [
+    {
+      "old": "明明知道布洛克与自己意见相左，却偏偏拿相反的立场来堵他的嘴",
+      "new": "硬把一种看法安到对方头上，自己明知对方显然并不持有这种看法",
+      "reason": "prêter à l'interlocuteur une opinion qu'on sait manifestement qu'il ne partage pas 意为把明知对方并不持有的看法硬安到对方头上；现译错置否定对象并增译堵嘴",
+      "type": "错译"
+    },
+    {
+      "old": "因为他刚刚才说出相反的看法",
+      "new": "因为对方刚刚才表达过相反的意见",
+      "reason": "puisqu'il vient d'en émettre une opposée 的 il 指对话者布洛克，现译他紧承主语阿尔让库尔致指代不明",
+      "type": "指代"
+    }
+  ],
+  "optional": [
+    {
+      "old": "这桩案子只跟法国人自己有关，不是吗？",
+      "new": "这桩案子只是法国人内部的事，不是吗？",
+      "reason": "entre eux 强调法国人彼此之间内部，现译自己略弱，可选更贴近"
+    }
+  ]
+}
