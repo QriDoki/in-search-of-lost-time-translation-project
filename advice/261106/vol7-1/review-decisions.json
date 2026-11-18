@@ -1,0 +1,66 @@
+{
+  "volume": "vol7-1",
+  "baseline": "origin/main f0fea78",
+  "branch": "codex/polish-vol7-1-20261106",
+  "reviewed_paragraphs": 480,
+  "applied_edits_total": 370,
+  "paragraphs_changed": 252,
+  "policy": "默认应用各段 edits（确定项）；optional 仅由主审酌情采纳消除真实歧义/搭配生硬/词义偏移者，纯风格偏好不采纳。采纳的 optional 与主审补充已并入对应段落 JSON 的 edits，使 validate.py 基线重放与开发稿逐字一致。",
+  "chief_decisions": [
+    {
+      "topic": "亲属称谓谱系",
+      "decision": "据 raw 第533行 «la propre sœur du duc de Guermantes» 指马桑特夫人（罗贝尔之母）核实：(1) 维尔巴里西斯夫人为夏吕斯/巴赞之姑母（全书既定，vol9 佐证），其 neveu 译「侄子」——p400 edits、p403 edits 已改，p401 由主审补充「一个外甥→一个侄子」；(2) 罗贝尔为公爵/夏吕斯姐妹之子，译「外甥」——p206 edits 改「侄子→外甥」，p223/p225/p430 既有「外甥」保留；(3) 维尔巴里西斯称罗贝尔（p086）为侄孙泛称「侄子」保留。",
+      "affected": ["p050", "p086", "p189", "p190", "p206", "p223", "p225", "p400", "p401", "p403", "p430"]
+    },
+    {
+      "topic": "p190 弟弟→兄弟（不采纳）",
+      "decision": "p190 原 edits 含「那头巨大食草动物的弟弟→兄弟」。主审裁定保留「弟弟」：p189 与 vol9 既定康布雷梅尔夫人为格朗丹之「姐姐」，p050 已统一「姐姐」，则「弟弟」与之精确对应。该条已从 p190 edits 移至 optional 并标注裁定；仅采纳 p190 的母牛句法修正。",
+      "affected": ["p190"]
+    },
+    {
+      "topic": "p050 妹妹→姐姐（采纳）",
+      "decision": "p050「他有个妹妹，叫康布雷梅尔夫人」改「姐姐」，与 p189/vol9 一致。p050 报告原引 p379 为证有误（p379 实为马桑特夫人唤罗贝尔，无 sœur），但修正方向正确，依据改为 p189/vol9。",
+      "affected": ["p050", "p189"]
+    },
+    {
+      "topic": "Monseigneur 译「殿下」（采纳并统一）",
+      "decision": "保加利亚亲王称谓 Monseigneur 按王族礼式译「殿下」。p242 edits 改「是的，大人→是的，殿下」；p076 两条 optional（大人→殿下、说起这件怪事→点出这个古怪的细节）经主审采纳并入 edits。全章仅 p076/p242 指亲王；119/657 行「大人物」无关，保留。",
+      "affected": ["p076", "p242"]
+    },
+    {
+      "topic": "p401 主审补充",
+      "decision": "p401「一个外甥→一个侄子」由主审补充（段落审校者未含此条），已并入 p401 edits。",
+      "affected": ["p401"]
+    }
+  ],
+  "pending_verification": [
+    {
+      "topic": "la Patrie française 译注（p213）",
+      "note": "注释释为「民族主义、反德雷福斯派日报」，疑应为「法兰西祖国联盟」（Ligue de la patrie française）。注释自身上下文注（与反重审组织并提）倾向组织义。属待核项，本次不擅改注释，留待后续核实。",
+      "affected": ["p213"]
+    },
+    {
+      "topic": "法文底本疑脱文（p195）",
+      "note": "«un esprit et moderne» 疑脱 fort。原文 raw 不动，记待核。",
+      "affected": ["p195"]
+    },
+    {
+      "topic": "德·诺尔普瓦 / 诺尔普瓦",
+      "note": "全章并存（17/47 处），皆 M. de Norpois 可接受译法，属原稿既有风格，本次不强行统一。",
+      "affected": []
+    },
+    {
+      "topic": "p292 姑母→舅母（排除）",
+      "note": "p292 据 raw 533 行主张姑母应作舅母，系误读（该行指马桑特夫人）。全章无「舅母」用例，姑母/姑妈称谓保留。",
+      "affected": ["p292", "p286"]
+    }
+  ],
+  "validation": {
+    "replay_matches_dev": true,
+    "annotation_count_preserved": true,
+    "annotations": 173,
+    "paragraph_count": 480,
+    "source_unchanged": true,
+    "dev_build": "POLISH_VERSION=dev npm run gen 退出码 0，28 页；vol7-1 改动进入 site/chapters/vol3-02.md"
+  }
+}

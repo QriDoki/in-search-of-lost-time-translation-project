@@ -1,0 +1,18 @@
+{
+  "id": 438,
+  "edits": [
+    {
+      "old": "或许只是想让病人产生正在被透彻诊察的错觉",
+      "new": "或许带着一种正在深入诊察病人的错觉",
+      "reason": "第一项 l'illusion de scruter 是『深入诊察的错觉』本身，现译误作『想让病人产生错觉』，与第二项 le désir de lui donner cette illusion 重复",
+      "type": "错译"
+    }
+  ],
+  "optional": [
+    {
+      "old": "随后，他开口谈起了贝戈特",
+      "new": "他开口谈起了贝戈特",
+      "reason": "tout en 表望病人与谈话同时，『随后』误作先后，删去以弱化时序"
+    }
+  ]
+}

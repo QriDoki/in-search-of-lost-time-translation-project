@@ -1,0 +1,13 @@
+{
+  "reports_markdown": 480,
+  "reports_json": 480,
+  "paragraph_count": 480,
+  "dev_paragraph_count": 480,
+  "source_unchanged": true,
+  "replay_matches_dev": true,
+  "replay_failures": [],
+  "annotations_baseline": 173,
+  "annotations_after": 173,
+  "annotation_count_preserved": true,
+  "dev_sha256": "00e83ff3fe49cec9880f545a04aa2b1c0ea947a598f8443eb6b05575a468eb75"
+}

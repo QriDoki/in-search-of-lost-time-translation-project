@@ -1,0 +1,18 @@
+{
+  "id": 4,
+  "edits": [
+    {
+      "old": "都争先恐后地跑来向他献殷勤",
+      "new": "都争先恐后、川流不息地跑来向他献殷勤",
+      "reason": "法文 course obséquieuse et incessante 中 incessante（不停、川流不息）漏译，争先恐后只表争相不含持续义",
+      "type": "漏译"
+    }
+  ],
+  "optional": [
+    {
+      "old": "能不断带来新交往",
+      "new": "能不断带来生机与活力",
+      "reason": "créer de la vie 本义为带来生气/活力，现译将 vie 窄化为新交往，语义略偏，可斟酌"
+    }
+  ]
+}

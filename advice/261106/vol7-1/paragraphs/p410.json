@@ -1,0 +1,16 @@
+{
+  "id": 410,
+  "edits": [],
+  "optional": [
+    {
+      "old": "我一说那就作罢",
+      "new": "这番商谈就此中断",
+      "reason": "原文主语为「这场商谈的中断」(Cette rupture des pourparlers)，现译添加「一……就」紧接关系并略去 pourparlers（商谈）一词"
+    },
+    {
+      "old": "他反而显得不甘心",
+      "new": "他似乎并不乐意",
+      "reason": "ne parut pas être de son goût 意为「似乎不合他的心意」，「不甘心」语气偏重且另添心理层次，「反而」为原文所无的转折词"
+    }
+  ]
+}

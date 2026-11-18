@@ -1,0 +1,18 @@
+{
+  "id": 301,
+  "edits": [
+    {
+      "old": "接待这位德国政治家",
+      "new": "接待这位德国首相",
+      "reason": "premier ministre allemand 是具体官职（德国首相），现译泛化为「政治家」丢失官职信息",
+      "type": "错译"
+    }
+  ],
+  "optional": [
+    {
+      "old": "去把他请来",
+      "new": "去把他接来",
+      "reason": "aller chercher qn 侧重去接/去取，「请来」稍偏邀请语气，属可选微调"
+    }
+  ]
+}
