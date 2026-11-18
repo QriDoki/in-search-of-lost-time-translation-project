@@ -1,0 +1,29 @@
+{
+  "id": 349,
+  "edits": [
+    {
+      "old": "用极热情的言辞郑重地把我又介绍了一遍",
+      "new": "用极热情的言辞把我又介绍了一遍",
+      "reason": "« dans les termes les plus chaleureux » 仅表「用极热情的言辞」，「郑重地」为无据增译，且与「热情」语义不协",
+      "type": "增译"
+    },
+    {
+      "old": "给自己这位大使的举荐再添一重分量",
+      "new": "即加上自己这位大使举荐的分量",
+      "reason": "原文 ajouter le poids de sa propre recommandation 意为加上他大使举荐的分量，现译「给举荐再添分量」把举荐错置为添分量的对象，主客颠倒",
+      "type": "错译"
+    }
+  ],
+  "optional": [
+    {
+      "old": "就抢着",
+      "new": "便也",
+      "reason": "« elle n'avait pas fini que… » 仅表时间紧接，「抢着」增添争先姿态，原文无据；« aussi » 宜以「也」明点"
+    },
+    {
+      "old": "要在亲王面前恢复那个对他这位殿下颇有面子的旧例",
+      "new": "要为向亲王致敬而恢复那个对他这位殿下颇有面子的旧例",
+      "reason": "« en l'honneur du prince » 表「为向亲王致敬」的目的，现译「在亲王面前」仅表处所，语义偏移"
+    }
+  ]
+}
