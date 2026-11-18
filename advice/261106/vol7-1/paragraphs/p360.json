@@ -1,0 +1,12 @@
+{
+  "id": 360,
+  "edits": [
+    {
+      "old": "罗贝尔在客厅尽头叫我",
+      "new": "罗贝尔把我叫到客厅尽头",
+      "reason": "appeler qn dans le fond du salon 是把叙述者唤到客厅尽头（他与母亲所在处），现译把动作方向译反为他在尽头喊话",
+      "type": "错译"
+    }
+  ],
+  "optional": []
+}
