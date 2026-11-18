@@ -1,0 +1,18 @@
+{
+  "id": 239,
+  "edits": [
+    {
+      "old": "如果判的是有罪",
+      "new": "如果判的是败诉",
+      "reason": "上文第477行明言 l'affaire civile actuellement en cours（正在审理的民事案件）且 ce jugement 即指该案判决，民事 condamnation 应指判一方败诉/承担责任而非刑事「有罪」，现译与上文「民事案件」矛盾。",
+      "type": "错译"
+    }
+  ],
+  "optional": [
+    {
+      "old": "我很怀疑那是否合他父亲的口味",
+      "new": "我很怀疑那是否合他父亲的心意",
+      "reason": "être du goût de qqn 此处为抽象赞许义，「心意」较略带食物本义的「口味」更贴切；现译作比喻亦可接受。"
+    }
+  ]
+}
