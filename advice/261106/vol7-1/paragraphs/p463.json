@@ -1,0 +1,12 @@
+{
+  "id": 463,
+  "edits": [
+    {
+      "old": "一间厕所隔间",
+      "new": "一间小小的厕所隔间",
+      "reason": "原文 une petite cabine 的 petite（小）漏译；补出以保留管理员放软的小称口吻，并与上文 une petite branche 译「一小枝」一致。",
+      "type": "漏译"
+    }
+  ],
+  "optional": []
+}
