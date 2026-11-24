@@ -916,5 +916,89 @@
   "decision": "chief-adjust",
   "old": "只要有人提起其中一位，比如说起她的一位姻亲姐妹，她立刻换了一副面孔。",
   "reason": "主审微调：去「只要…时」杂糅，其余按原 edit"
+ },
+ {
+  "paragraph": 101,
+  "decision": "adopt-optional",
+  "old": "可能叫我不愿再来的朋友暂时请开",
+  "reason": "主审采纳：éloigner「支开」较「请开」惯用"
+ },
+ {
+  "paragraph": 102,
+  "decision": "adopt-optional",
+  "old": "记载着对他们表示过忠心的臣民名字的簿册",
+  "reason": "主审采纳：避免与「据《以斯帖记》记载」重复，où étaient inscrits 录有"
+ },
+ {
+  "paragraph": 103,
+  "decision": "adopt-optional",
+  "old": "君王被纷繁的政务缠身",
+  "reason": "主审采纳：tumultueux 扰攘义，「纷扰」兼有多而乱与扰攘；同步 p102 译注内定位词「纷繁」→「纷扰」（见该段 chief-adjust）"
+ },
+ {
+  "paragraph": 104,
+  "decision": "adopt-optional",
+  "old": "心思又接连转向新的事情。",
+  "reason": "主审采纳：sans cesse 不断，「接连」偏一个接一个；删无据的「又」"
+ },
+ {
+  "paragraph": 105,
+  "decision": "adopt-optional",
+  "old": "我一出现，便勾起了她的记忆",
+  "reason": "主审采纳：rafraîchir sa mémoire 提醒/使重新记起，「唤起」更贴"
+ },
+ {
+  "paragraph": 106,
+  "decision": "adopt-optional",
+  "old": "另一种性质相反的惊讶又来了",
+  "reason": "主审采纳：allait suivre 过去将来时预告语气"
+ },
+ {
+  "paragraph": 106,
+  "decision": "adopt-optional",
+  "old": "她甚至可以拿出一首他昔日为她谱写的小奏鸣曲给我看",
+  "reason": "主审采纳：eût pu 条件式过去时「本来还可以」，aussi 也/还非「甚至」"
+ },
+ {
+  "paragraph": 107,
+  "decision": "adopt-optional",
+  "old": "我们跟他聊过您好半天",
+  "reason": "主审采纳：动词拷贝式更合口语与公爵夫人爽朗口吻"
+ },
+ {
+  "paragraph": 107,
+  "decision": "adopt-optional",
+  "old": "您说他是不是很可笑！",
+  "reason": "主审采纳：drôle 亲昵打趣，「逗」较「可笑」（现代偏贬）更合语气"
+ },
+ {
+  "paragraph": 108,
+  "decision": "adopt-optional",
+  "old": "初次听某位大律师或演员当众讲话",
+  "reason": "主审采纳：un avocat 一位律师，「大」为增添褒义；「当众」保留助理解"
+ },
+ {
+  "paragraph": 108,
+  "decision": "adopt-optional",
+  "old": "于是众人也加入捧场的行列",
+  "reason": "主审采纳：la ronde 围拢成圈意象，「行列」失画面"
+ },
+ {
+  "paragraph": 109,
+  "decision": "adopt-optional",
+  "old": "她问得直截了当",
+  "reason": "主审采纳：simplicité 率真，「率直」与 E1「那份直率」统一"
+ },
+ {
+  "paragraph": 110,
+  "decision": "adopt-optional",
+  "old": "我回答说绝对肯定",
+  "reason": "主审采纳：补「肯定」主语「我」，确信主体明确"
+ },
+ {
+  "paragraph": 102,
+  "decision": "chief-adjust",
+  "old": "君王被纷繁的政务缠身",
+  "reason": "译注内定位词最小同步：配合 p103 引诗「纷繁」→「纷扰」，仅改所引二字，注释其余内容不动"
  }
 ]
