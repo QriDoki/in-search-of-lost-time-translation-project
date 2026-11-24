@@ -736,5 +736,59 @@
   "decision": "adopt-optional",
   "old": "只存着友好的心意",
   "reason": "主审采纳：ne cherchais qu'à être aimable 只求亲切的主动努力，与当年努力装漠然对照"
+ },
+ {
+  "paragraph": 81,
+  "decision": "adopt-optional",
+  "old": "她一边说，一边优雅地拎起宽大的裙摆",
+  "reason": "主审采纳：补 me dit-elle 的「对我」，与邻近对话段处理一致"
+ },
+ {
+  "paragraph": 81,
+  "decision": "adopt-optional",
+  "old": "您允许我在您身边坐一会儿吗？",
+  "reason": "主审采纳：客套请求式「我可以…吗」更合现代中文口吻，礼貌不减"
+ },
+ {
+  "paragraph": 81,
+  "decision": "adopt-optional",
+  "old": "不然整把扶手椅都要被裙子占满",
+  "reason": "主审采纳：法文主动句，去非必要欧化被动"
+ },
+ {
+  "paragraph": 82,
+  "decision": "adopt-optional",
+  "old": "于是露出一种如梦的、温柔的神情",
+  "reason": "主审采纳：rêveuse 沉思/出神，「如梦的」偏「像梦一般」"
+ },
+ {
+  "paragraph": 85,
+  "decision": "adopt-optional",
+  "old": "您来得可真晚！难得才见您一回。",
+  "reason": "主审采纳：jolie heure 反语，「可真是时候」保留挖苦口吻不坐实为「晚」；先衬后讽贴近原句结构"
+ },
+ {
+  "paragraph": 87,
+  "decision": "adopt-optional",
+  "old": "您不愿意星期三来和她一道吃晚饭吗？",
+  "reason": "主审采纳：否定疑问式邀请，「不想…吗」更贴殷勤相邀口吻；mercredi 原文矛盾保持现状"
+ },
+ {
+  "paragraph": 87,
+  "decision": "adopt-optional",
+  "old": "（因为女主人也有做牵线人的义务）",
+  "reason": "主审采纳：补 bons offices 热心斡旋与 font partie des devoirs 职责之一，恢复反讽"
+ },
+ {
+  "paragraph": 88,
+  "decision": "adopt-optional",
+  "old": "那天正是我要和斯泰尔马里亚夫人吃饭的日子",
+  "reason": "主审采纳：dîner 晚餐，与上段邀请「吃晚饭」对齐"
+ },
+ {
+  "paragraph": 90,
+  "decision": "adopt-optional",
+  "old": "母亲星期六或星期日回来，",
+  "reason": "主审采纳：revenant 一次性归期，加「就要」避免习惯性误读"
  }
 ]
