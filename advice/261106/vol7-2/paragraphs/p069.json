@@ -1,0 +1,18 @@
+{
+  "id": 69,
+  "edits": [
+    {
+      "old": "在我心里引起的厌恶有多深，我就得承认他平素赢得的敬重也同样多。",
+      "new": "在我心里引起的厌恶，正同他应得而且平素赢得的敬重一样多。",
+      "reason": "法文 autant d'antipathie qu'il méritait et obtenait généralement d'estime：补出漏译的 méritait（应得），并删去原句所无、凭空添出让步语气的「我就得承认」。",
+      "type": "漏译"
+    },
+    {
+      "old": "最后竟像戴上了一副漠然的面具",
+      "new": "久而久之，便戴上了一副漠然的面具",
+      "reason": "finissait par prendre 为渐进「终于带上」，无惊讶义；「竟像」添出惊讶与明喻，改「久而久之，便」更贴近原句并保留面具比喻。",
+      "type": "增译"
+    }
+  ],
+  "optional": []
+}

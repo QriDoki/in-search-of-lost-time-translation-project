@@ -1,0 +1,11 @@
+{
+  "id": 54,
+  "edits": [],
+  "optional": [
+    {
+      "old": "——对不起，把你吵醒了。",
+      "new": "——原谅我来打扰你睡觉。",
+      "reason": "Pardonne-moi 为恳请原谅，语气较「对不起」更郑重温柔；venir troubler ton sommeil 意为「来打扰你的睡眠」，troubler 非「吵醒」，venir（来）亦未译出，现译稍偏离母亲轻柔恳切的口吻。"
+    }
+  ]
+}

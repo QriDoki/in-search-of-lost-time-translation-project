@@ -1,0 +1,19 @@
+{
+  "reviewed_paragraphs": 93,
+  "paragraphs_with_edits": 77,
+  "edits": 215,
+  "optional_suggested": 23,
+  "by_type": {
+    "漏译": 34,
+    "语句不通顺": 19,
+    "错译": 68,
+    "增译": 36,
+    "逻辑": 13,
+    "中文习惯": 32,
+    "指代": 13
+  },
+  "translation_after_sha256": "33d7f137d793ed933621904a283bb9d4be8bc9fe677de32088665f8f755b6203",
+  "complete": true,
+  "missing_md": [],
+  "missing_json": []
+}
