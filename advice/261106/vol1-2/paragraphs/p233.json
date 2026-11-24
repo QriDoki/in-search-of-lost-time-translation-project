@@ -1,0 +1,43 @@
+{
+  "id": 233,
+  "assessment": "本段两句均已逐句核对。父亲打断勒格朗丹以及‘执拗如树，无情如天’对上段树木与天空的回扣均保留准确；ma belle-mère在父亲口中译为‘我岳母’，指代清楚。第二句的核心是询问当地是否有熟人，使岳母万一有事时不觉得身处陌生孤立之地；现译把这种需要落实为‘需要有人帮忙’，增加了原文未明确提出的实际求助，建议改回目的关系。其余问句语气及‘人生地不熟、举目无亲’的中文表达可保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "我是想问：万一我岳母遇到什么意外，需要有人帮忙，好让她不至于在那儿觉得人生地不熟、举目无亲，您认不认识那儿的人？",
+      "after": "我是想问：万一我岳母遇到什么事，为了不让她在那儿觉得人生地不熟、举目无亲，您认不认识那儿的人？",
+      "source": "pour le cas où il arriverait n'importe quoi à ma belle-mère et où elle aurait besoin de ne pas se sentir là-bas en pays perdu",
+      "reason": "avoir besoin的补语是‘不觉得身处陌生孤立之地’，并未直接说她需要别人提供实际帮助。原译‘需要有人帮忙’增添了具体求助条件；改用目的结构把熟人关系与避免陌生孤立感衔接起来。n'importe quoi也以较宽泛的‘什么事’对应，避免把条件收窄为意外事故。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Ce n'est pas cela que je voulais dire, interrompit mon père",
+      "translation_anchor": "我不是这个意思，我父亲打断他",
+      "finding": "cela回指勒格朗丹上段把当地树木当朋友的回答，父亲澄清那并非自己所问；‘我不是这个意思’保留否定与纠正语气。interrompit译‘打断他’，‘他’在对话中明确指勒格朗丹，无指代歧义，可保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "aussi obstiné que les arbres et aussi impitoyable que le ciel",
+      "translation_anchor": "执拗如树，无情如天",
+      "finding": "两个aussi…que…分别比较父亲与树木的执拗、与天空的无情，正好回扣上一段arbres和ciel的描写。译文以平行的‘如树／如天’压缩比较结构，修辞及比较对象齐全，主语承接父亲清楚，不需扩写。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Je demandais pour le cas où il arriverait n'importe quoi à ma belle-mère",
+      "translation_anchor": "我是想问：万一我岳母遇到什么意外",
+      "finding": "Je demandais在此回说明先前问题的本意，译‘我是想问’合乎中文对话。ma belle-mère是父亲的岳母，即叙述者的外祖母，译文亲属称谓正确。pour le cas où引出假设预防的情形，‘万一’对应恰当；n'importe quoi泛指遇到什么事情，建议随整句改为‘遇到什么事’，无需限定成意外。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "et où elle aurait besoin de ne pas se sentir là-bas en pays perdu, si vous y connaissez du monde ?",
+      "translation_anchor": "需要有人帮忙，好让她不至于在那儿觉得人生地不熟、举目无亲，您认不认识那儿的人？",
+      "finding": "elle指岳母，là-bas与y均指谈论中的当地，译文指代一致；en pays perdu在此写在陌生地方缺乏熟人、孤立无援的感觉，‘人生地不熟、举目无亲’足以传达。原文avoir besoin直接支配ne pas se sentir，即需要免于这种感觉，现译‘需要有人帮忙’却额外规定了实际求助。建议整句改为‘为了不让她……’，保留父亲为岳母预作人际照应的用意。末尾si引出间接疑问‘是否在当地认识一些人’，原译‘您认不认识那儿的人’并未把du monde误作所有人，中文问法自然，可保留。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p233"
+  }
+}

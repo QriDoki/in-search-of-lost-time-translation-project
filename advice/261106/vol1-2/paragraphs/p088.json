@@ -1,0 +1,31 @@
+{
+  "id": 88,
+  "assessment": "逐句核对后，本段整体准确保留了从乔托寓言画转向临终体验的论述和长句结构。三处值得修订：sèches 在此写人物性情的冷硬，并非身体干瘪；manié 仅指实际拿取、操作，译作“把玩”添入了赏玩意味；“多了几分字面与精确”搭配生硬，需明确表达作品含义更贴近字面、更为确切。其余保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "漂亮、虔诚而干瘪的有产阶层妇女",
+      "after": "漂亮、虔诚而冷漠的有产阶层妇女",
+      "source": "certaines jolies bourgeoises pieuses et sèches",
+      "reason": "sèches 在这里描绘这些妇女性情冷硬、缺乏温情，与后文她们隶属“不义”的讽刺呼应；“干瘪”将其误作外貌特征。"
+    },
+    {
+      "type": "错译",
+      "before": "像真切承受着或实实在在把玩着的东西",
+      "after": "像真切承受着或实实在在拿在手中操作的东西",
+      "source": "comme effectivement subi ou matériellement manié",
+      "reason": "manié 指用手拿取、操作，承接前段人物承受或拿持象征物的动作；“把玩”额外带入闲适赏玩的意味。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "这就使作品的含义多了几分字面与精确",
+      "after": "这就使作品的含义更贴近字面、更为确切",
+      "source": "donnait à la signification de l’œuvre quelque chose de plus littéral et de plus précis",
+      "reason": "“字面”与“精确”不能自然并列作“多了几分”的宾语；改为对应的谓语，清楚表达 littéral 与 précis 对含义的限定。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p088"
+  }
+}

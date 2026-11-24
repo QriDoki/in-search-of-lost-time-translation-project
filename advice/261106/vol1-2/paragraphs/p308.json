@@ -1,0 +1,49 @@
+{
+  "id": 308,
+  "assessment": "本段叙事信息与指代基本可靠：来贡布雷的是盖尔芒特夫人，婚礼中的女儿属于贝斯比埃大夫；四年前的诊治是她前来参加婚礼的缘由。主要问题在末句：原文说画报刊有她身着化装舞会服饰的形象，原译“印着……那身装束”将图像主体转为服装，且与下一段回忆她的画像的叙述不够衔接，宜明确为她身穿该服饰的画像。顺带以“一期”对应期刊的numéro。保留现有注释及内容；注释使用bal costumé而本句原文为bal travesti，均指化装舞会，不与此次改文矛盾。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "他甚至给我们看过一本画报，上面印着她在莱昂亲王妃家的⊂化装舞会⊃≼🏛️贵族与上流社交圈常举办化装舞会（bal costumé），宾客以历史、神话等服饰装扮出席；盖尔芒特夫人的装束因画报而流传。≽上所穿的那身装束。",
+      "after": "他甚至给我们看过一期画报，上面刊有她的一幅画像，她穿着在莱昂亲王妃家的⊂化装舞会⊃≼🏛️贵族与上流社交圈常举办化装舞会（bal costumé），宾客以历史、神话等服饰装扮出席；盖尔芒特夫人的装束因画报而流传。≽上穿过的那身装束。",
+      "source": "le numéro d'une revue illustrée où elle était représentée dans le costume qu'elle portait à un bal travesti chez la princesse de Léon",
+      "reason": "elle était représentée的被描绘主体是盖尔芒特夫人，dans le costume说明她在画像中身穿何种服饰；原译“印着……那身装束”容易理解为只刊登服装，遗漏人物画像这一关键信息。改为“她的一幅画像，她穿着……”恢复人物与服饰的关系，“一期”也明确numéro指画报的某一期。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Un jour ma mère me dit : « Puisque tu parles toujours de Mme de Guermantes",
+      "translation_anchor": "一天，母亲对我说：“既然你老是念叨盖尔芒特夫人",
+      "finding": "“一天，母亲对我说”对应叙述的过去事件；“老是念叨”传达parles toujours反复提起的含义。Puisque是母亲主动告知消息的谈话引子，以儿子经常提起夫人为已知前提；现译虽保留了法语的嵌套开头，但仍能理解为母亲针对他的兴趣告知见面的机会，可保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "comme le docteur Percepied l'a très bien soignée il y a quatre ans, elle doit venir à Combray pour assister au mariage de sa fille",
+      "translation_anchor": "而贝斯比埃大夫四年前把她的病治得很好，她应该会到贡布雷来，出席他女儿的婚礼。",
+      "finding": "comme引出诊治与来赴婚礼之间的缘由；原译上下文可读出夫人因受过大夫诊治而前来赴婚礼。“四年前”修饰诊治事件，“她”在soignée和elle处均指夫人；sa fille按婚礼背景指大夫的女儿，译成“他女儿”正确消除法语所有词形式带来的歧义。doit venir表示预期她将前来，译作“应该会”合适；“治得很好”保留très bien的评价，未擅自强化为彻底治愈。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Tu pourras l'apercevoir à la cérémonie.",
+      "translation_anchor": "到时候你能在仪式上望见她。",
+      "finding": "pourras表示届时能够见到夫人的机会，l’仍指盖尔芒特夫人；“望见”保留apercevoir从一定距离看到、瞥见的意味，没有增添正式相见交谈。cérémonie在这里指婚礼仪式，译成“仪式”有前句限定，指代清楚，保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "C'était du reste par le docteur Percepied que j'avais le plus entendu parler de Mme de Guermantes",
+      "translation_anchor": "说起来，关于盖尔芒特夫人，我恰恰也是从贝斯比埃大夫那里听得最多",
+      "finding": "强调句突出大夫是叙述者听闻夫人事迹最多的来源，le plus的比较范围是各种消息来源；“从……那里听得最多”准确表达这一点。过去完成时表示母亲此次告知之前累积的听闻，中文结合“说起来”与后文“看过”可自然承接，无须额外增加时间标记。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "et il nous avait même montré le numéro d'une revue illustrée où elle était représentée dans le costume qu'elle portait à un bal travesti chez la princesse de Léon",
+      "translation_anchor": "他甚至给我们看过一本画报，上面印着她在莱昂亲王妃家的⊂化装舞会⊃≼🏛️贵族与上流社交圈常举办化装舞会（bal costumé），宾客以历史、神话等服饰装扮出席；盖尔芒特夫人的装束因画报而流传。≽上所穿的那身装束。",
+      "finding": "“他”承接大夫，“我们”对应nous，“甚至”对应même，原译这些关系正确。numéro指画报某一期，宜用“一期”。où elle était représentée说夫人本人被画在画报上，dans le costume限定画像中的衣着，qu’elle portait再将服装关联到莱昂亲王妃家的化装舞会；原译落脚于“印着……装束”，使被描绘者从夫人变为服装，故修改为“刊有她的一幅画像，她穿着……”，保留两层修饰以及原有舞会注释。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p308"
+  }
+}

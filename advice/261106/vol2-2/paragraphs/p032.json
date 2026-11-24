@@ -1,0 +1,58 @@
+{
+  "id": 32,
+  "assessment": "本段重现叙述者在受冷落之后，如何又借惯常的心理运作，把冷淡重新解释成浪漫情节，并虚构一封承认爱情的来信。译文保留了抽泣、微笑与吻的递进，也基本传达了虚构信件的内容。主要错译在第二单元：法文以“魔力”和“相对于希尔贝特的独特处境”为并列主语，现译误以她的冷淡维系二人关系，并把“令人痛苦”移接给冷淡，改变了心理机制。另建议明确第一句不再去香榭丽舍的未来时间指向，以及第三句“被迫”同时支配隐瞒爱情、假装幸福两项行为的范围。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Je me redisais en étouffant mes sanglots ... sa joie de ne pas venir de longtemps aux Champs-Élysées.",
+      "translation_anchor": "我强压着抽泣，把那几句话反复念给自己听：希尔贝特说那些话时，满心都是好久不来香榭丽舍的欢喜。",
+      "finding": "en étouffant mes sanglots 是一面压下抽泣一面重复那些话，现译“强压着抽泣”“反复念给自己听”保留了同时性及反复折磨自己的动作。les mots où ... avait laissé éclater sa joie 指那些话流露出她不来此处的喜悦，“满心都是……欢喜”虽把话语中的流露转成了说话时的心情，但仍可接受。ne pas venir de longtemps 是往后一段很长时间不来，并非已经很久没来；“好久不来”容易被读成回顾过去，建议加上“往后”以确定时间方向。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Mais déjà le charme dont, par son simple fonctionnement, se remplissait mon esprit ... la position particulière, unique — fût elle affligeante — ... avaient commencé à ajouter ... quelque chose de romanesque ... l’ébauche timide d’un baiser.",
+      "translation_anchor": "然而，只要一想到她，我的心灵便会自行滋生出一股魔力；一种根深蒂固的心理习惯，仿佛心灵里的一道褶痕，使得她的冷淡尽管令我难受，却仍在我与她之间维系着一种独特的关系；就连她这次冷淡的表示，也开始被这股魔力染上几分小说般的浪漫色彩；在我的泪水中间，浮现出一个微笑，那不过是⊂一个吻的羞涩雏形⊃",
+      "finding": "本句的复数谓语 avaient commencé 对应两个并列主语：le charme（心灵只要想到她，凭自身运转就会充满的魔力）和 la position particulière, unique（某种心理习惯的内在约束必然使我相对于她所处的特殊位置）。现译把第二主语改写成“她的冷淡……维系……关系”，把处境实体化为实际人际关系，又把本应修饰 position 的 fût elle affligeante（哪怕这个位置令人痛苦）改为冷淡令人难受，均改变了句法关系。原文也没有说这种关系由冷淡维系。“根深蒂固”是对 pli mental 的引申，宜直接保留心理习惯与褶痕的意象，并明确其内在约束使我陷入特定处境。句末应由这两个因素共同给甚至这次冷淡的表示增添 romanesque 色彩，不能只归因于魔力。romanesque 译为“小说般的浪漫色彩”能够保留自编爱情情节的意味，可保留。泪水中正在形成的微笑与“一个吻的羞涩雏形”准确保留了转折：尚未成为吻的笑意由悲痛中萌生；“浮现”未破坏 se formait 的过程意。现有该处注释标记及其内容保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Et quand vint l’heure du courrier ... elle n’a jamais cessé de m’aimer ... elle a été forcée de me le cacher jusqu’ici, de faire semblant de pouvoir être heureuse sans me voir ... la Gilberte simple camarade.",
+      "translation_anchor": "到了送信的时刻，那天晚上我也像别的每个晚上一样对自己说：“我就要收到希尔贝特的一封信了，她终于会告诉我，她从来没有停止过爱我，还会向我解释那个神秘的缘由：为什么她一直不得不把这件事瞒着我，为什么她要装出不见我也能幸福的样子，⊂为什么她要假扮成只把我当作普通玩伴的那个希尔贝特⊃",
+      "finding": "ce soir-là comme tous les autres 指那一晚同其他每一晚一样，译文明确补出“晚上”，符合语境；Je vais recevoir 和 elle va me dire 的临近未来被译为“就要”“会”，体现叙述者自我确信的期待。n’a jamais cessé de m’aimer 的从未停止爱我，现译完整。me le cacher 的 le 指她一直爱我的事实，用“这件事”能理解，但“这份爱”可使承接更明确。关键是 a été forcée 同时统领 de me le cacher 和 de faire semblant：他设想她既被迫隐瞒爱情，又被迫装作不见他也能幸福；现译第二项“为什么她要装出”减弱了这一共同的受迫原因，建议将第二项也明确写成“被迫”。末尾 pris l’apparence de la Gilberte simple camarade 是装成仅有同伴之谊的那个希尔贝特，现译“假扮成只把我当作普通玩伴”保留了这层自我安慰的解释；“玩伴”符合此处交往场景，可以保留。现有线索注释对幻想来信的说明与下段相接，不需随本次修订改动。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "»",
+      "translation_anchor": "≽。”",
+      "finding": "该 source_unit 仅为引语结束符，语义属于上一单元的幻想来信，并无独立句意。译文在既有注释结束后用右双引号收束叙述者自言自语，范围与法文一致；中文句号置于右引号前可保留，不调整注释标记或内容。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "好久不来香榭丽舍的欢喜",
+      "after": "往后好长时间都不来香榭丽舍的欢喜",
+      "source": "sa joie de ne pas venir de longtemps aux Champs-Élysées",
+      "reason": "ne pas venir de longtemps 指往后将有很长一段时间不来；补明未来指向，避免“好久不来”被理解成已经很久没来。"
+    },
+    {
+      "type": "错译",
+      "before": "然而，只要一想到她，我的心灵便会自行滋生出一股魔力；一种根深蒂固的心理习惯，仿佛心灵里的一道褶痕，使得她的冷淡尽管令我难受，却仍在我与她之间维系着一种独特的关系；就连她这次冷淡的表示，也开始被这股魔力染上几分小说般的浪漫色彩；",
+      "after": "然而，我的心灵只要想到她，单凭自身的运转便会充满魔力；而一种心理习惯所形成的心灵褶痕，又以其内在的约束力，使我相对于希尔贝特不可避免地处在一个特殊、独一无二的位置上——哪怕这个位置令人痛苦；这股魔力和这种处境，已开始使这一次冷淡的表示也带上几分小说般的浪漫色彩；",
+      "source": "le charme dont, par son simple fonctionnement, se remplissait mon esprit dès qu’il songeait à elle, la position particulière, unique — fût elle affligeante — où me plaçait inévitablement, par rapport à Gilberte, la contrainte interne d’un pli mental, avaient commencé à ajouter, même à cette marque d’indifférence, quelque chose de romanesque",
+      "reason": "恢复“魔力”和“独特处境”共同给冷淡增添浪漫色彩的并列主干；将内在心理约束恢复为造成处境的力量，并将“哪怕令人痛苦”准确归还给该处境。原文并未说她的冷淡在二人之间维系实际关系。"
+    },
+    {
+      "type": "错译",
+      "before": "为什么她一直不得不把这件事瞒着我，为什么她要装出不见我也能幸福的样子，",
+      "after": "为什么她一直被迫把这份爱瞒着我，被迫装出不见我也能幸福的样子，",
+      "source": "la raison mystérieuse pour laquelle elle a été forcée de me le cacher jusqu’ici, de faire semblant de pouvoir être heureuse sans me voir",
+      "reason": "a été forcée 同时支配“隐瞒”和“假装”两个不定式；两个动作都被叙述者解释为不得已。“这份爱”明确 le 所回指的“一直爱我”这件事。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p032"
+  }
+}

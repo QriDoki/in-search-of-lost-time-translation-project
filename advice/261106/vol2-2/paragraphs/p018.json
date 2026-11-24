@@ -1,0 +1,88 @@
+{
+  "id": 18,
+  "assessment": "九个原文句子／单元均已逐项核对。离别时形象模糊、信念来自单方面的爱、字迹无法带来现实回应以及成熟后对快乐的取舍，译文基本完整。建议收回“无从动摇”的绝对化判断，明确爱情在相互告白之前尚未开始的时间关系，并补明结尾放弃道路的是“我”。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "cherchant sans cesse à me représenter son image ... à quoi correspondait mon amour",
+      "translation_anchor": "不停地试图在脑中重现她的形象，到头来却再也重现不出，甚至弄不清自己的爱究竟指向谁",
+      "finding": "原文说离开她时反复重构形象，最终形象反而失真、爱情对象变得无法确知；译文保留因为、到头来、甚至的递进。这里“指向谁”结合“她的形象”可理解为真实对象的样貌不清，并非忘记姓名，尚不足据此改动。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "elle ne m’avait encore jamais dit qu’elle m’aimait",
+      "translation_anchor": "她还从来没有对我说过她爱我",
+      "finding": "encore jamais的“迄今从未”与宾语从句中的她爱我均对应，未将从未表白误作已经确认不爱。保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "des amis qu’elle me préférait ... si cette croyance avait pris sa source ... ce qui la rendait autrement résistante",
+      "translation_anchor": "有些朋友她看得比我重；若我认定自己特殊，是因为她爱我；偏偏这份信念来自我爱她，反倒无从动摇",
+      "finding": "偏爱其他朋友的比较方向、好伙伴却玩得心不在焉的让步都正确。后半长句以反事实条件区分信念的两种来源：若来自她的爱，冷淡便能动摇；实际来自我的爱，所以更坚固，且依赖内在必然的思维方式。现译将其拆句，逻辑仍可追溯，但autrement résistante是“坚固得多”，译为“无从动摇”“牢不可破”把比较强化成绝对不可能，建议收回这一绝对化。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "moi-même je ne les lui avais pas encore déclarés",
+      "translation_anchor": "可我对她的感情，我自己还没有向她表白过",
+      "finding": "Mais转到我也尚未表白的对称状况，moi-même的强调由“我自己”保留，les指感情、lui指希尔贝特，现译无指代错置。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "j’écrivais indéfiniment son nom et son adresse ... non ... de Gilberte ... mais de mon propre désir",
+      "translation_anchor": "我没完没了地写着她的名字和地址；它们对我讲的不是希尔贝特，而是我自己的欲望",
+      "finding": "cahiers、名字和地址、她不会因此想到我也不会看到字迹、显现的占据与现实生活未增加的反差均已呈现。原文从字迹折返到纯属个人、虚幻、烦扰而无力的欲望，现译“虚幻、乏味而又无能为力”传达负面感受；把拟人化字迹对我说话保留下来，长插入句尚通顺。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "nous faire l’aveu réciproque de notre amour, qui jusque-là n’aurait pour ainsi dire pas commencé",
+      "translation_anchor": "能够互相表白爱情——而我们的爱情，迄今甚至可以说尚未开始",
+      "finding": "最急迫的是见面和互相告白，译文主体无误。jusque-là承接所期待的告白时刻：在这一步发生之前爱情还算不上开始；现译“迄今”只落在叙述当下，削弱告白作为门槛的关系，建议改“在这之前”。pour ainsi dire的限缩须继续保留“可以说”。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "auraient été moins impérieuses pour un homme mûr",
+      "translation_anchor": "对一个成熟的男人来说就不会那样不可抗拒",
+      "finding": "成熟男子所受催迫更弱，是与年幼叙述者相比的假设；现译“不像这样不可抗拒”方向正确。“毫无疑问”可承Sans doute的肯定口气，不必改成推测。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "la culture de nos plaisirs ... sans être inquiets ... ou encore ... afin d’entretenir plus vivace ... jardiniers japonais",
+      "translation_anchor": "学会了经营自己的快乐；不再追究她在自己心中的形象是否符合现实；或者，为了让她对自己的情意更长久地鲜活，宁可克制向她表白的渴望",
+      "finding": "本句列出满足于默想、满足于单方面爱、以及牺牲告白之乐来培育对方爱意的几种成熟策略。两个sans均没有误成否定爱情本身，afin目的为对方的情意更旺盛而非自己的爱；日本园丁牺牲其他花以保全一花的比喻对应这种取舍。现译将放弃告白之乐改说克制告白渴望，语境中仍指不去告白，未造成必须修订的信息丢失。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "l’Amour existait réellement en dehors de nous ... sans communication avec le vrai, dont j’aurais renoncé à suivre les chemins mystérieux et préexistants",
+      "translation_anchor": "爱情本身在我们心外客观地存在；用假装的冷淡取代表白的甜蜜；它与真正的爱情毫无相通之处，也就放弃沿着真正爱情预先铺就的神秘道路走下去",
+      "finding": "原文与成熟策略相对：当时视爱情为外在实在，幸福次序不可人为更改，假装冷淡会制造虚假的爱。现译保留允许排除障碍但不能改次序的限制，也保留不仅失去快乐、还制造假爱的递进。末尾dont以真正爱情为先行词，但放弃走其道路的主语明确为je；现译“它……也就放弃”形成误接，应补出“我”来接回这一假设中的行为主体。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "偏偏这份信念来自我爱她，反倒无从动摇：我的爱让这种信念越发牢不可破，因为它取决于我思念希尔贝特的方式本身",
+      "after": "偏偏这份信念来自我爱她，因而坚固得多，因为它取决于我思念希尔贝特的方式本身",
+      "source": "ce qui la rendait autrement résistante",
+      "reason": "autrement résistante强调相比另一种来源坚固得多，并未断言绝不可能动摇；删去绝对化且重复的“无从动摇”“牢不可破”，保留比较。"
+    },
+    {
+      "type": "错译",
+      "before": "能够互相表白爱情——而我们的爱情，迄今甚至可以说尚未开始。",
+      "after": "能够互相表白爱情——在这之前，我们的爱情甚至可以说尚未开始。",
+      "source": "nous faire l’aveu réciproque de notre amour, qui jusque-là n’aurait pour ainsi dire pas commencé",
+      "reason": "jusque-là指期待中的相互告白之前；“迄今”只指当前时间，改为“在这之前”接回告白作为爱情开始门槛的关系。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "它与真正的爱情毫无相通之处，也就放弃沿着真正爱情预先铺就的神秘道路走下去。",
+      "after": "它与真正的爱情毫无相通之处；而我也就放弃了沿着真正爱情预先铺就的神秘道路走下去。",
+      "source": "sans communication avec le vrai, dont j’aurais renoncé à suivre les chemins mystérieux et préexistants",
+      "reason": "原文放弃道路的主体是je，现译连续逗号易使“也就放弃”的主语误接为人为爱情。明确“我”，分号区分真假爱情的关系与叙述者的选择。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p018"
+  }
+}

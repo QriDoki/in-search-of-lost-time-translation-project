@@ -1,0 +1,24 @@
+{
+  "id": 5,
+  "assessment": "逐句核对后，床边陈设、服药与礼拜时辰的并置基本准确，现有注释与正文无实质矛盾。两处需修正：矿泉水瓶被误称为药瓶；末句遗漏了从街景中“读”纪事的喻体落点，并以“读完”把持续的观察误写成读完书本。“日常而古已有之”的时间意味也应保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "小像和药瓶上方",
+      "after": "小像和矿泉水瓶上方",
+      "source": "au-dessus d’une statuette de la Vierge et d’une bouteille de Vichy-Célestins",
+      "reason": "bouteille de Vichy-Célestins 指上文的维希矿泉水瓶，不能在后文改称药瓶。"
+    },
+    {
+      "type": "错译",
+      "before": "从早到晚，她像波斯王侯打发时光那样，读着贡布雷的日常纪事——天天如是，却又亘古如一——借此解闷，读完再和弗朗索瓦丝细细评说。",
+      "after": "从早到晚，她像波斯王侯那样，从眼前的街景里读着贡布雷每日发生却又古已有之的纪事，借此解闷，随后再和弗朗索瓦丝细细评说。",
+      "source": "elle avait la rue sous les yeux et y lisait du matin au soir, pour se désennuyer, à la façon des princes persans, la chronique quotidienne mais immémoriale de Combray, qu’elle commentait ensuite avec Françoise",
+      "reason": "y 回指 rue，姑妈是观看街道，把街头见闻当作纪事来读；原译未落实这一指代，“读完”又易令人误以为在读书。quotidienne mais immémoriale 指每日发生而古已有之的日常生活，未断言千古完全不变。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p005"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": 298,
+  "assessment": "本段的路线、贵妇到访客栈的旧事及叙述者希望静坐读书的愿望均与原文相合，已有注释保留。末尾钟声的比喻有一处关键宾语关系需要修订：原文是钟楼挤压“满盈的寂静”，从中榨出金色液滴，并非把“寂静”本身挤出来。其余处保留现译的叙述节奏和长句结构。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "On passait, rue de l’Oiseau / devant la vieille hôtellerie de l’Oiseau flesché",
+      "translation_anchor": "沿鸟街往前走，会经过“中箭之鸟”老客栈门前",
+      "finding": "首句交代沿鸟街经过老客栈的惯常路线，passait的未完成过去时由“往前走，会经过”自然体现；flesché指中箭，客栈名“中箭之鸟”可保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "dans la grande cour de laquelle entrèrent quelquefois au XVII^e^ siècle les carrosses des duchesses de Montpensier, de Guermantes et de Montmorency",
+      "translation_anchor": "十七世纪时，⊂蒙庞西耶公爵夫人⊃ / 她们的马车有时就驶进客栈的大院子",
+      "finding": "de laquelle回指老客栈，现译明确为“客栈的大院子”，并将原文后置主语“几位公爵夫人的马车”转为中文顺序；“十七世纪”“有时”及三位贵妇的称号均有对应，没有把贵妇到访泛化为日常住店。注释所述头衔与句中称谓不冲突。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "quand elles avaient à venir à Combray pour quelque contestation avec leurs fermiers, pour une question d’hommage",
+      "translation_anchor": "若是为了跟佃户的纠纷、为了⊂一桩效忠礼⊃ / 的问题到贡布雷来",
+      "finding": "elles指三位公爵夫人，fermiers在领地事务中指承租土地的佃户，现译均有落实。“若是……到……来”表达她们因领地纠纷或效忠礼事务而须到贡布雷的情境；两项pour所列来访缘由也予以保留。“效忠礼”及现存解释无需在本段修改。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "On gagnait le mail entre les arbres duquel apparaissait le clocher de Saint-Hilaire.",
+      "translation_anchor": "随后我们来到林荫步道上，圣伊莱尔教堂的钟楼在树影间露了出来。",
+      "finding": "mail在这里是植树的散步场所，译作“林荫步道”切合路线语境；duquel回指该步道，钟楼从其树木之间显现。“树影间”带有中文景物描写色彩，但没有改变所见钟楼隔树显露的空间关系，可以保留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Et j’aurais voulu pouvoir m’asseoir là et rester toute la journée à lire en écoutant les cloches",
+      "translation_anchor": "我真想能在那儿坐下，一边听钟声一边读上一整天书",
+      "finding": "条件式过去时j’aurais voulu表达当时未能实现的愿望，“真想能”保留其愿望语气，没有写成实际坐下读书；“一边……一边……”对应读书与听钟声的同时进行，“一整天”对应toute la journée。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "car il faisait si beau et si tranquille que, quand sonnait l’heure, on aurait dit non qu’elle rompait le calme du jour, mais qu’elle le débarrassait de ce qu’il contenait",
+      "translation_anchor": "因为天气是那么晴朗、那么安宁，每逢报时的钟声敲响，你听到的不像是它划破了白日的宁静，倒像是它把宁静中积蓄的东西倾卸了出来",
+      "finding": "car承接静坐的愿望，si…que引出宁静天气中听钟的特殊感受。elle在语法上指报响的时刻，中文以“报时的钟声”落实其听觉含义；le和il均围绕calme du jour，“把宁静中积蓄的东西倾卸了出来”准确保留取走其中所含之物的关系。“不像……倒像……”对应non…mais，而非断言钟声实际打破宁静。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "et que le clocher, avec l’exactitude indolente et soigneuse d’une personne qui n’a rien d’autre à faire, venait seulement … de presser, au moment voulu, la plénitude du silence",
+      "translation_anchor": "那钟楼带着一个别无他事之人特有的慵懒而一丝不苟的准时，仿佛只是在恰当的时刻轻轻一挤 / 挤出了满盈的寂静",
+      "finding": "第二个que继续受on aurait dit统摄，所以钟楼挤压寂静仍属于想象；“别无他事之人”“慵懒而一丝不苟”保留拟人反差。问题在presser的直接宾语la plénitude du silence：被挤压的是满盈的寂静，现译末尾“挤出了满盈的寂静”却使寂静成为挤出的产物。应改为钟楼“挤压了一下满盈的寂静”，并用“不过刚刚”保留venait seulement de的限制与刚刚完成之意。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "pour exprimer et laisser tomber les quelques gouttes d’or que la chaleur y avait lentement et naturellement amassées",
+      "translation_anchor": "好让暑热在其中缓缓自然积成的那几滴金液得以流泻",
+      "finding": "此插入语说明挤压的目的：exprimer在液体语境中是榨出，laisser tomber是使之滴落；几滴金液才是被挤出的东西。y回指寂静这一容器，暑热此前已在其中缓缓自然积聚金液；现译“在其中”“积成”基本保留此关系，但“得以流泻”淡化榨出与滴落两个动作。随主干一并修订，将插入语置于“满盈的寂静”之后，使容器、受压对象和金液的流出关系清楚。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "那钟楼带着一个别无他事之人特有的慵懒而一丝不苟的准时，仿佛只是在恰当的时刻轻轻一挤——好让暑热在其中缓缓自然积成的那几滴金液得以流泻——挤出了满盈的寂静。",
+      "after": "那钟楼带着一个别无他事之人特有的慵懒而一丝不苟的准时，仿佛不过刚刚在恰当的时刻挤压了一下满盈的寂静——好让暑热在其中缓缓而自然地积成的那几滴金液被榨出、滴落。",
+      "source": "venait seulement … de presser, au moment voulu, la plénitude du silence / pour exprimer et laisser tomber les quelques gouttes d’or",
+      "reason": "presser的宾语是“满盈的寂静”，寂静是被挤压的容器，金色液滴是榨出的东西。原译“挤出了满盈的寂静”颠倒了受压对象与产物；修订还补足exprimer“榨出”和laisser tomber“滴落”两步动作，并体现venait de的刚刚完成之意。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p298"
+  }
+}

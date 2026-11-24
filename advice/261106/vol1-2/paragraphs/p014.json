@@ -1,0 +1,9 @@
+{
+  "id": 14,
+  "assessment": "本段准确传达弗朗索瓦丝对芦笋来源的推测以及认为此事不足为奇的口吻；“那芦笋”明确了承接上文的代词，中文自然，无须修改。",
+  "changes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p014"
+  }
+}

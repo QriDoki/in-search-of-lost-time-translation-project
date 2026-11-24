@@ -1,0 +1,17 @@
+{
+  "id": 45,
+  "assessment": "本段整体准确，教堂的拟人、与邻宅的亲密接触及精神上的神圣界限均得到保留，长句层次也清楚。仅将石头“被熏黑”改为“发黑”，避免给原文增添烟熏成因。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "被熏黑的石头",
+      "after": "发黑的石头",
+      "source": "la pierre noircie",
+      "reason": "noircie只说明石头已变黑，并未交代是烟熏所致；“被熏黑”增添了原文没有的成因。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p045"
+  }
+}

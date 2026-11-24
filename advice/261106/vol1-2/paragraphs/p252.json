@@ -1,0 +1,70 @@
+{
+  "id": 252,
+  "assessment": "本段保留了名字如护身符、声音如水珠，以及名字浸染空气等通感结构。核对发现四处值得修订：首句把‘前一刻尚只是形象’的时间关系移位；aigre的尖厉音质译成‘清冽’；pour les êtres heureux实际说明名字对熟人的指称作用，现译却将女孩生活的秘密归为这些熟人的感受；末尾两个avec均补充familiarité的对象，现译以‘牵系着’另起关系，掩盖了他们也熟悉她生活这一层。其他意象与叙述口吻可保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "就在片刻之前，这个名字刚刚把她变成一个活生生的人，而在那之前，她还只是一个模糊不定的形象。",
+      "after": "这个名字刚刚把她变成一个活生生的人，而就在片刻之前，她还只是一个模糊不定的形象。",
+      "source": "celle dont il venait de faire une personne et qui, l'instant d'avant, n'était qu'une image incertaine",
+      "reason": "venait de表示名字刚刚使她成为一个人；l'instant d'avant修饰后面的‘尚只是模糊形象’，原译把‘片刻之前’移到前一动作，又添一层‘在那之前’，使时间关系错位。"
+    },
+    {
+      "type": "错译",
+      "before": "又清冽又新鲜",
+      "after": "又尖厉又清新",
+      "source": "aigre et frais comme les gouttes de l'arrosoir vert",
+      "reason": "这里描写被喊出的名字的声音，并以水珠构成通感；aigre保留声音尖厉、刺耳的一面，‘清冽’仅给出清凉纯净感，抹去了与前段尖声呼喊相承的音质。"
+    },
+    {
+      "type": "错译",
+      "before": "满是它所点名的那个女孩的生活之谜——对那些有幸与她同住、同行的人来说，她的生活里藏着的秘密",
+      "after": "满是那个女孩生活的神秘——对那些有幸与她一同生活、一同旅行的人来说，这个名字指的正是她",
+      "source": "du mystère de la vie de celle qu'il désignait pour les êtres heureux qui vivaient, qui voyageaient avec elle",
+      "reason": "pour les êtres heureux依附désignait：名字对于有幸与她相熟的人指称这个女孩。原译把它改成这些人眼中的‘生活秘密’，与下文他们熟悉她的生活的意思抵牾。mystère也偏重叙述者感到的神秘，不必落实为若干秘密。"
+    },
+    {
+      "type": "错译",
+      "before": "把他们与她之间亲昵关系的全部意味展露出来，这份亲昵于我是如此痛苦，牵系着她，牵系着她生活中我永远不会进入的未知。",
+      "after": "展露出他们对她、对她那我无从进入的未知生活的熟悉与亲近的精髓，这份熟悉与亲近于我是如此痛苦。",
+      "source": "la quintessence de leur familiarité, pour moi si douloureuse, avec elle, avec l'inconnu de sa vie où je n'entrerais pas",
+      "reason": "avec elle和avec l'inconnu de sa vie并列补充familiarité，都是他们熟悉亲近的对象；原译的‘牵系着’让这两个对象脱离了familiarité。改译恢复他们熟悉的生活与我无从进入的生活之间的关系，并以‘精髓’对应quintessence。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Ainsi passa près de moi ce nom de Gilberte, donné comme un talisman",
+      "translation_anchor": "希尔贝特这个名字就这样从我身边经过，像一道护身符般交到我手上",
+      "finding": "Ainsi与‘就这样’对应，名字从身边经过的拟人化动作保留；donné的授予意味由‘交到我手上’表现，‘手上’是护身符比喻的自然展开，可保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "qui me permettait peut-être de retrouver un jour celle dont il venait de faire une personne et qui, l'instant d'avant, n'était qu'une image incertaine",
+      "translation_anchor": "也许有朝一日能让我重新寻回她——就在片刻之前，这个名字刚刚把她变成一个活生生的人，而在那之前，她还只是一个模糊不定的形象",
+      "finding": "qui指talisman，名字如护身符使未来重逢成为可能，‘也许有朝一日能让我重新寻回她’保留不确定性。后面的两个关系从句都指女孩：名字刚使她成为具体的人，前一刻她尚只是模糊形象。原译把l'instant d'avant提前修饰‘变成’，并新增‘而在那之前’层次，宜把‘就在片刻之前’放回形象从句。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Ainsi passa-t-il, proféré au-dessus des jasmins et des giroflées, aigre et frais comme les gouttes de l'arrosoir vert",
+      "translation_anchor": "这个名字就这样经过了，在茉莉与桂竹香的上空被喊出，像绿色喷壶洒落的水珠，又清冽又新鲜",
+      "finding": "il仍指名字，复现‘这个名字就这样经过了’保留复沓；花丛上方、绿色喷壶和水珠的空间及通感均对应。aigre含尖厉音质，现译‘清冽’遗漏声音的刺激感，改‘尖厉’；frais译‘清新’保留水珠带来的鲜活感。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "imprégnant, irisant la zone d'air pur qu'il avait traversée — et qu'il isolait — du mystère de la vie de celle qu'il désignait pour les êtres heureux qui vivaient, qui voyageaient avec elle",
+      "translation_anchor": "它所穿过的那片纯净空气被它隔离出来，也被它浸染、映得流光溢彩，满是它所点名的那个女孩的生活之谜——对那些有幸与她同住、同行的人来说，她的生活里藏着的秘密",
+      "finding": "浸染、虹彩、穿过并隔离空气的主语均为名字，译文被动改写保持了这些关系。问题在pour les êtres heureux：它限定名字对于这些人的指称作用，不能接成他们认为她生活有秘密。改译明示‘这个名字指的正是她’，使神秘感与熟人的认知分开；vivaient/voyageaient译‘一同生活、一同旅行’亦比‘同住、同行’更完整体现生活与旅行两种共享经历。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "déployant sous l'épinier rose, à hauteur de mon épaule, la quintessence de leur familiarité, pour moi si douloureuse, avec elle, avec l'inconnu de sa vie où je n'entrerais pas",
+      "translation_anchor": "它在粉红山楂树丛下、齐我肩头的高度，把他们与她之间亲昵关系的全部意味展露出来，这份亲昵于我是如此痛苦，牵系着她，牵系着她生活中我永远不会进入的未知",
+      "finding": "déployant仍以名字为主体，地点与肩头高度均已保留。leur指前文有幸与她生活、旅行的人；pour moi si douloureuse形容他们与她的熟悉亲近所给我的痛苦。两次avec并列指出他们既熟悉她，也熟悉她那对我未知的生活，原译‘牵系着’未明确这层归属。建议恢复并列宾语，quintessence译‘精髓’；où je n'entrerais pas从过去视点表达我无从进入那生活，改译保留其隔绝意味。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p252"
+  }
+}

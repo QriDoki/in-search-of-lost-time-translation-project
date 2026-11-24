@@ -1,0 +1,22 @@
+[
+  {
+    "id": "12-1",
+    "line": 71,
+    "rawline": 73,
+    "row": 100,
+    "fr": "par mon grand-père les Verdurin savaient qui était l’oncle de Morel",
+    "old": "维尔迪兰夫妇通过我祖父，早就知道莫雷尔的舅舅是谁",
+    "new": "维尔迪兰夫妇通过我外祖父，早就知道莫雷尔的舅舅是谁",
+    "why": "mon grand-père仍为叙述者的外祖父：本章第97行追忆同一长辈饮白兰地与外祖母劝止，vol10-2原文第63行又明说母亲是此人的女儿。此处不能改换为父系祖父。"
+  },
+  {
+    "id": "12-2",
+    "line": 17,
+    "rawline": 19,
+    "row": 93,
+    "fr": "ou, par un petit bleu, de me demander d’aller la voir à Auteuil",
+    "old": "⊂蓝皮电报⊃≼🔤原文 petit bleu，法国旧时邮局内部传递的蓝色电报或电信通知，不必理解为蓝色外皮的普通电报≽",
+    "new": "⊂蓝纸快信⊃≼🔤原文 petit bleu，指当时以气压管道传送的蓝纸快信≽",
+    "why": "此处是巴黎市内邀约所用的快捷信件。法兰西学院词典第八版bleu条将petit bleu明确释为蓝色气压邮件；与本篇pneumatique所指邮件相合。同步修正原注把它坐实为电报的说明。"
+  }
+]

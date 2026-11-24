@@ -1,0 +1,56 @@
+{
+  "id": 303,
+  "assessment": "本段两句已逐句并按长句意群核对。河流由园中近乎静止的水面重新成为流动河水、叙述者反复见到划船人并向往日后仿效的关系，以及随船漂流、仰望天空和幸福安宁的神态，均已保留。主要问题是将身体姿态的‘la tête en bas’落实成‘头朝下游’，原文没有下游方向这一信息，应改回头部低垂的姿态；同时将略显僵硬的‘直挺挺’还原为平躺。首句‘又成了流水’中文搭配生硬，结合前段水流放缓的语境调整为水流重新加快。",
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "维沃纳河又成了流水",
+      "after": "维沃纳河的水又流得快了",
+      "source": "la Vivonne redevient courante",
+      "reason": "courante说明河水重新流动的状态，与前段水流变慢、形成小水塘的描写衔接；‘河又成了流水’将河与流水作生硬的身份转换，改为陈述水流状态更符合中文。"
+    },
+    {
+      "type": "错译",
+      "before": "直挺挺仰面躺在船底，头朝下游",
+      "after": "仰面平躺在船底，头低垂着",
+      "source": "s'était couché à plat sur le dos, la tête en bas, au fond de sa barque",
+      "reason": "à plat sur le dos是仰面平躺，未表达身体僵直；la tête en bas描述头朝下、低垂的姿态，不是头朝河流下游。原译无依据地增加了河流方向，须改正。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Au sortir de ce parc, la Vivonne redevient courante.",
+      "translation_anchor": "出了这座园林，维沃纳河又成了流水。",
+      "finding": "Au sortir de ce parc是离开这座园林的空间转折，‘出了这座园林’对应妥当；redevient强调重新恢复，courante承接上段河水放缓、形成睡莲池塘后的流动状态。‘又成了流水’保留了重新流动的意思，但主语为河，搭配生硬，改成‘维沃纳河的水又流得快了’，让状态变化落到河水上。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Que de fois j'ai vu, j'ai désiré imiter quand je serais libre de vivre à ma guise, un rameur",
+      "translation_anchor": "多少次，我看见一个划船人……又多少次，我心里盼望，等到能随心所欲过活的那天，也要学他的样。",
+      "finding": "Que de fois同时统摄见到划船人与希望效仿两层经验；原译将后者移到分号后，以‘又多少次’呼应前句，仍保留反复见到并向往的关系。quand je serais libre de vivre à ma guise是相对于当时的将来，修饰希望仿效的时机；‘等到能随心所欲过活的那天’准确保留条件与未来指向，‘他的样’也清楚回指划船人，无须调整。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "qui, ayant lâché l'aviron, s'était couché à plat sur le dos, la tête en bas, au fond de sa barque",
+      "translation_anchor": "一个划船人松开船桨，直挺挺仰面躺在船底，头朝下游",
+      "finding": "ayant lâché l'aviron先于躺下，译文按‘松开船桨’再‘躺在船底’的顺序表达，动作关系完整；au fond de sa barque对应‘船底’，sur le dos对应仰面。à plat仅说明平躺，‘直挺挺’增添僵直感；la tête en bas说明头部朝下的姿态，不能据此确定头朝下游。合并修正为‘仰面平躺在船底，头低垂着’，去除没有法语依据的方向。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "et la laissant flotter à la dérive, ne pouvant voir que le ciel qui filait lentement au-dessus de lui",
+      "translation_anchor": "任小船随波逐流，只能望见头顶缓缓掠过的天空",
+      "finding": "la回指小船，译为‘任小船随波逐流’既明确代词所指，也保留不操桨、任其漂移的状态。ne…que限定视野只能见到天空，‘只能望见’完整保留限制；qui filait的主语是天空，是漂流者视角下天空相对移动的观感，‘头顶缓缓掠过的天空’保留其动态与lentement的缓慢，无须改成船的直接运动。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "portait sur son visage l'avant-goût du bonheur et de la paix.",
+      "translation_anchor": "脸上带着提前尝到的幸福与安宁",
+      "finding": "portait的主语仍是划船人，前面的放桨、平躺、漂流、望天均为附属于他的动作或状态；‘脸上带着’衔接清楚。l'avant-goût将幸福与安宁写作预先尝到的滋味，原译‘提前尝到的幸福与安宁’虽未再补‘滋味’，仍保留预尝这一比喻和两项感受，不构成值得修订的漏译。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p303"
+  }
+}

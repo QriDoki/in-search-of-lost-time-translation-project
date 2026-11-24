@@ -1,0 +1,92 @@
+{
+  "id": 253,
+  "assessment": "本段六句已按句子及长句主要意群逐一核对。译文完整保留了爱情因女孩也须服从他人而稍减、旋即因自尊受损而反弹，以及爱慕转化为伤害对方的愿望这一心理次序；末句由名字的魅力扩展到亲属、职业和居住街区的结构亦保留。两处值得修订：没有回嘴被增译为不敢回嘴，给原文未明说的心理原因作了限定；希尔贝特的祖父母被误定为外祖父母，此处所指为叙述者外祖父母认识的斯万父母，属希尔贝特的父系祖辈。其余修辞和长句结构可保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "她却不敢回嘴",
+      "after": "她却没有回嘴",
+      "source": "sans qu'elle répliquât",
+      "reason": "原文只陈述希尔贝特没有反驳，并未说明她是因害怕而不敢；下文由此看出她须服从母亲，也不等于直接交代其内心动机。改为事实性表述。"
+    },
+    {
+      "type": "错译",
+      "before": "她的外祖父母——我的外祖父母曾有幸与他们相识",
+      "after": "她的祖父母——我的外祖父母曾有幸与他们相识",
+      "source": "ses grands-parents que les miens avaient eu l’ineffable bonheur de connaître",
+      "reason": "这里由斯万与叙述者家族的旧交关系指向斯万的父母，即希尔贝特的祖父母；不能把法语不标父系母系的grands-parents径译为她的外祖父母。les miens所指叙述者的外祖父母则无须改动。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Un instant (tandis que nous nous éloignions et que mon grand-père murmurait",
+      "translation_anchor": "有那么一瞬间（我们正越走越远，外祖父低声嘀咕",
+      "finding": "Un instant限定后面痛苦稍息的短暂时段，tandis que交代同时发生的离去和外祖父低语；译文用括号保留插入叙述，时间层次及外祖父作为说话者的指代清楚。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Ce pauvre Swann, quel rôle ils lui font jouer : on le fait partir pour qu’elle reste seule avec son Charlus, car c’est lui, je l’ai reconnu ! Et cette petite, mêlée à toute cette infamie !",
+      "translation_anchor": "可怜的斯万，他们让他扮演的是什么角色：把他支开，好让她独自跟她的那位夏吕斯待在一起，因为就是他，我认出来了！还有这个小丫头，竟也搅进了这一整套丑事里！",
+      "finding": "两次使役表达分别译作让他扮演、把他支开，保留外祖父认为斯万遭人摆布的判断。pour que的目的明确译为好让；她指斯万夫人、他指夏吕斯，继以我认出来了说明认人的依据。末尾是外祖父对小女孩也卷入丑事的感叹，译文保留其主观谴责语气，不构成叙述者确认奸情。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "l’impression laissée en moi par le ton despotique avec lequel la mère de Gilberte lui avait parlé sans qu’elle répliquât",
+      "translation_anchor": "希尔贝特的母亲用那样专横的口吻对她说话、她却不敢回嘴，这在我心中留下的印象",
+      "finding": "ton despotique译专横的口吻，正确保留母亲命令的强制性；但sans qu’elle répliquât只表示她没有回嘴，译成不敢回嘴额外断定她因畏惧而沉默，须改为没有回嘴。这里印象为主语，指整件事给叙述者造成的观感。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "en me la montrant comme forcée d’obéir à quelqu’un, comme n’étant pas supérieure à tout, calma un peu ma souffrance, me rendit quelque espoir et diminua mon amour",
+      "translation_anchor": "它让我看到，原来她也得服从某个人，并非高踞于一切之上——稍稍平复了我的痛苦，让我重新生出几分希望，也让我的爱情减退了几分",
+      "finding": "la与两个comme均指希尔贝特：她也受人约束，并非凌驾一切。译文用破折号插入这一原因，再列痛苦稍减、恢复一点希望、爱情减退三个结果，保留希望增长而爱情反减的反常心理，并准确传达un peu和quelque的有限程度。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Mais bien vite cet amour s’éleva de nouveau en moi comme une réaction par quoi mon cœur humilié voulait se mettre de niveau avec Gilberte ou l’abaisser jusqu’à lui",
+      "translation_anchor": "但很快，这份爱又像一种反弹似的在我心里重新高涨：我那颗受了屈辱的心，想借此把自己抬到与希尔贝特平齐，或者把她拉低到与我齐平",
+      "finding": "Mais bien vite和de nouveau构成与上一句暂时减退的迅速逆转，译文都有落实。反弹保留réaction的回应意味；par quoi译借此，准确连接爱情增强与受辱自尊的自救。两条并列途径一为抬高自己、一为贬低女孩；jusqu’à lui的lui回指心，中文与我齐平将心的人格化自然转回叙述者，没有颠倒方向。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Je l’aimais, je regrettais de ne pas avoir eu le temps et l’inspiration de l’offenser, de lui faire mal, et de la forcer à se souvenir de moi",
+      "translation_anchor": "我爱她，却又懊恼自己当时既没时间、也没灵感去冒犯她、刺痛她，逼她把我记住",
+      "finding": "原文并置爱与遗憾，译文以却又显出相互冲突的心理，符合紧接上一句的逻辑。未曾具备时间和临场灵感用当时既没时间、也没灵感表达；冒犯、使她受伤、强迫她记住我三项递进齐全，未把回忆自己错写为回应自己的爱。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Je la trouvais si belle que j’aurais voulu pouvoir revenir sur mes pas, pour lui crier en haussant les épaules : « Comme je vous trouve laide, grotesque, comme vous me répugnez ! »",
+      "translation_anchor": "我觉得她实在太美，美得我恨不得转身回去，耸着肩膀冲她大喊：“您在我眼里是那么丑陋、那么滑稽，您真叫我恶心！”",
+      "finding": "si belle que的程度结果关系译为太美、美得，保留因为美而想说丑的反语冲动。j’aurais voulu pouvoir是未实现的愿望，恨不得表达这一点，并未写成真的返回辱骂。耸肩动作和三个侮辱性评价均保留；grotesque在此用滑稽可体现带贬意的可笑。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Cependant je m’éloignais, emportant pour toujours, comme premier type d’un bonheur inaccessible aux enfants de mon espèce de par des lois naturelles impossibles à transgresser, l’image",
+      "translation_anchor": "然而我还是一步步走远，从此永远带走了一个形象——对我这种孩子来说，依照不可违抗的自然法则，幸福可望而不可即，而这形象正是那种幸福的最初样本",
+      "finding": "Cependant将想回头辱骂与实际上继续远离对照，中文然而和还是明确这一关系。pour toujours落在永远带走的形象上；译文重排长定语，仍把premier type落实为最初样本，把不可接近的幸福限定于我这种孩子，并保留自然法则无法逾越的绝对化儿童想象。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "d’une petite fille rousse, à la peau semée de taches roses, qui tenait une bêche et qui riait en laissant filer sur moi de longs regards sournois et inexpressifs",
+      "translation_anchor": "一个红头发的小姑娘，皮肤上洒满粉红的斑点，手拿一把铁锹，笑吟吟地朝我溜来一道道狡黠而毫无表情的目光",
+      "finding": "此意群具体描画被永久带走的形象，红发、粉红斑点、手持铁锹以及笑着投来目光均有对应。sournois与inexpressifs形成难以读懂的双重眼神，狡黠而毫无表情保留这一并置，不必消解为单一态度。溜来的拟人说法对应laissant filer的流动意象；一道道偏重反复而未突出longs的绵长，但在现有目光动态描写中不构成需单独重写的实质误解。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "Et déjà le charme dont son nom avait encensé cette place sous les épines roses où il avait été entendu ensemble par elle et par moi, allait gagner, enduire, embaumer tout ce qui l’approchait",
+      "translation_anchor": "在粉色山楂花下的那个地方，她的名字曾被她和我一起听见，那名字散出的芬芳熏香了那个地方；如今这魅力就要蔓延开去，涂抹、熏香一切与她沾边的事物",
+      "finding": "il回指名字，elle与moi分别是希尔贝特和叙述者，译文把共同听见名字的地点关系交代清楚。encensé、enduire、embaumer以香气、涂抹的隐喻说明名字魅力的扩展，中文保留整套感官修辞。allait表示从当时看即将扩散，如今就要表达该叙事视点；déjà的早已开始意味由前半句已经熏香地方和后半句即将扩展衔接体现。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "ses grands-parents que les miens avaient eu l’ineffable bonheur de connaître, la sublime profession d’agent de change, le douloureux quartier des Champs-Élysées qu’elle habitait à Paris",
+      "translation_anchor": "她的外祖父母——我的外祖父母曾有幸与他们相识，那份幸福难以言表；证券经纪人这份崇高的职业；还有她在巴黎居住的香榭丽舍，那个令人心碎的街区",
+      "finding": "三个宾语依次为亲属、职业、住处，均属于爱情使之染上特殊光彩或痛苦的关联事物；崇高与令人心碎保留叙述者的主观情绪。ineffable bonheur正确落在我的外祖父母有幸认识对方这件事上。但她的外祖父母把亲属关系定错：该家族旧交指斯万的父母，应改她的祖父母。agent de change作为职业译证券经纪人可保留；Champs-Élysées的quartier仍明译为街区，未误缩为一条道路。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p253"
+  }
+}

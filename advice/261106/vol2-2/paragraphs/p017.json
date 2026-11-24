@@ -1,0 +1,18 @@
+{
+  "id": 17,
+  "assessment": "本段是一整句，已按内部分层逐项检查：渴望每日相见、外祖母未归引出的自私假设、爱情排斥其他亲情的悖论、见面时并不幸福，以及执拗审视仍找不到快乐的因果关系均已保留。未发现须修订的明确问题；保留现译。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "moi qui ne pensais plus qu’à ne jamais rester un jour sans voir Gilberte ... pourtant ces moments ... n’étaient nullement des moments heureux ... une attention méticuleuse, acharnée ... pas un atome de plaisir",
+      "translation_anchor": "满脑子只想着一天也不能不见希尔贝特；要是她被马车轧了；人一旦爱上谁，就不再爱任何人了；却根本不是幸福的时刻；从中找不到丝毫快乐",
+      "finding": "（1）开头ne pensais plus qu’à限制全部心思，ne jamais rester un jour sans voir要求一天也不能缺席；现译“满脑子只想着一天也不能不见”虽保留双重否定，但中文意思清楚，没有误成不愿见她。（2）外祖母晚饭时未归是既有情境，被车轧则是si引出的假设；现译“有一次……还没回家”“要是……我就有一阵子不能去”区分了事实与假设，未断言真的发生车祸。叙述者首先想到失去见面机会，原文冷酷的心理侧面完整保留；voiture依时代译成马车，与本章语境相符。（3）on n’aime plus personne dès qu’on aime有意用同一个aimer构成尖刻悖论，现译“一旦爱上谁，就不再爱任何人”保留了修辞；上下文已表明后一层指爱情使人不顾其他亲人，不必为消除表面矛盾擅改原句。（4）pourtant统领与渴望相反的实际经验；现译“然而……却根本不是幸福的时刻”保留转折，三个关系分句依次传达自前一天开始的等候、忐忑和愿为之牺牲一切。“从昨天起”采用回忆中当时的视点，可理解为所述见面日的前一天，并未改变时间先后。（5）结尾car说明为何如此确信不幸福：正因为这些时刻是唯一受到细密而执拗审视的时刻，仍发现不了一点快乐。现译“这一点我再清楚不过”后以冒号说明依据，meticuleuse与acharnée对应“细致”“执拗”，pas un atome对应“丝毫”；elle指attention，译文改由“我……仔细审视”承担观察动作，主语转换自然，未丢失原义。"
+    }
+  ],
+  "changes": [],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p017"
+  }
+}

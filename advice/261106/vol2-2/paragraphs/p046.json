@@ -1,0 +1,18 @@
+{
+  "id": 46,
+  "assessment": "本段只有一句劝说性质的推测。译文准确交代了斯万可能因对方不再邀请他而心生不满，保留了“可能”的试探语气及“不再”的前后变化；中文先说缘由、后说后果，自然清楚，无须修改。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Il pourrait t'en vouloir de ne plus l'inviter.",
+      "translation_anchor": "你不再请他到家里来，他可能会怪你。",
+      "finding": "Il与l’均指邻段谈及的斯万，t’指与叙述者对话的女性，译为“他”“你”对应无误。pourrait为条件式，表达叙述者提出的一种可能性，并非断定斯万已生怨，译文“可能会”保留这一语气。en vouloir à quelqu’un de…表示因某事怨怪某人，其中de ne plus l’inviter说明怨怪的原因；“不再”准确保留ne plus所含的从前邀请、如今停止的变化。“怪你”符合对话口吻，虽比“怨恨”轻，却未损失此处责怪、不满之意。“到家里来”将此处社交邀请的语境明说，与下一段以互相邀请和不认识其妻作答相合，不构成需要删除的实质增译。原文先说可能怨怪、后说明缘由，中文调为先因后果，逻辑关系完整。"
+    }
+  ],
+  "changes": [],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p046"
+  }
+}

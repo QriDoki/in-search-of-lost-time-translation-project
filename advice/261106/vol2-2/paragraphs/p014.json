@@ -1,0 +1,118 @@
+{
+  "id": 14,
+  "assessment": "14个原文句子／意群已逐项核对。封冻河流、雪地雕像、蓝羽饰与滑冰姿态的场景和人物反应基本完整，保留其夸张与拟人。建议将雕像手边恢复为手里，避免将老妇自称旧时代的人坐实为出生于旧制度时期，并修正最后一个悬置条件句的生硬中文。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Françoise avait trop froid pour rester immobile ... comme d’une immense baleine échouée, sans défense, et qu’on allait dépecer",
+      "translation_anchor": "弗朗索瓦丝冷得受不住，没法待着不动；仿佛河流是一头搁浅的巨鲸，毫无招架之力，眼看就要被肢解",
+      "finding": "trop…pour表示冷得无法静坐，现译把去协和桥看冰封塞纳河的动机交代清楚。dont指河，连孩子也敢走近的比较关系正确；把封冻河流比作搁浅待剖的巨鲸并非实际屠鲸，现译“仿佛”保留了比喻和无防备的状态。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "je languissais de douleur ... la statue avait à la main un jet de glace ajouté qui semblait l’explication de son geste",
+      "translation_anchor": "在停转的旋转木马与白茫茫的草坪之间苦苦消磨时间；草坪上的雕像手边新结的一道冰柱，像给它的姿势配上了注脚",
+      "finding": "木马停转、扫雪后小径构成黑网、白草坪在网内的空间关系都保留；languissais的痛苦等待也得到表达。末尾à la main是雕像手里新添一段冰，恰好像它手势所指的物件，现译“手边”把持物式视觉关系弱化成邻近关系，宜改为“手里多了一道冰柱”；“配上注脚”可保留解释手势的拟人。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "La vieille dame elle-même, ayant plié ses Débats, demanda l’heure ... Comme vous êtes aimable !",
+      "translation_anchor": "老太太自己也合上她的《辩论报》，向一个路过的保姆问了时间，谢她时说：“您真是太客气了！”",
+      "finding": "老太太也因冷准备离开，先收报、再问过路保姆时间的顺序正确。aimable本是称赞对方好心，中文“太客气了”作为谢意套语虽不逐字，仍能传达她过分殷勤的社交口吻，未形成须改的意思偏差。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "priant le cantonnier de dire à ses petits enfants de revenir, qu’elle avait froid ... Vous serez mille fois bon.",
+      "translation_anchor": "请养路工去叫她的孙儿们回来，说自己冷了；您真是太好了，叫我怎么谢您才好",
+      "finding": "孙儿属于老妇，que/elle表达老妇自己冷，现译没有把寒冷主体错接成养路工或孩子。Vous serez…是请托中的预先感谢，现译“您真是太好了，叫我怎么谢您才好”扩展为中文礼貌套语，尚可保留其夸张态度，未增加事件。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Vous savez que je suis confuse !",
+      "translation_anchor": "您知道，我实在过意不去！",
+      "finding": "confuse在此不是思维混乱，而是因劳烦别人而不好意思，译“过意不去”准确；“您知道”保留老妇絮叨的礼貌套语。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Tout à coup l’air se déchira ... comme un signe fabuleux, le plumet bleu de Mademoiselle",
+      "translation_anchor": "忽然，空气裂开了；在木偶戏棚和马戏棚之间；像一道神话般的征兆：家庭女教师帽上的蓝色羽饰",
+      "finding": "空气与天空骤然裂开的主观幻觉，承接等待中忽见希望；译文没有改成真实天气变化。guignol、cirque的位置与Mademoiselle即女教师的指代均清楚，“帽上”由羽饰语境自然补明，保留。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Gilberte courait ... animée par le froid, le retard et le désir du jeu ... soit ... soit ... ou par affectation ... comme si elle avait voulu m’y recevoir",
+      "translation_anchor": "希尔贝特已经在全速朝我跑来；寒意、迟到和迫不及待想玩耍的兴奋；也许是为了稳住重心，也许是觉得这样更优美，要么就是故意摆出滑冰人的姿态；仿佛要把我接进怀里",
+      "finding": "毛皮方帽下红润发亮的面孔，以及寒冷、迟来、想游戏三重激发均已译出。她临近时滑行并大张双臂，叙述者列举三种可能原因而不认定她在示爱；现译的三重“也许／要么”及“仿佛”准确保留猜测层次和最后的怀抱想象，长句虽长仍有清楚分号层级。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Brava !",
+      "translation_anchor": "妙极了！",
+      "finding": "第一次喝彩译作“妙极了”与上文滑行表演相配，意大利式喝彩由既有注释说明；不必把Brava重复音译。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Brava !",
+      "translation_anchor": "妙极了！妙极了！中的第二次喝彩",
+      "finding": "第二次原样重复，现译也重复，保留老太太兴奋夸张的节奏，不删并。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "je dirais comme vous que c’est chic, que c’est crâne, si je n’étais pas d’un autre temps, du temps de l’ancien régime ... au nom des Champs-Élysées silencieux",
+      "translation_anchor": "要不是我生在旧制度那个时代，我也会像你们年轻人一样说：真够时髦、真有胆气；替寂静的香榭丽舍出面",
+      "finding": "chic与crâne译成时髦与有胆气，既能反映年轻人口吻，又与老妇自称老派构成反差；代表寂静花园感谢她不畏天气而来，也保留了拟人。être d’un autre temps是归属于旧时代的自我定位，不直接说出生时间；“我生在”把她的故作古老坐实为出生事实，也与现有注释谨慎说明冲突，建议改为“我属于”。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "fidèle quand même à nos vieux Champs-Élysées ; nous sommes deux intrépides",
+      "translation_anchor": "对咱们这片老香榭丽舍忠贞不渝；咱们两个都是天不怕地不怕的人",
+      "finding": "quand même承接恶劣天气中的坚持，“忠贞不渝”传达不改习惯；“天不怕地不怕”是intrépides的中文夸张，符合老太太把二人并列为勇者的自我抬举，保留。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "Si je vous disais que je les aime, même ainsi.",
+      "translation_anchor": "要是我告诉您，就连它们现在这个样子我也喜欢呢。",
+      "finding": "原文是悬置条件式，带有“我若告诉您，您会意外吧”的口气，不在等待一项真正条件。汉语照译成“要是……呢”缺少落点，且“它们”机械沿用Champs-Élysées的法语复数；建议改为“您信不信，就连眼下这个样子的香榭丽舍，我也喜欢”，使惊讶语气与所指清楚。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "Cette neige, vous allez rire de moi, ça me fait penser à de l’hermine !",
+      "translation_anchor": "这雪，您可要笑话我了，它让我想起白鼬皮！",
+      "finding": "vous allez rire作为插话预先承认联想可笑，现译的位置和语气对应；雪让老妇联想到名贵白鼬皮，承接她的贵族化姿态，既有注释已解释，不另增文化断言。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "Et la vieille dame se mit à rire.",
+      "translation_anchor": "老太太笑了起来。",
+      "finding": "se mit à表示接着开始发笑，主语始终为老妇；译文与上一句预言别人会笑形成自嘲／自得的收束，动作和顺序正确。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "草坪上的雕像手边新结的一道冰柱",
+      "after": "草坪上的雕像手里多了一道冰柱",
+      "source": "la statue avait à la main un jet de glace ajouté qui semblait l’explication de son geste",
+      "reason": "à la main是手里持有的位置，冰柱仿佛解释雕像伸手的姿态；“手边”仅指旁边，削弱了此处明确的视觉关系。"
+    },
+    {
+      "type": "错译",
+      "before": "要不是我生在",
+      "after": "要不是我属于",
+      "source": "si je n’étais pas d’un autre temps, du temps de l’ancien régime",
+      "reason": "être d’un temps是自称属于某个时代，不必指实际出生于该时代；“生在”增加具体出生事实，也与现有注释“不据此判定出生于大革命前”的说明冲突。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "要是我告诉您，就连它们现在这个样子我也喜欢呢。",
+      "after": "您信不信，就连眼下这个样子的香榭丽舍，我也喜欢。",
+      "source": "Si je vous disais que je les aime, même ainsi.",
+      "reason": "原文悬置条件式含有向听者透露意外偏好的口气；直译“要是……呢”在中文缺少落点，“它们”也机械照搬专名的法语复数。改为完整口语句，保留意外语气并明确所指。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p014"
+  }
+}

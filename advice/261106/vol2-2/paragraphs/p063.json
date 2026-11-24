@@ -1,0 +1,373 @@
+{
+  "id": 63,
+  "assessment": "本段的秋林光影、树木与女性“嫁接”的拟喻及失去信仰后的恋旧心理总体保留，长句多数关系清楚。但有若干实质性偏移：树叶如开花的主语不明、树种数量与植株数量混淆、整树材质被限缩为叶子、用途与树木生命的无关关系被削弱，以及低帽误作小帽。中后段另有树精同位关系、季节力量比较、重复小庙短语、车身高耸及汽车取代马车的增译；末尾应保留“存在”而不只“真实感”，并区分确定的掩盖作用与其后两个“仿佛”的假设。逐项提出21处互不重叠替换，保留注释本体。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "un seul, petit, trapu, étêté et têtu",
+      "translation_anchor": "唯独一棵矮壮、⊂被截了顶却仍不肯屈服⊃",
+      "finding": "覆盖绿叶的众树与唯一红叶树形成对照；petit、trapu分别是矮小、粗壮，译作“矮壮”兼顾两者。étêté是截去树顶，têtu的固执通过“不肯屈服”保留拟人口吻，近音关系已由原注说明。“丑陋的红发”对应vilaine chevelure rouge，风中抖动也准确，保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "le premier éveil de ce mois de mai des feuilles, et celles d’un empelopsis",
+      "translation_anchor": "而在别处，别的地方却又仿佛五月初，树叶刚从睡梦中醒来",
+      "finding": "Ailleurs encore开启另一处景象，现译“在别处，别的地方”重叠。mai des feuilles把秋叶的鲜艳拟为叶子的五月，并非突然转到实际五月，宜明确这一比喻。celles承接feuilles，后半句真正“开花”的主语是叶子；现译把蛇葡萄整株写成今晨突然开花，丢了叶色如花的转换。depuis le matin même是从当天早晨起已经如此，不必增添“突然”。merveilleux et souriant及冬日粉红山楂的比喻可保留；植物具体物种不据本句定论。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "soit dans un intérêt botanique, soit pour la préparation d’une fête ... deux ou trois espèces précieuses",
+      "translation_anchor": "仿佛为了植物实验或节日布景……栽下两三株珍奇品种，叶形奇幻",
+      "finding": "临时、人工的苗圃/园林外观及普通树木尚未移走，都有对应。intérêt botanique泛指植物学方面的需要，不能限定为做实验。espèces是种类，不是植株数量，故“两三株珍奇品种”应为“两三种珍奇树木”。feuillages fantastiques描述整体叶丛的奇幻观感，不只叶形，宜还原为叶丛。末尾三项留空、通气、增光，现译都有传达，并保留seem的拟人和主观视觉。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "trahit le plus d’essences diverses et juxtapose le plus de parties distinctes",
+      "translation_anchor": "显出最多不同树种的时节……显得最驳杂的时节",
+      "finding": "trahit在这里是暴露、显现，非背叛；essences指树种，现译正确。两个le plus分别加强树种繁多及可分辨部分的并置，“最多”及后半的“最驳杂”保存了季节差异的极值。assemblage composite的复合、杂陈也已表达，保留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Et c’était aussi l’heure.",
+      "translation_anchor": "而这不仅关乎季节，也关乎时辰。",
+      "finding": "l’heure与上句la saison平行，意为一天中此刻的光线同样有助于这种分化。“不仅关乎季节，也关乎时辰”虽展开短句，却准确补明承接关系，没有另加因果，保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "une altération de leur matière ... le candélabre incombustible et terne de son faîte incendié",
+      "translation_anchor": "哪里的叶子质地就发生了变化……而树顶的叶子仿佛燃起火焰，树干却仍像一座暗淡而不会燃烧的烛台",
+      "finding": "ils及leur matière均指树木，现译缩成“叶子质地”，漏去整株树仿佛材质改变的视觉效果。阳光早晨近乎水平，数小时后暮色初起又恢复这一角度；“暮色将至”把已经开始误作尚未开始，也漏了数小时。随后灯亮、从远处投下人工而温暖的反光、最上层叶子燃烧，是连续三动作。原译重复两遍树梢叶燃烧，末尾又把作为烛台的整树缩作树干。建议整体理顺，保留光、火、树为不燃烛台承托燃烧树冠的比喻。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "épaississait comme des briques ... les détachait de lui, vers qui elles crispaient leurs doigts d’or",
+      "translation_anchor": "阳光将栗树叶映得厚如砖块……叶片像蜷起金色手指般向天空伸去",
+      "finding": "elle承阳光，les承栗树叶，lui及qui承天空。前半把叶片变厚并粗砌在天空上，后半却将它们从天空背景分离，现译准确保留相反效果。“带蓝色花纹的黄色波斯砖墙”落实颜色、纹样及砌筑质感；“蜷起金色手指”也保住crispaient的收紧、抓挠姿态，保留。注中砖的工艺不另据正文扩断。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "elle greffait et faisait épanouir ... un immense bouquet comme de fleurs rouges",
+      "translation_anchor": "阳光仿佛嫁接出一大束花，使它迎光盛开……也许是石竹的一种",
+      "finding": "阳光是嫁接及使开花的施事，树的半腰是位置，vigne vierge为披覆树身的藤蔓，现译主从与空间关系清楚。bouquet comme de fleurs rouges是红花般的巨大花束，非客观确认真花；后文“辨不真切”“像是”“也许”共同保持眩光中的不确定性。œillet不强定现代细分品种，现译可保留。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "mieux confondues l’été dans l’épaisseur et la monotonie des verdures, se trouvaient dégagées",
+      "translation_anchor": "夏天时在绿荫的浓密与单调中混同得更彻底，此刻却各自分明了",
+      "finding": "比较的是夏季浓密、单调的绿色使各区更难分，与此刻各区显露；dégagées指视觉上被分离、显现，非树木被砍空。现译“混同得更彻底/各自分明”准确保留时令对比，保留。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "l’entrée de presque toutes ... la désignait comme une oriflamme",
+      "translation_anchor": "几乎每一处的入口……像旗帜一样，标示出某处景致的入口",
+      "finding": "toutes指上句树林的各部分，la指入口；疏朗空处让人看见入口，或由华美叶丛如旗帜标出入口，是两种识别方式。现译的“某处景致”承接各区而无指代错置，oriflamme概括为旗帜足够，保留。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "comme sur une carte en couleur, Armenonville ... les bords du Lac",
+      "translation_anchor": "仿佛面前摊开一张彩色地图",
+      "finding": "本句把不同地点清楚显现的效果比作彩色地图，现译把比喻后置，仍修饰整列地名。五个并列项中最后一项才是大湖岸边；“的岸边”虽位于地名注后，语义仍可仅属最后的大湖。正文地名逐一对应，保留；不据本句另考地点历史。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "un moulin à qui les arbres en s’écartant faisaient place ou qu’une pelouse portait en avant",
+      "translation_anchor": "给那些无用的小建筑让出位置；另一些则被柔软如平台的草坪托举在前",
+      "finding": "偶尔显现的建筑、假岩洞、风车及草坪的柔软平台形象均已译出。à qui与qu’为平行关系，主要承风车，也可随整幅建筑景观理解；是同一对象或获树木让位，或由草坪托举，并无“这些/另一些”的分组。现译擅分两批并增复数，应改回“为它……或者……将它”。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "une destination étrangère à la vie de ses arbres ... mais par un désir",
+      "translation_anchor": "另有一种用途，并非仅仅供树木自由生长……还出于一种欲望",
+      "finding": "n’était pas qu’un bois与下半“不只赞叹秋天，还出于欲望”是平行揭示。étrangère à la vie说树林的用途与树木自身的生命无关；现译“并非仅仅供树木自由生长”弱化为兼有另一用途，并额外赋予“自由生长”这一功能，应明确无关关系。兴奋由秋色转向内在欲望的因果，现译其余部分准确。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "sans comprendre que rien au dehors ne la motive",
+      "translation_anchor": "也不明白外物其实并不足以引发这份欢欣",
+      "finding": "Grande source为承上“欲望”的名词性追述，译文补主语合理；先感到欢欣而不认识其原因，两个sans都已表达。但rien au dehors是否定任何外在动因，不是说外物不足以独力引发、仍可能部分促成；须将“不足以”改为并非任何外物引起，保留内在欲望才是源头的判断。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "ce chef-d’œuvre des belles promeneuses qu’ils enferment chaque jour pendant quelques heures",
+      "translation_anchor": "每天总有几个小时被树林收藏在枝叶间的那件杰作——每天在树林里出现片刻的那些美丽女人",
+      "finding": "未获满足的柔情越过树木、不知不觉转向美丽游人的意向，现译清楚。chef-d’œuvre用单数把美丽女子形成的景象整体当作杰作，宜保留其艺术化表达，不强断为某一个人。但promeneuses的散步身份漏了，且新增“每天出现片刻”与前面几个小时重复而量度不一；去掉增译，明确“美丽的散步女子”。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "J’allais vers l’allée des Acacias.",
+      "translation_anchor": "我朝金合欢道走去。",
+      "finding": "vers表趋向，非已抵达；未完成时与随后穿行林间相连，现译“朝……走去”准确。道路名沿用全文既定译法，本句不据acacias的植物分类另换专名，保留。"
+    },
+    {
+      "unit": 17,
+      "source_anchor": "émondait les arbres, mariait ensemble les tiges diverses et composait des bouquets",
+      "translation_anchor": "晨光仿佛修枝整形，把原本分开的树干配作一束花",
+      "finding": "关系从句“给树木划出新的分界”说明光线重新分组，不是园艺人员实际修剪，现译拟人正确。主句有修剪、把不同枝干配合、组成花束三层；“配作一束花”把中后两动作合并，且把复数bouquets缩成一束。宜译作把不同枝干配在一起、组成一束束花，保留光如花匠的连续动作。"
+    },
+    {
+      "unit": 18,
+      "source_anchor": "du ciseau puissant du rayon et de l’ombre ... soit un seul pilier d’ombre ... soit un seul fantôme de clarté",
+      "translation_anchor": "光与影这两把锋利的剪刀……一个孤零零的光影幽灵",
+      "finding": "先将两棵树吸来，再从各树干与枝条中去掉一半，将剩余两半编织成一形象，现译动作、数量及配合关系完整。ciseau是单数工具，du rayon et de l’ombre说由光束与阴影协作构成的剪刀，不是两把剪刀；puissant重在有力。两个soit为暗柱与明亮幻影两种相反产物，四周阳光框定前者、黑影网圈住后者，现译对应正确。但un seul强调合成为一，并无孤独感，“孤零零”应删；clarté应为光本身，避免“光影”模糊与暗柱的对照。标注的人工、颤动轮廓及注释原样保留。"
+    },
+    {
+      "unit": 19,
+      "source_anchor": "trempées d’une humidité étincelante, émerger seules de l’atmosphère liquide et couleur d’émeraude",
+      "translation_anchor": "浸着闪烁的湿气，独自从祖母绿色的、仿佛液态的空气里浮出来",
+      "finding": "elles承最高枝条，seules是只有这些顶枝似乎浮出，并非全林浮出；现译主语沿用正确。“浸着闪烁的湿气”与液态、祖母绿色大气共同展开海底比喻；整林仍没入其中，只有受光顶枝显出，三层空间关系和如同海底的非实写语气都在，保留。"
+    },
+    {
+      "unit": 20,
+      "source_anchor": "leur vie propre ... elle brillait mieux ... fourreau de velours vert ... sphères de gui",
+      "translation_anchor": "树木毕竟有自己的生命；叶落之后，这种生命反而更清楚地显露",
+      "finding": "elle指树木自己的生命，不是阳光；现译明确复现“这种生命”，避免歧义。落叶反而使生命更显著，依次落在树干绿绒套及白杨顶槲寄生球的白釉光泽上，现译两处完整。rondes的太阳、月亮比喻指球形，译文亦明确，不误接树干。米开朗琪罗作品的专名沿用原注；本句不据实际植物外观改原文“白釉”的描写，保留。"
+    },
+    {
+      "unit": 21,
+      "source_anchor": "la dryade, la belle mondaine rapide et colorée ... comme eux la puissance de la saison",
+      "translation_anchor": "对⊂树精⊃的想象：她像个活泼、鲜艳、来去匆匆的社交界美人",
+      "finding": "多年“嫁接”使树木被迫与女子共同生活，现译保住反常拟人。dryade后的la belle mondaine是同位说明：树精就是那个艳丽而轻快的社交美人；译成“她像个”又多设一层比喻，“活泼”亦无独立对应。更重要的是树木使女子像它们一样感受季节的力量，而非只是“仿佛”感受季节更迭；应恢复确切施事、相同比较及puissance。后半追忆信仰尚存的幸福青春，以未来于过去时展望女性优雅杰作的短暂实现；“会……短暂地呈现”准确，枝叶无意识却像同谋的悖论也保留。"
+    },
+    {
+      "unit": 22,
+      "source_anchor": "n’était pas fixée en dehors de moi ... un petit temple à l’amour",
+      "translation_anchor": "也没有固定在一座供奉爱神的小庙里⊂供奉爱神的小庙⊃",
+      "finding": "主语是松树与金合欢唤起欲望的美；plus troublants回指这些树，比较特里亚农栗树、丁香更扰人，插入语现译准确。否定统摄身外的历史记忆、艺术品及爱神小庙三个承载处，不是分别否定那些事物存在。金色掌状叶堆在小庙脚下，修饰关系也正确。正文“小庙”因注释锚重复出现一次，必须合并并保留既有注释标记与内容。该注另断言绝非确切景点，本句不足支持，另记待核。"
+    },
+    {
+      "unit": 23,
+      "source_anchor": "Je rejoignis les bords du Lac, j’allai jusqu’au Tir aux pigeons.",
+      "translation_anchor": "我走到大湖岸边，一直走到射鸽场。",
+      "finding": "先到湖岸，再继续直到射鸽场，两个简单过去时推动行程，现译次序与终点正确。Tir aux pigeons作为地点而非开枪动作处理，符合句法，保留。"
+    },
+    {
+      "unit": 24,
+      "source_anchor": "à la hauteur d’une victoria, à la maigreur de ces chevaux ... aussi ardent que celui ... leurs ailes d’acier",
+      "translation_anchor": "那高耸的车身……一如许多年前在同一些路上推动我的那一个",
+      "finding": "开头是昔日将自身完美观念投射到马车高度及马的瘦削上，hauteur并未说车身高耸；应去掉无根据的高耸程度。马既狂躁又轻如黄蜂、眼睛充血如狄俄墨得斯凶马，譬喻两层现译俱在。et que回指马，现在重见所爱之物的欲望，与多年前驱使自己走同一路的欲望同样炽烈；“推动我的那一个”指代生硬，宜复出欲望。最后回想车夫试图驾驭马的钢翼，庞大车夫被拳头般小且稚气的童仆注视，反差、surveillé的被动关系及翅膀惊惶颤动的拟喻均准确，无须将钢翼实化为车辆部件。"
+    },
+    {
+      "unit": 25,
+      "source_anchor": "Hélas !",
+      "translation_anchor": "唉！",
+      "finding": "独立叹息引出眼前与记忆不相合的失望，语气与标点均对应，保留。"
+    },
+    {
+      "unit": 26,
+      "source_anchor": "il n’y avait plus que des automobiles ... qu’accompagnaient de grands valets de pied",
+      "translation_anchor": "只剩下留着胡子的司机驾驶的汽车，由身材高大的男仆随行，马车早已被现代汽车取代",
+      "finding": "ne ... plus que只剩汽车，mécaniciens为驾驶汽车的机械技师/司机，译司机在此语境可接受；qu’accompagnaient的主语是高大男仆，陪同驾驶者，现译基本明确。末尾另加“马车早已被现代汽车取代”，把此刻所见扩写为已完成很久的历史断语，原文无“早已”，且重复只剩汽车的信息，应删。"
+    },
+    {
+      "unit": 27,
+      "source_anchor": "de petits chapeaux de femmes si bas qu’ils semblaient une simple couronne",
+      "translation_anchor": "那些小得仿佛只是一顶简单冠冕的女帽",
+      "finding": "肉眼与记忆之眼相对，目的是核验旧帽是否真如记忆那样迷人，译文有传达这一不确定性。petits是小，si bas另强调帽身低矮，故像仅一圈冠冕；现译用“小得”吞掉了高度，须保留“小”并明说“低矮得”。couronne保留冠冕的类比即可，不据本句强改为花冠。"
+    },
+    {
+      "unit": 28,
+      "source_anchor": "Tous maintenant étaient immenses, couverts de fruits et de fleurs et d’oiseaux variés.",
+      "translation_anchor": "如今的女帽都大得惊人，缀满果实、花朵和各色鸟儿。",
+      "finding": "Tous承女帽，immenses与前句低小帽形成反差；现译清楚说明全部当代女帽都巨大。三重et罗列水果、花、不同鸟，译文三类俱全，“缀满”符合帽饰语境，也未误作真实活鸟，保留。"
+    },
+    {
+      "unit": 29,
+      "source_anchor": "des tuniques gréco-saxonnes relevaient avec les plis des Tanagra ... des chiffons liberty",
+      "translation_anchor": "女衫……褶裥……高高挽起；有时又改用……督政府时期……的式样",
+      "finding": "句子先将斯万夫人如女王的旧裙与眼前新装对照，现译明确。tuniques是主语，chiffons liberty是被挽起的衣料，with式的Tanagra褶裥与偶尔采用督政府风格说挽起、垂褶的样式；现译虽拆开排列，仍是女衫与其衣料的一套装束，没有把三者误列为三件衣服。semés de fleurs comme un papier peint指利伯蒂衣料上花朵如墙纸，现译也归给面料。现有“挽起”的解释可保留，不凭此句另定历史服装形制；注中chiffrons为法文拼写误录，另记。"
+    },
+    {
+      "unit": 30,
+      "source_anchor": "les messieurs qui auraient pu se promener avec Mme Swann ... ni même un autre",
+      "translation_anchor": "那些本可以陪斯万夫人……散步的先生们……甚至连别的帽子也不戴了",
+      "finding": "条件式过去时表达本可以陪行的假设，并非已经同行的实事，现译正确。灰礼帽不见，甚至任何别的帽子也无，后一否定由ni même加强，译文保留。道路名与人物关系无误，保留。"
+    },
+    {
+      "unit": 31,
+      "source_anchor": "Ils sortaient nu-tête.",
+      "translation_anchor": "他们如今竟光着头出门。",
+      "finding": "nu-tête是光头不戴帽，非秃头，现译无误。上一单元已把不戴帽说开，这里仍对应原文简短强调；“竟”承叙述者对于服饰风俗改变的惊讶，未改变事实，保留。"
+    },
+    {
+      "unit": 32,
+      "source_anchor": "leur donner la consistance, l’unité, l’existence ... aucune beauté ... composer",
+      "translation_anchor": "使之获得质感、整体性和真实感……组合成一个完美形象",
+      "finding": "第一个分句是自己已无信仰可注入新景象，而非景象本身客观缺乏优雅；现译主旨在，但consistance、unité、existence有由内心赋予其凝实、统一与存在的层次，“质感/真实感”弱化为表面感觉。第二分句写新景象零散、任意、无真实，原文无“仿佛”“内在”的限定。最后说其中无美可供双眼像从前一样尝试组合，现译增成“完美形象”，又以“零散细节”替代原文未明说的组合对象。建议完整保留信仰赋予存在、双眼组织美的论述，去掉这些额外限定。"
+    },
+    {
+      "unit": 33,
+      "source_anchor": "des femmes quelconques ... aucune foi ... toilettes ... sans importance",
+      "translation_anchor": "一些寻常的女人……对她们的优雅毫无信念……衣装……无足轻重",
+      "finding": "quelconques为任意、平常而无特征，现译“寻常”符合失去信仰后的看法，不宜改成道德贬斥。toiIettes在这里是服装装束，非梳洗或厕所，译衣装正确；两项分别是对优雅无信念与觉得服装不重要，未混并为女人本身无价值，保留。"
+    },
+    {
+      "unit": 34,
+      "source_anchor": "pour masquer le manque de la puissance ... comme si ... une cause contingente, la mort des Dieux",
+      "translation_anchor": "仿佛要遮掩我们已丧失的能力：不能再使新事物显得真实",
+      "finding": "主干是信仰消失后，对旧物的恋物式依恋仍活着且愈发顽强；qu’elle avait animées说旧物曾由信仰赋予生命，现译保留。破折号内pour明确说明依恋增长的遮掩功能，译“仿佛要”却把确定的目的/作用误降为猜测；并且所遮掩的是赋予新事物以真实的能力之丧失，不是要遮住那项能力本身。应明确这一关系。后半两个comme si是假定的自我误认：把神性安在物中，并将今日不信归因于诸神之死这种偶然外因；现译两层反事实语气及末尾同位说明均准确，保留。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "而在别处，别的地方却又仿佛五月初，树叶刚从睡梦中醒来",
+      "after": "在别处，却又仿佛迎来树叶的五月，树叶才刚从睡梦中醒来",
+      "source": "Ailleurs encore c’était le premier éveil de ce mois de mai des feuilles",
+      "reason": "删除“别处/别的地方”的重复，并明确五月属于秋叶复苏的拟喻。"
+    },
+    {
+      "type": "错译",
+      "before": "仿佛就在今晨突然开满了花",
+      "after": "叶子从今晨起便已仿佛开满了花",
+      "source": "et celles d’un empelopsis ... depuis le matin même étaient tout en fleur",
+      "reason": "celles代替feuilles，开花是对叶子的视觉拟喻；补明主语，恢复从今晨起的状态，去掉无依据的突然。"
+    },
+    {
+      "type": "错译",
+      "before": "为了植物实验或节日布景",
+      "after": "为了植物学上的需要或节日布景",
+      "source": "soit dans un intérêt botanique, soit pour la préparation d’une fête",
+      "reason": "植物学上的考虑不一定是做实验，避免无据限定。"
+    },
+    {
+      "type": "错译",
+      "before": "栽下两三株珍奇品种，叶形奇幻",
+      "after": "栽下两三种珍奇树木，叶丛奇幻",
+      "source": "deux ou trois espèces précieuses aux feuillages fantastiques",
+      "reason": "espèces数树种而不数植株；feuillages指整体叶丛而非仅指叶片形状。"
+    },
+    {
+      "type": "错译",
+      "before": "那些仍挂着叶子的树，仿佛阳光照到哪里，哪里的叶子质地就发生了变化——早晨的阳光几乎平射，到了暮色将至时，又会回复这种斜度：那时阳光仿佛一盏忽然点亮的灯，从远处把人工灯火般温暖的光投向叶丛，点燃一棵树顶梢的叶子，而树顶的叶子仿佛燃起火焰，树干却仍像一座暗淡而不会燃烧的烛台。",
+      "after": "那些仍挂着叶子的树，仿佛从阳光照到的地方起，自身的材质便发生了变化——早晨的阳光几乎平射，几小时后，暮色初起时，又会重新变得近乎水平：那时阳光仿佛一盏点亮的灯，从远处把人工灯火般温暖的反光投向叶丛，使树梢最高处的叶子燃烧起来，整棵树却仍是一座暗淡而不会燃烧的烛台，托着自己那燃烧的顶冠。",
+      "source": "ils semblaient subir une altération de leur matière ... quelques heures plus tard ... dans le crépuscule commençant ... un arbre qui reste le candélabre incombustible et terne de son faîte incendié",
+      "reason": "改正树木材质被缩作叶子质地、暮色初起被写成将至两处，补回几小时的时间衔接；删除叶梢燃烧的重复，并使整株树作为烛台承托燃烧顶冠。"
+    },
+    {
+      "type": "错译",
+      "before": "给那些无用的小建筑让出位置；另一些则被柔软如平台的草坪托举在前",
+      "after": "为它让出位置，或者草坪像一座柔软的平台，将它托举在前",
+      "source": "un moulin à qui les arbres en s’écartant faisaient place ou qu’une pelouse portait en avant sur sa moelleuse plate-forme",
+      "reason": "原文平行关系从句列同一建筑显露的两种方式，没有分成那些建筑与另一些建筑。"
+    },
+    {
+      "type": "错译",
+      "before": "这片树林另有一种用途，并非仅仅供树木自由生长",
+      "after": "这片树林有一种与树木的生命无关的用途",
+      "source": "qu’il répondait à une destination étrangère à la vie de ses arbres",
+      "reason": "étrangère à明确说用途与树木生命无关，不是仅仅不止用于让树木自由生长。"
+    },
+    {
+      "type": "错译",
+      "before": "外物其实并不足以引发这份欢欣",
+      "after": "这份欢欣其实并非由任何外物引起",
+      "source": "sans comprendre que rien au dehors ne la motive",
+      "reason": "恢复rien的全称否定，避免把无外在动因弱化为外物作用不足。"
+    },
+    {
+      "type": "错译",
+      "before": "每天总有几个小时被树林收藏在枝叶间的那件杰作——每天在树林里出现片刻的那些美丽女人",
+      "after": "每天总有几个小时被树林收藏在枝叶间的那件杰作——那些美丽的散步女子",
+      "source": "ce chef-d’œuvre des belles promeneuses qu’ils enferment chaque jour pendant quelques heures",
+      "reason": "补出promeneuses的散步身份，去除原文没有而与几个小时重复的“每天出现片刻”。"
+    },
+    {
+      "type": "错译",
+      "before": "把原本分开的树干配作一束花",
+      "after": "把不同的枝干配在一起，组成一束束花",
+      "source": "mariait ensemble les tiges diverses et composait des bouquets",
+      "reason": "恢复不同枝干相配、组成花束的两层动作及花束复数。"
+    },
+    {
+      "type": "错译",
+      "before": "仿佛用光与影这两把锋利的剪刀",
+      "after": "借助光束与阴影构成的有力剪刀",
+      "source": "s’aidant du ciseau puissant du rayon et de l’ombre",
+      "reason": "ciseau为单数，光与影协作构成同一剪裁工具；puissant侧重有力而非锋利。"
+    },
+    {
+      "type": "错译",
+      "before": "一个孤零零的光影幽灵",
+      "after": "一个光的幽灵",
+      "source": "un seul fantôme de clarté",
+      "reason": "un seul指两树合成一个，不表示孤独；clarté为光，与前面的暗影柱形成明暗对照。"
+    },
+    {
+      "type": "错译",
+      "before": "的想象：她像个活泼、鲜艳、来去匆匆的社交界美人",
+      "after": "的形象：那位鲜艳夺目、来去匆匆的社交界美人",
+      "source": "la dryade, la belle mondaine rapide et colorée",
+      "reason": "树精与社交美人为同位关系，不是树精又像另一位美人；去掉额外的活泼。"
+    },
+    {
+      "type": "错译",
+      "before": "仿佛也迫使这女子感受季节的更迭",
+      "after": "也迫使这女子像树木一样感受季节的力量",
+      "source": "obligent à ressentir comme eux la puissance de la saison",
+      "reason": "恢复与树木一样的比较及季节力量，并去掉削弱原文肯定动作的仿佛。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "也没有固定在一座供奉爱神的小庙里⊂供奉爱神的小庙⊃≼🏛️🪶原文作 un petit temple à l'amour，指林中供点景的小神庙式建筑，与爱情的记忆相映；并非某一处确切的真实景点。≽",
+      "after": "也没有固定在一座⊂供奉爱神的小庙⊃≼🏛️🪶原文作 un petit temple à l'amour，指林中供点景的小神庙式建筑，与爱情的记忆相映；并非某一处确切的真实景点。≽里",
+      "source": "dans un petit temple à l’amour",
+      "reason": "删除注释锚前重复出现的小庙短语，保留整段既有注释及全部标记不变。"
+    },
+    {
+      "type": "错译",
+      "before": "维多利亚式敞篷马车那高耸的车身",
+      "after": "维多利亚式敞篷马车的高度",
+      "source": "à la hauteur d’une victoria",
+      "reason": "hauteur仅说高度；高耸为原文没有的程度判断。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "一如许多年前在同一些路上推动我的那一个",
+      "after": "一如许多年前驱使我走上这些路的那股欲望",
+      "source": "aussi ardent que celui qui me poussait bien des années auparavant dans ces mêmes chemins",
+      "reason": "以欲望复现celui的指代，避免“推动我的那一个”在中文中悬空生硬。"
+    },
+    {
+      "type": "错译",
+      "before": "，马车早已被现代汽车取代",
+      "after": "",
+      "source": "il n’y avait plus que des automobiles",
+      "reason": "删除由眼前只剩汽车增写出的历史总结，尤其原文没有早已这一时间判断。"
+    },
+    {
+      "type": "错译",
+      "before": "那些小得仿佛只是一顶简单冠冕的女帽",
+      "after": "那些低矮得仿佛只是一顶简单冠冕的小女帽",
+      "source": "de petits chapeaux de femmes si bas qu’ils semblaient une simple couronne",
+      "reason": "petits和bas分别指小巧及低矮，后者才是像一圈冠冕的直接原因。"
+    },
+    {
+      "type": "错译",
+      "before": "而所有这些新的景象，我已失去那种能注入眼前景物、使之获得质感、整体性和真实感的信仰；眼前的新景物七零八落、随意飘过，仿佛没有内在的真实，它们在我眼里不再含有任何美，无法像往昔那样供我把零散细节组合成一个完美形象。",
+      "after": "而所有这些新的景象，我已没有信仰可以注入其中，赋予它们实在性、统一性与存在；它们零散而随意地从我眼前掠过，毫无真实可言，其中不含任何能让我的双眼像往昔那样试着组合起来的美。",
+      "source": "je n’avais plus de croyance à y introduire pour leur donner la consistance, l’unité, l’existence ; elles passaient éparses ... sans vérité ... aucune beauté que mes yeux eussent pu essayer comme autrefois de composer",
+      "reason": "还原由信仰赋予景象实在、统一与存在的论述；去除仿佛、内在、零散细节及完美形象的附加限定，保留双眼尝试组织美的主体作用。"
+    },
+    {
+      "type": "错译",
+      "before": "仿佛要遮掩我们已丧失的能力：不能再使新事物显得真实",
+      "after": "为了掩盖我们已丧失赋予新事物以真实的能力",
+      "source": "pour masquer le manque de la puissance que nous avons perdue de donner de la réalité à des choses nouvelles",
+      "reason": "pour明确表示掩盖能力缺失的作用，不是仿佛如此；同时让掩盖的对象明确为能力已经丧失这一事实。"
+    }
+  ],
+  "annotation_notes": [
+    {
+      "unit": 22,
+      "note": "现有小庙注断言“并非某一处确切的真实景点”，但正文紧接Trianon且只凭本段不足排除此处为实际景点。建议主审核查后调整该断言；本次仅消除正文重复，不改注释。"
+    },
+    {
+      "unit": 29,
+      "note": "利伯蒂衣料注中法文写作“chiffrons liberty”，原文为“chiffons liberty”；请主审同步更正注中的拼写。本次不改注释内容。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p063"
+  }
+}

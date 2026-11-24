@@ -1,0 +1,18 @@
+{
+  "reason": "第062段原文un frère de mon grand-père明确阿道夫是外祖父的兄弟。与现有vol1-1的“叔外祖父”统一，保留母亲为其侄女；首次注释明示原文未明兄弟长幼。",
+  "source": "第062段：mon oncle Adolphe, un frère de mon grand-père",
+  "replacements": [
+    {
+      "before": "舅公",
+      "after": "叔外祖父"
+    },
+    {
+      "before": "你舅舅的一位朋友",
+      "after": "你叔叔的一位朋友"
+    },
+    {
+      "before": "此处按实际辈分译作“叔外祖父”，不据此推定兄弟长幼。",
+      "after": "此处沿用前章的“叔外祖父”，指明母系祖辈的兄弟关系；原文未交代兄弟长幼。"
+    }
+  ]
+}

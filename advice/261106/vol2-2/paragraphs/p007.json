@@ -1,0 +1,208 @@
+{
+  "id": 7,
+  "assessment": "逐项核对24个句子／长句单元，完整检查从名字容量、乔托绘画、旅行欲望直到兴奋发病的后半段。译文总体保留了复杂长句和核心比喻；建议修复欲望独特性、陆路意象、照片门廊定位及威尼斯空气从句的偏移，删去两处未经标注的解释性增译，并明确结尾感觉的指代。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Ces images étaient fausses pour une autre raison encore",
+      "translation_anchor": "这些影像之所以失真，还有另一个原因",
+      "finding": "全句依次说明影像失真的另一原因是简化：想象向往而当下感官只能不完整、无乐趣地接触的东西被收入名字，积存的梦又使名字像磁石吸引欲望。两处 sans doute 的让步蓄势及 mais 的转折均已译出；名字容量有限，只装得下两三处名胜，名胜相邻而无过渡，最终落到巴尔贝克的波涛与波斯教堂缩影。现译保留了这些层次及纪念品笔杆放大镜的具体比喻。“零碎而无趣地接触”对应不完整、无乐趣的感知，没有反转感官与想象的关系，可保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Peut-être même la simplification de ces images",
+      "translation_anchor": "也许，这些影像的简化",
+      "finding": "Peut-être 与 une des causes 均限定判断，只说简化也许是影像取得支配力的原因之一。现译同时保留“也许”“之一”，没有把推测写成唯一确定原因；“支配我”对应 empire，保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "de la fécondation, par certains parfums printaniers",
+      "translation_anchor": "天才的精髓，经春日的芬芳催生",
+      "finding": "父亲先决定复活节赴佛罗伦萨、威尼斯；由于名字放不下城市的一般构成，叙述者只能让自己所认定的乔托天才本质经春日芬芳的受孕、催生而化出超自然之城。现译“我心目中”“精髓”“经春日的芬芳催生”保留主观认识及生殖比喻；虽然中文故意层叠，主干仍可辨，不把“精髓孕育城市”的奇异表达改平。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "le nom de Florence était-il divisé en deux compartiments",
+      "translation_anchor": "这名字至多能分成两格",
+      "finding": "时间容量和空间容量一样有限，故佛罗伦萨之名最多分成两格；乔托画中同一人物分别卧床、准备上马，是以不同情节时刻说明两格的比喻。“一会儿……一会儿”与两个时刻对应，主体没有错置。不过“这种在同一画面中连续叙述不同时刻的手法，常见于早期意大利绘画”整段解释不见于法文，现以普通括号混入叙事，应删去这处无标记增译。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Dans l'un, sous un dais architectural",
+      "translation_anchor": "在一格里，在建筑般的华盖之下",
+      "finding": "第一格是华盖下凝望壁画，晨光像含尘、斜照而逐渐推进的帘幕，只覆盖局部；现译把 partiellement 落在“一角”，层次清楚。第二格先插入原因：名字是将来能投身的真实环境，而非不可企及理想，因此尚未经历的纯净生活赋予物质享乐与寻常场景以早期绘画般的魅力；译文保留因果和长括号。主句再回到匆匆过老桥，为的是早点吃到有水果、基安蒂酒的午餐，三种花也齐全；没有把两格误成实际已经发生的旅行。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Voilà (bien que je fusse à Paris)",
+      "translation_anchor": "这就是（虽然我身在巴黎）我所看见的",
+      "finding": "此句以明确否定对照收束：人虽在巴黎，实际看见的是上述想象，不是身边事物。括号让步与而不是的关系均保留，中文简洁可读。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "les pays que nous désirons tiennent à chaque moment beaucoup plus de place",
+      "translation_anchor": "我们向往的地方，每时每刻在真正的生活中所占的分量",
+      "finding": "Même à un simple point de vue réaliste 引出反直觉判断：即从现实角度，所向往之地在真实生活所占位置也多于当前身处之地。现译“分量”自然传达心理生活的占有，不误为地理面积；每时每刻和比较方向完整。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "cette merveille inconnue : une matinée de printemps",
+      "translation_anchor": "一个未知的奇迹：春日的清晨",
+      "finding": "条件句是假想当时若仔细观察内心，便会明白自己所见并非城市，而是与已知一切完全不同的美妙事物。原文用始终生活在冬日下午末段的人类第一次面对春日早晨来类比陌生与可喜；译文“冬日黄昏”“春日的清晨”保留时间及巨大反差。末句把比喻稍作顺译，仍能读出春晨对冬日人类的未知奇迹，没有必要把可接受的汉语比较再改写。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "comme dans un opéra un motif mélodique introduit une nouveauté",
+      "translation_anchor": "就像在歌剧里，一个旋律动机引入一种新意",
+      "finding": "影像虽虚幻且固定，却使这段人生与前期不同；只从外部观察、因而什么也没看见的人，可能把两阶段混同。译文将原文括注后置成独立一句，依然说明同一“区分”不可见。歌剧比喻的两级递进也正确：仅读剧本猜不到音乐的新意，站在剧院外只计时更猜不到，不能仅按外在时长理解内在生活。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "même à ce point de vue de simple quantité",
+      "translation_anchor": "即便只从单纯的量这一角度看",
+      "finding": "Et encore 补进一步：即使刚才说的纯数量角度，日子也非等值。译文保留补充及让步，作为后文速度比喻的过渡，未误成每天实际小时数不同。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "disposent, comme les voitures automobiles, de « vitesses » différentes",
+      "translation_anchor": "像汽车换挡那样，可以换到不同的速度挡位",
+      "finding": "有些敏感紧张的性情在经历日子时具有汽车般不同的速度；现译以“神经质”和“速度挡位”呈现 natures nerveuses 与汽车变速比喻，虽然“速度挡位”可进一步简化，但不是不通或明确语义错误，保留。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "des jours montueux et malaisés",
+      "translation_anchor": "有些日子高峻难行",
+      "finding": "上坡艰难的日子耗时无尽，下坡日子则可以唱歌飞驰而过。两类日子的拟地形关系、攀登与下降的方向和情绪反差都译出，“全速滑下去”契合 à fond de train，无需另改。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "desquelles le désir qu'elles excitaient en moi gardait quelque chose d'aussi profondément individuel",
+      "translation_anchor": "这些影像在我心中唤起的欲望，始终带着某种深刻得只属于个人的东西",
+      "finding": "这一月反复回味三城影像，如哼旋律而永不满足；欲望从影像中保留的是各城深刻的独特个性，仿佛对某一个人的爱情。现译“只属于个人”把 individuel 转成私人性，且遗漏 desquelles 表示独特性来自那些影像，建议明确为仍带着它们各自的独特性。随后始终相信影像对应独立于自身的现实，以及如早期基督徒临入天堂般的美好希望，都保留了对象与比较，毋须改动。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "c'est ce qui me rappelait la réalité de ces images, qui enflammait le plus mon désir",
+      "translation_anchor": "凡能提醒我这些幻想对应着真实世界的事物，最炽烈地点燃了我的欲望",
+      "finding": "句首先承认矛盾：企图以感官看触由遐想制作、从未经感官感知之物；这种陌生反使它更加诱人。强调结构再指出，任何提醒影像有真实对应物的东西最能点燃欲望，因为它像满足欲望的许诺。译文保留矛盾、插入递进及原因，“对应着真实世界”也与前句独立现实承接，不应误作否定幻想可实现。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "les guides l'entretenaient encore plus que les livres d'esthétique",
+      "translation_anchor": "旅行指南却比美学论著更能维持这种兴奋",
+      "finding": "虽然兴奋的动机是艺术享受，实际维持兴奋的强度却是美学书低于指南、指南低于火车时刻表。译文三层比较方向和 exaltation 的指代均正确，保留。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "en prenant la « voie de terre »",
+      "translation_anchor": "从现实的道路去到那里",
+      "finding": "佛罗伦萨在想象里近而不可达，内心的道路虽走不通，还能绕道从陆路到达；这里刻意给 voie de terre 加引号，把精神距离与实际地面路线并置。现译“现实的道路”解释了精神／现实对照，却抹去“陆路”这个具体地面意象，建议恢复为走“陆路”去到那里，仍保留绕行逻辑。"
+    },
+    {
+      "unit": 17,
+      "source_anchor": "l'école de Giorgione, la demeure du Titien",
+      "translation_anchor": "所属画派的所在地",
+      "finding": "自言威尼斯是乔尔乔内的画派之地、提香的居处及中世纪民居建筑最完整的博物馆，使将见之物更有价值并带来幸福。中文虽展开 école 的地域意味，三项并列及“反复念叨赋予价值”的自我作用均完整，没有足够依据将画派之地判成错译。"
+    },
+    {
+      "unit": 18,
+      "source_anchor": "Je l'étais pourtant davantage quand, sorti pour une course",
+      "translation_anchor": "然而，我更感到幸福的，是出门办事",
+      "finding": "整个长句先写更深的幸福来自寒天出门时的联想。天气从几天早春回冬，巴黎栗树像准时赴约、已盛装的宾客，不受寒冷挫折而萌绿；现译保留拟人、冻块中雕出绿意及寒冷阻而不能压制的关系。随后联想到意大利老桥满花、大运河深蓝与祖母绿水波，水波与提香画色争胜，颜色、时间 already 和比较均正确。但句末“此系抒情性的意象，非地理写实：画作并不真的悬在运河岸边”是原文没有的解释及事实断言，应从叙事中删去这处无标记增译。"
+    },
+    {
+      "unit": 19,
+      "source_anchor": "dans le laboratoire charbonneux, dans la chambre magique",
+      "translation_anchor": "那间烟熏火燎的实验室——那节能将周围世界尽数点化的魔术车厢",
+      "finding": "父亲一边看气压计抱怨寒冷，一边查车次，和叙述者明白午饭后上车、次晨即可在宝石城市醒来，共同使喜悦难以自制。“实验室／魔术车厢／点化”保留煤烟与炼金术般转化比喻；第二天而非当天抵达的关系准确。碧玉、祖母绿装饰与大理石黄金城市也齐备，不调整既有注释。"
+    },
+    {
+      "unit": 20,
+      "source_anchor": "à une certaine place déterminée de la terre, et à aucune autre",
+      "translation_anchor": "存在于大地上某个确定的地点，而非任何别处",
+      "finding": "威尼斯与佛罗伦萨不再只是随意摆在想象前的图画，而有须跨越的巴黎距离和唯一确定的地球位置，因而是真实城市。译文把空间条件和非别处的排他关系均落实，最后确实存在的结论也保留。"
+    },
+    {
+      "unit": 21,
+      "source_anchor": "leur consacra de ces jours particuliers qui sont le certificat d'authenticité",
+      "translation_anchor": "又为它们专门划出若干特定的日子",
+      "finding": "父亲把4月20—29日及复活节清晨等明确日程分配给城市，遂使城市不仅脱离抽象空间，也脱离可容多种同时旅行的想象时间。后者可反复再造，在一城花完仍可在另一城重复；现实的独有日期则随使用耗尽，一处过完不能再在另一处过，是对象真实性的证书。译文保留抽象／真实两种时间的反差和不可逆性。“不是一次旅行，而是另一些旅行”虽略迂回，结合后文同时并存，仍传达多种可能旅行，不构成必须修改的问题。"
+    },
+    {
+      "unit": 22,
+      "source_anchor": "les deux cités Reines dont j'allais avoir ... à inscrire les dômes et les tours",
+      "translation_anchor": "那两座女王般的城市",
+      "finding": "两座女王城市从尚未现实存在的理想时间，移向洗衣妇送回染墨白背心那个星期一开始的一周，最终进入个人生活的平面图；圆顶和塔楼成为动人几何的图形。中文将复杂倒装改为顺序叙述，“尚无现实日期”“特定的一星期”有助理解而没有删除日常洗衣与崇高城市的反差；我即将把建筑纳入自己生命的未来性也保留。"
+    },
+    {
+      "unit": 23,
+      "source_anchor": "l'illustrateur avait représenté, en chapeau melon, devant les porches",
+      "translation_anchor": "大照片前景里，一个插图画家添画的、戴圆顶硬礼帽的小小人物",
+      "finding": "喜悦此时才到顶点：父亲让带冬大衣和厚上衣，使叙述者突然明白下周复活节前夜漫步水街的可能是现代的自己，而非艺术文字中威严、披甲、血红斗篷的古人。长括注与父亲说话的触发关系在现译中正确。不过照片中的小人物原文明确位于门廊前，现译“前景里”省掉 porches，并以“添画”增加原文未明确断定的制作过程；建议恢复门廊前、画中戴礼帽的具体定位。Saint-Marc 的既有专名与注释不在这次替换中改动，另在备注提示复核。"
+    },
+    {
+      "unit": 24,
+      "source_anchor": "cette atmosphère marine, indicible et particulière comme celle des rêves que mon imagination avait enfermée",
+      "translation_anchor": "那海洋般的气息，难以言说，独特得就像我的想象封存在威尼斯这个名字里的那些梦的气息",
+      "finding": "结尾由欣喜升至出神：仿佛进入紫水晶礁石间，做超越能力的体操，脱去房间空气这一无用甲壳，换入等量威尼斯空气，进而脱离肉身。原文 enfermée 为阴性单数，指被想象封存的是威尼斯的海洋空气，不是复数 rêves；梦的空气只是 indicible et particulière 的比项，现译相对从句挂到“梦的气息”上，宜理清。désincarnation 随即伴随喉痛初发时的隐约恶心，中文“它”指代不清，宜直接说这种感觉伴有恶心。其后被安排卧床、发烧顽固不退，医生不只取消眼前旅行，还要求康复后至少一年避免旅行计划和激动，时间、否定及双重限制均译出。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "（这种在同一画面中连续叙述不同时刻的手法，常见于早期意大利绘画）",
+      "after": "",
+      "source": "comme certains tableaux de Giotto eux-mêmes qui montrent à deux moments différents de l’action un même personnage",
+      "reason": "括号内关于艺术史手法的概述不在原文，现以普通叙述插入，属于无标记增译；删去仍完整保留乔托同一人物在两个时刻的比喻。"
+    },
+    {
+      "type": "错译",
+      "before": "这些影像在我心中唤起的欲望，始终带着某种深刻得只属于个人的东西",
+      "after": "这些影像在我心中唤起的欲望，仍带着它们各自深刻的独特性",
+      "source": "desquelles le désir qu’elles excitaient en moi gardait quelque chose d’aussi profondément individuel que si ç’avait été un amour, un amour pour une personne",
+      "reason": "individuel 在下文对特定个人的爱情这一比喻中，强调各个对象不可替代的个性，不是“只属于个人”的私人性；desquelles 还表明欲望保留了来自那些城市影像的独特性。"
+    },
+    {
+      "type": "错译",
+      "before": "我总还可以绕道，从现实的道路去到那里。",
+      "after": "我总还可以绕道，走“陆路”去到那里。",
+      "source": "je pourrais l’atteindre par un biais, par un détour, en prenant la « voie de terre »",
+      "reason": "“现实的道路”虽解释了对照，却把带引号的具体“陆路”意象抽象化；恢复陆路，使内心不可达与地面绕行可达的反差更贴原文。"
+    },
+    {
+      "type": "错译",
+      "before": "（此系抒情性的意象，非地理写实：画作并不真的悬在运河岸边）",
+      "after": "",
+      "source": "en venant se briser aux pieds des peintures du Titien, ils pouvaient rivaliser de riches coloris avec elles",
+      "reason": "法文只写水波拍在画作脚下并与其争色，没有补充“非地理写实”或画作所在位置的事实断言；这段解释混在正文中打断长句，应删去无标记增译。"
+    },
+    {
+      "type": "错译",
+      "before": "的大照片前景里，一个插图画家添画的、戴圆顶硬礼帽的小小人物）",
+      "after": "的大照片里，插图画家画在门廊前、戴圆顶硬礼帽的那个小小人物）",
+      "source": "dans une grande photographie de Saint-Marc qu’on m’avait prêtée, l’illustrateur avait représenté, en chapeau melon, devant les porches",
+      "reason": "devant les porches 明确说人物在门廊前，现译的泛称“前景里”漏掉门廊；“添画”也比 représenté 多断定了后来加画的过程，改为画在门廊前。"
+    },
+    {
+      "type": "错译",
+      "before": "那海洋般的气息，难以言说，独特得就像我的想象封存在威尼斯这个名字里的那些梦的气息",
+      "after": "那种海洋的气息，像梦境的气息一样难以言说而又独特，我的想象曾把它封存在威尼斯这个名字里",
+      "source": "cette atmosphère marine, indicible et particulière comme celle des rêves que mon imagination avait enfermée dans le nom de Venise",
+      "reason": "enfermée 的阴性单数对应 atmosphère，封存在威尼斯之名中的是海洋空气；梦境空气只是比项。现译使封存关系挂到“那些梦的气息”上，修订澄清两个修饰关系。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "它随即又添上一层隐隐的恶心",
+      "after": "这种脱离肉身的感觉随即又伴随着一阵隐隐的恶心",
+      "source": "elle se doubla aussitôt de la vague envie de vomir",
+      "reason": "elle 回指 désincarnation；现译“它”容易接到空气或肉身，“添上一层恶心”搭配也生硬。明确为脱离肉身的感觉，并用伴随关系表达 se doubler de。"
+    }
+  ],
+  "annotation_notes": [
+    "Saint-Marc 的既有注释径直释为“圣马可广场”，而此句法文只说 Saint-Marc，并具体说人物站在门廊前。它可能指圣马可教堂的照片或建筑所在整体景观；仅凭本段不宜武断确认，应由主审结合图像／可靠资料核实。报告仅恢复正文明确的门廊定位，未改专名或注释。"
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p007"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": 77,
+  "assessment": "全段基本准确，保留人物称谓、长句修辞及现有注释。修订末句中情绪反应及其因果关系的表达，并调整一处不通顺的动宾搭配。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "我对她那种生活中的不道德又感到困惑，也许比它在我眼前凝成一副特殊模样时更甚——它就这样隐而不见",
+      "after": "那种生活的不道德也许比它在我眼前凝成一副特殊模样时更令我心神不宁——正因为它这样隐而不见",
+      "source": "l’immoralité m’en troublait peut-être plus que si elle avait été concrétisée devant moi en une apparence spéciale — d’être ainsi invisible",
+      "reason": "troublait 指心绪受扰，不只是理解上的困惑；d’être 引出更使叙述者不安的原因，原译未明确表达这一因果关系。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "把她一路推进半上流社会，抬到声名远扬",
+      "after": "把她一路推进半上流社会，使她声名远扬",
+      "source": "haussé jusqu’au demi-monde et à la notoriété",
+      "reason": "“抬到”不能直接接“声名远扬”这一主谓结构；改为“使她声名远扬”表达获得名声的结果。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p077"
+  }
+}

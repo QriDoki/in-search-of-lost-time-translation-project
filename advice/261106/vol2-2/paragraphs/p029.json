@@ -1,0 +1,56 @@
+{
+  "id": 29,
+  "assessment": "本段总体保留了希尔贝特兴高采烈、接连数说约会和假期安排的口吻，以及这些安排逐一排除与叙述者见面机会的逻辑。开头先叫对方尽管指望、随即说自己不来的突转，原文如此，不宜擅自消解。需将错过圣诞树聚会译为不能参加，避免现译“看不到”把社交活动误作观看对象。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Demain, comptez-y, mon bel ami, mais je ne viendrai pas !",
+      "translation_anchor": "明天嘛，尽管指望吧，我的好朋友——可我不来！",
+      "finding": "Demain承接上段叙述者请她明早来，comptez-y是“尽管指望／放心好了”，紧接mais je ne viendrai pas却说自己不来；这一表面矛盾是原话的转折，现译用破折号和“可”保留，不应改成答应来。mon bel ami为带亲昵语气的称呼，“我的好朋友”可接受，不必逐字译成“漂亮的朋友”。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "j'ai un grand goûter ; après-demain non plus, je vais chez une amie pour voir de ses fenêtres l'arrivée du roi Théodose, ce sera superbe, et le lendemain encore à Michel Strogoff et puis après, cela va être bientôt Noël et les vacances du jour de l'An.",
+      "translation_anchor": "我得参加一场好热闹的⊂茶会⊃……后天也来不了……再隔一天还要去看⊂《米歇尔·斯特罗戈夫》⊃……很快就是圣诞节和元旦假期了。",
+      "finding": "本单元连缀多层安排：j’ai un grand goûter指明天有一场大的下午茶点聚会，现译以“好热闹”口语化地表现聚会的盛况，虽不直译规模，结合现有注释不致误解，可保留；après-demain non plus省略“不来”，译文补成“后天也来不了”正确。chez une amie和de ses fenêtres分别是到女友家、从那位女友家的窗户观看，现译指代清楚；l’arrivée译为“进城”落实到此处巴黎迎接国王的场景，ce sera superbe的赞叹也保留了。le lendemain是后天的下一天，“再隔一天”顺接无误；à Michel Strogoff省略去看戏的动词，现译补出“演出”准确。末尾et puis après由具体日期转向临近的圣诞节及元旦假期，现译的时间推进正确，原文一口气报出安排的节奏也基本保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Peut-être on va m’emmener dans le midi.",
+      "translation_anchor": "说不定家里还会带我去法国南部。",
+      "finding": "Peut-être表示尚未确定，on va m’emmener是别人可能带她前去；“说不定……会带我”正确保留这种可能性及被安排出游的关系。midi在此为法国南部，译文予以说明合适；“家里”是对未明说的带她出游者的合理语境补足，没有改变行程归属。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Ce que ce serait chic !",
+      "translation_anchor": "那可太棒了！",
+      "finding": "Ce que引出程度感叹，chic在口语中表示美妙、出色，此处并非专说衣饰时髦。ce serait用条件式呼应上一句尚未确定的南下旅行，中文通过前句“说不定”已承接这一假想情境，“那可太棒了”保留了孩子的兴奋口吻，可保留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "quoique cela me fera manquer un arbre de Noël ; en tous cas si je reste à Paris, je ne viendrai pas ici car j’irai faire des visites avec maman.",
+      "translation_anchor": "虽然这样就看不到⊂圣诞树聚会⊃……反正我要是留在巴黎，也不会到这儿来，因为我要跟妈妈去串门。",
+      "finding": "quoique引入南下旅行的一个不利后果，cela指上文去法国南部；manquer un arbre de Noël意为错过一场圣诞树聚会，重点是不能出席，而非不能看见聚会，须将“看不到”改为“没法参加”。分号后en tous cas统括无论旅行成行与否的结论，si je reste à Paris提出留在巴黎这一分支，je ne viendrai pas ici明确即使留在巴黎也不来此处，原因是跟母亲拜访别人；现译“反正”“要是”“也不会”“因为”完整保留这些逻辑关系，“串门”符合少女说话的轻快语气。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Adieu, voilà papa qui m’appelle.",
+      "translation_anchor": "再见，爸爸在叫我了。",
+      "finding": "Adieu在此为日常告别；voilà papa qui m’appelle把当下父亲召唤她作为离开的直接缘由。现译“爸爸在叫我了”用进行中的动作和句末“了”传达眼前发生的召唤，既未增添称呼对象，也没有把父亲的呼唤误作叙述者的动作，可保留。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "虽然这样就看不到",
+      "after": "虽然这样就没法参加",
+      "source": "quoique cela me fera manquer un arbre de Noël",
+      "reason": "manquer此处指因外出而错过、不能出席圣诞树聚会；“看不到”把活动当成观看对象，改为“没法参加”明确出席关系，并保留原有注释标记及内容。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p029"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": 3,
+  "assessment": "本段关于姑妈轻声自语、对自身感觉的放大以及全家回避“睡觉”措辞的叙述整体对应原文，指代和括号内例证完整。建议纠正把自我标榜写成实际“本领”的语气偏移，并使绝对不活动的状态表述更自然。其余保留。",
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "再说，在绝对凝滞的生活里，",
+      "after": "再说，她整日一动不动，",
+      "source": "puis, dans l’inertie absolue où elle vivait",
+      "reason": "inertie 在这里承接姑妈长年卧床的身体不活动状态；“绝对凝滞的生活”搭配生硬，也把身体状态抽象化。改成现代中文常用说法，并保留后文感觉格外重要的因果关系。"
+    },
+    {
+      "type": "错译",
+      "before": "因为“从不睡觉”是她引以为傲的本领",
+      "after": "因为她最引以为傲的，便是宣称自己“从不睡觉”",
+      "source": "car ne jamais dormir était sa grande prétention",
+      "reason": "prétention 是姑妈自我标榜的说法，后文说漏嘴而改口正揭示其并非事实；“本领”容易把从不睡觉坐实。改为“宣称”保留原文的反讽及全家配合她说法的逻辑。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p003"
+  }
+}

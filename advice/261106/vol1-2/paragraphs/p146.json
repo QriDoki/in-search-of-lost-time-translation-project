@@ -1,0 +1,24 @@
+{
+  "id": 146,
+  "assessment": "本段人物、肖像比拟及斯万破例介绍贝戈特的逻辑均译出。两处值得调整：眉形的尖拱特征被泛化为弓形，末句“我脸上对贝戈特一副……”语序不顺。其余保留，原有注释不变。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "一样弯如弓的眉毛",
+      "after": "一样呈尖拱形的眉毛",
+      "source": "les mêmes sourcils circonflexes",
+      "reason": "circonflexes指如扬抑符号（ˆ）般呈尖拱形；“弯如弓”易被理解为圆滑弧形，未保留具体眉形。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "斯万看见我脸上对贝戈特一副钦佩不已的样子",
+      "after": "斯万见我对贝戈特显得如此钦佩",
+      "source": "Et voyant combien j’avais l’air d’admirer Bergotte",
+      "reason": "原译“我脸上对贝戈特一副……”修饰关系不顺，调整语序，并以“如此”传达combien所强调的程度。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p146"
+  }
+}

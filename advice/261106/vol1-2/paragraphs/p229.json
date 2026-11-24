@@ -1,0 +1,55 @@
+{
+  "id": 229,
+  "assessment": "本段以勒格朗丹越来越专注的凝视描写他临时回避提问的心理动作，译文保留了直视、目光仿佛穿透面孔、远处彩云及精神上的“不在场的证据”等连续意象，也准确保留了父亲不肯放过他的转折。主要问题在长句末尾：把“问他在巴尔贝克是否认识什么人”概括成“问起巴尔贝克”，删去了他所回避的问题的实质，并把“没有听见那个问题”的宾语省去；应恢复，以承接上一段的问题及下一段的追问。其余措辞虽有适度汉语化处理，未见必须修改之处。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Legrandin pris au dépourvu par cette question à un moment où ses yeux étaient fixés sur mon père, ne put les détourner",
+      "translation_anchor": "勒格朗丹被这个问题打了个措手不及，当时他的双眼正盯着我父亲，没法移开视线",
+      "finding": "“pris au dépourvu”对应“措手不及”；“当时”交代提问恰发生在他正看着父亲的时刻，“没法移开视线”对应“ne put les détourner”，其中les指双眼，译为视线符合中文习惯。译文保留了猝然被问、又无法立即移开目光的关系，无须修改。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "mais les attachant de seconde en seconde avec plus d'intensité — et tout en souriant tristement — sur les yeux de son interlocuteur, avec un air d'amitié et de franchise et de ne pas craindre de le regarder en face",
+      "translation_anchor": "只好一秒钟比一秒钟更专注地盯住对方的眼睛——同时忧郁地微笑着——摆出一副友善、坦率、不怕正面直视的神气",
+      "finding": "“一秒钟比一秒钟更专注”保留了凝视强度不断增加的进程；破折号内“同时忧郁地微笑着”保留tout en的同时关系及tristement的哀愁意味。“对方”仍指父亲，“友善、坦率、不怕正面直视”准确列出他竭力表现的三种神态。“只好”结合前文无法移开目光，将mais所接的应对动作转成汉语因势而行的表达，未改变动作和人物心理的基本关系，可保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "il sembla lui avoir traversé la figure comme si elle fût devenue transparente, et voir en ce moment bien au delà derrière elle un nuage vivement coloré",
+      "translation_anchor": "仿佛穿透了我父亲的脸，就像那张脸变成了透明的一样，此刻正望着脸后面很远很远的一朵色彩浓艳的云",
+      "finding": "“仿佛”统摄穿透面孔和看见远处云朵的描写，并非真有物理穿透；“那张脸”“脸后面”均准确落实elle指父亲的面孔。“很远很远”传达bien au delà的纵深，“色彩浓艳”对应vivement coloré；先穿过近处面孔再望向远处的空间关系明确，可保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "qui lui créait un alibi mental et qui lui permettrait d'établir qu'au moment où on lui avait demandé s'il connaissait quelqu'un à Balbec, il pensait à autre chose et n'avait pas entendu la question",
+      "translation_anchor": "那片云替他的心思找好了“不在场的证据”：当有人问起巴尔贝克时，他正想着别的事，根本没有听见。",
+      "finding": "两个qui均指那片云：它使他的精神仿佛置身别处，因而可用作没有听见提问的依据；“替他的心思找好了‘不在场的证据’”及冒号后的说明保留了这一反讽隐喻。不过“问起巴尔贝克”遗漏了间接疑问s’il connaissait quelqu’un，即“他在巴尔贝克是否认识什么人”。这正是上一段父亲的原问题，也是勒格朗丹企图回避的具体内容，不能泛化为提到一个地名。“n’avait pas entendu la question”的宾语也宜明确补回“那个问题”。因此修订冒号后的内容；“正想着别的事”保留了当时正在发生的思想活动。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Habituellement de tels regards font dire à l'interlocuteur : « À quoi pensez-vous donc ? »",
+      "translation_anchor": "通常，这样的眼神会让对方忍不住问：“您到底在想什么呀？”",
+      "finding": "“通常”保留一般情形的概括，与下句父亲实际反应形成反差。“让对方忍不住问”以汉语自然表达font dire所指目光引发对方发问的效果；“到底”“呀”传达donc的追究与疑惑语气，提问对象仍是表现得心不在焉的勒格朗丹。可保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Mais mon père curieux, irrité et cruel, reprit :",
+      "translation_anchor": "可我父亲好奇、恼火而无情，追问道：",
+      "finding": "“可”准确标出父亲没有按上述常见方式发问，而是继续原先问题的转折。“好奇、恼火而无情”分别承接curieux、irrité、cruel；这里“无情”指不肯给对方回避的余地，与上下文吻合。“追问”结合下一段再次询问巴尔贝克朋友的内容，恰当落实reprit的继续说话之意。冒号承接下一段对白，无须修改。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "当有人问起巴尔贝克时，他正想着别的事，根本没有听见。",
+      "after": "当有人问他在巴尔贝克是否认识什么人时，他正想着别的事，没有听见那个问题。",
+      "source": "au moment où on lui avait demandé s'il connaissait quelqu'un à Balbec, il pensait à autre chose et n'avait pas entendu la question",
+      "reason": "原文明确重述“在巴尔贝克是否认识什么人”的问题，原译概括成“问起巴尔贝克”漏掉了被回避的核心内容；恢复具体问句，并明确“没有听见”的宾语为“那个问题”，使前后提问与佯装走神的逻辑相接。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p229"
+  }
+}

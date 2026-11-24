@@ -1,0 +1,30 @@
+{
+  "id": 59,
+  "assessment": "本段三句的指代和劝诫口吻均已译出：先劝对方别再向奥黛特提起旧事，再以她如今的婚姻身份和丈夫的社交地位提醒对方，最后补充称赞她依然美貌。原译没有漏失实质信息，中文衔接自然，建议保留。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Je crois que vous ferez bien de ne pas le lui rappeler.",
+      "translation_anchor": "我看您最好别跟她提这个。",
+      "finding": "Je crois以“我看”保留个人判断，vous ferez bien de在此是委婉劝告，译“您最好”合适；ne pas的否定范围落在提醒、提起一事上。le回指上一段对方声称曾与奥黛特同床的往事，lui指奥黛特，“跟她提这个”指代明确。rappeler虽然字面是让对方回想，在当前对话中“提这个”比机械译作“提醒她”自然，无须改动。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Elle est maintenant Mme Swann, la femme d'un monsieur du Jockey, ami du prince de Galles.",
+      "translation_anchor": "她现在可是斯万夫人，丈夫是⊂赛马俱乐部⊃",
+      "finding": "maintenant与上段回忆的旧事相对，“现在可是”既保留时间变化，也传达说话人提醒对方尊重她现有身份的语气。Mme Swann译“斯万夫人”正确；la femme d’un monsieur du Jockey把她的丈夫说明为赛马俱乐部中人，译成“丈夫是……会员”合理，无须照字面增加“一个先生”。ami du prince de Galles修饰丈夫而非奥黛特，中文以“丈夫”为承前主语接“还与……相熟”，没有误接。ami字面为朋友，此处以“相熟”表达同上流人物有交情，在社交身份的叙述语境中可以接受，不必强行改写。两处专名和原有注释均可保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Elle est du reste encore superbe.",
+      "translation_anchor": "再说，她如今仍旧美得很。",
+      "finding": "du reste在此追加一项理由，译“再说”衔接自然；encore表示美貌仍然保持，“如今仍旧”把这种延续关系译清楚。superbe用于女性外貌，是赞其美艳出众，“美得很”保留鲜明的称赞，也能接续上一段对年龄的议论。句中没有因果或转折的误置，建议保留。"
+    }
+  ],
+  "changes": [],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p059"
+  }
+}

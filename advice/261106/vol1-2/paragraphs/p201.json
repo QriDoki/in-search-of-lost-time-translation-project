@@ -1,0 +1,73 @@
+{
+  "id": 201,
+  "assessment": "本段准确保留了父亲故意考问母亲、突然揭示已经到家的诙谐，以及熟悉的庭园使叙述者无须留神、由拟人化的‘习惯’抱回床上的意象。逐句核对未见事实、指代或逻辑上的错漏。只建议调整‘有意的注意相随’这一生硬的直译，使习惯性动作与主动注意之间的关系更符合中文表达；其余保留。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Tout d'un coup mon père nous arrêtait et demandait à ma mère : « Où sommes-nous ? »",
+      "translation_anchor": "忽然，父亲让我们停下，问母亲：“我们在哪儿？”",
+      "finding": "‘nous arrêtait’是父亲使同行的一家人停步，译为‘让我们停下’正确；问话中的‘nous’也保留为‘我们’。原文未完成过去时延续邻段惯常散步的叙述，中文承接上下文，无须逐句另加‘总会’。‘忽然’保留父亲突然设问的动作节奏。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Épuisée par la marche, mais fière de lui, elle lui avouait tendrement qu'elle n'en savait absolument rien.",
+      "translation_anchor": "母亲走得筋疲力尽，心里却为他自豪，柔情地承认自己一点也不知道。",
+      "finding": "‘elle’指母亲，‘lui’和‘de lui’均指父亲；译文先明示母亲，再以‘他’承接父亲，指代清楚。‘mais’连接走累与仍为父亲自豪，译为‘却’保留了转折；‘一点也不知道’对应‘absolument rien’，所不知道的是身在何处，并非不知父亲的用意。‘柔情地承认’保留坦承时对丈夫的亲昵语气。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Il haussait les épaules et riait.",
+      "translation_anchor": "他耸耸肩，笑了。",
+      "finding": "两个并列动作的主语均为父亲，译文‘他’衔接前句明确；‘耸耸肩，笑了’保留父亲故作轻松的反应，未额外解释成嘲笑或不耐烦，宜保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Alors, comme s'il l'avait sortie de la poche de son veston avec sa clef, il nous montrait debout devant nous la petite porte de derrière de notre jardin",
+      "translation_anchor": "接着，他仿佛把我们家花园的后门连钥匙一起从上衣口袋里掏出来似的，指给我们看：那扇小后门就立在眼前",
+      "finding": "‘l’指后面的花园小后门，译文先把宾语说出，再用‘那扇小后门’复指，避免法语倒装在中文中造成悬空。‘comme si’是假想比较，并非真把门取出，‘仿佛……似的’准确保留；‘avec sa clef’译为‘连钥匙一起’，保留把整扇门像随身钥匙一样从口袋掏出的奇想。‘立在眼前’对应‘debout devant nous’的拟人化姿态。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "qui était venue avec le coin de la rue du Saint-Esprit nous attendre au bout de ces chemins inconnus.",
+      "translation_anchor": "还带着圣灵街的街角，一起来到这些陌生小路的尽头等我们。",
+      "finding": "关系从句的主语仍是小后门，街角与它一同来到路尽头等待，译文‘还带着……一起……等我们’延续了这层拟人化，没有误写成一家人去等门。‘ces chemins inconnus’是先前散步时不熟悉的小路，译为‘这些陌生小路’正确；‘圣灵街’对应街名Saint-Esprit。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Ma mère lui disait avec admiration : « Tu es extraordinaire ! »",
+      "translation_anchor": "母亲赞叹地对他说：“你真了不起！”",
+      "finding": "‘lui’仍指父亲；‘avec admiration’与直接引语都体现母亲对父亲识路本领的赞赏，‘赞叹’及‘真了不起’保留家庭口吻与感叹力度，不必把extraordinaire硬译为‘非凡’。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Et à partir de cet instant, je n'avais plus un seul pas à faire, le sol marchait pour moi dans ce jardin",
+      "translation_anchor": "从那一刻起，我一步也不用再走，脚下的地面自己替我行走；在这个花园里",
+      "finding": "‘cet instant’承接认出家门这一刻；‘plus un seul pas’的完全否定译为‘一步也不用再走’，程度吻合。‘地面自己替我行走’保留疲倦者返家后全凭熟悉环境行动的夸张，不应按实景改成走得轻松。原文地点状语‘dans ce jardin’在中文分号后承接为‘在这个花园里’，仍将地面与习惯性动作都置于自家花园，关系可理解。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "où depuis si longtemps mes actes avaient cessé d'être accompagnés d'attention volontaire",
+      "translation_anchor": "我的一举一动早已不再需要有意的注意相随",
+      "finding": "‘depuis si longtemps’说明无须主动留神的状态早已形成，‘mes actes’是叙述者在熟悉花园中的动作。原译语义大致正确，但‘有意的注意相随’逐词移植‘être accompagnés d'attention volontaire’，中文抽象名词叠用且‘注意相随’搭配生硬。建议改成‘我做任何事早已无须再刻意留神’，直接表达动作已能依习惯完成，保留与下文‘习惯’接管行动的因果说明关系。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "l'Habitude venait de me prendre dans ses bras et me portait jusqu'à mon lit comme un petit enfant.",
+      "translation_anchor": "习惯把我抱进了怀里，像抱一个小孩似的，一直把我送到床上。",
+      "finding": "原文以大写Habitude把习惯人格化，译文让‘习惯’作‘抱’与‘送’的主语，保留了这一修辞。‘venait de’表示刚刚发生的接管，前文‘从那一刻起’及此处‘抱进了’足以承接，无须另添时间词。‘comme un petit enfant’比较的是被抱着的叙述者，‘像抱一个小孩似的’指向明确；‘一直……到床上’保留‘jusqu'à mon lit’的终点，且与前面地面代行的意象连续。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "不符合现代中文习惯",
+      "before": "我的一举一动早已不再需要有意的注意相随",
+      "after": "我做任何事早已无须再刻意留神",
+      "source": "mes actes avaient cessé d'être accompagnés d'attention volontaire",
+      "reason": "‘有意的注意相随’是法语名词及被动结构的生硬移植。改用‘刻意留神’表达主动注意，明确叙述者在熟悉环境里已经可以依习惯行动，衔接下文习惯抱他回床的拟人描写。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p201"
+  }
+}

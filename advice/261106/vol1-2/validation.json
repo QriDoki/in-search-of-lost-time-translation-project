@@ -1,0 +1,30 @@
+{
+  "paragraphs_reviewed": 321,
+  "independent_paragraph_agents": 321,
+  "paragraph_reports": 321,
+  "raw_agent_reports": 321,
+  "detailed_paragraph_reports": 130,
+  "detailed_sentence_or_clause_checks": 1206,
+  "replay_matches_dev": true,
+  "source_unchanged": true,
+  "main_snapshot_matches": true,
+  "paragraphs_headers_scene_breaks_preserved": true,
+  "annotation_count": 139,
+  "annotations_preserved_with_recorded_corrections": true,
+  "annotation_markers_preserved": true,
+  "modified_paragraphs": 186,
+  "applied_changes": 382,
+  "translation_sha256": "6ebf2e07485e27d75ae388259d22ecfe36f62497d9a003949f0b1776d07d2c32",
+  "build": {
+    "command": "POLISH_VERSION=dev npm run build",
+    "exit_code": 0,
+    "result": "passed",
+    "warnings": [
+      "仓库现有出版信息及其他章节标题提示",
+      "dev vol1-3的既有注释解析提示",
+      "构建产物分块超过500kB提示",
+      "本地npm email/always-auth配置提示"
+    ]
+  },
+  "git_diff_check": "passed"
+}

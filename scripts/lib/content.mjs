@@ -42,9 +42,6 @@ const SEPARATOR_LINE = /^[ \t]*🥒+[ \t]*$/u
 const HEADING_LINE = /^(#{1,6})[ \t]+(.+?)[ \t]*$/
 const TRAILING_ATTRS = /\s*\{[^}]*\}\s*$/
 
-/** 与 AGENTS.md 一致：译文里不应出现的出版机构信息。 */
-const FORBIDDEN = ['伽利玛', 'BeQ', '魁北克', 'Gallimard', '杜皮伊']
-
 const SCENE_BREAK_HTML = '<p class="scene-break">　</p>'
 
 /* ------------------------------------------------------------------ */
@@ -254,9 +251,6 @@ function paragraphBlocks(text, ctx, label) {
   const trimmed = text.trim()
   if (!trimmed) return []
 
-  for (const word of FORBIDDEN) {
-    if (trimmed.includes(word)) ctx.warn(`${label}：正文出现应忽略的出版机构信息「${word}」`)
-  }
   if (trimmed.includes('[TODO]')) ctx.warn(`${label}：正文残留 [TODO]`)
 
   const converted = formatInline(trimmed, ctx, label)
@@ -512,13 +506,6 @@ export function buildBook(options = {}) {
       if (!warnings.includes(message)) warnings.push(message)
     },
     readPart,
-  }
-
-  if (arrange.source && !arrange.source.replace(/^\.\//, '').startsWith(resolved.sourceLabel)) {
-    ctx.warn(
-      `publish/arrange.json 的 source 是 ${arrange.source}，本次打包使用 ${resolved.sourceLabel}；` +
-        '若两者结构不同，请先更新 arrange.json。',
-    )
   }
 
   const volumeNodes = arrange.book?.children ?? []

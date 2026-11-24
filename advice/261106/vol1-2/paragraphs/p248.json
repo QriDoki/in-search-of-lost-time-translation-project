@@ -1,0 +1,141 @@
+{
+  "id": 248,
+  "assessment": "逐句并按长句主要意群核对后，译文总体保留了从白山楂的晦暗感受转向粉红山楂的惊喜，以及绘画、音乐、宗教盛装、食物色彩与童年审美之间的连续比喻。三处建议修改：观看新作品的句式关系、祭坛小玫瑰枝梢的放射状布置、末句人群的亲属关系及留家将来时。其余否定、指代、比较与自然自发盛装的逻辑可保留。本段没有需保留或协调的内嵌注释。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Puis je revenais devant les aubépines comme devant ces chefs-d’œuvre",
+      "translation_anchor": "然后我又回到山楂树前，就像回到一件杰作面前，总觉得暂停观看片刻，再看时便能看得更明白",
+      "finding": "原文先写暂离后返回，再以观看杰作时相信稍作中断便能看得更好的心理作比。译文用总觉得标示主观期待，未把这种期待当成已经实现的认识；复数杰作化为泛指一件杰作不影响比喻。保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "mais j’avais beau me faire un écran de mes mains ... à venir adhérer à leurs fleurs",
+      "translation_anchor": "可我哪怕用双手搭成屏障，让眼前只有山楂树……依附到那一朵朵花上去",
+      "finding": "j’avais beau构成徒劳的让步，双手屏障旨在排除其余景物。restait obscur et vague说感受仍旧朦胧，cherchant的逻辑主语是感受，而不是花。译文以那种感受统领挣扎和依附两个动作，保留了感受试图凝结于花朵却始终不能的拟人关系。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Elles ne m’aidaient pas à l’éclaircir, et je ne pouvais demander à d’autres fleurs de le satisfaire",
+      "translation_anchor": "它们帮不了我把它弄清楚，我也无法请求别的花来满足它",
+      "finding": "Elles回指山楂花，l’与le均承接前句的sentiment。译文以它们与它区分花和感受，两项否定分别表示当前花朵不能使感受明晰、其他花朵也不能满足这感受；未误译成我不愿向别的花求助。保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Alors me donnant cette joie ... quand nous voyons de notre peintre préféré une œuvre",
+      "translation_anchor": "于是外祖父叫我过去，指给我看坦松维尔的篱笆，给了我那种快乐：当我们心爱画家的作品中出现一幅不同于我们已见过的那些的画作",
+      "finding": "长句主干是外祖父叫我并指示篱笆、对我说话；译文把主干提前，有助于承载后面的多重比喻。第一个比喻却把我们看到某画家的一幅不同作品变成画作在作品中出现，句法累赘且观看行为缺失。列入修改，恢复我们见到画作并发现差异的关系。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "ou bien si l’on nous mène devant un tableau ... revêtu des couleurs de l’orchestre",
+      "translation_anchor": "或当我们被领到一幅画前、而此前只见过它的铅笔草图，或当一首只听过钢琴版的乐曲、再度出现时披上了管弦乐的色彩",
+      "finding": "后两项依次是从铅笔草图转见完整绘画、从仅听钢琴演奏转听管弦乐版本。jusque-là与ensuite建立先后，seulement限制此前所见所闻。译文此前、只、再度保留这些限定，披上色彩保留跨感官比喻。破折号后的直接引语可接前文外祖父主语，未发生说话人错置。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Toi qui aimes les aubépines ... En effet c’était une épine, mais rose",
+      "translation_anchor": "“你不是喜欢山楂吗，瞧瞧这棵粉红山楂；多漂亮啊！”的确，那是山楂树，只不过是粉红色的，比白山楂还要美",
+      "finding": "原文以已知的喜爱引出指点，est-elle jolie是赞叹而非疑问；译文反问式你不是喜欢与多漂亮啊相承，语气成立。接句mais rose突出同为山楂却多了粉红这一区别，比较项是白山楂，译文均保留。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Elle aussi avait une parure de fête ... qui n’a rien d’essentiellement férié",
+      "translation_anchor": "它也有一身节日盛装，而宗教节日才是唯一真正的节日……本质上毫无节庆可言的日子上",
+      "finding": "Elle指粉红山楂，aussi延续对白山楂节日装饰的感受。宗教节日与世俗节日的区别在于日期并非偶然安置；puisque给出所谓真正节日的理由，否定ne ... pas作用于任意安排宗教节日日期。译文不会把它们安到某个日子上保留否定范围，长定语也说明该日既非专属、亦无内在节庆性质。保留。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "mais une parure plus riche encore ... selon l’esthétique de Combray",
+      "translation_anchor": "而且这身盛装更加华丽……它们是“有颜色的”，因而按照贡布雷的审美观，品质高出一等",
+      "finding": "这里重新接回盛装，以花朵层叠、覆盖枝头和绒球花环装饰牧羊杖作形状说明，再以有颜色推出贡布雷的品质等级。译文把比较、原因、推论逐层保留，绒球装点牧羊杖的比喻未错接到树篱；有颜色的引号保留了当地审美分类的口吻。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "si l’on en jugeait par l’échelle des prix ... ceux des biscuits qui étaient roses",
+      "translation_anchor": "若以广场上那家“商铺”或加缪店里的价码来衡量，那里的饼干，要数粉红色的最贵",
+      "finding": "si从价格等级为当地审美提供带条件的旁证；ceux ... qui限定粉红色的饼干这一类。译文若以保留了判断依据而未写成普遍客观的颜色优劣，最贵用来突出同类价格中的粉红一档，与此处等级比喻相合。保留。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "Moi-même j’appréciais plus le fromage à la crème rose ... écraser des fraises",
+      "translation_anchor": "我自己也更偏爱粉红色的奶油奶酪，就是那种允许我把草莓捣碎拌进去的",
+      "finding": "Moi-même把贡布雷的共同审美引回童年的我，plus表示偏爱粉红的程度。关系从句交代粉红来自获准捣入的草莓，译文捣碎拌进去将隐含的混合动作说清，没有把奶酪误说成天然粉红。保留。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "Et justement ces fleurs avaient choisi une de ces teintes ... aux yeux des enfants",
+      "translation_anchor": "而这些花恰好选了这样一种色调……因此在孩子眼里美得最显而易见",
+      "finding": "花仿佛自行选择颜色的拟人延续下来；两类参照物是可食之物和大节庆盛装上的娇嫩装饰。parce que引出儿童能看出这些颜色何以优越的原因，不是在比较两种色调孰优。译文这类色调把自身优越的理由摆在孩子面前准确保持这一指向。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "et à cause de cela, gardent toujours pour eux ... n’avaient pas été choisies par la couturière",
+      "translation_anchor": "也正因如此，即便孩子已经明白，这种色调对他们的馋嘴毫无许诺，也不是由女裁缝挑定的……依然比其他色调更鲜活、更自然",
+      "finding": "让步从句说明即便后来知道花色并不保证可吃、也非裁缝所选，童年形成的鲜活自然之感仍留存。译文即便与依然对应même lorsque与toujours，两个否定都保留，比较对象明确为其他色调。保留这一较长的心理分析句。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "Et certes, je l’avais tout de suite senti ... mais que c’était la nature",
+      "translation_anchor": "而且当然，我立刻就感觉到了……并非靠什么人工技艺译写出来，而是大自然自发的表达",
+      "finding": "l’预指后面que从句内容；comme devant les épines blanches比较此前感受，avec plus d’émerveillement补充此次惊叹更强。否定人为造作与肯定自然自发组成主旨，译文冒号和并非、而是使指代与对举清楚，未把节庆意向误归给园丁。保留。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "avec la naïveté d’une commerçante de village ... d’un pompadour provincial",
+      "translation_anchor": "带着一个为临时祭坛张罗布置的乡村女店主的天真，把色调过分娇嫩的玫瑰花饰堆满枝头，一派外省式的蓬帕杜风",
+      "finding": "自然被比作乡村女店主，travaillant pour un reposoir说明她为祭坛准备装饰，并非花由她制造。en surchargeant写过度堆饰，trop tendre及provincial使赞美中含有乡土艳丽的趣味。译文天真、堆满、过分娇嫩、外省式各自保留，未抹去这一微妙语气。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "Au haut des branches ... dont aux grandes fêtes on faisait rayonner sur l’autel les minces fusées",
+      "translation_anchor": "在高处的枝条上，仿佛那些花盆裹着镂空花纸的迷你玫瑰——每逢盛大节日，便以纤细的花穗照亮祭坛",
+      "finding": "长句先置枝头花蕾的位置，再引入祭坛上盆栽小玫瑰的形象。dont回指petits rosiers，其minces fusées是纤细而向外伸展的枝梢；faire rayonner以这些枝梢为宾语，描写放射状的陈设。原译照亮祭坛把形态误成照明效果，花穗也不能清楚指示玫瑰枝梢，列入修改。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "pullulaient mille petits boutons ... ne le pouvait qu’en rose",
+      "translation_anchor": "簇拥着千百个色调更浅的小花蕾……无论它在哪里抽芽，在哪里含苞待放，都只能以粉红色呈现",
+      "finding": "pullulaient以千百花蕾为主语；花蕾外浅内红，微开时像粉红大理石杯底，较成花更显露品种本性。译文依次写位置、浅色、微开、内里血红、与盛花比较，没有颠倒颜色内外。末尾ne ... que强调无论在哪里生长都必然开粉红花，译文只能以粉红色呈现承接含苞待放，保留其不可改变的本性。"
+    },
+    {
+      "unit": 17,
+      "source_anchor": "Intercalé dans la haie ... personnes en négligé qui resteront à la maison",
+      "translation_anchor": "它被夹栽在篱笆之中，却与篱笆截然不同，就像一个盛装打扮的少女站在一群穿着便服、只会待在家里的亲人中间",
+      "finding": "Intercalé指粉红山楂夹在普通树篱中，少女比喻强调盛装与家常便服的差异。personnes未说明是亲人，resteront只交代将留家，不含只会的习性或能力意味；两项偏移均进入同一处修改。"
+    },
+    {
+      "unit": 18,
+      "source_anchor": "tout prêt pour le mois de Marie ... l’arbuste catholique et délicieux",
+      "translation_anchor": "它已然整装待发，迎接圣母月，仿佛早已是其中的一部分——这株洋溢着天主教气息、惹人喜爱的小灌木，就穿着它那身清新的粉红裙装，含笑闪耀",
+      "finding": "dont回指圣母月，树仿佛已经属于这个宗教节期；末置主语l’arbuste回收全句，对树的天主教属性、娇美、粉红衣着与含笑光彩作总描写。译文将准备迎节与仿佛已参与并置，保留这层时间上的想象，清新的粉红裙装与盛装少女比喻连贯。保留。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "当我们心爱画家的作品中出现一幅不同于我们已见过的那些的画作",
+      "after": "当我们见到心爱画家的一幅画作，发现它不同于先前熟悉的那些作品",
+      "source": "quand nous voyons de notre peintre préféré une œuvre qui diffère de celles que nous connaissions",
+      "reason": "原文主句是我们看见一幅作品，关系从句说明它与已熟悉的作品不同；原译改成作品在作品中出现，既使感知动作消失，又形成作品中出现画作的绕口结构。恢复观看者及其所见，使这一快乐的触发条件明确。"
+    },
+    {
+      "type": "错译",
+      "before": "每逢盛大节日，便以纤细的花穗照亮祭坛",
+      "after": "每逢盛大节日，便把它们纤细的花枝呈放射状布置在祭坛上",
+      "source": "dont aux grandes fêtes on faisait rayonner sur l’autel les minces fusées",
+      "reason": "dont回指小玫瑰树；on faisait rayonner的宾语是les minces fusées，指让其纤细的枝梢在祭坛上向外放射、展开，并非让花穗发光去照亮祭坛。原译同时把玫瑰枝梢误写成花穗，改文恢复祭坛花饰的形状及布置动作。"
+    },
+    {
+      "type": "错译",
+      "before": "一群穿着便服、只会待在家里的亲人",
+      "after": "一群穿着便服、将留在家里的人",
+      "source": "personnes en négligé qui resteront à la maison",
+      "reason": "personnes只指人，没有亲属关系；resteront是将来时的留在家中，并不表示只会如此的能力或习性。这里用少女准备出门赴节庆与众人留家不盛装形成对照，删去亲人并恢复将来意味。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p248"
+  }
+}

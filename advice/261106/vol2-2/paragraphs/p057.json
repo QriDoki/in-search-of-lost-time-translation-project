@@ -1,0 +1,36 @@
+{
+  "id": 57,
+  "assessment": "本段以四个短促话语单元写散步者向同伴点明斯万夫人的身份，又用她旧日的名字唤起对方记忆。译文保留了问答自接、惊叹和逐步提示的语气，人物称谓与姓名无误；“这名字您一点印象也没有？”属于自然的口语话题句，无需为形式上的完整补入“对”。本段可保留。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Vous savez qui c'est ?",
+      "translation_anchor": "您知道这是谁吗？",
+      "finding": "qui c'est 指向眼前经过的女子，译作“这是谁”保留了现场指认；Vous 用“您”承接散步者对同伴说话的礼貌称呼。“知道……吗”的问句随后由说话者自己揭晓答案，译文保留这一节奏，无需修订。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Mme Swann !",
+      "translation_anchor": "斯万夫人！",
+      "finding": "Mme 是 Madame 的缩写，在此给出她婚后的社交称谓。译为“斯万夫人”准确，独立成句并用叹号，保留了认出知名人物后向同伴点明身份的强调语气；不必补写“她就是”等原文未有的成分。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Cela ne vous dit rien ?",
+      "translation_anchor": "这名字您一点印象也没有？",
+      "finding": "ne rien dire à quelqu'un 在这里是“使人想不起什么、没有印象”，并非字面的“没有告诉您什么”；Cela 承接刚说出的“斯万夫人”这一名字。译文明确为“这名字”，符合问话所指，用“一点印象也没有？”传达了说话者见对方没有反应而追问的语气；口语话题句省略“对”不影响理解，可保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Odette de Crécy ?",
+      "translation_anchor": "奥黛特·德·克雷西？",
+      "finding": "此处换用女子过去的姓名作进一步提示，仍是同一个散步者说话；下一段对方重复该名并回忆旧事，证实这里问的是对这一名号是否熟悉。译文保留完整音译及疑问语调，没有误作另一个人的称谓，也未添入解释性内容，可保留。"
+    }
+  ],
+  "changes": [],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p057"
+  }
+}

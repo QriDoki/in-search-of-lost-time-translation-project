@@ -1,0 +1,38 @@
+{
+  "id": 2,
+  "assessment": "本段逐句核对，姑妈生活范围逐步缩小、房间气味的拟人和烘焙长喻整体均有保留。发现一处时间描写及一处形容词语义偏移，另有两处中文表达可修顺；现有注释与这些修改没有冲突。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "那仍是冬天里的太阳，已经跑到炉火跟前取暖",
+      "after": "阳光仍带着冬日的寒意，已经跑到炉火跟前取暖",
+      "source": "le soleil, d'hiver encore, était venu se mettre au chaud devant le feu",
+      "reason": "时间是复活节周，d’hiver encore 描写阳光仍带冬意，并非说当时仍在冬天；同时保留太阳来取暖的拟人。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "乡下那种大“炉膛前”",
+      "after": "乡下大烤炉的“炉门前”",
+      "source": "un de ces grands « devants de four » de campagne",
+      "reason": "“大炉膛前”在现代中文中缺少明确的中心语；原文指乡间大烤炉前可供取暖的位置，改明空间关系。"
+    },
+    {
+      "type": "错译",
+      "before": "更酥脆、更讲究、层次更分明",
+      "after": "更酥脆、更细腻、更受推崇",
+      "source": "les arômes plus croustillants, plus fins, plus réputés",
+      "reason": "réputés 指有声誉、受推崇，并无“层次分明”的意思；fins 译“细腻”也更贴近此处感官比喻。"
+    },
+    {
+      "type": "不符合现代中文习惯",
+      "before": "有洗衣女工的气息，早起而虔敬",
+      "after": "操持衣物，早起而虔敬",
+      "source": "lingères, matinales, dévotes",
+      "reason": "原文将气味拟人化为操持衣物、早起、虔敬的居家妇女；“有洗衣女工的气息”容易被理解成女工本人的体味，打断同列拟人。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p002"
+  }
+}

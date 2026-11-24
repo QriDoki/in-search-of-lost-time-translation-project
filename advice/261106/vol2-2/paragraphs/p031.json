@@ -1,0 +1,30 @@
+{
+  "id": 31,
+  "assessment": "本段三单元均可保留。译文把弗朗索瓦丝对“我”走不动路的解释、对各处病人的怜悯，以及将反常天气归于天上失序的感叹连贯呈现，口吻符合人物的家常说话方式；未发现需要落地修改的错译或中文表达问题。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Ça n'est pas étonnant, dit Françoise, ce n'est pas un temps de saison, il fait trop chaud.",
+      "translation_anchor": "这也不奇怪，弗朗索瓦丝说，这不是这个季节该有的天气，天太热了。",
+      "finding": "Ça 承接前段“我”连腿也拖不动的状况，“这也不奇怪”准确保留她以天气解释疲乏的语气；ce n’est pas un temps de saison 指天气不合时令，“不是这个季节该有的天气”没有误解为季节本身。il fait trop chaud 是反常天气的具体表现，“天太热了”保留程度。“弗朗索瓦丝说”的插入位置也与原文一致，无需调整。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Hélas !",
+      "translation_anchor": "唉！",
+      "finding": "本单元是怜悯与忧叹的独立感叹，“唉！”既衔接前面的酷热，又引出后面对病人的担忧，语气和标点均与原文相称。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "mon Dieu, de partout il doit y avoir bien des pauvres malades, c'est à croire que là-haut aussi tout se détraque.",
+      "translation_anchor": "我的老天爷，这会儿四处不知有多少病人遭罪啊，简直像是天上也乱套了。",
+      "finding": "mon Dieu 是口语呼告，“我的老天爷”符合弗朗索瓦丝的说话方式。de partout 与 bien des 分别落在“四处”和“不知有多少”；il doit y avoir 是基于酷热作出的推想，中文“不知有多少”表达对此数量的揣想，没有写成已知事实。pauvres 在此怜悯患病者，并非限定经济贫困，“病人遭罪啊”把这层怜悯放在酷热语境中表达，可保留。“这会儿”是依当前天气而自然带出的时间定位，未改变叙事时间。c’est à croire 表示让人近乎相信的感叹，“简直像是”保留其非断言性质；là-haut 指天上，aussi 的“也”和 se détraque 的“乱套了”均得到保留，“乱套”本身也传达了 tout 所指的整体失序。无需为字面对应另改句式。"
+    }
+  ],
+  "changes": [],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p031"
+  }
+}

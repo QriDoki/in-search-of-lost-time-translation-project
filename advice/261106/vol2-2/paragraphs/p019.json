@@ -1,0 +1,144 @@
+{
+  "id": 19,
+  "assessment": "16个逐句／意群单元均已核对（末单元仅为闭引号）。本段两个自我、现实形象与记忆形象、赠珠如解救俘虏的比喻总体完整；建议恢复爱情被修正及独立对象的关系、爱情取得进展的主语，并修整“迫切形象”“推到期盼”和hygiène的表达，共5处。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "confronter mon amour, pour lui faire subir les rectifications nécessaires, à sa cause vivante, indépendante de moi",
+      "translation_anchor": "同那个使我爱上的、活生生的现实人物相对照，以便修正我对她的想象",
+      "finding": "句首quand／dès que／aussitôt连成习惯性的到场、看见和立即感到判若两人的过程，现译“每当”“刚一”“每回”方向正确。疲惫记忆期待借见面更新形象、昨天一同玩耍、先于反思的盲目招呼本能及走路比喻均已保留。但lui回指mon amour，作必要修正的对象是爱情，现译却直接改成“我对她的想象”；且indépendante de moi是活的对象独立于主体的关键限定，宜明确补回。建议合并修正这一局部，其余长句结构保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "un certain effilement aigu du nez ... ces caractères qui en histoire naturelle définissent une espèce",
+      "translation_anchor": "鼻尖细削地收拢成一点……把她划入尖脸尖口的一类姑娘",
+      "finding": "记忆中火样眼睛与饱满光润面颊，和眼前偏偏未曾记住的细尖鼻子形成对照，条件与现在观察的关系未倒置。鼻部与其他特征组合、获得物种分类般的重要性，继而将她变成尖嘴一类姑娘，译文完整；“尖脸尖口”保留museau的略带动物化、分类式的观感，不宜只因不够赞美就改平。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "sur l'image de Gilberte que j'avais préparée avant de venir et que je ne retrouvais plus dans ma tête ... elle me passait une balle",
+      "translation_anchor": "对来之前备好的那幅希尔贝特影像——此刻我在自己脑子里却找不到了——做一次校准……就在这时，她把球传给了我",
+      "finding": "Tandis que的未完成心理准备被现实传球打断，现译“正打算”“就在这时”准确。来前准备的形象现在又找不到，并非原文逻辑错误；校准的目的，是在独处时确信回忆的是她、像创作作品一样逐渐增长的确是对她的爱，两项确信均保留。此处image的修正不等于第一句中amour本身的修正，不应反向将前句对象也改成想象。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "le même moi ... l'image urgente et égarée ... les progrès décisifs ... pour l'après-midi suivante",
+      "translation_anchor": "另一个“我”……那幅迫切而走失的形象……这些进展，我每一次都只能推到期盼第二天下午",
+      "finding": "唯心论者身体承认外界而理智不承认的比喻，对应自动游戏的我与恋爱沉思的我之分；现译保留了先打招呼、接球、出于礼数闲谈直至她离开的动作链。两个被阻止的选择，分别是沉默以找回形象、表白以推进爱情，关系也清楚。惟“迫切而走失的形象”把迫切当作形象直接属性，在中文生硬；应表达我急于找回它。结尾“只能推到期盼第二天下午”句式不成立，应明确每次只好期待那些进展到次日下午实现。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Il en faisait pourtant quelques-uns.",
+      "translation_anchor": "不过，这个我到底还是促成了一些进展。",
+      "finding": "en／quelques-uns承接上一句的progrès；Il承接能faire des progrès的notre amour，是说爱情其实仍有一些进展，用下面的赠弹珠事件说明。现译把主语定成“这个我”，并增成该自我“促成”进展，改变了这句的转折落点；建议直接恢复“我们的爱情……有了一些进展”。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "par hygiène, il en consommait beaucoup, souffrant d'un eczéma ethnique et de la constipation des Prophètes",
+      "translation_anchor": "出于卫生，他吃得很多",
+      "finding": "女摊主特别和气与斯万常派人买姜饼的原因关系、希尔贝特笑指两男孩像儿童书里的色彩家与博物学家，均已传达。par hygiène说明大量吃姜饼是为了身体健康或保健，随后列举身体毛病；“出于卫生”在现代中文容易指食品清洁，也缺少合适搭配，应改成“出于保健的考虑”。族群与先知式病名的戏谑用语已有译注，本段不据此扩展医学解释或重写注释。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "l'un ne voulait pas d'un sucre d'orge rouge ... J'aime mieux l'autre prune, parce qu'elle a un ver !",
+      "translation_anchor": "一个不肯要红色的麦芽糖，说他更喜欢紫的……因为它里面有虫！",
+      "finding": "第一男孩按颜色偏好拒绝红糖，第二男孩拒绝保姆想给他买的李子，最后激动说更爱有虫的那颗，两个儿童嗜好分别照应色彩家和博物学家。现译未把有虫误当拒绝原因，也保留了先哭后说出偏好的喜剧反转；保留。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "J'achetai deux billes d'un sou.",
+      "translation_anchor": "我买了两颗每颗一苏的弹珠。",
+      "finding": "单元开头只是前一引语的闭合符号。d’un sou修饰普通弹珠的价位，译作每颗一苏，和后文五十生丁的玛瑙弹珠构成价格对照；数量两颗无误，保留。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "lumineuses et captives dans une sébile isolée ... souriantes et blondes comme des jeunes filles ... cinquante centimes pièce",
+      "translation_anchor": "它们亮晶晶的，被单独关在一只木碗里……少女般的金黄光泽……每颗要五十生丁",
+      "finding": "明亮又被囚于另置小碗的弹珠、少女的含笑与金色、五十生丁单价，共同解释叙述者的珍贵感。现译把倒装描写移到冒号后，指向仍明确；“关”“赎”“小俘虏”构成后文持续拟人化的起点，保留。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "à qui on donnait beaucoup plus d'argent qu'à moi ... laquelle je trouvais la plus belle",
+      "translation_anchor": "人家给希尔贝特的钱比我多得多，她问我觉得哪一颗最美。",
+      "finding": "on未明指给钱者，译文“人家”没有擅自限定；两个孩子所得金钱的比较方向以及她询问我的偏好都准确，保留。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "Elles avaient la transparence et le fondu de la vie.",
+      "translation_anchor": "它们透明、温润，仿佛是活的。",
+      "finding": "Elles仍指玛瑙弹珠；transparence及fondu将透明、柔和融洽的视觉质感与生命联结。现译“透明、温润，仿佛是活的”是对此通感的可接受中文处理，未把它们当真活物，也不必机械改成“生命的融合”。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "Je n'aurais voulu lui en faire sacrifier aucune.",
+      "translation_anchor": "我一颗也不愿让她舍弃。",
+      "finding": "aucune与否定表达不愿她牺牲其中任何一颗，正为下文全买下的愿望作铺垫；中文省略条件式不损失这份不愿取舍的心理，保留。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "J'aurais aimé qu'elle pût les acheter, les délivrer toutes.",
+      "translation_anchor": "我倒希望她能把它们全买下，全赎出来。",
+      "finding": "acheter与délivrer并置，把购买说成解救，toutes强调全部。现译两个“全”及“赎”延续囚禁比喻，愿望而非已经实现的语气也清楚，保留。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "Pourtant je lui en désignai une qui avait la couleur de ses yeux.",
+      "translation_anchor": "不过，我还是给她指了指其中一颗，那颜色正像她的眼睛。",
+      "finding": "Pourtant由不愿取舍转到实际选一颗；ses yeux是希尔贝特的眼睛，现译代词仍清楚。眼睛颜色只在此处作选择依据，不宜按前段火样眼睛另外指定实有颜色，保留。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "chercha son rayon doré, la caressa, paya sa rançon ... elle est à vous ... gardez-la comme souvenir",
+      "translation_anchor": "寻找它那道金色的光，抚摸着它，花钱将它“赎”了出来……您留着做个纪念",
+      "finding": "取珠、寻找珠中的金光、抚摸、付赎金、立即转赠的动作顺序完整；son与sa captive都承接弹珠而非希尔贝特，中文“小俘虏”明确指珠。结尾从她买珠转为赠我，现译“便把”仍显示立即交出，三段引语给出归属、赠予及纪念目的，没有遗漏，保留。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "»",
+      "translation_anchor": "您留着做个纪念。",
+      "finding": "本单元只有收束上一句的引号，没有独立词义或新句内容；已在第15单元连同赠珠引语核对，中文闭引号齐全，不另作实质修改。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "同那个使我爱上的、活生生的现实人物相对照，以便修正我对她的想象",
+      "after": "同那个使我爱上的、独立于我而存在的活生生的人相对照，以便对这份爱情作必要的修正",
+      "source": "confronter mon amour, pour lui faire subir les rectifications nécessaires, à sa cause vivante, indépendante de moi",
+      "reason": "lui回指mon amour，必要修正的对象是爱情，不能直接换成对她的想象；同时补回现实对象独立于叙述者而存在的限定。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "那幅迫切而走失的形象",
+      "after": "那幅我急于找回、却已遗失的形象",
+      "source": "l'image urgente et égarée",
+      "reason": "“迫切”直接修饰形象不合中文搭配；此处是我急需重新抓住的、已经在记忆里失落的形象。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "而这些进展，我每一次都只能推到期盼第二天下午。",
+      "after": "而每一次，我都只好指望这些进展能在第二天下午实现。",
+      "source": "les progrès décisifs sur lesquels j'étais chaque fois obligé de ne plus compter que pour l'après-midi suivante",
+      "reason": "“推到期盼第二天下午”句法错接，原意是被迫把实现进展的期待一次次推至第二天下午；改文明确期待的内容和时间。"
+    },
+    {
+      "type": "错译",
+      "before": "不过，这个我到底还是促成了一些进展。",
+      "after": "不过，我们的爱情到底还是有了一些进展。",
+      "source": "Il en faisait pourtant quelques-uns.",
+      "reason": "en／quelques-uns承接progrès，Il承接notre amour，说爱情仍取得一些进展；现译误把这个我定为促成进展的主语。"
+    },
+    {
+      "type": "错译",
+      "before": "出于卫生，他吃得很多",
+      "after": "出于保健的考虑，他吃得很多",
+      "source": "par hygiène, il en consommait beaucoup",
+      "reason": "hygiène在此指维护身体健康的考虑，并非食品清洁或卫生状况；新译也补足现代中文的搭配。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p019"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 178,
+  "assessment": "本段对话及指代基本准确；姑妈预感将要疲倦，原译“累垮”明显加重了程度，宜收回到原文的轻缓语气。其余保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "她已经开始觉得自己要被累垮了",
+      "after": "她已经开始觉得自己快要累了",
+      "source": "qui commençait à penser qu'elle allait être fatiguée",
+      "reason": "原文只说开始觉得自己将会疲倦，并无“累垮”所含的不堪支撑之意；被动式“被累垮”也额外强化了外界使她受累的意味。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p178"
+  }
+}

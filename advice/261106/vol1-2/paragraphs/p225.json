@@ -1,0 +1,87 @@
+{
+  "id": 225,
+  "assessment": "本段以勒格朗丹的势利心说明人如何借想象掩蔽自身激情。逐句核对发现三处值得修订：第二句把“自己是势利小人”误解为“自己是否真诚”，破坏了首两句的论证；第三句把“只以间接方式作用”的限定弱化成“往往”，且将动机改说成欲望与理由；第六句漏掉勒格朗丹因自认趋向才智美德而自我赞许的意味。其余句子保留，尤其末句旁观者因看不见想象的中介加工而反能直见动机与行为的讽刺关系已经译出。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "自己是否真诚",
+      "after": "自己是个势利小人",
+      "source": "qu’il le fût, puisque nous ne connaissons jamais que les passions des autres",
+      "reason": "le回指前句的snobs，即他不知道自己也是势利小人；不是回指sincère。原译使下一句关于不自知的激情的论证失去对象，并把原文已承认的真诚又改成疑问。"
+    },
+    {
+      "type": "错译",
+      "before": "我们的激情往往要经由想象才作用于自己；想象则为最初的欲望换上一套更体面的理由。",
+      "after": "我们的激情只会经由想象，间接地作用于我们自身；想象用更体面的替代动机换掉最初的动机。",
+      "source": "elles n’agissent que d’une façon seconde, par l’imagination qui substitue aux premiers mobiles des mobiles de relais qui sont plus décents",
+      "reason": "ne…que限定激情在本人意识中只经由间接作用呈现，“往往”却表示有例外的频率，漏掉了限定。两处mobiles均指行为动机，原文讲想象以体面动机替代原始动机，不是仅为欲望找一套辩解理由。"
+    },
+    {
+      "type": "错译",
+      "before": "还自以为是在屈从于才智与美德的吸引力",
+      "after": "还为自己受才智与美德的吸引而自我赞许",
+      "source": "s’estimant de céder à cet attrait de l’esprit et de la vertu",
+      "reason": "s’estimant de指因自己作出这样的选择而自许、自我欣赏；原译“自以为”只留下错误认知，漏掉主人公由此抬高自我评价的反讽。“受……吸引”也比中文“屈从于……吸引力”自然，并保留了原文的动因。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Et certes cela ne veut pas dire…ne fût pas sincère quand il tonnait contre les snobs",
+      "translation_anchor": "当然，这绝不是说勒格朗丹先生痛斥势利小人的时候言不由衷。",
+      "finding": "两个否定的关系译对：叙述者并不否认勒格朗丹痛斥势利者时的真诚。“痛斥”对应tonnait的激烈声势，“言不由衷”对应不真诚；此句是在承认主观真诚的前提下解释其不自知，无需改动。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Il ne pouvait pas savoir, au moins par lui-même, qu’il le fût",
+      "translation_anchor": "他不可能知道——至少不可能通过自己知道——自己是否真诚",
+      "finding": "插入语au moins par lui-même所限的是“凭自身认知而知道”，现译已保留；但le所代的是snob，而不是sincère，须把末尾改成“自己是个势利小人”。此处否定的是他对自身势利的认识，并不怀疑上句所说的真诚。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "puisque nous ne connaissons jamais que les passions des autres…ce n’est que d’eux que nous avons pu l’apprendre",
+      "translation_anchor": "因为我们认识的从来只有别人的激情，而对自己的激情所能了解到的那点东西，也只能从别人那里学来。",
+      "finding": "puisque引出的理由是人能直接认出的总是别人的激情，对自身激情的了解也必须来自他人的反馈。“从来只有”与“也只能”分别保留两处排他限定，d’eux指他人而非激情本身，原译指代清楚。“那点东西”传达自我认识有限的语气，可保留；前一意群改正后因果即连贯。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Sur nous, elles n’agissent que d’une façon seconde…aux premiers mobiles des mobiles de relais",
+      "translation_anchor": "我们的激情往往要经由想象才作用于自己；想象则为最初的欲望换上一套更体面的理由。",
+      "finding": "elles回指passions，sur nous强调激情对当事人自身的作用。ne…que d’une façon seconde是“只间接地”，不是“往往”；想象作为中介，把原始动机替换成体面的接替动机。原译“欲望／理由”容易把这层心理替代变成事后辩解，故整句调整，同时保留其抽象论述及分号衔接。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Jamais le snobisme de Legrandin ne lui conseillait d’aller voir souvent une duchesse",
+      "translation_anchor": "勒格朗丹的势利心从不直接怂恿他常去看望某位公爵夫人。",
+      "finding": "Jamais否定势利心对他的直接指使，souvent修饰拜访的频繁程度；“从不直接怂恿”“常去看望”使两层频率区分清楚。中文所补“直接”由前后句的中介机制支持，并未把“从不”弱化；une duchesse译“某位公爵夫人”恰当，保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Il chargeait l’imagination de Legrandin…comme parée de toutes les grâces",
+      "translation_anchor": "它把这件事交给勒格朗丹的想象去办：让这位公爵夫人在他眼里显得集一切风雅于一身。",
+      "finding": "Il回指拟人化的snobisme，“它”正确；“交给……想象去办”保留势利心委托想象的写法。faire apparaître…comme说明这些美好风采是想象给他呈现的形象，原译“在他眼里显得”保留主观性，并未断言公爵夫人确有这些品质。“集一切风雅于一身”承接grâces的优美风采，虽有中文修辞转化，未见必须修订的语义问题。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Legrandin se rapprochait…s’estimant de céder à cet attrait de l’esprit et de la vertu qu’ignorent les infâmes snobs",
+      "translation_anchor": "于是勒格朗丹向公爵夫人靠拢，还自以为是在屈从于才智与美德的吸引力，那是卑劣的势利小人们所不知晓的吸引力。",
+      "finding": "向公爵夫人靠拢的结果关系与“才智／美德”的精神价值对照均已译出；qu’ignorent的主语是卑劣的势利者，宾语是这种吸引力，现译无倒置。不过s’estimant不仅是以为自己被精神品质吸引，还表示为此自我欣赏，须补回“自我赞许”。结尾关于势利者不了解这种吸引力的说法仍承接他的自我辩护，保留反讽。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Seuls les autres savaient qu’il en était un…grâce à l’incapacité…le travail intermédiaire de son imagination",
+      "translation_anchor": "只有旁人才知道他本人就是一个势利小人；因为旁人无从理解他的想象所做的这种中间加工",
+      "finding": "en était un明确指他也是势利者，现译准确，亦反证前句le的所指。Seuls与“只有”对应；grâce à的悖论是旁人恰因无法看见想象的心理加工而能识破势利。现译以“因为”引出其原因，保留了这种反常因果，并未误说旁人参与了想象加工。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "ils voyaient en face l’une de l’autre l’activité mondaine de Legrandin et sa cause première",
+      "translation_anchor": "便只看到了勒格朗丹的交际行为与其最初动机之间直接的联系。",
+      "finding": "ils仍指旁人；原文把社交活动与第一动因相对并列，强调没有想象的中介遮挡。“交际行为”“最初动机”对应两端，“直接的联系”把相对而见的意象转为逻辑陈述，符合此处论证。“只看到”承接旁观者看不见中间加工的局限，并未改变他们识破势利的结论，可保留。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p225"
+  }
+}

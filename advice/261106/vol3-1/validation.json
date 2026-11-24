@@ -1,0 +1,14 @@
+{
+  "paragraphs": 293,
+  "independent_paragraph_reports": 293,
+  "changed_paragraphs": 263,
+  "retained_paragraphs": 30,
+  "annotations_preserved": 146,
+  "titles_unchanged": true,
+  "source_sha256": "3fda48b541936451c6ab7fc3858dbdbb6cc7cd4eee257a2022d2978558da3194",
+  "translation_before_sha256": "ede6d55200d14afa5b445f5b1d0672c961e5304ca5ea201aae0bd866d7c41ce4",
+  "translation_after_sha256": "854363f0c478c138bac5cdf89d4e14ba531f099133deee9095f92e4ce3b09474",
+  "review_base_commit": "ed702881b47e6e76b79d84aa17e3dbfc23cdeda3",
+  "branch_base_commit": "5dab175103b5c3f3240a889bdfc45e968b7ac9f5",
+  "dev_build": "POLISH_VERSION=dev npm run build passed"
+}

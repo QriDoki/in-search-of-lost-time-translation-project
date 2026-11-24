@@ -1,0 +1,117 @@
+{
+  "id": 297,
+  "assessment": "本段从盖尔芒特方向散步须择晴日，转入佩尔尚街的记忆复原，再以旧画保存建筑旧貌作比；三个层次及长句中的递进关系均已译出。逐句核对后，建议修订黄蜂作植物采集的拟人意象、普通肖像与著名艺术形象之间的对比，以及达·芬奇的中文名称。其余如弗朗索瓦丝抱怨天气的反语、复原建筑的夸张及记忆即将消亡的限定均予保留；现有注释无须改动。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "两三只黄蜂整天在草丛间采集花粉",
+      "after": "两三只黄蜂整天在草丛间采集植物标本",
+      "source": "deux ou trois guêpes passaient la journée à herboriser",
+      "reason": "herboriser指采集、研究植物，作者将黄蜂写成采集植物的行家，带有拟人意味；原文未说花粉，译成采集花粉把这一有意的拟人改成了普通昆虫活动。"
+    },
+    {
+      "type": "错译",
+      "before": "一幅晦暗的肖像",
+      "after": "一幅不起眼的肖像",
+      "source": "un obscur portrait à ces effigies glorieuses",
+      "reason": "这里以童年贡布雷的普通肖像同著名艺术形象对比，obscur侧重不显赫、不为人知，glorieuses侧重声名；“晦暗”把对比偏移成了画面的明暗。"
+    },
+    {
+      "type": "不符合现代中文习惯",
+      "before": "芬奇的杰作",
+      "after": "达·芬奇的杰作",
+      "source": "le chef-d'œuvre de Vinci",
+      "reason": "Vinci在此指画家达·芬奇，《最后的晚餐》已在前文点出；采用通行中文名可清楚落实人名指代。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "S'il était assez simple d'aller du côté de Méséglise ... sûr du temps qu'il ferait",
+      "translation_anchor": "去梅塞格利丝那边还算简单，去盖尔芒特家那边却是另一回事，因为路远，得先确信天气靠得住才行。",
+      "finding": "S'il在此以一边容易衬托另一边费事，译文用并列转折而非机械的假设句，符合逻辑；car说明路程长导致必须确认天气，因果完整。“天气靠得住”落实的是预期散步期间的天气，口语自然，可保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Quand on semblait entrer dans une série de beaux jours ... surface calme et bleue du ciel",
+      "translation_anchor": "眼看就要进入一连串的好日子；弗朗索瓦丝见天上一滴雨也不落，不为“可怜的庄稼”解渴，绝望之余，只看见几片稀稀拉拉的白云在平静湛蓝的天面上游荡",
+      "finding": "这是一连串quand条件意群的开头，后文“于是”收束，译文虽未逐项重复“当”，仍保留晴日、抱怨与天气判断累积后才决定出游的次序。“好日子”在此天气上下文中可理解为晴日；“解渴”将为庄稼降雨的意思形象化，没有另加事件。ne ... que的限制落在少数白云上，译文“只看见几片”对应明确；海面般的天空和云的游动也保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Ne dirait-on pas ... des chiens de mer qui jouent en montrant là-haut leurs museaux",
+      "translation_anchor": "这不明摆着，活像一群海狗在上面玩闹，露着它们的嘴头子吗！",
+      "finding": "原文用反问把白云拟作露出吻部玩耍的海兽；译文保留反问、海狗和露嘴的动态，“嘴头子”也配合弗朗索瓦丝的乡土口吻。ni plus ni moins的强调由“不明摆着”承担，可保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Ah ! ils pensent bien à faire pleuvoir pour les pauvres laboureurs !",
+      "translation_anchor": "哼！它们可压根儿不惦记着给可怜的庄稼人下场雨！",
+      "finding": "ils指前面的海狗般白云；pensent bien在抱怨语境中是反语，实际意思是不顾农人需要。译文明确译出否定而非误当肯定，“它们”承接正确，“庄稼人”对应laboureurs。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "quand les blés seront poussés ... sans plus savoir sur quoi elle tombe que si c'était sur la mer",
+      "translation_anchor": "等麦子长起来了，雨才会滴滴答答、不紧不慢地下个不停，落在什么东西上它也分不清，就像落在海面上一样",
+      "finding": "此句预想庄稼不再需要时雨却不停下，译文“等……才……”传出弗朗索瓦丝的抱怨。tout à petit patapon的拟声节奏由“滴滴答答”承担，“不紧不慢”是对这一节奏的中文铺写，可容许；sans discontinuer落实为“下个不停”。末句将雨拟人化，意为不辨落处、仿佛落到海上一般，译文保持这一比较而未误解为雨不知道海在哪里。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "quand mon père avait reçu ... alors on disait au dîner ... Demain s'il fait le même temps",
+      "translation_anchor": "父亲照例从园丁和晴雨表那里得到同样令人放心的答复，于是晚饭桌上大家便说：“明天要是天气还这样，我们就去盖尔芒特家那边走走。”",
+      "finding": "园丁与晴雨表并作天气判断来源，译文保留这种并置；invariablement与mêmes由“照例”“同样”表达。alors引出决定，明日天气不变仍是出游的条件，译文“要是……就……”未把计划写成无条件事实。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "On partait tout de suite après déjeuner ... rue des Perchamps, étroite et formant un angle aigu",
+      "translation_anchor": "午饭后我们立刻动身，从花园的小门出去，一头就撞进了佩尔尚街。这条街又窄，又拐成一个尖角",
+      "finding": "déjeuner在这里是午饭，tout de suite和小门出口均准确保留。on tombait dans表现出了小门便进入街道，中文“一头就撞进”稍带形象而未改变路线；将原文街道定语拆为后一句，使狭窄、尖角两项说明更清楚，没有切断逻辑。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "remplie de graminées ... deux ou trois guêpes passaient la journée à herboriser",
+      "translation_anchor": "长满野草，两三只黄蜂整天在草丛间采集花粉",
+      "finding": "graminées是禾本科草类，泛译“野草”在街道草丛的描写中不影响本句信息；两三只及整天均已保留。但herboriser是采集植物的活动，“采集花粉”指定了原文没有的对象，并抹去黄蜂如植物采集者的拟人，建议改为“采集植物标本”。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "aussi bizarre que son nom ... qu'on chercherait en vain ... s'élève l'école",
+      "translation_anchor": "它就像它的名字一样古怪，那些奇特之处和乖戾的禀性仿佛都是从这名字里派生出来的；你在今天的贡布雷找它是白费力气，学校已经盖在了它原来的路线上。",
+      "finding": "aussi ... que的比较对象是街道与它的名字，译文没有误落到黄蜂或草丛；d'où指名字，中文明确复指。revêche将街道性格化为乖戾，译文保留。chercherait en vain的假想徒劳和学校占据旧街道位置的原因均有对应，“它”始终指佩尔尚街。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "Mais ma rêverie ... architectes élèves de Viollet-le-Duc ... au VIIe siècle",
+      "translation_anchor": "可是我的遐想（就像那些师承⊂维奥莱-勒-杜克⊃ ... 的建筑师，自以为在一道文艺复兴时期的圣坛屏风和一座十七世纪的祭坛底下找到了罗曼式唱诗堂的遗迹，便把整座建筑恢复成它在七世纪应有的模样）",
+      "finding": "括号将遐想比作复原派建筑师，croyant的主观确信由“自以为”准确表现；文艺复兴屏风、十七世纪祭坛、罗曼式唱诗堂、七世纪四层信息与次序均齐全。devait être是建筑师设想的旧貌，中文“应有的模样”保留了推定语气。注释补充背景而不与本文相冲突。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "ne laisse pas une pierre du bâtiment nouveau, reperce et « restitue » ... des données plus précises",
+      "translation_anchor": "对新校舍一块石头也不留，重新打通、“复原”出佩尔尚街。何况要做这类复原，我的遐想掌握的凭证比一般修复师手里的更确切",
+      "finding": "ne ... pas une pierre是完全拆除的夸张，译文保留否定范围；nouveau bâtiment依上文学校落实为新校舍，指代清楚。reperce表示重新开出街道，“重新打通”合适。Elle指遐想，译文明示；比较的是复原依据的确切程度，而非遐想本身更真实，中文“凭证比……更确切”对应无误。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "quelques images conservées par ma mémoire ... destinées à être bientôt anéanties ... du temps de mon enfance",
+      "translation_anchor": "那就是我的记忆保存下来的几幅画面——也许是至今仅存的最后几幅，注定很快就要泯灭——画的是我童年时代贡布雷的模样",
+      "finding": "冒号后的记忆画面解释“凭证”；“也许”只限定其为当今最后残存的图像，译文位置正确。destinées预告这些记忆也将消亡，中文“注定很快就要泯灭”没有写成已经遗忘。童年贡布雷是画面的内容，中文另补谓语“画的是”使法语后置结构明确。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "parce que c'est lui-même qui les a tracées en moi avant de disparaître, émouvantes ... un obscur portrait à ces effigies glorieuses",
+      "translation_anchor": "又因为正是贡布雷自己在消失之前把它们刻进了我心里，它们才那样动人——假如可以把一幅晦暗的肖像，同外祖母喜欢拿复制品给我看的那些光辉造像相比的话",
+      "finding": "lui-même指贡布雷，les指记忆画面，译文两者均明确；动人之因是对象在消失前亲自在心中留下印记，因果保留。比较的自谦插语也译出，但obscur与glorieuses在这里是普通无名与显赫著名的对比，“晦暗”容易误指画面色调，建议改为“不起眼”；其余“外祖母喜欢拿复制品给我看”的关系正确。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "comme ces gravures anciennes de la Cène ou ce tableau de Gentile Bellini ... le chef-d'œuvre de Vinci et le portail de Saint-Marc",
+      "translation_anchor": "就像《最后的晚餐》的那些古版画，或真蒂莱·贝利尼的那幅画：透过它们，能看到芬奇的杰作和圣马可教堂的门廊处在一种今天已不复存在的状态之中。",
+      "finding": "古版画和贝利尼画作并列，分别保存《最后的晚餐》和圣马可门廊的旧貌；译文按照原文对应次序列出两对象，并将“不复存在”限定于其旧状态，没有误说杰作和门廊现已不存在。Vinci指达·芬奇，建议补足通行中文名称，其余专名、或的并列与旧貌类比均可保留。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p297"
+  }
+}

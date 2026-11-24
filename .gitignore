@@ -61,3 +61,7 @@ raw-md/**/images
 conversion_log.txt
 十五人译本/
 compare-report/chapters
+
+# 普鲁斯特之友下载语料及含原文的本地对比产物
+raw-proust-corpus/
+compare-report/proust-corpus/

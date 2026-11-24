@@ -1,0 +1,92 @@
+{
+  "id": 301,
+  "assessment": "本段的睡莲往返、神经衰弱者习惯循环以及但丁受催离开的三层比喻基本完整，水流与花梗的运动关系、病痛怪癖与徒劳挣扎的因果也均可对应。建议两处局部修订：singulier在此形容刑罚奇特，并未断言独一无二；末尾省略句比较的是父母如维吉尔一般催促叙述者追赶，应保留催促者这一关系。其余长句的拆分没有破坏论述顺序，可保留。现有注释及标记保持原样。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "那种折磨独一无二",
+      "after": "那种折磨十分奇特",
+      "source": "dont le tourment singulier",
+      "reason": "singulier在这里指奇特、异乎寻常的折磨；“独一无二”增加了没有任何同类的排他断言，超出原文。"
+    },
+    {
+      "type": "错译",
+      "before": "就像我追我的父母一样",
+      "after": "就像我的父母也催我赶紧追上他们一样",
+      "source": "si Virgile […] ne l’avait forcé à le rattraper au plus vite, comme moi mes parents",
+      "reason": "末尾是省略结构：mes parents是与Virgile对应的施事，moi是被催促追赶的人。原译只比较追赶动作，淡化了父母催促我、使我无法继续驻足观察的因果；补明施事与催促关系，使末尾回扣散步场景。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Bientôt le cours de la Vivonne s’obstrue de plantes d’eau.",
+      "translation_anchor": "很快，维沃纳河的河道便被水生植物堵塞了。",
+      "finding": "cours在这里是河道、水流所经之处，s’obstrue de表示水草逐渐阻塞河道；译文以“河道”“被水生植物堵塞”交代对象与成因。“很快”承接沿河行进的观察顺序，可保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Il y en a d’abord d’isolées comme tel nénufar […] laissait si peu de repos",
+      "translation_anchor": "先看到的是些孤零零的，比如某朵睡莲：它偏偏生在水流中间，位置倒霉，激流不给它片刻安宁",
+      "finding": "Il y en a中的en回指水生植物，d’isolées指最初零散孤立的植株；译文以“些孤零零的”承前省略名词仍清楚。“位置倒霉”对应d’une façon malheureuse，说明它横处水流中的不利位置，后面的不得安宁由水流造成，指代与因果均已保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "comme un bac actionné mécaniquement […] refaisant éternellement la double traversée",
+      "translation_anchor": "它就像一艘机械驱动的渡船，刚靠上这一岸，便又折返它来的那一岸，一遍遍往返两岸，永远不得停歇。",
+      "finding": "bac是渡船，actionné mécaniquement是机械驱动；n’abordait […] que pour retourner强调靠岸随即折返的往复结构，译文用“刚……便又……”传达，且“它来的那一岸”保留出发岸的指向。“一遍遍往返两岸”覆盖double traversée和éternellement，拟机械运动的比喻完整。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Poussé vers la rive, son pédoncule se dépliait, s’allongeait, filait, atteignait l’extrême limite de sa tension",
+      "translation_anchor": "被水推向岸边时，它的花梗便舒展开来，越伸越长，一路窜去，绷到极限，够到岸边",
+      "finding": "开头被推向岸边的是睡莲，随后主语转为花梗；译文“被水推向岸边时，它的花梗……”能够承接前句辨明植物与其花梗。se dépliait、s’allongeait、filait与达到张力极限的连续动作分别落实为舒展、伸长、窜去、绷紧，保留运动递进和长句节奏。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "où le courant le reprenait, le vert cordage se repliait sur lui-même et ramenait la pauvre plante",
+      "translation_anchor": "就在那里，水流重新攫住它，那根绿色的缆索自己盘绕回来，把这可怜的植物拖回",
+      "finding": "où回指岸边，le courant le reprenait表示水流在那里又将其带回；“就在那里”“重新攫住它”对应。vert cordage继续以缆索比花梗，se repliait sur lui-même是向自身折回，译作“自己盘绕回来”与后面的拖回相连，植物、花梗和水流的作用关系未颠倒。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "ce qu’on peut d’autant mieux appeler son point de départ qu’elle n’y restait pas une seconde sans en repartir",
+      "translation_anchor": "一个我们尽可以称之为“出发点”的地方；说“尽可以”，是因为它在那儿一秒也待不住，同一套动作重演一遍，它又出发了",
+      "finding": "d’autant mieux […] que以立刻再出发来解释为何尤其适合称为“出发点”，包含对départ字面的诙谐强调。译文用“说‘尽可以’，是因为……”明确该解释关系；“一秒也待不住”与“又出发”覆盖不逗留便再次离开的否定结构，同套动作重演亦未漏译，可保留。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Je la retrouvais de promenade en promenade […] mon grand-père comptait ma tante Léonie",
+      "translation_anchor": "此后每次散步，我都会再遇见它，境况一如从前，叫人想起某些神经衰弱症患者——我外祖父就把莱奥妮姑妈算在这一类人当中。",
+      "finding": "la回指睡莲，de promenade en promenade表示每次散步反复遇见；“每次”“再”“一如从前”保留重复与不变。au nombre desquels说明是外祖父将莱奥妮归入这类人，译文保留了判断者而未将诊断直接归于叙述者。把插入语后断句不影响下一句继续说明这类患者。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "qui nous offrent sans changement au cours des années […] qu’ils se croient chaque fois à la veille de secouer et qu’ils gardent toujours",
+      "translation_anchor": "年复一年，这些人向我们原样上演那些古怪的癖习：每次都自以为眼看就要甩掉，却始终照旧保留",
+      "finding": "qui指神经衰弱者；“这些人”消除跨句指代障碍。se croient与gardent构成自认为即将摆脱、实际上始终保留的反差，译文“自以为……却……”准确突出这种自我欺骗。年复一年和原样上演同时保留时间跨度与外部观察者所见的不变景象。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "pris dans l’engrenage de leurs malaises et de leurs manies […] leur diététique étrange, inéluctable et funeste",
+      "translation_anchor": "他们被卡进自身病痛与怪癖的齿轮，为挣脱而做的种种徒劳挣扎，反倒保证了那套古怪、无可逃避、要人性命的养生经照常运转，一次次扣动它的机括。",
+      "finding": "engrenage、fonctionnement和déclic把病态生活比作自动机械，译文“齿轮”“运转”“机括”保持同一组意象。ne font qu’assurer指出挣脱行为恰好维持这套机制，“反倒保证”传达反讽因果。diététique在病弱者语境中指饮食起居的调养制度，译作“养生经”能连接其怪癖；三个形容词与徒劳性均有落点，虽口语色彩略重，未到必须修改的程度。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "Tel était ce nénufar, pareil aussi à quelqu’un de ces malheureux dont le tourment singulier […] excitait la curiosité de Dante",
+      "translation_anchor": "这朵睡莲正是如此。它也像⊂但丁好奇过的某个不幸亡魂⊃ […] 那种折磨独一无二，在永恒中无尽重复",
+      "finding": "Tel回扣上述被反复运动困住的患者，pareil aussi再引入永远受刑的亡魂，比喻递进清楚。qui se répète指折磨永恒重演，译文对应。但singulier只是奇特、异常，不宜强化为“独一无二”，建议改为“十分奇特”；此修订不触动现有注释。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "dont il se serait fait raconter plus longuement les particularités et la cause par le supplicié lui-même, si Virgile […] comme moi mes parents",
+      "translation_anchor": "他本会让那受刑者亲口把折磨的细节和缘由讲得更详尽些，无奈维吉尔已大步走远，逼他赶紧追上去——就像我追我的父母一样。",
+      "finding": "il指但丁，le supplicié是讲述者，les particularités et la cause是折磨的具体情况与缘由；译文各层指代明确。“本会……无奈……”正确处理未实现条件：若非维吉尔催赶，但丁本可听得更久。结尾comme moi mes parents省略了父母迫使我赶上的谓语，比较核心仍是催促者与观察者的关系，现译只留下我追父母的动作，建议补明父母也催我赶紧追上他们。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p301"
+  }
+}

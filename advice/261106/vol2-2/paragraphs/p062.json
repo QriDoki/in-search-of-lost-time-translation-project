@@ -1,0 +1,85 @@
+{
+  "id": 62,
+  "assessment": "本段由多年后重访树林转入秋叶与晨光，时间层次、两次出游欲望的类比及树林被光线重新分割的主线基本保存。需要修订的主要是：失眠程度被弱化，思想专注的对象被缩成视觉对象，窗帘两角与嘴角的比拟不够精确；末句还应恢复散布各处的空间关系、七叶树树种以及布景画师和日后添入的点景人物这一整套画面。第四句重复“最繁复”也应顺理。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Cette complexité du bois de Boulogne qui en fait un lieu factice ... une véritable fièvre des feuilles mortes qui peut aller jusqu’à empêcher de dormir",
+      "translation_anchor": "正是布洛涅树林的这种繁复，使它显得人工经营……竟得了一场“枯叶热”，夜里也睡不安稳。",
+      "finding": "前置的Cette complexité由je l’ai retrouvée接回，指叙述者今年重逢树林的繁复性质；译文先说明性质、再叙重访，信息与时间层次均成立。factice是人为营造、非自然形成的性质，“显得人工经营”在中文里缺少恰当的谓语搭配，改为“成为一处人工营造的场所”；动物学、神话学两重意义上的Jardin仍保留为“园”，不强行坐实为某一种园。十一月初、巴黎室内、秋景近在咫尺却无从观看，以及秋天不待人观赏便已结束，这几层共同引出nostalgie与fièvre，现译基本齐备，“乡愁般的惦念”可保留。不过peut aller jusqu’à empêcher de dormir是严重时使人无法入睡，并不只是睡得不安稳，须恢复“甚至叫人难以入睡”的程度和可能性。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "elles s’interposaient depuis un mois, évoquées par mon désir de les voir, entre ma pensée et n’importe quel objet auquel je m’appliquais, et tourbillonnaient",
+      "translation_anchor": "一个月来，我对秋叶的渴望不断把它们召唤到眼前；不管我想专心做什么，枯叶的影子总在我试图注视的东西与思绪之间盘旋",
+      "finding": "elles承接落叶，évoquées说明它们由观看的欲望唤起而显现于意识，非房内实有落叶；译作“影子”可以表达这一心理显现。s’interposaient与tourbillonnaient分写横亘在思想及其对象之间、又旋舞不止两种动作，现译只剩“在……之间盘旋”，宜补足横亘的干扰。n’importe quel objet auquel je m’appliquais指思想所专注的任何对象，未限于视觉观看；“我试图注视的东西”误把思想活动缩成注视，应改作“想专注于什么事物”。后半黄色斑点不管看什么都在眼前飞舞，是对心理落叶形象的视觉类比，现译保留了任意观看对象与不由自主的浮动，可保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "voyant le beau temps sourire aux coins des rideaux fermés comme aux coins d’une bouche close ... ne pouvant pas davantage me tenir d’aller voir des arbres qu’autrefois ... de partir pour le bord de la mer",
+      "translation_anchor": "看见阳光从拉紧的窗帘缝隙里偷露微笑，仿佛紧闭的双唇在嘴角泄露了幸福的秘密……就像从前烟囱里风声大作时，我非去海边不可一样",
+      "finding": "句首两个分词结构依次交代不再听见连日雨声、从窗帘处见出晴好天气，进而觉得能观赏透光黄叶的极致美；因果和动作顺序基本完整。但aux coins des rideaux与aux coins d’une bouche的要点是“帘角—嘴角”的同构，现译泛化为“缝隙”，且把le beau temps直接缩作阳光，应恢复“晴好的天气在合拢的窗帘两角露出微笑”，后半嘴角泄露幸福秘密可保留。traversées par la lumière与dans leur suprême beauté分别指光穿过黄叶、黄叶呈现最高的美，现译无误。分号后ne pouvant pas davantage ... que ...是如今同往日一样无法抑制出游：如今看树，往日因烟囱风声过强而往海边；现译“欲望……按捺不住／非去海边不可”保存了等量比较，末尾目的地及途经树林也完整。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "C’était l’heure et c’était la saison où le Bois semble peut-être le plus multiple, non seulement parce qu’il est plus subdivisé, mais encore parce qu’il l’est autrement.",
+      "translation_anchor": "那正是布洛涅树林显得最繁复的时辰与季节——也许是最繁复的；不只因为各处景物区分得更细，还因为区分它们的方式也变了。",
+      "finding": "原句将时辰、季节同时置于peut-être的限制下，说这也许是树林最显繁复多样的时候；现译先肯定“最繁复”，再重复作迟来的修正，中文显拖沓。宜将“也许”提前到“显得”前，一次说清。后半non seulement ... mais encore ...区分空间分割的程度增加与分割方式改变两个层面；“各处景物区分得更细／区分它们的方式也变了”能够承接下文晨光重划树林的描写，可保留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "çà et là, en face des sombres masses lointaines ... un double rang de marronniers orangés ... peint par le décorateur ... pour la promenade épisodique de personnages qui ne seraient ajoutés que plus tard",
+      "translation_anchor": "也会在某处看到：远处深色的树丛前……有两排橙色的栗树……唯有这两列栗树先被画家染成橙黄……偶然经过的散步人物",
+      "finding": "先交代开阔地段足以纵览大片空间，再写çà et là各处都有局部的橙色双排树，与远处无叶或仍有夏叶的暗色树团相对；现译“某处”把散见各处缩成一处，应恢复。marronniers在此指七叶树，不能作食用栗树；两排橙色树木这一形状、颜色必须保留。似刚起笔的画里只有它们先着色，其余尚未着色；现译“背景”把le reste限定得过窄。décorateur在这一人工舞台般的画面中宜作“布景画师”，而非泛泛画家。最后tendait son allée的主语仍是这双排树，意为它们把林荫道展在明光中，等待日后才添入画面的行人；épisodique突出人物在画面里的点景、附带地位，译成“偶然经过”过分坐实为随机事件。建议整句一并替换，保留假拟画面与尚待补入人物的时间关系，以“供那些日后才会添入画中的点景人物散步”收束。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "使它显得人工经营",
+      "after": "使它成为一处人工营造的场所",
+      "source": "qui en fait un lieu factice",
+      "reason": "“显得人工经营”搭配生硬；原文说明树林成为一处带人工营造性质的场所。"
+    },
+    {
+      "type": "错译",
+      "before": "竟得了一场“枯叶热”，夜里也睡不安稳",
+      "after": "真像发了一场“枯叶热”，甚至叫人难以入睡",
+      "source": "une véritable fièvre des feuilles mortes qui peut aller jusqu’à empêcher de dormir",
+      "reason": "原文说对落叶的渴望如同发热，严重时能够使人无法入睡；“睡不安稳”降低了程度，“竟得了”又将程度的可能性写成已然患病。"
+    },
+    {
+      "type": "错译",
+      "before": "不管我想专心做什么，枯叶的影子总在我试图注视的东西与思绪之间盘旋",
+      "after": "不论我想专注于什么事物，枯叶的影子总横在它与我的思绪之间，盘旋飞舞",
+      "source": "entre ma pensée et n’importe quel objet auquel je m’appliquais, et tourbillonnaient",
+      "reason": "objet是思想所专注的对象，并非专指眼睛试图注视的东西；同时补足s’interposaient所写的横亘与干扰，保留旋舞。"
+    },
+    {
+      "type": "错译",
+      "before": "看见阳光从拉紧的窗帘缝隙里偷露微笑",
+      "after": "看见晴好的天气在合拢的窗帘两角露出微笑",
+      "source": "voyant le beau temps sourire aux coins des rideaux fermés comme aux coins d’une bouche close",
+      "reason": "恢复晴好天气的拟人，以及窗帘两角与下一意群嘴角之间的精确对应；fermés为合拢，并不意味着帘子拉紧。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "那正是布洛涅树林显得最繁复的时辰与季节——也许是最繁复的",
+      "after": "那正是布洛涅树林也许显得最繁复多样的时辰与季节",
+      "source": "C’était l’heure et c’était la saison où le Bois semble peut-être le plus multiple",
+      "reason": "把“也许”的限制直接放在判断前，避免“最繁复”无必要的重复，兼顾multiple的多样意味。"
+    },
+    {
+      "type": "错译",
+      "before": "即便在那些开阔、一眼能望出很远的地段，也会在某处看到：远处深色的树丛前——有的叶子已经落光，有的还留着夏日的绿叶——有两排橙色的栗树，仿佛在一幅刚动笔的画里，背景尚未上色，唯有这两列栗树先被画家染成橙黄；这两排树把那条林荫道铺展在充足的光线里，仿佛专为那些画师日后才会添上的、偶然经过的散步人物留出道路。",
+      "after": "即便在那些开阔、一眼能纵览大片空间的地段，这里那里，远处暗色的树丛前——有的叶子已经落光，有的还留着夏日的绿叶——也有两排橙色的七叶树，仿佛在一幅刚动笔的画里，布景画师还没给其余部分着色，唯独这两排树已被画了出来；这两排树把林荫道铺展在充足的光线里，供那些日后才会添入画中的点景人物散步。",
+      "source": "Même dans les parties découvertes où l’on embrasse un grand espace, çà et là ... un double rang de marronniers orangés ... avoir seul encore été peint par le décorateur qui n’aurait pas mis de couleur sur le reste ... pour la promenade épisodique de personnages qui ne seraient ajoutés que plus tard.",
+      "reason": "恢复散见各处而非单一某处的空间关系；marronniers指七叶树；保留布景画师只先画出双排树、其余仍未着色，以及林荫道等待日后点景人物出现的整体比拟。“偶然经过”未能表达épisodique在画面中的附带地位。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p062"
+  }
+}

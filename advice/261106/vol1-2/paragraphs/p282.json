@@ -1,0 +1,44 @@
+{
+  "id": 282,
+  "assessment": "本段两句分别写凡德伊小姐因本能的善意而收住预备好的话，以及她内心纯洁、羞怯的一面不断使粗野、占上风的一面退却。原译保留了这一内在冲突和人物拟形，但首句漏掉这些话与欲望充分实现之间的必要条件关系；次句把 vierge 泛化为“少女”，削弱了它与粗野大兵相对的贞洁意象。建议补回前者、明确后者，其余措辞保留。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Par une générosité instinctive et une politesse involontaire elle taisait les mots prémédités",
+      "translation_anchor": "她出于天生的慷慨和不由自主的体贴，把那些早已想好……的话咽了回去",
+      "finding": "Par 引出她不说出这些话的动因；instinctive 与 involontaire 都强调这一善意和礼貌并非刻意作态。“天生的慷慨”和“不由自主的体贴”保留了这一点，politesse 在此体现为顾及女友感受，“体贴”可成立。taisait 指把话隐而不说，“咽了回去”与上文她急忙补充解释的情境吻合；prémédités 的预先谋划义也由“早已想好”保留。此意群不另改。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "qu’elle avait jugés indispensables à la pleine réalisation de son désir",
+      "translation_anchor": "原以为非说不可的话",
+      "finding": "关系从句的宾语是前面的 mots；elle 及 son 都指凡德伊小姐。原文不仅说她曾认为这些话必不可少，还限定它们是使她的欲望充分实现的必要条件。原译“原以为非说不可”留下必要性的判断，却漏去“为了什么”的关键内容；上文她渴望听见女友说出某些话，正使这一欲望与预先筹划的言辞之间的联系具有意义。补成“原以为要使自己的欲望得到充分满足就非说不可”，保留原有定语长句结构及先前判断的时间关系。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Et à tous moments au fond d’elle-même une vierge timide et suppliante implorait et faisait reculer un soudard fruste et vainqueur.",
+      "translation_anchor": "而在她心底，随时都有一个羞怯哀恳的少女，在恳求、逼退一个粗野而得胜的大兵。",
+      "finding": "第二句仍写凡德伊小姐，au fond d’elle-même 明确把少女和大兵都置于她内心，并非另有两名人物；原译“在她心底”保留这一拟人隐喻。“随时都有”传达 à tous moments 的反复发生，“羞怯哀恳”对应 timide et suppliante，后接“恳求、逼退”保留 implorait 与 faisait reculer 的两层动作：柔弱的一面通过哀求使强硬的一面退却。fruste et vainqueur 译“粗野而得胜”，保留大兵虽占上风却不断被迫后退的张力。不过 vierge 明指处女，含有贞洁、未被玷污的意象；泛称“少女”仅保留年龄和性别，不能充分与 soudard 的粗野构成道德形象上的对照，宜改为“处女”。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "早已想好、原以为非说不可的话",
+      "after": "早已想好、原以为要使自己的欲望得到充分满足就非说不可的话",
+      "source": "les mots prémédités qu’elle avait jugés indispensables à la pleine réalisation de son désir",
+      "reason": "补出被省略的“欲望充分实现”以及这些话是其必要条件的逻辑，明确她原先为何觉得非说不可。"
+    },
+    {
+      "type": "错译",
+      "before": "羞怯哀恳的少女",
+      "after": "羞怯哀恳的处女",
+      "source": "une vierge timide et suppliante",
+      "reason": "vierge 的贞洁意象是它与粗野大兵形成对照的重要部分，“少女”泛化了这一意义，改用“处女”保留原文明确的形象。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p282"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": 61,
+  "assessment": "六个单元均已核对。原译保留了少年急于借致意炫示交游、反被当作游园背景人物的反差，长句中的人群、银行家及亲属关系也基本清楚。需修正“未听见议论”被写成“未听清”、银行家从句的生硬表达、脱帽动作被具体化为手臂扬得高，以及固定戏剧行当的比喻和末句不定指朋友的叙述；现有注释无须随这些正文修改调整。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Sans entendre les réflexions, je percevais autour d’elle le murmure indistinct de la célébrité.",
+      "translation_anchor": "这些话我并没有听清，却察觉她周围弥漫着名声所引起的含混低语。",
+      "finding": "Sans entendre 表示并未听见议论的内容；后面的 percevais ... murmure 则说只能感到围绕名人的模糊低语，两层感知有意区分。“这些话我并没有听清”容易暗示已经听见前面所引对话的一部分，宜改为未听见具体议论。célébrité 在这里是她的名气，“名声所引起的含混低语”可以保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Mon cœur battait d’impatience ... au milieu desquels ... n’était pas un banquier mulâtre ... vissent le jeune homme inconnu ... saluer ... cette femme",
+      "translation_anchor": "再过片刻，所有这些人——我沮丧地发现，那位曾使我感到自己遭他轻蔑的⊂混血银行家⊃ ... 就要看见这个他们根本没放在眼里的陌生青年 ... 想到这里，我的心因急切而怦怦直跳。",
+      "finding": "主干是想到人们片刻后将看见自己向这位声名远播的女人致意，便急不可待地心跳；原译把心跳后置，仍保存了时间与心理因果。插入语 n’était pas 的否定也正确：少年遗憾的是那位银行家不在人群中，无法亲眼见证。par lequel je me sentais méprisé 只陈述少年觉得自己受其轻视，“曾使我感到自己遭他轻蔑”既多出先前经历的时间色彩，“遭他轻蔑”也生硬，宜改为“让我觉得他瞧不起我”。括号中并不相识、因父母认识丈夫且自己是女儿同伴而自认有权致意，均未漏译；beauté、inconduite、élégance 与 universelle 也分别得到传达。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "je lui tirais un si grand coup de chapeau, si étendu, si prolongé, qu’elle ne pouvait s’empêcher de sourire",
+      "translation_anchor": "于是我脱帽的动作那么猛，手臂扬得那么高，行礼时间又那么长，惹得她也忍不住微微一笑。",
+      "finding": "si grand、si étendu、si prolongé 依次夸张脱帽礼的规模、展开的幅度与持续时间，结果使她忍不住微笑。原译把幅度解释成“手臂扬得那么高”，又用“猛”强调动作力度，均把原文未限定的方向和力量写死了。建议以“脱帽礼那么夸张，动作幅度那么大，持续时间又那么长”保留排比与因果。前面的“可我已经走到斯万夫人近前”准确承接想象尚未结束而身体已接近她。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Des gens riaient.",
+      "translation_anchor": "⊂旁边有人笑出了声⊃",
+      "finding": "Des gens 是不特指的一些人，riaient 写他们发笑；“旁边有人笑出了声”保留这句突兀而简短的旁观者反应，邻近位置及笑声的表达不改变情节，可以保留。原有注释把它联系到少年的炫示心理，与本段前后文相符，无需修改注释。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "un des personnages secondaires, familiers, anonymes, aussi dénués de caractères individuels qu’un « emploi de théâtre », de ses promenades au Bois",
+      "translation_anchor": "我只是她散步布洛涅树林时的一个次要人物：眼熟、无名，仿佛戏剧里一个有固定身份、却没有鲜明个性的小角色。",
+      "finding": "她从未见少年与希尔贝特同行、也不知其姓名，与她仍对他眼熟并不矛盾；gardes、batelier、canards 的列举正是说他仅属每日游园所见的人物背景，原译均有体现。末尾 de ses promenades au Bois 修饰 personnages，“散步布洛涅树林”语序不合中文，应为“在布洛涅树林散步时”。emploi de théâtre 指演员所扮的固定行当或角色类型，而非某个具体人物的固定身份；aussi dénués ... qu’ 强调同样缺乏任何个人特征，原译“没有鲜明个性”略弱化，“小角色”又不必要地重复前面的次要地位，宜明确为固定行当的角色，保持比较关系。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Certains jours ... l’allée de la Reine-Marguerite ... cherchent à être seules, ou à avoir l’air de chercher à l’être ; elle ne le restait pas longtemps, bientôt rejointe par quelque ami, souvent coiffé d’un « tube » gris ... tandis que leurs deux voitures suivaient.",
+      "translation_anchor": "有些日子我在金合欢道见不到她 ... 有的真想独处，有的只想让旁人以为自己想独处。她独自待不了多久，转眼便有一位熟人追了上来，那人我不认识，常戴一顶灰色高筒礼帽 ... 他们各自的马车则在后面缓缓跟行。",
+      "finding": "前半句正确连接了未在金合欢道见到她、偶在另一条道相遇两件事；女性寻求独处或刻意显出寻求独处的姿态，现译的两种情形足以传达这层讽刺，可以保留。后半句 le 指“独处”，不久就有朋友加入，构成反转。quelque ami 是每次来会合的某位朋友，souvent coiffé 是这类相遇中常见的着装；“一位熟人……那人……常戴”容易落实为同一位熟人的固定习惯，且熟人弱于 ami，宜改成“会有一位我不认识的朋友……往往戴着”。tube 译为高筒礼帽合适，que je ne connaissais pas 所指是那位朋友，原译未误。两辆马车跟在后面而不是两人上车交谈；“缓缓”原文未限定，连同末句重写时去掉。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "这些话我并没有听清",
+      "after": "人们议论的内容我并没有听见",
+      "source": "Sans entendre les réflexions",
+      "reason": "原文说未听见议论内容，只感到声名引起的低语，并非听见了一部分但未听清。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "曾使我感到自己遭他轻蔑",
+      "after": "让我觉得他瞧不起我",
+      "source": "par lequel je me sentais méprisé",
+      "reason": "“遭他轻蔑”搭配生硬；新译明确轻视者与被轻视者，并去掉原文未强调的“曾”。"
+    },
+    {
+      "type": "错译",
+      "before": "于是我脱帽的动作那么猛，手臂扬得那么高，行礼时间又那么长",
+      "after": "于是我向她行的脱帽礼那么夸张，动作幅度那么大，持续时间又那么长",
+      "source": "alors je lui tirais un si grand coup de chapeau, si étendu, si prolongé",
+      "reason": "原文夸大礼节的规模、展开幅度和时长，并未说动作猛烈或手臂扬得特别高；保留三层排比。"
+    },
+    {
+      "type": "错译",
+      "before": "我只是她散步布洛涅树林时的一个次要人物：眼熟、无名，仿佛戏剧里一个有固定身份、却没有鲜明个性的小角色。",
+      "after": "我只是她在布洛涅树林散步时的一个次要人物：眼熟、无名，和戏剧里某一固定行当的角色一样，没有任何个人特征。",
+      "source": "un des personnages secondaires, familiers, anonymes, aussi dénués de caractères individuels qu’un « emploi de théâtre », de ses promenades au Bois",
+      "reason": "修正地点状语的语序；明确 emploi 是戏剧的固定行当，保留“同样不具个人特征”的比较，不把它缩成仅仅个性不鲜明。"
+    },
+    {
+      "type": "错译",
+      "before": "她独自待不了多久，转眼便有一位熟人追了上来，那人我不认识，常戴一顶灰色高筒礼帽，和她一谈就是很久，他们各自的马车则在后面缓缓跟行。",
+      "after": "她独自待不了多久，很快就会有一位我不认识的朋友来同她会合，往往戴着一顶灰色高筒礼帽，和她一谈就是很久，两人的马车则在后面跟行。",
+      "source": "elle ne le restait pas longtemps, bientôt rejointe par quelque ami, souvent coiffé d’un « tube » gris, que je ne connaissais pas et qui causait longuement avec elle, tandis que leurs deux voitures suivaient",
+      "reason": "朋友是不定指、可随每次相遇变化的人，往往戴灰色礼帽也是反复场景的概括；避免译成同一熟人的穿戴习惯，恢复 ami 的朋友关系，并去掉原文未写的车行速度。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p061"
+  }
+}

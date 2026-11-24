@@ -1,0 +1,75 @@
+{
+  "id": 244,
+  "assessment": "本段三句已逐句核对。停步于栅栏前、丁香花期将尽以及外祖父借景重讲往事的叙述关系均可保留。第二句以花朵的气泡、翻涌的泡沫和凋萎的残沫贯串盛衰，原译“花团”弱化了气泡形象，“苔沫”则把同一泡沫意象误引向苔藓；残花一层又漏掉了明确的萎缩、干燥及正在凋萎的状态，建议在这一组意象内作局部修订。末句“他”指外祖父、“妻子”指斯万先生的妻子，译文所示关系与本句相符，不作无依据的人物说明增补。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "仍有几丛丁香，把细嫩的花团垂成高高的紫色吊灯",
+      "after": "仍有几丛丁香，把花朵娇嫩的气泡舒展成高高的淡紫色吊灯",
+      "source": "quelques-uns effusaient encore en hauts lustres mauves les bulles délicates de leurs fleurs",
+      "reason": "bulles是气泡，与下文mousse、écume构成连续的泡沫意象，译成“花团”使这一衔接消失；effusaient并不直接表示向下垂落，原译“垂成”把吊灯联想中的方向当作了动作。改文保留高处吊灯般的花序形态，并恢复花朵化作气泡的比喻；mauves译为淡紫色。"
+    },
+    {
+      "type": "错译",
+      "before": "它们芬芳的苔沫",
+      "after": "它们芬芳的泡沫",
+      "source": "déferlait ... leur mousse embaumée",
+      "reason": "mousse虽可指苔藓，此处由déferlait（像浪潮般翻涌）及前后的bulles、écume限定为泡沫。原译“苔沫”引入了原文没有的苔藓联想。"
+    },
+    {
+      "type": "错译",
+      "before": "如今只剩一层枯萎、发黑、空空瘪瘪、失去香气的残沫",
+      "after": "如今却是一片逐渐凋萎的残沫，萎缩、发黑，空瘪而干燥，已无香气",
+      "source": "se flétrissait, diminuée et noircie, une écume creuse, sèche et sans parfum",
+      "reason": "原文将se flétrissait的凋萎过程与diminuée、noircie的萎缩发黑，以及creuse、sèche、sans parfum的空瘪干燥无香分开描写。原译“枯萎”大体承接了凋萎，却未传达diminuée的体量缩减及sèche的干燥，并把过程全改成“只剩”的静态罗列。改文补足这些与上周盛放相对照的状态。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Nous nous arrêtâmes un moment devant la barrière.",
+      "translation_anchor": "我们在栅栏前停了片刻。",
+      "finding": "Nous的共同停步动作、un moment的短暂时长及devant la barrière的位置均已明确落实。“栅栏前”承接上一段商议沿公园走的情境，未混成进入公园；此句保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Le temps des lilas approchait de sa fin",
+      "translation_anchor": "丁香的花季已近尾声",
+      "finding": "le temps des lilas指丁香盛开的时节，approchait de sa fin表示接近结束而非已经全部凋谢。“花季已近尾声”保留了这一时间界限，并能接下文尚有少数盛开与大部分凋萎的对照；保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "quelques-uns effusaient encore en hauts lustres mauves les bulles délicates de leurs fleurs",
+      "translation_anchor": "仍有几丛丁香，把细嫩的花团垂成高高的紫色吊灯",
+      "finding": "quelques-uns回指丁香，译作“几丛丁香”可成立；encore的“仍”也已译出。问题在bulles délicates明确将花朵写成娇嫩气泡，与后文泡沫意象呼应，“细嫩的花团”漏去比喻的关键形态。en hauts lustres mauves是高高的淡紫色吊灯般的形态，effusaient写向外舒展、散放，原译额外限定为“垂”。修改这一片段以恢复气泡与吊灯的组合，不改变长句结构。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "mais dans bien des parties du feuillage où déferlait, il y avait seulement une semaine, leur mousse embaumée",
+      "translation_anchor": "但在许多枝叶间——仅仅一个星期前，那里还翻涌着它们芬芳的苔沫——",
+      "finding": "mais转入大部分枝叶间的反面景象；où所引地点与“那里”对应，il y avait seulement une semaine的仅仅一周以前也保留正确。“翻涌”贴合déferlait的浪潮动作，embaumée是带香气而非熏制之义。“苔沫”不合此处由气泡、波浪与残沫构成的语义链，改为“泡沫”；破折号中的时间与地点回指仍可保留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "se flétrissait, diminuée et noircie, une écume creuse, sèche et sans parfum.",
+      "translation_anchor": "如今只剩一层枯萎、发黑、空空瘪瘪、失去香气的残沫。",
+      "finding": "倒装主语une écume指花朵衰败后形同残沫的景象，se flétrissait写其凋萎过程；diminuée表示缩减、萎缩，noircie表示已经变黑。“空空瘪瘪”能承接creuse，“失去香气”亦保留sans parfum与先前芬芳的对照。不过diminuée和sèche未明确译出，原译只说“只剩一层”无法同时表达体量缩小与干燥。将这几种状态分成有层次的分句，补回萎缩、干燥，并保留持续凋萎的动作。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Mon grand-père montrait à mon père en quoi l’aspect des lieux était resté le même, et en quoi il avait changé, depuis la promenade qu’il avait faite avec M. Swann le jour de la mort de sa femme",
+      "translation_anchor": "外祖父向父亲指认，自从斯万先生的妻子去世那天他与斯万先生一同散步以来，这地方的景物哪些依然如故，哪些已经改变",
+      "finding": "叙述主语是外祖父，接受指点的是父亲；qu’il avait faite中的il承接外祖父，sa femme则在与斯万同行及其丧妻当天的事件中指斯万的妻子。译文明确写“斯万先生的妻子”，避免了中文“他妻子”的歧义。“自从……散步以来”把旧游设为比较基准，“哪些依然如故，哪些已经改变”完整保留两方面并列的比较。“指认”虽稍郑重，但足以表达边看景物边向父亲指出异同，句式可通，不作修改。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "et il saisit cette occasion pour raconter cette promenade une fois de plus.",
+      "translation_anchor": "他抓住这个机会，把那次散步又讲了一遍。",
+      "finding": "il仍指外祖父，cette occasion是眼前指点景物今昔异同的机会；cette promenade回指丧妻当天与斯万同行的旧游。“抓住这个机会”及“又讲了一遍”分别落实saisit cette occasion和une fois de plus，保留了外祖父重复讲述往事的语气；无需修改。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p244"
+  }
+}

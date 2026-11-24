@@ -1,0 +1,17 @@
+{
+  "id": 167,
+  "assessment": "本段三句均无漏译，姑妈对外祖母的抱怨语气及人物指代清楚。末句“求之不得”将比较性的宁愿夸大为强烈企求，宜回到原文偏好她在外、自己不在外的意思；其余保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "这种时候在外面的是她而不是我，我倒求之不得。",
+      "after": "这种时候，我倒宁愿在外面的是她而不是我。",
+      "source": "J’aime mieux que ce soit elle que moi qui soit dehors en ce moment.",
+      "reason": "“J’aime mieux”表示比较之下宁愿如此，“求之不得”则表示极想得到，强度过重；改后保留姑妈庆幸自己没在雨中的口吻。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p167"
+  }
+}

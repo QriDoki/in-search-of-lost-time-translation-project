@@ -1,0 +1,95 @@
+{
+  "id": 41,
+  "assessment": "本段基本保留了少年因爱希尔贝特而崇拜斯万的夸张心理，模仿外貌、父亲的责备及政治新闻与衣着细节的对照均译出了。需修订四处：泛指的偶遇被限于“那些人”，母亲“只说”一句被增添为漫不经心，枯燥的叙述被夸大成令人昏睡的流水账，买伞的实有经历被“竟会”“只为了”改出了假设和目的强调，同时削弱了“超自然”的修辞。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "pour tâcher de lui ressembler, je passais tout mon temps à table, à me tirer sur le nez et à me frotter les yeux",
+      "translation_anchor": "为了学他的样子，我吃饭时不停牵拉鼻子、揉擦眼睛",
+      "finding": "pour tâcher 表示努力模仿斯万；tout mon temps à table 指坐在饭桌前的时间都用来拉鼻子、揉眼睛，不是整天只坐着吃饭。译文用“吃饭时不停”限定了时间范围，两个身体动作均未漏译，可以保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "cet enfant est idiot, il deviendra affreux",
+      "translation_anchor": "这孩子是个傻瓜，再这样下去会变得丑极了",
+      "finding": "父亲先斥孩子愚蠢，再预言这些动作会把外貌弄丑；affreux 在此与模仿外貌相承，译“丑极了”恰当。“再这样下去”把语境中已有的关联说出，未改变责备口气，可保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "J’aurais surtout voulu être aussi chauve que Swann",
+      "translation_anchor": "我尤其希望自己能像斯万一样秃顶",
+      "finding": "surtout 标出最渴望模仿的一项，aussi chauve que 是希望达到同等秃顶程度，条件式过去时表达愿望而非实际变秃。现译的“尤其希望”“能像……一样”已传达这些关系，少年愿意变丑的反讽也成立。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "que des personnes que je fréquentais le connussent aussi et que dans les hasards d’une journée quelconque on pût être amené à le rencontrer",
+      "translation_anchor": "我常来往的那些人也认识他，他们竟能在日常生活中偶然遇见他",
+      "finding": "si extraordinaire que 引出“我觉得奇妙”的结果；其后的两个 que 从句并列，前者说自己的熟人也认识斯万，后者改用泛指 on，说随便哪一天都有偶然遇上他的可能。现译用“他们”承接前一组熟人，把第二种惊奇限于那些人的经历；“日常生活中”也弱化了 journée quelconque 所强调的任意一天。建议恢复泛指和一天内的偶然机缘，保留两重惊奇的并列。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "rien qu’en disant ... fit éclore au milieu de son récit, fort aride pour moi, une fleur mystérieuse",
+      "translation_anchor": "她漫不经心地说了句……就在原本让我昏昏欲睡的流水账里，忽然开出一朵神秘的花",
+      "finding": "本句主语是母亲，核心动作是她仅凭说出遇见斯万这件事，便使枯燥叙述开出神秘之花。rien qu’en disant 强调这几句话本身产生的效果，不说明母亲漫不经心，需改为“她只说了句”。fort aride pour moi 只说这段叙述在我听来很枯燥，“昏昏欲睡的流水账”增添了困倦反应及对叙述形式的贬义，建议收回为“原本令我感到十分枯燥的叙述”。每天晚饭讲述下午外出办事、三街区雨伞柜台及遇到斯万等信息齐备；花的比喻可保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Quelle mélancolique volupté, d’apprendre que cet après-midi-là, profilant dans la foule sa forme surnaturelle, Swann avait été acheter un parapluie",
+      "translation_anchor": "得知那天下午，斯万那近乎超自然的身影竟会在人群中显现，只为了买一把伞——那是怎样一种忧郁的陶醉啊",
+      "finding": "感叹的来源是得知一个已经发生的事实：斯万那天下午去买伞，超自然的身形在人群中显出轮廓。avait été acheter 是过去完成时的实有行程，profilant 是与之相伴的姿态；现译“竟会……只为了”把重心改成超常身影为何显现，并带出假设、目的意味。“近乎”也减弱了原文径直以 surnaturelle 神化斯万的程度。建议明确实有的买伞行程及人群中的身影；“忧郁的陶醉”可以传达 mélancolique volupté 的复杂快感。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "celui-là éveillait en moi ces vibrations particulières dont était perpétuellement ému mon amour pour Gilberte",
+      "translation_anchor": "这一件却在我心里唤起那种特殊的颤动，我对希尔贝特的爱情始终随着这种颤栗而悸动",
+      "finding": "celui-là 指买伞这一件小事，与大小事情同样无趣的背景形成例外；dont 回指那些特殊颤动，爱情持续受它们激动。现译的“这一件却”“始终随着这种颤栗而悸动”保留了例外、持续性与情感联系。两次颤动用词属原文意象延展，无须为避免重复而改动。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "parce que je n’écoutais pas ... en ce moment l’hôte de la France et, prétendait-on, son allié",
+      "translation_anchor": "因为大家谈起……的来访可能带来什么政治上的后果时，我根本不听——这位国王当时正在法国做客，据说是法国的盟友",
+      "finding": "parce que 是父亲判定“我对什么都不感兴趣”的依据；pouvait avoir 说此次访问可能造成的政治后果，后面的同位语交代国王当时为法国宾客，并以 prétendait-on 对“盟友”之说保留距离。现译均有对应，且“据说”只限定盟友关系，层次清楚。专名及现有注释不作变动。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Mais combien en revanche, j’avais envie de savoir si Swann avait son manteau à pèlerine",
+      "translation_anchor": "然而反过来，我是多么想知道斯万有没有穿那件带披肩的大衣啊",
+      "finding": "Mais / en revanche 与上一句父亲所说的漠不关心形成反差，combien 加强渴望；si 引导间接疑问，问斯万当时是否穿着那件有披肩式肩部的大衣。现译保留了衣着的具体细节、疑问及感叹，足以体现少年注意力的偏向，可保留。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "我常来往的那些人也认识他，他们竟能在日常生活中偶然遇见他。",
+      "after": "我常来往的那些人也认识他，而在随便哪一天的偶然机缘里，竟也可能遇上他。",
+      "source": "que des personnes que je fréquentais le connussent aussi et que dans les hasards d’une journée quelconque on pût être amené à le rencontrer",
+      "reason": "原文两个并列从句分别使用 des personnes 和泛指 on；现译“他们”将后一种偶遇限于前述熟人。替换保留泛指及“随便哪一天”的偶然性。"
+    },
+    {
+      "type": "错译",
+      "before": "她漫不经心地说了句：",
+      "after": "她只说了句：",
+      "source": "rien qu’en disant",
+      "reason": "rien que 表示仅仅凭这一句话产生效果，没有交代母亲说话时是否漫不经心。"
+    },
+    {
+      "type": "错译",
+      "before": "就在原本让我昏昏欲睡的流水账里，",
+      "after": "就在她那原本令我感到十分枯燥的叙述中，",
+      "source": "au milieu de son récit, fort aride pour moi",
+      "reason": "aride 表示叙述在我听来枯燥，未说我困倦欲睡，也未将叙述定性为流水账；用对应的主观枯燥感承托花的比喻即可。"
+    },
+    {
+      "type": "错译",
+      "before": "得知那天下午，斯万那近乎超自然的身影竟会在人群中显现，只为了买一把伞——那是怎样一种忧郁的陶醉啊。",
+      "after": "得知那天下午，斯万曾去买一把伞，在人群中显出他那超自然的身影——那是怎样一种忧郁的陶醉啊。",
+      "source": "profilant dans la foule sa forme surnaturelle, Swann avait été acheter un parapluie",
+      "reason": "过去完成时述说已经发生的买伞行程，分词结构描绘同时显于人群的身形；原译“竟会”“只为了”增添假设及目的强调，“近乎”又削弱了直接神化斯万的修辞。替换恢复事实语气和两层描写。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p041"
+  }
+}

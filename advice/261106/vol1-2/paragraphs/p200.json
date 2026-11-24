@@ -1,0 +1,128 @@
+{
+  "id": 200,
+  "assessment": "本段逐句核对后，教堂门前的闲谈、凡德伊父女离去、月夜散步、高架桥所引起的出界感，以及犬吠唤回旧日大道的记忆链条，译文均有完整对应；月光仿佛画家布置园林、将电报局化为残柱的想象也得到保留。需改两处：女儿的话可能引起的误会，被“眼巴巴地求”添入过强的乞求姿态；母亲辨路能力不足使她把散步视为父亲的战略壮举，译文却把判断者误写成父亲。其余中文虽有适度展开，不妨碍原意与修辞，不作润色性改动。现有两处注释均予保留，未发现与本次改文冲突。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "这话会让我们以为，她是在眼巴巴地求我们请她去家里做客。",
+      "after": "这话可能会让我们以为，她是在请求我们邀她到家里做客。",
+      "source": "qui avait pu nous faire croire qu’elle sollicitait d’être invitée chez nous",
+      "reason": "avait pu 表示那番话可能造成的误会，并非必然结果；sollicitait 是请求受邀，没有“眼巴巴”所增加的迫切、可怜巴巴的神态。删去这一增译，并补明可能性，保留她因自己的话显得像在索求邀请而羞怯的心理。"
+    },
+    {
+      "type": "错译",
+      "before": "母亲向来分不清方向、也认不得路，这倒让他觉得，这样一次远足堪称一位战略天才的壮举。",
+      "after": "母亲向来分不清方向、也认不得路，这倒让她觉得，这样一次远足堪称一位战略天才的壮举。",
+      "source": "que le peu d’aptitude de ma mère à s’orienter et à se reconnaître dans son chemin, lui faisait considérer comme la prouesse d’un génie stratégique",
+      "reason": "lui 指辨路能力不足的母亲：正因她不认路，才把父亲领路的散步看作战略天才的壮举。译成“他”使评价出自父亲自己，扭转了夫妻之间的赞叹关系；下一段母亲坦承迷路并赞父亲“你真了不起”，也印证这里的指代。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Nous causions un moment avec M. Vinteuil devant le porche en sortant de l’église.",
+      "translation_anchor": "走出教堂时，我们会在门廊前和凡德伊先生聊上一会儿。",
+      "finding": "en sortant 交代离开教堂的时机，devant le porche 是门廊前；“会……聊上一会儿”兼顾 causions 的往常情景与 un moment 的短暂时长，地点、人物与动作均对应，保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Il intervenait entre les gamins qui se chamaillaient sur la place, prenait la défense des petits, faisait des sermons aux grands.",
+      "translation_anchor": "广场上有孩子吵架打闹，他便上前调解，护着小的，教训大的。",
+      "finding": "三个并列动作分别是干预争吵、保护年幼孩子、训诫年长孩子；译文“调解／护着／教训”顺序一致。“小的／大的”在孩子语境中明确指年龄大小，sermons 的说教意味也保留下来，无需改动。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Si sa fille nous disait de sa grosse voix combien elle avait été contente de nous voir",
+      "translation_anchor": "他女儿要是粗声大气地对我们说，见到我们她有多高兴",
+      "finding": "Si 与过去未完成时配合，写往常会发生的条件情景，“要是”与下文“立刻”保留了这一关系。grosse voix 指粗厚嗓音，译为“粗声大气”与下文男孩子般的冒失话相连；avait été contente 对应她对先前见面的愉快，中文“见到我们她有多高兴”不需另作时态标记。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "aussitôt il semblait qu’en elle-même une sœur plus sensible rougissait de ce propos de bon garçon étourdi qui avait pu nous faire croire qu’elle sollicitait d’être invitée chez nous",
+      "translation_anchor": "她内心仿佛立刻有一位更敏感的姐妹，为这句愣小子似的冒失话羞红了脸——这话会让我们以为，她是在眼巴巴地求我们请她去家里做客。",
+      "finding": "“内心……一位更敏感的姐妹”正确保留同一人物内部仿佛并存另一性情的比喻，rougissait 的羞红脸与 bon garçon étourdi 的男孩般冒失也有对应。然而“会让”淡化了 avait pu 的可能性，“眼巴巴”则无原文根据，把请求受邀强化成显露迫切神态的乞求；列入 changes 修订后半句。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Son père lui jetait un manteau sur les épaules, ils montaient dans un petit buggy qu’elle conduisait elle-même et tous deux retournaient à Montjouvain.",
+      "translation_anchor": "她父亲把外套往她肩上一披，两人坐上小轻便马车，由她亲自驾驭，一起回蒙舒凡去了。",
+      "finding": "lui 指女儿，披衣动作、两人登车、女儿本人驾车、父女一道回蒙舒凡，译文逐项完整。jetait 用“一披”传达随手披上的动作，buggy 处理为“小轻便马车”足以说明车种与体量，“亲自”对应 elle-même，保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Quant à nous, comme c’était le lendemain dimanche et qu’on ne se lèverait que pour la grand’messe, s’il faisait clair de lune et que l’air fût chaud",
+      "translation_anchor": "至于我们，因为第二天是星期天，反正要等做大弥撒时才起床，所以如果月色皎洁、空气温暖",
+      "finding": "“至于我们”完成由父女到叙述者一家的转接；次日星期天及可以迟起是散步的背景原因，月明天暖是实际条件。译文用“因为……所以如果……”保留两层关系，“才”也落实 ne…que 的时间限制，未把当夜错当成星期天。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "au lieu de nous faire rentrer directement, mon père, par amour de la gloire, nous faisait faire par le calvaire une longue promenade",
+      "translation_anchor": "父亲就不让我们直接回家，而是出于对荣耀的热爱，带我们绕道⊂加尔瓦里⊃≼🏛️村外仿耶路撒冷苦路设置的十字架群，供人瞻礼，多建于高地。≽作一次长长的散步",
+      "finding": "“不让……直接回家，而是……”准确传达 au lieu de 的选择；par le calvaire 是经过加尔瓦里的路线，“绕道”符合长途散步语境。par amour de la gloire 的夸张、略带诙谐的求荣之心由“出于对荣耀的热爱”保存；注释原样保留。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "que le peu d’aptitude de ma mère à s’orienter et à se reconnaître dans son chemin, lui faisait considérer comme la prouesse d’un génie stratégique",
+      "translation_anchor": "母亲向来分不清方向、也认不得路，这倒让他觉得，这样一次远足堪称一位战略天才的壮举。",
+      "finding": "关系代词 que 回指这次长途散步，母亲缺乏定向和认路能力，是她将散步视为战略壮举的原因。原译“他觉得”把 lui 误指为父亲，必须改为“她觉得”；其余“分不清方向／认不得路”与“战略天才的壮举”均有明确原文依据，保留原有长句结构。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Parfois nous allions jusqu’au viaduc, dont les enjambées de pierre commençaient à la gare et me représentaient l’exil et la détresse hors du monde civilisé",
+      "translation_anchor": "有时我们一直走到高架桥，那一跨跨石拱从车站开始延伸，在我眼中象征着文明世界之外的流亡与凄苦",
+      "finding": "“有时”对应 Parfois，“一直走到”对应 jusqu’au。enjambées 将桥跨写得仿佛迈步，中文“一跨跨石拱”保留了跨越的连续感；me représentaient 限定为儿童个人想象，译文“在我眼中象征着”准确落实，并未宣称桥外客观上是文明荒漠。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "parce que chaque année en venant de Paris, on nous recommandait de faire bien attention, quand ce serait Combray, de ne pas laisser passer la station, d’être prêts d’avance, car le train repartait au bout de deux minutes et s’engageait sur le viaduc au delà des pays chrétiens dont Combray marquait pour moi l’extrême limite",
+      "translation_anchor": "因为每年从巴黎来的时候，大人们总叮嘱我们要留神，一到贡布雷千万别坐过站，要提前做好准备，因为火车停两分钟就会重新开动，驶上高架桥，驰向信基督的国度之外——而在我心中，贡布雷正是那些国度的极远边界。",
+      "finding": "外层 parce que 解释高架桥为何意味着流亡，内层 car 解释大人为何叮嘱提前准备；译文的两个“因为”完整承接。别误过站、预先准备、停车两分钟、继续上桥的次序未乱；“在我心中”保留 pour moi，使基督教国度尽头这一想象仍归于儿童。“大人们”是由叮嘱孩子的语境补明 on，未改变人物关系。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "Nous revenions par le boulevard de la gare, où étaient les plus agréables villas de la commune.",
+      "translation_anchor": "回来时我们走车站林荫大道，全镇最惬意的别墅都在那里。",
+      "finding": "par 标示返程所经道路，où 指该大道；“回来时……走……”与“都在那里”清楚交代路线和别墅位置。“最惬意”用居住体验来译 agréables，虽非字面“最宜人”，在 villas 语境中通顺且无实质失真，保留。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "Dans chaque jardin le clair de lune, comme Hubert Robert, semait ses degrés rompus de marbre blanc, ses jets d’eau, ses grilles entr’ouvertes.",
+      "translation_anchor": "月光仿佛⊂于贝尔·罗贝尔⊃≼🏛️📚于贝尔·罗贝尔（1733—1808），法国画家，以描绘废墟与园林的风景画著称。≽，在每座花园里撒下它那残断的白色大理石台阶、喷泉水柱和半开半掩的铁栅门。",
+      "finding": "月光是 semait 的主语，画家是比较对象；译文同样让月光在每座园中“撒下”景物，保留拟人化的造景想象。残断台阶的白色大理石材质、喷泉水柱、半开铁门三项无遗漏，ses 译作“它那”延续月光的所有关系；注释保留。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "Sa lumière avait détruit le bureau du télégraphe.",
+      "translation_anchor": "它的光芒把电报局摧毁了",
+      "finding": "Sa 回指月光，电报局在这种照明下仿佛被毁，是延续画家造景的视觉幻想。中文保留了强烈的“摧毁”而未擅自解释成现实毁坏事件；与后文残柱接读即可理解这一修辞，无须改成平直的“看不见”。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "Il n’en subsistait plus qu’une colonne à demi brisée, mais qui gardait la beauté d’une ruine immortelle.",
+      "translation_anchor": "只剩下一根折断一半的柱子，却依然保有不朽废墟的美。",
+      "finding": "ne…plus que 限定仅剩一柱，à demi brisée 是半毁状态，mais 转向残柱仍有的美；中文“只剩……却依然……”完整保留限定与转折。“不朽废墟”也保留 ruine immortelle 将残损与永存并置的修辞。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "Je traînais la jambe, je tombais de sommeil, l’odeur des tilleuls qui embaumait m’apparaissait comme une récompense qu’on ne pouvait obtenir qu’au prix des plus grandes fatigues et qui n’en valait pas la peine.",
+      "translation_anchor": "我拖着沉重的脚步，困得直打晃，那馥郁袭人的椴树花香在我看来就像一种奖赏，非要吃尽最大的辛苦才能换来，却根本不值得受那份累。",
+      "finding": "拖步、困倦先说明身体状态，再转为儿童对香气奖赏的衡量；译文顺序一致。“非要……才”对应 ne…que 的代价限制，“却根本不值得”对应 qui n’en valait pas la peine 的否定评价，不会误成花香毫无气味或散步没有发生。“花香”在椴树散香的语境中是合理具体化，保留。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "De grilles fort éloignées les unes des autres, des chiens réveillés par nos pas solitaires faisaient alterner des aboiements comme il m’arrive encore quelquefois d’en entendre le soir",
+      "translation_anchor": "相隔很远的一道道栅栏后面，被我们孤单的脚步声惊醒的狗此起彼伏地吠叫——那样的吠声，如今夜里我有时还能听见",
+      "finding": "远隔的栅门是不同犬吠的来处，脚步是惊醒狗的原因，alterner 是吠声交替；“栅栏后面……此起彼伏”将空间与听觉联系交代清楚。comme 由过去犬吠引出如今偶尔听到的同类声音，“如今……有时还能”保留 encore quelquefois 的时间跨越。"
+    },
+    {
+      "unit": 17,
+      "source_anchor": "et entre lesquels dut venir (quand sur son emplacement on créa le jardin public de Combray) se réfugier le boulevard de la gare, car, où que je me trouve, dès qu’ils commencent à retentir et à se répondre, je l’aperçois, avec ses tilleuls et son trottoir éclairé par la lune.",
+      "translation_anchor": "后来（人们在原地建起贡布雷公园时）车站林荫大道想必就是躲进了这片吠声之间，因为无论我身在何处，只要那吠声响起、彼此呼应，我就能看见那条大道，看见它的椴树和月光照亮的人行道。",
+      "finding": "entre lesquels 回指犬吠，son emplacement 回指大道原址，dut venir 表示回顾时的推想；“原地／想必／躲进……吠声之间”均恰当保留。car 以后以任何地点听到呼应犬吠便重见大道来解释此推想，译文“因为……无论……只要……就……”理清了因果和触发关系；末尾椴树与月照人行道两项视觉细节俱全，保留。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p200"
+  }
+}

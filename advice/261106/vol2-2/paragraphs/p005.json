@@ -1,0 +1,88 @@
+{
+  "id": 5,
+  "assessment": "本段从专名塑造城市形象到帕尔马、佛罗伦萨、巴尔贝克三个例子的论述及通感意象基本完整，未发现明确漏译或比较方向颠倒。建议修整三处中文表达：避免“名字各有其名”的修饰错接，补足“名字描绘人物时”的句式，并将“芬芳如奇迹”改为合乎中文习惯的程度表达。其余保留原有长句、通感与拟人。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "ce ne fut qu’en la transformant ... plus belle, mais aussi plus différente ... d’aggraver la déception future de mes voyages",
+      "translation_anchor": "恰是因为它们改造了那些形象……想象随意制造的欢愉越多，日后旅行的失望也随之加深",
+      "finding": "si...ce ne fut qu’en 强调名字吸纳城市形象必须经过改造，现译“之所以……恰是因为”保留了条件与机制。leurs lois propres 是名字自身的法则；形象更美却更背离现实，想象的欢愉又加深未来旅行的失望，三层关系均有对应。中文“它们因此变得更美”承接紧前的形象，虽有多次代词，仍能由“重现”与“真实样子”辨明所指，可保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Ils exaltèrent l’idée ... plus particuliers, par conséquent plus réels",
+      "translation_anchor": "这些名字把我关于那些地方的想象提升、激扬起来，使这些地方更独特，因而也更真实",
+      "finding": "exaltèrent 在这里是抬高、强化有关地方的观念，“提升、激扬”保留了强化作用。“更独特，因而也更真实”对应 particuliers 与 par conséquent plus réels；这是叙述者当时的主观真实感，并非断言名字使实际城市改变，前文“想象”已经限定了层面，无须消除原作的悖论感。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "non ... comme des tableaux ... mais chacun d’eux comme un inconnu ... qu’elle aurait profit à connaître",
+      "translation_anchor": "并不把城市、风景、建筑想象成一幅幅……每个地方在我眼里都像一个尚未谋面的独特存在",
+      "finding": "原文否定把不同地点看成同质材料上剪出的画面，转而将每一处看作本质不同的陌生存在；译文的“并不……每个地方……”完整呈现了这一转折。un inconnu 的拟人意味由“尚未谋面”保留，灵魂的饥渴及认识这些地方将带来收获也均有对应。monuments 译“建筑”在本段教堂、城市景观语境中可接受，不宜无故扩大为“纪念碑”。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "des noms qui n’étaient que pour eux, des noms comme en ont les personnes",
+      "translation_anchor": "那些只属于它们的名字，像人一样各有其名的名字",
+      "finding": "前半句说城市等地方因专属名字而更具个性，译义正确；末尾的类比是这些地方像人一样拥有名字。现译“像人一样各有其名的名字”在语法上把“各有其名”直接修饰“名字”，读成了名字自己另有名字。建议改为“那是只属于它们的名字，就像每个人都有自己的名字一样”，把类比落回拥有名字的个体。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Les mots nous présentent des choses une petite image claire et usuelle ... pareilles à toutes celles de même sorte",
+      "translation_anchor": "普通词语……给事物配上的，是一幅清楚、简明、人人熟悉的小图画……与同类中的任何一件毫无二致",
+      "finding": "Les mots 与后句 les noms 构成普通词语和专名的区别，译文及现有注释与之相合。学校挂图中的工作台、鸟、蚁穴三例俱全；“人人熟悉”传达 usuelle，“与同类……毫无二致”保留把事物当作类的代表这一抽象方式。未把普通词语的小图画误译为前文独特个体的图像，保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Mais les noms présentent des personnes ... une image confuse ... la couleur dont elle est peinte uniformément",
+      "translation_anchor": "可名字呈现人……时，给出的却是一幅模糊的图像……不仅天空和海洋，连小船、教堂、行人都成了蓝色或红色",
+      "finding": "原文主干是名字给出关于人物（也包括被个体化的城市）的模糊图像，图像颜色来自名字响亮或暗沉的声音；海报因工艺限制或装饰者任性而通体同色，所有例项均译出。中文“名字呈现人……时，给出的……”虽可解读，但“呈现人”搭配生硬，在长插入语之前也缺乏明确的状语框架。建议仅将开头改为“可名字在描绘人——”，与后面的“时”相合，不改变声音染色的论旨。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Le nom de Parme ... compact, lisse, mauve et doux ... de douceur stendhalienne et du reflet des violettes",
+      "translation_anchor": "帕尔马这个名字……密实、光滑、淡紫而柔和……司汤达式的柔美与紫罗兰的反光",
+      "finding": "帕尔马因读《帕尔马修道院》而成为向往的城市，名字的四种质感和颜色进而决定想象中住所的样貌，译文完整保持这一生成关系；“一户将接待我借宿的人家”与随后“住所”相连，是可接受的中文落实。沉甸甸、无空气流通的音节，及注入名字中的司汤达式柔美、紫罗兰反光，均保留了故意跨感官的意象。“与意大利任何城市的住所都毫无关系”虽有想象中的绝对性，符合原文 n’avait de rapport...d’aucune ville，不应改平。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "une ville miraculeusement embaumée et semblable à une corolle",
+      "translation_anchor": "佛罗伦萨在我心里芬芳如奇迹，形似一朵花冠",
+      "finding": "花城、百合之城和圣母百花大教堂的名称使城市显得芳香并形似花冠，因果关系与两个名称都译出。miraculeusement 在句中是修饰 embaumée 的程度、方式副词，意为芬芳得神奇或不可思议；“芬芳如奇迹”将抽象“奇迹”直接作芬芳的比喻对象，中文搭配别扭。建议改为“芬芳得不可思议”，保留非现实的感官强度，其余不动。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "une vieille poterie normande ... d’une manière désuète de prononcer ... l’aspect disputeur, solennel et médiéval d’un personnage de fabliau",
+      "translation_anchor": "保留着取土之地颜色的古老诺曼底陶器……古老的口音……中世纪滑稽故事里那种好争辩、一本正经的人物",
+      "finding": "地名如陶器留有原土之色，仍映出废弃风俗、封建权利、旧日地方形态与过时读音，四项内容均在。qui en avait formé 指旧读音构成驳杂音节，que je ne doutais pas de retrouver 则指我确信客栈老板仍会使用这种发音；现译分句后指代清楚。老板将端牛奶咖啡、带我看教堂前怒海，以及被想象成好争辩而庄严的中世纪 fabliau 人物，皆有对应；“一本正经”保留 solennel 在此人物想象中的色彩，保留。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "它们又因被冠以名字而平添了多少独特之处——那些只属于它们的名字，像人一样各有其名的名字。",
+      "after": "它们又因被冠以名字而平添了多少独特之处——那是只属于它们的名字，就像每个人都有自己的名字一样。",
+      "source": "des noms qui n’étaient que pour eux, des noms comme en ont les personnes",
+      "reason": "原句末尾“像人一样各有其名的名字”造成修饰错接，仿佛名字自身另有名字；应表达城市等个体也像人一样拥有专属于自己的名字。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "可名字呈现人——",
+      "after": "可名字在描绘人——",
+      "source": "Mais les noms présentent des personnes ... une image confuse",
+      "reason": "“呈现人……时，给出的……”搭配生硬且长插入语遮蔽主干；“在描绘人……时”建立清楚的状语框架，仍表达名字给予人物模糊形象的意思。"
+    },
+    {
+      "type": "不符合现代中文习惯",
+      "before": "佛罗伦萨在我心里芬芳如奇迹",
+      "after": "佛罗伦萨在我心里芬芳得不可思议",
+      "source": "une ville miraculeusement embaumée",
+      "reason": "miraculeusement 修饰城市芳香的程度或方式；“芬芳如奇迹”是生硬的抽象名词比喻。“芬芳得不可思议”保留神奇程度且中文搭配自然。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p005"
+  }
+}

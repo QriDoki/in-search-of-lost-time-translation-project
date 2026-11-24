@@ -1,0 +1,100 @@
+{
+  "id": 226,
+  "assessment": "本段的叙事顺序、人物关系及主要反讽均得到保留：妈妈以旁观者心态看勒格朗丹露出势利本性，爸爸仍为受轻视而不快，外祖母担忧交际妨碍海边生活，妈妈则相信勒格朗丹不会热心引荐，最后由他自己无意触发圈套。逐句核对后，建议修订四处：删去原文没有的“故作”，明确海滨疗养与海风时间被交际挤占的关系，并去除“攀上关系”额外带出的攀附意味。其余如“突然杀到”“自己钻进了圈套”等虽较口语化，仍切合外祖母的夸张想象及末句的喜剧语气，不必为改而改。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "勒格朗丹那种种故作轻蔑的做派",
+      "after": "勒格朗丹那种种轻蔑的态度",
+      "source": "les dédains de Legrandin",
+      "reason": "dédains指他表现出的轻蔑，并无“假装”之意。“故作”把这种轻蔑说成装出来的，额外断定其内心态度；此处只需写爸爸难以泰然承受他的轻蔑。"
+    },
+    {
+      "type": "错译",
+      "before": "洗海水浴就该从早到晚待在沙滩上呼吸盐味",
+      "after": "到海边度假就该从早到晚待在沙滩上呼吸带着盐味的空气",
+      "source": "aux bains de mer il faut être du matin au soir sur la plage à humer le sel",
+      "reason": "aux bains de mer在此指在海滨度假、疗养期间，而非单次“洗海水浴”的动作；后文所论是整日待在海边与社交活动的冲突。“呼吸盐味”搭配生硬，补出被呼吸的空气可保留humer le sel的感官特征。"
+    },
+    {
+      "type": "错译",
+      "before": "因为访友、散步都是从海边的空气中偷走的享受",
+      "after": "因为访友、散步都会挤占呼吸海风的时间",
+      "source": "parce que les visites, les promenades sont autant de pris sur l’air marin",
+      "reason": "pris sur表示从本应享用海滨空气的时间中扣除、占去。原译“从……空气中偷走的享受”容易理解成访友散步本身是从空气中取得的享受，未清楚表达外祖母视之为损失的因果关系。"
+    },
+    {
+      "type": "不符合现代中文习惯",
+      "before": "把我们跟他妹妹攀上关系",
+      "after": "把我们介绍给他妹妹",
+      "source": "nous mettre en relations avec sa sœur",
+      "reason": "mettre en relations只指引见、使双方结识。“把我们跟……攀上关系”既是搭配杂糅，也使介绍关系带上主动攀附的意味；原句重点是妈妈认为勒格朗丹不会急于让双方认识。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Maintenant, à la maison, on n’avait plus aucune illusion ... nos relations avec lui s’étaient fort espacées",
+      "translation_anchor": "如今，家里人对勒格朗丹先生已不再抱任何幻想，我们与他的来往也稀落多了。",
+      "finding": "“不再抱任何幻想”对应ne ... plus aucune illusion；第二分句的“来往也稀落多了”保留s’étaient fort espacées所说的交往频率下降。原文用愈过去时交代到此时已形成的状态，中文由“如今”“已”“多了”表达，信息完整，保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Maman s’amusait infiniment chaque fois qu’elle prenait Legrandin en flagrant délit ... le snobisme",
+      "translation_anchor": "每当妈妈当场抓住勒格朗丹正在犯那桩他拒不承认、还继续称之为不可赦免之罪的罪过——势利，她都觉得其乐无穷。",
+      "finding": "“每当”“当场抓住”准确保留反复发生和现行犯的比喻；“他拒不承认”指不肯承认自己犯此罪，“还继续称之为不可赦免之罪”指他仍公开谴责势利，二者构成反讽而非相互否定。破折号后的“势利”对应迟至句末揭明的le snobisme，“其乐无穷”传达infiniment的程度；句式虽迂回，仍可顺读，保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Mon père, lui, avait de la peine à prendre les dédains de Legrandin avec tant de détachement et de gaîté",
+      "translation_anchor": "爸爸呢，却很难那么超然、快活地看待勒格朗丹那种种故作轻蔑的做派",
+      "finding": "“爸爸呢，却”保留lui对妈妈态度的转折；“那么”回指妈妈的超然与愉快，否定程度也正确。但dédains本身不含佯装之意，“故作”增加了对勒格朗丹内心的判断，建议改为“轻蔑的态度”。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "quand on pensa une année à m’envoyer passer les grandes vacances à Balbec avec ma grand’mère, il dit",
+      "translation_anchor": "有一年，家里商量把我送到巴尔贝克去跟外祖母一起度暑假，爸爸说",
+      "finding": "“有一年”与“商量”保留尚处计划阶段的时间和状态；m’指叙述者，avec ma grand’mère说明外祖母同行，译为“跟外祖母一起”正确。原文分号后继续同一句，中文以分号及引语衔接，叙述层次清楚，保留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Il faut absolument que j’annonce à Legrandin que vous irez à Balbec, pour voir s’il vous offrira de vous mettre en rapport avec sa sœur.",
+      "translation_anchor": "我一定要告诉勒格朗丹你们要去巴尔贝克，看他会不会主动提出把你们介绍给他妹妹。",
+      "finding": "爸爸的“一定要”对应Il faut absolument，强烈的试探意图由“看他会不会”明确表达；vous指将同行的外祖母和叙述者，译作“你们”正确。offrira在此是主动提出帮助引见，不是已经引见，译文保留这一条件性，保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Il ne doit pas se souvenir nous avoir dit qu’elle demeurait à deux kilomètres de là.",
+      "translation_anchor": "他大概忘了自己跟我们说过，她就住在离那儿两公里的地方。",
+      "finding": "ne doit pas se souvenir是推断他大概不记得，而非“不应该记得”，“大概忘了”正确。il指勒格朗丹、elle指他妹妹、là指巴尔贝克，译文代词的承接清楚；“跟我们说过”保留先前说过这一层时间关系，保留。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Ma grand’mère qui trouvait qu’aux bains de mer il faut être du matin au soir sur la plage à humer le sel et qu’on n’y doit connaître personne, parce que les visites, les promenades sont autant de pris sur l’air marin",
+      "translation_anchor": "外祖母却认为，洗海水浴就该从早到晚待在沙滩上呼吸盐味，在那儿谁也不该认识，因为访友、散步都是从海边的空气中偷走的享受",
+      "finding": "原文先交代外祖母的海滨生活原则，再用parce que说明应避免结识他人的理由；“在那儿谁也不该认识”虽绝对，恰好保留她的夸张主张。两处需改：“洗海水浴”将海滨逗留窄化为一次洗浴；“偷走的享受”未说明交际占去呼吸海风的时间。建议分别改为海边度假及挤占时间，使因果明确。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "demandait au contraire qu’on ne parlât pas de nos projets à Legrandin, voyant déjà sa sœur, Mme de Cambremer, débarquant à l’hôtel ... nous forçant à rester enfermés pour la recevoir",
+      "translation_anchor": "所以她反而要求别把我们的计划告诉勒格朗丹。她仿佛已经看见他妹妹康布雷梅尔夫人突然杀到旅馆，偏偏在我们正要出门去钓鱼的当口，逼得我们关在屋里接待她。",
+      "finding": "“反而”对应au contraire，所反对的是爸爸特意告知勒格朗丹的提议；分成两句后，“所以”仍把此要求接回前面的理由。“她仿佛已经看见”准确标出后文是外祖母的预想，并非真实发生的造访。sa sœur仍指勒格朗丹的妹妹，译文明确补出“他妹妹”；“正要”“逼得”分别保留sur le point与forçant的临门干扰和被迫性。“突然杀到”较口语，但契合débarquant在此突如其来的喜剧色彩，可保留。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Mais maman riait de ses craintes, pensant à part elle que le danger n’était pas si menaçant, que Legrandin ne serait pas si pressé de nous mettre en relations avec sa sœur.",
+      "translation_anchor": "可妈妈对她的担心一笑置之，心里暗想，危险并没有那么咄咄逼人，勒格朗丹才不会那么急着把我们跟他妹妹攀上关系。",
+      "finding": "ses craintes指外祖母的担忧，译为“她的担心”承接明确；“心里暗想”保留à part elle，表明妈妈并未当面说破判断。两个que分句相互解释：危险有限，是因为勒格朗丹不会热心引荐。“才不会那么急着”保留否定的程度与讥讽；但“攀上关系”增添攀附意味且搭配不顺，建议改成“把我们介绍给他妹妹”。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "Or, sans qu’on eût besoin de lui parler de Balbec, ce fut lui-même, Legrandin, qui, ne se doutant pas que nous eussions jamais l’intention d’aller de ce côté, vint se mettre dans le piège un soir où nous le rencontrâmes au bord de la Vivonne.",
+      "translation_anchor": "谁知，根本不需要有人向他提起巴尔贝克，正是勒格朗丹自己——他万万没想到我们竟会打算去那个方向——在一天晚上我们于维沃纳河边遇见他时，自己钻进了圈套。",
+      "finding": "“谁知”承接Or引出的意外转折；“根本不需要”保留sans qu’on eût besoin的否定。“正是……自己”对应ce fut lui-même的强调，指他主动谈起相关话题而自陷圈套。插入语的“万万没想到”体现ne se doutant pas ... jamais，代词nous始终指叙述者一家。末尾时间地点与相遇事件完整保留；“圈套”是叙述者事后的反讽，并不意味着外祖母安排了陷阱，原译未改变这一层，保留。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p226"
+  }
+}

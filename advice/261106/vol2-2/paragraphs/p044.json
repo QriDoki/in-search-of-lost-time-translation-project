@@ -1,0 +1,18 @@
+{
+  "id": 44,
+  "assessment": "本段为叙述者根据母亲刚才的话作出的追问。译文保留了推论关系、否定疑问和母亲与斯万之间的关系指向；“闹翻”也与下段母亲的复述衔接妥当，无须修改。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Mais alors, vous n'êtes pas brouillés ?",
+      "translation_anchor": "那么，你们没有闹翻？",
+      "finding": "Mais alors 在这里承接母亲所说斯万主动上前招呼一事，表示“那这么说”的推论兼追问；“那么”已传达其语气，不必机械补译“可是”。vous 指母亲和斯万，译为“你们”正确；n’êtes pas brouillés 询问双方是否并未处于失和状态，译文用“没有闹翻”的否定疑问保留了说话者试图确认的意思。“闹翻”表达了 brouillés 的关系破裂义，并在下一段母亲的“闹翻？”中得到复述，语气和对话衔接均可保留。"
+    }
+  ],
+  "changes": [],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p044"
+  }
+}

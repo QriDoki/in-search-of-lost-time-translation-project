@@ -1,0 +1,39 @@
+{
+  "id": 37,
+  "assessment": "本段保留了地图因爱情而具有宝物价值的联想，以及父亲因不知情而发问的因果关系。两处宜修订：地图上“标得出”的表述不够自然；par plaisir 指说出街名所带来的愉悦，译成“出于爱慕”将直接动机改成了爱情本身，同时宜恢复 une sorte de 对“骑士般忠诚”的试探性限定。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "J’avais toujours à portée de ma main un plan de Paris … parce qu’on pouvait y distinguer la rue … me semblait contenir un trésor.",
+      "translation_anchor": "我手边总放着一张巴黎地图；只因为地图上标得出斯万夫妇所住的街道，我便觉得这张地图仿佛藏着宝物",
+      "finding": "à portée de ma main 是随手可及，译作“手边总放着”准确；关系从句的主语 qui 指巴黎地图，me semblait contenir un trésor 译为地图仿佛藏着宝物，保留了叙述者将爱情投射于地图的修辞。parce que 说明地图何以被赋予宝物价值，原译因果无误；但 on pouvait y distinguer 说的是读图时可以辨认出那条街，并非地图具备某种“标得出”的能力。“地图上标得出”搭配生硬，宜改成“能在地图上辨出”，并以“那条街”照应特定街道。原有注释及标记不动。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Et par plaisir, par une sorte de fidélité chevaleresque aussi, à propos de n’importe quoi, je disais le nom de cette rue … n’étant pas comme ma mère et ma grand’mère au courant de mon amour",
+      "translation_anchor": "无论谈起什么，我都出于爱慕、也出于骑士般的忠诚，设法提到那条街的名字，以至于父亲——他不像母亲和外祖母那样了解我的爱情——问我：",
+      "finding": "à propos de n’importe quoi 表示不管谈什么都会提及街名，je disais le nom 是说出街名；原译“设法”额外强调寻找机会，原文仅叙述反复提名的习惯，可由“总要提到”承接。par plaisir 是这么说会使自己高兴，原译“出于爱慕”虽符合全段背景，却漏掉了说出地名本身带来的乐趣；par une sorte de fidélité chevaleresque aussi 是另一层动机，其中 une sorte de 将爱情中的忠诚比拟为某一种骑士式忠诚，宜保留“一种”。si bien que 引出父亲发问的结果，n’étant … au courant 的主语是父亲，说明他与母亲、外祖母不同，并不知道儿子的爱情，原译插入语的指代与逻辑均正确；“问我”与下一段直接引语衔接恰当。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "不符合现代中文习惯",
+      "before": "只因为地图上标得出斯万夫妇所住的街道",
+      "after": "只因为能在地图上辨出斯万夫妇所住的那条街",
+      "source": "parce qu’on pouvait y distinguer la rue où habitaient M. et Mme Swann",
+      "reason": "distinguer 指从地图中辨认出街道；“地图上标得出”搭配不自然，改以隐含的读图者为辨认主体，更准确也更顺畅。"
+    },
+    {
+      "type": "错译",
+      "before": "无论谈起什么，我都出于爱慕、也出于骑士般的忠诚，设法提到那条街的名字",
+      "after": "为让自己高兴，也出于一种骑士般的忠诚，无论谈起什么，我总要提到那条街的名字",
+      "source": "Et par plaisir, par une sorte de fidélité chevaleresque aussi, à propos de n’importe quoi, je disais le nom de cette rue",
+      "reason": "par plaisir 是为了说出街名的乐趣，不等于“出于爱慕”；恢复 une sorte de 的“一种”，并以“总要提到”表达习惯性重复，避免“设法”增加原文没有明说的刻意筹划。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p037"
+  }
+}

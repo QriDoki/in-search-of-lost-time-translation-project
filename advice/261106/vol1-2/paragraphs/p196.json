@@ -1,0 +1,200 @@
+{
+  "id": 196,
+  "assessment": "逐句及长句意群核对后，译文完整保留了星期六午餐提前这一家庭惯例所引出的民族团结、史诗及天象拟人等连续幽默，也大体厘清人物指代与时间关系。需订正分娩与接生、用餐时放松与饭前放松、提前上桌与早熟、小事与大事、小牛肉与烧牛肉等词义，纠正一处把实际来访往事写成假设的逻辑，删除“不速之客”的无据限定，并修顺星期六面貌一句。其余可保持。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Quand je dis ... comme cet accouchement",
+      "translation_anchor": "我说姑妈的日常起居除了像那次接生这样极其罕见的事件之外从不发生任何变化",
+      "finding": "原文先限定“除极罕见的事件以外”，再否定日常有变化；原译保留限定与否定关系。cet回指上一段厨房女工生产，accouchement应改“分娩”，不能改成替人接生这一行为。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "je ne parle pas de celles qui ... une sorte d’uniformité secondaire",
+      "translation_anchor": "这话并不包括那些总是原样重演、按固定间隔出现的变动——它们只是在千篇一律之中又添了一层单调",
+      "finding": "celles指variations，即此类变动仍存在，只是不计入前面的“变化”。“并不包括”及“原样重演、按固定间隔”把这层例外说清；“一层单调”承接第二重uniformité，虽然着重单调感，仍由上下文说明其规律性，可保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "C’est ainsi que tous les samedis ... une heure plus tôt",
+      "translation_anchor": "每个星期六，弗朗索瓦丝下午要去鲁森维尔-勒潘赶集，于是全家人的午饭都提前一个小时",
+      "finding": "comme给出提前用餐的原因，时间为每周六下午赶集、午餐提前一小时；“要去……于是”与“全家人”分别保留因果及pour tout le monde的范围。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Et ma tante avait si bien pris l’habitude ... autant qu’aux autres",
+      "translation_anchor": "姑妈对这个每周一次破例的习惯已经习以为常到了这样的地步，以致她对这一条习惯的重视丝毫不亚于其他任何一条",
+      "finding": "破例本身反成习惯是此句的悖论，原译重复“习惯”有依据；si bien ... que的程度结果和autant ... que的等量比较均保留，“不亚于”在这里可承接同样重视。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Elle y était si bien « routinée » ... avancer son déjeuner à l’heure du samedi",
+      "translation_anchor": "她对此已经“惯得不能再惯”……给她的“搅扰”，就跟哪天要她把午饭提前到星期六的钟点一样大",
+      "finding": "y仍指周六提前午餐的惯例；原文反事实比较“周六等到平日时间”与“另一天提前到周六时间”同样搅扰，原译两端完整，假如与不得不也保留虚拟假设。“哪天”在这组对照中可理解为另一天，无须改动。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Cette avance du déjeuner ... une figure particulière, indulgente, et assez sympathique",
+      "translation_anchor": "这顿提前的午饭还让星期六在我们大家眼里有了显得格外亲切、宽和，甚至带着一点可爱的神情",
+      "finding": "avance指午餐时刻提前，不是用餐速度快；主干与拟人的“神情”方向正确，但“有了显得”搭配失当，“甚至”增添原文没有的递进。改用“有了一副格外宽和、颇为可亲的面貌”保留拟人和assez的程度。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Au moment où d’habitude ... avant la détente du repas",
+      "translation_anchor": "平时，离饭前那阵松弛还足足有一个钟头要熬，可我们知道，再过几秒钟",
+      "finding": "on savait对照平常尚须等候一小时与今天几秒内上菜；原译保留此时间反差。“要熬”对应une heure à vivre的等待感；但détente du repas是吃饭时的松弛，应将“饭前”改“吃饭时”。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "des endives précoces, une omelette de faveur, un bifteck immérité",
+      "translation_anchor": "早熟的菊苣、一份额外优待般提前上桌的煎蛋卷、让人受宠若惊的牛排",
+      "finding": "三道菜以“来早了”“受优待”“不配得到”的语汇形成诙谐的恩惠感。omelette和bifteck分别译煎蛋卷、牛排正确；“受宠若惊”以中文感受表达immérité的意外受惠，可以保留。précoces在本段午饭提前的语境中应为提前上桌，“早熟”误指成熟期，列入修改。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Le retour de ce samedi asymétrique ... récits exagérés à plaisir",
+      "translation_anchor": "这个不对称的星期六每星期都如期归来……几乎称得上公共生活中的大事……添油加醋的讲述",
+      "finding": "asymétrique以午餐时间不合常规来修饰星期六，译“不对称”保留修辞；“每星期”由每周六的惯例可知。intérieurs、locaux、presque civiques的范围递进与后文民族纽带的夸张均保留。但petits événements是这些修饰语共同的中心，应把“大事”改“小事”，以免把原文细小共同事件的基调倒转。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "il eût été le noyau tout prêt ... la tête épique",
+      "translation_anchor": "倘若我们中间有谁的头脑带点史诗气质，它现成就可以充当一整套传说故事的核心",
+      "finding": "il回指星期六反复到来这件事，原译“它”承接明确；条件式“倘若……就可以”完整保留并未真正形成史诗的假设。cycle légendaire译一整套传说故事、noyau译核心均合适。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "Dès le matin, avant d’être habillés, sans raison ... avec patriotisme",
+      "translation_anchor": "一大清早，衣服还没穿好，明明没有什么事，只为了体验一下这种同心同德的力量有多带劲……满怀爱国之情",
+      "finding": "未穿好衣服的时间、没有实际缘由而只为体验团结的动机、bonne humeur/cordialité/patriotisme的三层语气都已表达。“有多带劲”稍口语化但能承接pour le plaisir的自得，爱国之情则保留家庭仪式被比作民族团结的幽默。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "« Il n’y a pas de temps à perdre ... » cependant que ma tante ... un beau morceau de veau",
+      "translation_anchor": "“时间可不等人，别忘了今天是星期六！”与此同时，姑妈同弗朗索瓦丝商量着……做一大块烧牛肉吧",
+      "finding": "叮嘱与姑妈商量是同时发生的动作，cependant que用“与此同时”正确；姑妈认为这一天显得更长，原译亦保留。comme c’est samedi译“反正今天是星期六”虽带口语语气，仍表示以星期六为理由；veau必须改小牛肉，并撤去原文没有的“烧”法。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "Si à dix heures et demie ... on se promettait de monter raconter cet oubli",
+      "translation_anchor": "要是十点半有个粗心人掏出怀表……离午饭还有一个半钟头呢……一刻钟大家还在笑……上楼把这件忘事讲给姑妈听",
+      "finding": "此处Si确是概括重复发生的假设场景，可保留“要是”。十点半加一个半小时为平常正午，恰好忘了周六十一点吃饭；原译时间无误。distrait译粗心、纠正时的兴奋、十五分钟后仍笑及约定转述均齐全。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "Le visage du ciel même semblait changé. Après le déjeuner ... flânait une heure de plus",
+      "translation_anchor": "连天上的脸色都像是变了。午饭过后，太阳意识到今天是星期六，便在高空里多逗留了一个钟头",
+      "finding": "“脸色”保留visage的拟人，semblait的主观感觉由“像是”表达。太阳知道星期六而多逗留是延续午饭提前造成错觉的拟人，非实际天象变化；原译保留其幽默，无须解释性改写。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "quand quelqu’un, pensant qu’on était en retard ... « Comment, seulement deux heures ? »",
+      "translation_anchor": "当有人看见圣伊莱尔钟楼的两下钟声飘过，以为出门散步已经晚了，嚷道：“怎么，才两点钟？”",
+      "finding": "pensant表示说话者先误以为散步迟了，听到两点后才惊讶；中文通过“以为……嚷道”交代此关系。“看见……钟声飘过”虽属通感，但正对应voyant passer，不能当作感官错误删改。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "qui ont l’habitude de ne rencontrer encore personne ... quelques nuages paresseux",
+      "translation_anchor": "那两下钟声向来碰不见路上的一个人影……连钓鱼人都已收家伙走开……只剩下几朵懒洋洋的云",
+      "finding": "qui以及后面的复数passent都指两下钟声，译文用“它们”保持拟人主体；道路无人是因中饭或午睡，河边连钓鱼人也离开，原译否定范围和even的加强均明确。“收家伙”是对钓鱼人离开的小幅具体化，不影响事件或意象，无须为此单列修订。"
+    },
+    {
+      "unit": 17,
+      "source_anchor": "tout le monde en chœur ... c’est qu’on a déjeuné une heure plus tôt",
+      "translation_anchor": "大家便齐声回答他：“把您弄糊涂的是我们提早一个钟头吃的午饭，您明明知道今天是星期六嘛！”",
+      "finding": "齐声回答承接前面误判时间者；ce qui vous trompe ... c’est que的解释结构和提前一小时这一原因清楚。“明明知道”表达vous savez bien带一点嗔怪的熟人语气，可保留。"
+    },
+    {
+      "unit": 18,
+      "source_anchor": "La surprise d’un barbare ... nous avait trouvés à table ... avait le plus égayé Françoise",
+      "translation_anchor": "要是有个蛮族人……十一点钟来找我父亲说话，发现我们已经坐在了饭桌旁，他那副惊讶模样，是弗朗索瓦丝平生最觉得可乐的事情之一",
+      "finding": "括号把barbare定义为所有不知道星期六规矩的人，“蛮族人”延续前文民族共同体隐喻，可保留。主句却是已发生的惊讶给弗朗索瓦丝带来欢乐；qui的过去时从句叙述一名具体客人来访。现译“要是”误把这段往事改为假设，须删除。十一点与table、平生最可乐的事情之一均正确。"
+    },
+    {
+      "unit": 19,
+      "source_anchor": "Mais si elle trouvait amusant ... elle trouvait plus comique encore ... mon père",
+      "translation_anchor": "那位不速之客目瞪口呆……她觉得有趣；可是她觉得更滑稽的……是我父亲压根儿没想到这个蛮族人可能不知道这回事",
+      "finding": "si在这里是让步对照，译“她觉得有趣；可是……更滑稽”正确。两层笑点分别为客人不知道规矩、父亲想不到别人会不知道，否定和可能性均完整。visiteur并无不请自来之义，“不速之客”应改客人；括号中sympathisant表示她自己也认同这种狭隘共同体情感，“打心底里同情”仍可在此表示共鸣。"
+    },
+    {
+      "unit": 20,
+      "source_anchor": "eût répondu sans autre explication ... « Mais voyons, c’est samedi ! »",
+      "translation_anchor": "竟不作任何别的解释，只回了一句：“我说，今天是星期六呀！”",
+      "finding": "父亲把星期六当不言自明的理由，sans autre explication由“不作任何别的解释”完整传达。“竟”“呀”是中文中呈现可笑的理所当然口气，未改变谁向谁解释的关系。"
+    },
+    {
+      "unit": 21,
+      "source_anchor": "Parvenue à ce point de son récit ... inventait ce qu’avait répondu le visiteur",
+      "translation_anchor": "每回弗朗索瓦丝讲这段故事讲到这儿，都要笑出眼泪，得擦一擦……编造出那位客人的回答——那句“星期六”对他可是什么也没说明白",
+      "finding": "elle始终指弗朗索瓦丝，访客则为接受“星期六”解释而仍不明白的人；原译两者分明。imparfait表达反复讲述的惯常动作，“每回”有依据。擦笑泪、为延长乐趣而续编对话及访客不能理解星期六的因果链完整。"
+    },
+    {
+      "unit": 22,
+      "source_anchor": "Et bien loin de nous plaindre ... C’était plus long la première fois ... Ma grand’tante elle-même",
+      "translation_anchor": "我们非但不抱怨她的添油加醋，还嫌不过瘾……您头一回讲的时候比这个长。连姑祖母都会放下手里的活计，抬起头，从夹鼻眼镜上方望过来",
+      "finding": "additions是她编加的内容，“添油加醋”贴切；bien loin de与ne ... pas encore形成非但不抱怨且还嫌不够，原译保留了双层否定的实际含义。听众借第一次更长来要求更多，最后连姑祖母也停下ouvrage抬头，elle-même的递进和par-dessus的空间位置均完整，无须改动。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "像那次接生这样",
+      "after": "像那次分娩这样",
+      "source": "comme cet accouchement",
+      "reason": "accouchement指上段厨房女工分娩这件事；“接生”把事件的中心换成了接生者的行为。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "有了显得格外亲切、宽和，甚至带着一点可爱的神情",
+      "after": "有了一副格外宽和、颇为可亲的面貌",
+      "source": "une figure particulière, indulgente, et assez sympathique",
+      "reason": "“有了显得……的神情”句法不顺。particulière对应“格外”，indulgente对应“宽和”，assez sympathique对应“颇为可亲”，原文没有“甚至”的递进关系。"
+    },
+    {
+      "type": "错译",
+      "before": "离饭前那阵松弛",
+      "after": "离吃饭时的松弛",
+      "source": "avant la détente du repas",
+      "reason": "détente du repas是用餐带来的放松，不是吃饭以前的一阵放松；avant限定的是距离这场放松尚有一小时。"
+    },
+    {
+      "type": "错译",
+      "before": "早熟的菊苣",
+      "after": "提前上桌的菊苣",
+      "source": "des endives précoces",
+      "reason": "此处与提前吃午饭相呼应，拟人地说菜来得早，并与“优待”“不配享用”并列营造额外得惠的感觉；“早熟”误导为蔬菜品种或成熟季节。"
+    },
+    {
+      "type": "错译",
+      "before": "几乎称得上公共生活中的大事",
+      "after": "几乎称得上公共生活中的小事",
+      "source": "un de ces petits événements intérieurs, locaux, presque civiques",
+      "reason": "petits événements统摄intérieurs、locaux、presque civiques三个修饰语；原文强调生活圈子把小事当共同话题，不曾把事件直接称为“大事”。"
+    },
+    {
+      "type": "错译",
+      "before": "做一大块烧牛肉吧",
+      "after": "做一大块小牛肉吧",
+      "source": "un beau morceau de veau",
+      "reason": "veau明确是小牛肉；“烧”是原文未指定的烹调法，原译同时丢失了肉的种类。"
+    },
+    {
+      "type": "错译",
+      "before": "要是有个蛮族人",
+      "after": "有个蛮族人",
+      "source": "La surprise d’un barbare ... qui, étant venu à onze heures",
+      "reason": "这里用过去时回忆一个确已发生、后来反复讲述的具体来访事件，没有条件假设；删除“要是”使下文“讲这段故事”有确定的事件依据。"
+    },
+    {
+      "type": "错译",
+      "before": "那位不速之客",
+      "after": "那位客人",
+      "source": "le visiteur interloqué",
+      "reason": "visiteur只指来访的客人，interloqué由后面的“目瞪口呆”表达；原文没有其未受邀请或不受欢迎的判断。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p196"
+  }
+}

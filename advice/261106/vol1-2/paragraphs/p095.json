@@ -1,0 +1,31 @@
+{
+  "id": 95,
+  "assessment": "本段风景由内向外的层次、书中山水对爱情幻想的浸染及补色比喻均传达完整。两处将紫色和浅红色合成“紫里泛红”，改变了原文并列的色彩，宜改正；另调整“女人的梦”的定中结构，明确是叙述者梦想获得女子的爱。保留补色注释及其内容。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "不远处，一串串紫里泛红的花沿着矮墙爬上来",
+      "after": "不远处，一串串紫色和浅红色的花沿着矮墙爬上来",
+      "source": "des grappes de fleurs violettes et rougeâtres",
+      "reason": "violettes et rougeâtres并列指紫色及略带红色的花，不能合并为一种紫里泛红的颜色。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "又因为一个会爱我的女人的梦始终萦绕在我心头",
+      "after": "又因为我心头始终萦绕着有一个女人爱我的梦想",
+      "source": "Et comme le rêve d'une femme qui m'aurait aimé était toujours présent à ma pensée",
+      "reason": "原译“女人的梦”易被理解为女人做的梦；调整结构，明确这是叙述者对获得女子之爱的梦想。"
+    },
+    {
+      "type": "错译",
+      "before": "一串串紫里泛红的花立刻从她两侧升起",
+      "after": "一串串紫色和浅红色的花立刻从她两侧升起",
+      "source": "des grappes de fleurs violettes et rougeâtres",
+      "reason": "此处复现前文两种并列的花色，需与前文一致，保留紫色与略带红色的区别。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p095"
+  }
+}

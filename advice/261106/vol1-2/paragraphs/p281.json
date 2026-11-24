@@ -1,0 +1,29 @@
+{
+  "id": 281,
+  "assessment": "本段由一句自我澄清和一句解释组成：说话者将“看见我们”限定为“看见我们读书”，继而以泛指的口吻说明，即便做着微不足道的事，想到有人看着也会觉得厌烦。原译保留了澄清、让步与心理感受之间的关系，“我们”与泛指行为主体的转换亦无误。“盯着”较字面的“看见”略有强调，但与此处因受人目光注视而不自在的语境相合，不构成值得改动的语义偏差。逐意群核对后无须修改。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Quand je dis nous voir, je veux dire nous voir lire",
+      "translation_anchor": "我说人家看见我们，是指看见我们在看书。",
+      "finding": "“Quand je dis …, je veux dire …”是对自己刚才措辞的即时澄清，原译以“我说……，是指……”保留这一话语关系；两处“nous”均指说话者与女友，译作“我们”一致。“voir lire”指看见她们读书这一行为，译文补出进行意味的“在看书”，没有把“lire”误作看见书本。“人家”明示了原句不定式中由上文承接的观看者，中文指向清楚。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "c'est assommant, quelque chose insignifiante qu'on fasse",
+      "translation_anchor": "哪怕只是在做一件无关紧要的小事，……也让人厌烦。",
+      "finding": "“quelque chose insignifiante qu’on fasse”构成让步，表示无论做的事情多么微不足道；“哪怕只是……，……也……”准确保留让步关系。“insignifiante”译为“无关紧要”，“assommant”在这里表示令人厌烦、难以忍受，并非字面的击打，译文用“厌烦”合适。中文将插入式让步移至前部，仍能完整修饰后文的感受判断，句式通顺。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "de penser que des yeux vous voient",
+      "translation_anchor": "一想到有人盯着，也让人厌烦。",
+      "finding": "真正引起厌烦的是“想到有目光看见自己”这一心理状态，原译“一想到……，也让人厌烦”保留了这一因由，没有改写成被看见便必然发生的客观事件。“des yeux”以眼睛代指观看者，中文转为“有人”自然；“vous”为泛指被注视的人，译文省略宾语，由前面的泛指行为主体承接，并未误指另一位对话者。“盯着”略强于“voient”的字面表达，但本句正在解释受目光关注的不自在，语境中可以保留。"
+    }
+  ],
+  "changes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p281"
+  }
+}

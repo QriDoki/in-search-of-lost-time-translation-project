@@ -1,0 +1,123 @@
+{
+  "id": 54,
+  "assessment": "本段保留了树林如动物园、金合欢如女子衣饰及对斯万夫人的移情崇敬等多层比喻，基本叙述关系可辨；需修正田庄与两种树林的相接关系、散步女子的速度、植物接近的运动主体、珍贵寄生虫意象及化名的现时用法，并清理重复标注正文、预先与一出现的抵牾、信念被弱化及末句宾语关系。共6个单元逐项核对，建议10处精确替换。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Mais le plus souvent -- quand je ne devais pas voir Gilberte -- comme j’avais appris que Mme Swann se promenait presque chaque jour",
+      "translation_anchor": "但最常见的情形是——在我见不到希尔贝特的日子——我听说斯万夫人几乎每天都要到",
+      "finding": "开头le plus souvent承接前段偶尔去斯万家门前或牙医附近等候的活动，译为“最常见的情形”保留频率对比。quand je ne devais pas voir说明原本没有见希尔贝特安排的那些日子，译作“见不到”虽偏结果，未造成此处情节误解，可保留。comme引出已经得知斯万夫人散步地点这一理由，中文用“我听说……便领着”明确因果；三个地点、几乎每天的频率、由我引导弗朗索瓦丝前往树林的动作均保留。两处地名注释属于既有标注，本次不据其文化介绍另作改动。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "faisant succéder quelque ferme ... à une sapinière au bord du lac, ou à une futaie ... quelque promeneuse rapide -- il était le Jardin des femmes",
+      "translation_anchor": "湖边的冷杉林后面，忽然接上一座像……的田庄……也可能接着一片高大的乔木林……步履轻盈……这里于是成了女人们的花园⊂女人们的花园⊃",
+      "finding": "动物园比喻的三层关系须区分：先列不同植物与相反地貌，再说明这些景观为动物嬉游提供环境，最后转到树林中供美人出没的各个封闭小世界。现译保存植物、地貌、动物名单和环境/背景的选择关系，“活动环境”足以承接ébats，可保留。插入语faire succéder A à B, ou à C是让田庄接在湖边冷杉林或乔木林之后，现译却把乔木林变成田庄之后的另一处景观，须修复并列支配关系。rapide是行走迅速，不能仅译“步履轻盈”；souple fourrure指柔软毛皮，beaux yeux d’une bête的兽眼形象需保留，形成前文动物园到女人园的过渡。il était仅作身份判断，无“于是成了”的变化因果，且“女人们的花园”因标注而重复一遍，须删重复正文并保留原注释锚。末尾金合欢道为女人而种单一树种、名美人常来，以及与《埃涅阿斯纪》桃金娘道的类比均对应；“尽是”略带泛化，仍可作为场所描写保留，不额外改写。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "leur parfum ... faisait sentir de loin l’approche et la singularité d’une puissante et molle individualité végétale ... parasites précieux ... ne nous évoquent plus que le nom",
+      "translation_anchor": "仿佛那株强健而柔美的植物正向我走来……奇异小生灵……如今一听见便叫人想起",
+      "finding": "全句以孩子远见海狮岩石即欢喜作比，再按距离递进列香气、树冠、名字三个共同引起心跳的因素；现译以“同样—随后—最后”保存这条感官递进，海狮跃水与岩石顶端的关系也清楚。l’approche说香气远远预告树木已在近旁，处于接近过程的是叙述者，译成植物“正向我走来”额外制造树木运动；singularité为此植物个体的独特性，宜一并改清。puissante et molle的强健与柔软形成对照，不能只化为“柔美”。frondaison的轻盈、稍显纤巧、轻易得来的优雅、俏丽剪裁及薄织物的衣饰联想，现译均有落实，可保留其拟人笔调。花朵被比作长翅且振动的“珍贵寄生虫群落”，现译“奇异小生灵”丢掉parasites的寄生性以及précieux的珍贵质感，需具体恢复。名字一项的阴性、闲散、温柔以及心跳属于社交欲望而非恋爱欲望均可保留。末尾ne ... plus que强调圆舞曲如今只剩唤起美貌宾客姓名的功能，现译有“如今”而漏“只”，须补限制。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "mais le plus souvent sous leur nom de guerre ; leur nouveau nom, quand il y en avait un, n’était qu’une sorte d’incognito",
+      "translation_anchor": "多半是用她们昔日的化名；即使后来改姓，新姓也不过像遮住身份的一层面纱",
+      "finding": "bien qu’elles n’eussent pas toutes été épousées与斯万夫人的已婚身份相对，“并非人人已婚”准确保留部分否定。nom de guerre在此是这些交际女性为人熟知的化名，原句明说人们通常还以此称呼她们，不能加“昔日”令其像已废弃的旧名。新名字如存在，反而成为需要揭开的匿名伪装；原译面纱与“揭开”的比喻可以保留，但“即使后来改姓”把静态的有无条件改成时间推进，宜改为“其中有了新姓氏的人”。本段以婚姻与新名字并置，译“姓氏”有语境依据，无须另作人物生平猜测。最终揭开伪装是为了让听者知道在谈谁，译“别人才听得明白”完整对应。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "des lois occultes à la connaissance desquelles elles avaient été initiées ... j’acceptais d’avance comme une révélation l’apparition de leur toilette, de leur attelage",
+      "translation_anchor": "她们仿佛深知这种美的秘密法则……她们的衣饰、马车，以及上千个细节一出现，我便预先当作一种启示接受下来",
+      "finding": "Pensant统摄两项信念：女性服饰之美有秘密法则，这些女人已获传授且有能力把美实现。现译先用“我想”引入信念，再加“仿佛”把主人公的确信削弱为外观猜测，同时未保留initiées的入门/获传授意味，应明示。d’avance表示在这些衣饰车马出现之前就准备把它们当成启示；“一出现，我便预先”在中文中时间关系抵牾，宜直接说明尚未见到已先当成启示。attelage包括拉车的马匹及车辆，用“车马”比单说“马车”更贴切。后半把信仰注入无数细节，作为内部灵魂使稍纵即逝、不断运动的一组事物获得艺术杰作般的凝聚力；现译“信仰—灵魂—浑然统一”的因果链完整，éphémère et mouvant译“转瞬即逝、不断变化”在此容许包含车辆运动，保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "leurs parents ... autant d’amour qu’elle, même un trouble plus douloureux (parce que leur point de contact avec elle était cette partie intestine de sa vie qui m’était interdite)",
+      "translation_anchor": "在我心里唤起的爱不亚于她本人，甚至是一种更痛苦的骚动（因为他们同她最亲近的那一部分关系，恰是她生活中对我紧紧关闭的私密领域）",
+      "finding": "首层强调我真正要见的是斯万夫人，等待时如同等希尔贝特，现译正确。dont les parents以下解释移情：父母同她周边的一切一样浸有她的魅力，唤起不亚于她本人的爱，甚至唤起更痛苦的骚动。译文“甚至是一种”把后项写成前述“爱”的重新定性，而原文是同一excitaient支配爱、骚动、敬畏三个宾语，宜改成“甚至还唤起”。括号中的point de contact不是“他们同她最亲近的那一部分关系”，而是父母与她相接触的部分正属于我不得进入的生活内里；现译把关系与领域硬作等同且添“最亲近”，需改清。末层后来得知父母不喜欢两人一起玩，故敬畏他们不受约束地伤害自己的权力；现译保留“后面将会说到”的叙述预告、父母为主语的复数指代及敬畏的心理悖论，可保留。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "譬如，湖边的冷杉林后面，忽然接上一座像⊂弗吉尼亚农场⊃≼🏛️原文 ferme de la Virginie，意为具有美国弗吉尼亚地区情调的农场式景观；与岩洞、沼泽等并列，强调布洛涅树林中不同地方风景被人为拼接的效果。≽的田庄，里面栽着红叶树和美洲橡树；也可能接着一片高大的乔木林，一个步履轻盈、裹着软毛皮的散步女子，会忽然从林中现身，眼睛有一种野兽般的美",
+      "after": "譬如，一座像⊂弗吉尼亚农场⊃≼🏛️原文 ferme de la Virginie，意为具有美国弗吉尼亚地区情调的农场式景观；与岩洞、沼泽等并列，强调布洛涅树林中不同地方风景被人为拼接的效果。≽的田庄，里面栽着红叶树和美洲橡树，紧接在湖边的冷杉林或一片高大的乔木林后面；那乔木林中会忽然现身一个脚步飞快的散步女子，裹着柔软的毛皮，长着野兽般美丽的眼睛",
+      "source": "faisant succéder quelque ferme ... à une sapinière au bord du lac, ou à une futaie d’où surgit ... quelque promeneuse rapide",
+      "reason": "à une sapinière与à une futaie共同说明田庄接在什么景观之后，原译倒置了第二项；同时将rapide还原为脚步迅速，保留毛皮与兽眼的人兽类比。既有注释原样保留。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "这里于是成了女人们的花园⊂女人们的花园⊃",
+      "after": "这里是⊂女人们的花园⊃",
+      "source": "il était le Jardin des femmes",
+      "reason": "删去标注前重复的名称；était是判断而非“于是成了”的结果变化，保留注释锚及注释。"
+    },
+    {
+      "type": "错译",
+      "before": "我已远远嗅见金合欢的花香，仿佛那株强健而柔美的植物正向我走来，感到它的独一无二",
+      "after": "我已远远嗅见向四周散发的金合欢花香，感到一个强健而柔软的植物个体已在近旁，并感到它自成一格的特质",
+      "source": "leur parfum qui, irradiant alentour, faisait sentir de loin l’approche et la singularité d’une puissante et molle individualité végétale",
+      "reason": "香气预示正在接近的树木及其独特个性，并非树木朝叙述者行走；恢复香气向四周散发及强健/柔软的并置。"
+    },
+    {
+      "type": "错译",
+      "before": "宛如一群群长着翅膀、微微颤动的奇异小生灵",
+      "after": "宛如一群群长着翅膀、微微颤动的珍贵寄生虫",
+      "source": "comme des colonies ailées et vibratiles de parasites précieux",
+      "reason": "恢复寄生虫的具体意象与“珍贵”的审美修饰，避免把原文奇诡比喻泛化成无属性的小生灵。"
+    },
+    {
+      "type": "错译",
+      "before": "如今一听见便叫人想起",
+      "after": "如今一听见便只叫人想起",
+      "source": "ne nous évoquent plus que le nom des belles invitées",
+      "reason": "补出ne ... que的排他限制，保留plus表示如今只剩这种联想的意味。"
+    },
+    {
+      "type": "错译",
+      "before": "而且多半是用她们昔日的化名；即使后来改姓，新姓也不过像遮住身份的一层面纱",
+      "after": "而且多半是用她们的化名；其中有了新姓氏的人，那新姓氏也不过像遮住身份的一层面纱",
+      "source": "mais le plus souvent sous leur nom de guerre ; leur nouveau nom, quand il y en avait un, n’était qu’une sorte d’incognito",
+      "reason": "化名仍是人们惯用的称呼，不应增“昔日”；新名字的存在条件也不宜改成后来发生的让步情节。"
+    },
+    {
+      "type": "错译",
+      "before": "她们仿佛深知这种美的秘密法则",
+      "after": "她们已获传授，通晓这些隐秘法则",
+      "source": "des lois occultes à la connaissance desquelles elles avaient été initiées",
+      "reason": "保留叙述者相信这些女人已入门获授秘密法则的确信，不另加“仿佛”削弱，也不漏掉initiées。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "她们的衣饰、马车，以及上千个细节一出现，我便预先当作一种启示接受下来",
+      "after": "她们的衣饰、车马以及上千个细节还未出现，我便预先将其视为一种启示",
+      "source": "j’acceptais d’avance comme une révélation l’apparition de leur toilette, de leur attelage, de mille détails",
+      "reason": "消除“一出现”与“预先”的时间抵牾，说明在见到之前已经抱定信念；车马也能包含attelage的马匹与车辆。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "甚至是一种更痛苦的骚动",
+      "after": "甚至还唤起一种更痛苦的骚动",
+      "source": "excitaient en moi autant d’amour qu’elle, même un trouble plus douloureux",
+      "reason": "爱与更痛苦的骚动同为父母在我心中唤起的感情，应保持并列宾语，避免把爱与骚动直接等同。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "因为他们同她最亲近的那一部分关系，恰是她生活中对我紧紧关闭的私密领域",
+      "after": "因为他们与她相接触的，正是她生活中不许我进入的私密部分",
+      "source": "parce que leur point de contact avec elle était cette partie intestine de sa vie qui m’était interdite",
+      "reason": "point de contact指父母与她接触所及的生活内里，原译“最亲近的那一部分关系”既增入比较级，也使关系与领域的判断搭配不清。"
+    }
+  ],
+  "annotation_notes": [
+    "“弗吉尼亚农场”既有注释称“原文 ferme de la Virginie”，但本段实际是 quelque ferme ... comme une exploitation agricole dans la Virginie；请主审同步核对注释中的法文引述，本文替换原样保留注释，不自行改注。",
+    "“它们那女性化、慵懒而温柔的名字”注释称“既是金合欢的名字，也是那些美人的名字”；本句leur的语法先行词为金合欢，后文才类比美貌宾客的姓名。女性名字的联想可作为修辞解释，但不宜将它说成语法上同时实指美人的名字，供主审核对。",
+    "“女人们的花园”注释把女人仅解释成被观赏的珍奇花木；本句直接承接动物园，并由毛皮、兽眼过渡到女性，动物的类比同样关键。正文不增注，建议主审检查现注释是否需要兼顾这一层。"
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p054"
+  }
+}

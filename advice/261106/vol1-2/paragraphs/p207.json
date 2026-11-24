@@ -1,0 +1,74 @@
+{
+  "id": 207,
+  "assessment": "本段两句，叙事的先后、父亲致意与勒格朗丹冷淡回应的对照，以及末尾把人看作远处木偶的讽刺总体传达完整。需修正两处相连的语义：不愿待人亲切并非不愿讨人喜欢；原文把眼底骤然延伸写成一种透视景象，现译改为目光焦距拉远，改变了比喻的空间结构。其余叙述及长句展开可保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "不愿讨人喜欢的人",
+      "after": "不愿待人亲切的人",
+      "source": "personnes qui ne veulent pas être aimables",
+      "reason": "此处aimables指对别人表现亲切友善，承接对招呼的冷淡回应；“讨人喜欢”变成了寻求他人喜爱的愿望，改变了行为指向。"
+    },
+    {
+      "type": "错译",
+      "before": "他们的目光的焦距忽然拉得极远，望见你就仿佛望见在一条无尽长路的尽头",
+      "after": "他们的眼底忽然向深处延伸，从那里望见你，仿佛你在一条无尽长路的尽头",
+      "source": "du fond subitement prolongé de leurs yeux, ont l’air de vous apercevoir comme au bout d’une route interminable",
+      "reason": "原文延伸的是眼睛的深处，du fond表示仿佛从这骤然延深的眼底望来，造成对方远在路尽头的透视效果；不是把目光的焦距调远。修改也补足“仿佛望见在……”中悬空的位置关系，使“你”在路尽头的意象明确。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Je ne restai pas pour entendre le récit de mon père, car j’étais justement avec lui après la messe quand nous avions rencontré M. Legrandin",
+      "translation_anchor": "我没有留下来听父亲讲，因为弥撒之后遇见勒格朗丹先生时，我正好就在他身边",
+      "finding": "“没有留下来听”保留ne…pas；car引出的原因是我已亲历那次相遇，因此不必再听父亲复述。“他身边”的他承接父亲，弥撒后是相遇的时间，均对应清楚。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "et je descendis à la cuisine demander le menu du dîner qui tous les jours me distrayait comme les nouvelles qu’on lit dans un journal et m’excitait à la façon d’un programme de fête",
+      "translation_anchor": "我下楼到厨房去问晚餐的菜单——那菜单每天都像人们读报上的新闻一样让我开心，又像节日的节目单一样让我兴奋",
+      "finding": "下楼、去厨房、询问晚餐菜单三个动作与目的俱全。qui修饰菜单，译文用“那菜单”明确承接；“每天”保留习惯性的乐趣。两个并列比喻分别对应报纸新闻带来的消遣和节日节目单带来的期待兴奋，“开心／兴奋”足以体现程度与性质的差别，破折号衔接亦可保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Comme M. Legrandin avait passé près de nous en sortant de l’église, marchant à côté d’une châtelaine du voisinage que nous ne connaissions que de vue",
+      "translation_anchor": "当时勒格朗丹先生出了教堂，从我们身边经过，身旁走着一位邻近城堡的女主人，我们只是面熟",
+      "finding": "此处回述前文那次相遇，“当时”自然引出背景。châtelaine译“城堡的女主人”保留其身份，du voisinage译“邻近”保留当地邻近关系；ne…que de vue是只见过面而并不相识，“只是面熟”保留这一限制，所指为女主人。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "mon père avait fait un salut à la fois amical et réservé, sans que nous nous arrêtions",
+      "translation_anchor": "父亲亲切而矜持地朝他致意，我们并没有停步",
+      "finding": "“亲切而矜持”保留à la fois所并置的友好与克制两种姿态；“我们并没有停步”对应sans que，明确致意时并未驻足，不引入随后停步的额外动作。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "M. Legrandin avait à peine répondu, d’un air étonné, comme s’il ne nous reconnaissait pas",
+      "translation_anchor": "勒格朗丹先生却几乎没有回应，一脸惊讶，仿佛不认识我们似的",
+      "finding": "à peine的近乎没有回应、“惊讶”的神态和comme si的不认识假象均保留。“仿佛”没有把装作不认识写成确实不认识；“却”适当地显出其回应与父亲友好致意的反差。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "et avec cette perspective du regard particulière aux personnes qui ne veulent pas être aimables",
+      "translation_anchor": "而且带着不愿讨人喜欢的人特有的那种神情",
+      "finding": "“特有”保留particulière aux的类属判断；但être aimables在此说的是对人亲切，译“讨人喜欢”会变成受人欢迎，需改为“不愿待人亲切”。perspective du regard的透视意味由紧接的眼底及远路比喻具体展开，连同下一意群校正即可。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "qui, du fond subitement prolongé de leurs yeux, ont l’air de vous apercevoir comme au bout d’une route interminable",
+      "translation_anchor": "他们的目光的焦距忽然拉得极远，望见你就仿佛望见在一条无尽长路的尽头",
+      "finding": "原文以眼底骤然延深构成观看的出发点，继而把被看者放在无尽道路的尽头；现译“焦距”把眼底的空间变形换成了目光调整，也使“望见在”缺少清楚主语。改为眼底向深处延伸、仿佛你在路尽头，保留这一故意夸张的透视构图与假想口吻。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "et à une si grande distance qu’elles se contentent de vous adresser un signe de tête minuscule pour le proportionner à vos dimensions de marionnette",
+      "translation_anchor": "隔着那么遥远的距离，以致只肯给你一个微小的点头，好跟你在他们眼中木偶般的大小相称",
+      "finding": "si…que的遥远距离与极微小点头之间的因果由“那么……以致”明确保留；elles仍指那些不愿亲切的人，le指点头动作，译文“好跟……大小相称”正确传达刻意匹配比例的目的。“在他们眼中”把原文透视效果隐含的观看立场说清，并未改变木偶比喻，结尾可保留。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p207"
+  }
+}

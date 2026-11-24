@@ -1,0 +1,17 @@
+{
+  "id": 81,
+  "assessment": "本段主要语义、心理转折及“理由从举动中剥落”的修辞均已传达。末句将盲目而失去理性的举动简化为“猛地”，遗漏了原文明确强调的行动状态，建议补足；其余保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "于是，我猛地把她伸来的手送到唇边",
+      "after": "于是，我做出一个盲目而荒唐的举动，把她伸来的手送到唇边",
+      "source": "Et d’un geste aveugle et insensé",
+      "reason": "aveugle et insensé强调举动的盲目与非理性，“猛地”仅表达动作突然，未传达这两层心理特征。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p081"
+  }
+}

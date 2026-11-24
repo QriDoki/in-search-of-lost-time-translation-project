@@ -1,0 +1,201 @@
+{
+  "id": 34,
+  "assessment": "全段主要思路及大多数长句层次均已译出：从爱情附会物品之美，转入内心女工整理经验，再逐项对照双方行为。需修订11处，重点是补出首页文字的作者，恢复幻想中“女仆/便利舒适的合作者”的自我中心意味，区分做坏与未竟的活计，纠正度假择地参照，以及末尾把双方意愿误写成哀求程度、漏去讨好动机的问题。第3、7、13、17单元的后半层次均已逐项核对。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "En attendant je relisais une page que ne m'avait pas écrite Gilberte",
+      "translation_anchor": "一页并非出自希尔贝特之手、却至少是从她那里来的文字",
+      "finding": "开头承接上一段等待来信；“不是她写的、却来自她”这个转折完整。原文随即用 cette page de Bergotte 明说这是贝戈特所写的一页，译文在此漏去作者，虽随后提到贝戈特仍应补足。dont 指 vieux mythes，拉辛从这些神话汲取灵感的关系正确，保留既有注释。“je gardais toujours auprès de moi”只说总留在自己身旁，“带在身边”容易额外产生随身携带的意思；改为“留在身边”。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "J'étais attendri par la bonté de mon amie qui me l'avait fait rechercher",
+      "translation_anchor": "女友的好意让我感动：是这位朋友让人替我把这一页找来",
+      "finding": "attendri 是因好意而心软、感动；译为“让我感动”恰当。me l’avait fait rechercher 中 l’ 回指那页文字，me 为受益者，faire rechercher 是托人搜寻；“让人替我把这一页找来”交代了施事和受益关系。mon amie 在本句译“女友”，随后“这位朋友”虽略重复，未改变人物关系，不必改。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "et comme chacun a besoin de trouver des raisons à sa passion",
+      "translation_anchor": "而每个人都需要为自己的恋情找出理由",
+      "finding": "本单元包含一般心理规律和叙述者自己的前后变化。前半先说人人要为激情寻找理由，接着两次 jusqu’à 递进：从所爱者身上认出文学、谈话教人视为值得爱慕的品质，再模仿、吸收这些品质，把它们化作爱的新理由；“辨认到……身上”搭配不成立，应为“从……身上辨认出来”。让步从句说这些品质甚至与自发的爱情原先寻求的品质相反，现译保留了“哪怕”及最初/如今的对照；斯万将奥黛特美貌的审美性质纳入爱情理由的插例也没有移错归属。后半把贡布雷时期渴望投入她的未知生活、舍弃自己生活的愿望，与如今幻想她服务于自己熟悉而鄙弃的生活相对；me précipiter、m’incarner、délaissant 的投入、融入和舍弃均已译出。但 servante 被弱化成“助手”，“甘愿”又擅加她的意愿，commode et confortable 被改写成“体贴、能帮我办事”，丢失了以自身便利舒适为中心的意味。修订这组称谓为女仆及省心舒心的工作伙伴，保留夜里帮忙核对小册子的具体幻想。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Quant à Bergotte, ce vieillard infiniment sage et presque divin",
+      "translation_anchor": "至于贝戈特，这位无比睿智、几乎如神明般的老者",
+      "finding": "本句倒转爱慕的依附关系：最初由于贝戈特而爱上尚未见面的希尔贝特，如今主要由于希尔贝特而喜爱贝戈特。译文将两处 à cause de 的主客关系、avant même 的时间强调以及 surtout 的“主要”均保留。“老者”是叙述者当时的想象性称呼，不宜凭人物年龄另作事实性校正。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Avec autant de plaisir que les pages qu'il avait écrites sur Racine",
+      "translation_anchor": "我望着那个纸包——扎着淡紫色丝带，封着几枚硕大的白色火漆印",
+      "finding": "autant de plaisir 的比较项是阅读/欣赏贝戈特论拉辛的篇章与观看希尔贝特带来它们时的包装，译文补“读”使中文比较完整，关系正确。papier 指包装纸，“纸包”合语境；白色大火漆印、淡紫色丝带及 elle 的指代全部保留。flot 有成簇、繁多之感，现译“扎着……丝带”略平，但无需为此单独改写整个描写。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Je baisai la bille d'agate qui était la meilleure part du cœur de mon amie",
+      "translation_anchor": "我吻了吻那颗玛瑙弹珠，在我看来，⊂它仿佛代表了希尔贝特心里最美好、最忠诚、毫不轻浮的那一面⊃",
+      "finding": "本句用直接隐喻把弹珠当作女友心中最好的部分：不轻浮而忠贞；这一部分既保留她生活的神秘魅力，又能够留下、住在房里、睡在床上。译文完整保留后半段三层亲昵递进及 bien que 的让步。但“在我看来”“仿佛代表了”把原文直接的“就是”改成了显式的象征解释，减弱此刻的认同口吻；相关正文处于现有注释标记内，本次不动标记及其内容，具体交主审在 annotation_notes 同步考虑。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Mais la beauté de cette pierre, et la beauté aussi de ces pages de Bergotte",
+      "translation_anchor": "然而，这块石头的美丽，以及贝戈特这些篇章的美丽",
+      "finding": "前置的两个 beauté 是下文 elles 的先行词；叙述者乐于把它们和自己的爱情相联，以免爱情显得虚无，这个自我安慰层次译出。随后连续五个认知层次均须保留：美先于爱情存在、与爱情不相像、组成要素早由才华或矿物学法则决定、即使希尔贝特不爱他这些东西也不会改变、所以不能据此读出幸福的讯息。现译“质地”把文学和矿石共同的 éléments 过度物质化，应改“构成它们的要素”。末尾“因希尔贝特不曾爱我而……”弱化假设结构，宜明示“即便”；“其中没有任何东西允许我”又是法语授权搭配的硬译，应改“我没有任何根据从中……”。其余几个判断关系清楚，保留。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Et tandis que mon amour, attendant sans cesse du lendemain l'aveu de celui de Gilberte",
+      "translation_anchor": "我的爱情总在指望明天带来希尔贝特爱我的表白，却又每天晚上都把白天那份未竟的功夫推倒重来",
+      "finding": "tandis que 将爱情不断撤销白日成果与内心女工另行收拢线头对举；celui 指希尔贝特的爱情，“爱我的表白”意思正确。mal fait 是“做坏、做得不好”，不是尚未做完，annulait、défaisait 是作废、拆毁，未说重新做；“未竟的功夫推倒重来”两处均误，须恢复做坏的活计被拆毁作废的织作比喻。后半女工不丢弃扯下的线，不以取悦我或为我谋幸福为目标，而按与爱情不同、却一贯用于自己作品的秩序整理，译文都已写明。“陌生的女工”后另有“无形的女工”注释性定位重复，留 annotation_notes 供主审处理。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Ne portant aucun intérêt particulier à mon amour",
+      "translation_anchor": "她不肯对我的爱情格外偏袒，也不先断定我是被爱的",
+      "finding": "两个否定分词结构说明女工不对这份爱情另眼相待，也不预先把“我是被爱的”定作结论；现译“格外偏袒”将 interest 作符合此处心理语境的说明，并未另增具体行为，可以保留。她收拢的是我以为难解的举动，以及我曾替希尔贝特开脱的过失；这两类对象、两个先前的主观反应均对应，且下句将同时承接两者。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "Alors les unes et les autres prenaient un sens.",
+      "translation_anchor": "于是这些举动和过失便都有了意义。",
+      "finding": "les unes et les autres 同时回指 actions 和 fautes，“这些举动和过失”准确消除汉语代词歧义；prenaient un sens 是在新秩序中显露可理解的意义，“便都有了意义”对应，未误成这些行为获得正面价值。保留。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "Il semblait dire, cet ordre nouveau",
+      "translation_anchor": "这新的秩序似乎在说：每当她不来香榭丽舍，而是参加聚会、陪女教师出门购物，或为新年旅行做准备",
+      "finding": "新秩序仿佛说话，后置主语 cet ordre nouveau 译在句首自然。“我”看见她把日间聚会、和女教师购物、准备新年假期离开置于来香榭丽舍之前，却把缘由归为她轻浮或顺从，新译的项目及归咎方向均正确。matinée 的“聚会”在本处可保留，不凭单句强定为戏剧演出。absence pour les vacances du jour de l’an 说的是新年假期离开此地，未明说旅行活动，宜改“准备在新年假期外出”。“而这正是我的错误”承接 j’avais tort，虽另断中文句子，未漏。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "Car elle eût cessé d'être l'un ou l'autre si elle m'avait aimé",
+      "translation_anchor": "因为她若爱我，就不会是其中任何一种；而即便她迫于无奈必须听从安排，也会像我无法见她时那样痛苦。",
+      "finding": "l’un ou l’autre 指上句轻浮/顺从的两种解释，第一层反事实说若爱我她便不会继续如此；第二层让步说即使不得不服从，也该伴随我见不到她那样的绝望。译文“若爱我”“即便……也会”保留两个条件层级，“痛苦”比 désespoir 稍轻，但上下文并未把感情缩为普通不快，可保留。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "Il disait encore, cet ordre nouveau, que je devais pourtant savoir ce que c'était qu'aimer puisque j'aimais Gilberte",
+      "translation_anchor": "它让我注意到自己那种无休无止的操心：要在她眼中显得有价值",
+      "finding": "长句首先以自己正在爱她为证，要求自己应当懂得爱，然后列出两种行动动机，并以希尔贝特不具备这两种动机收束。第一种是时刻设法让她看重自己；现译“在她眼中显得有价值”用语生硬，建议改“在她眼里抬高自己”。其具体例证——试图让母亲给弗朗索瓦丝买雨衣和蓝羽饰帽，甚至不再由这位使我羞惭的女仆陪往香榭丽舍，以及母亲反驳我不公、称赞她厚道尽忠——全部译出，括号归属无误。第二种是只求见她的迫切需要：提前几月打听离巴黎日期与去处、无她则宜人之地如流放、有她可见则愿留巴黎；中文保留了远近时间、条件和空间反差。末尾 sous les actions 指行动底下的动机，现译“在……举动里找不到”能表达这一层，不必加理论化说明。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "Elle au contraire appréciait son institutrice",
+      "translation_anchor": "她呢，恰恰相反，很看重自己的家庭女教师，并不在意我怎么看她。",
+      "finding": "与我在意希尔贝特如何看待自己随行女仆相反，希尔贝特欣赏自己的家庭女教师，并不在意我对此人的评价。译文保留 au contraire、appréciait 和 sans s’inquiéter；末尾“她”按邻近先行词可读为女教师，指代清楚，保留。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "Elle trouvait naturel de ne pas venir aux Champs-Élysées",
+      "translation_anchor": "她觉得，不来香榭丽舍，若是为了跟“小姐”上街买东西，那很自然；若是为了跟母亲出门，那很愉快。",
+      "finding": "两项省略结构共用“她不来香榭丽舍”的主干：因陪女教师购物而缺席，她觉得理所当然；因同母亲外出而缺席，她还觉得愉快。现译保留 naturel/agréable 的递进和不同同行者；Mademoiselle 作为家庭女教师的称呼译“小姐”并加引号，能读懂，不需额外添注。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "Et à supposer même qu'elle m'eût permis d'aller passer les vacances au même endroit qu'elle",
+      "translation_anchor": "而丝毫不考虑我家会不会也让我去那里度假",
+      "finding": "开头是假设即便她肯让我去同一地点度假，后面仍指她择地时的实际优先事项：父母的意愿和听说的许多娱乐。结尾不是问我家将来会不会也送我去她选好的地点，而是说她完全不顾那地点是否就是我家本打算送我去的地方；avait l’intention 为我家已有的意向，现译“会不会也让”改成尚不确定的未来许可，并倒转择地的参照。修订末项即可，前两项及假设让步关系均保留。"
+    },
+    {
+      "unit": 17,
+      "source_anchor": "Quand elle m'assurait parfois qu'elle m'aimait moins qu'un de ses amis",
+      "translation_anchor": "有时她向我保证，她爱我不如爱她的一个朋友，也不如前一天爱我",
+      "finding": "本单元须保留由球局失误到求爱的全部链条。她断言爱我不如某个朋友、不如昨日，是因为我的疏忽害她输局；“向我保证”容易带出许诺意味，改“肯定地对我说”。我于是认错，问怎样才能使她重新爱我到原先的程度、进而超过其他人；autant 是恢复先前程度，原译“重新更喜欢我”未交代比较基准，应修。随后我要求她说已经恢复，并央求她立即用言语把这结果确立。关键的 à son gré, au mien 是依她或我的意愿，绝不是“凭我哀求得够不够”；pour me faire plaisir 又明说讨我欢心，原译漏去；rien que par les mots 和 selon ma bonne ou ma mauvaise conduite 分别对应凭言语、按我表现的好坏改变感情，两层均须保留。建议整段替换这一单元的中文，明确恢复程度、两人的意愿及讨好动机，不把它们压成泛泛的“改变心意”。"
+    },
+    {
+      "unit": 18,
+      "source_anchor": "Ne savais-je donc pas que ce que j'éprouvais, moi, pour elle",
+      "translation_anchor": "难道我不知道，我自己对她的这份感情，既不取决于她的举动，也不取决于我的意志吗？",
+      "finding": "反问借我自身的爱情检验上一句的假设：我爱她既非由她行为决定，也不能任由我自己意志更改，因此不应以为她能凭我的表现或几句表态决定爱我多少。译文突出“我自己”，保留 ni…ni… 的双重否定和反问口气；没有把第二项误成她的意志，保留。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "那一页谈的是古代神话的美",
+      "after": "那是贝戈特论古代神话之美的一页文字",
+      "source": "cette page de Bergotte sur la beauté des vieux mythes",
+      "reason": "补出同位结构明确给出的作者贝戈特，保持神话及拉辛取材关系。"
+    },
+    {
+      "type": "错译",
+      "before": "我总把它和那颗玛瑙弹珠放在一起，带在身边。",
+      "after": "我总把它和那颗玛瑙弹珠一起留在身边。",
+      "source": "je gardais toujours auprès de moi",
+      "reason": "auprès de moi 只说保存于身旁，不必添加总随身携带的动作。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "辨认到心上人身上",
+      "after": "从心上人身上辨认出来",
+      "source": "reconnaître dans l'être qu'il aime des qualités",
+      "reason": "“辨认到……身上”不合中文动宾搭配，应表达从所爱者身上认出所述品质。"
+    },
+    {
+      "type": "错译",
+      "before": "我竟期待希尔贝特有朝一日甘愿走进我这过于熟悉、已被自己鄙弃的生活，成为它谦卑的助手，一个体贴、能帮我办事的女伴，夜里我工作时，帮我核对小册子的文字。",
+      "after": "希尔贝特有朝一日可能成为我这过于熟悉、已被自己鄙弃的生活中一个谦卑的女仆，一个省心又舒心的工作伙伴，夜里我工作时，帮我核对小册子的文字。",
+      "source": "Gilberte pourrait devenir un jour l'humble servante, la commode et confortable collaboratrice",
+      "reason": "原文幻想她成为为自己的生活服务的女仆与便利舒适的合作者；“助手”弱化 servante，“体贴”替换了便利舒适，“甘愿”则凭空增加她的意愿。"
+    },
+    {
+      "type": "错译",
+      "before": "才华或矿物的自然法则便决定了它们的质地",
+      "after": "才华或矿物的自然法则便决定了构成它们的要素",
+      "source": "leurs éléments avaient été fixés par le talent ou par les lois minéralogiques",
+      "reason": "éléments 同时指文学篇章与矿石的构成要素，“质地”把文学也说成了物质材料。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "书里也好，石头里也好，没有什么会因希尔贝特不曾爱我而有丝毫不同；因此其中没有任何东西允许我读出一条幸福的讯息。",
+      "after": "即便希尔贝特不曾爱我，书里也好，石头里也好，都不会有丝毫不同；因此我也没有任何根据从中读出一条幸福的讯息。",
+      "source": "rien dans le livre ni dans la pierre n'eût été autre si Gilberte ne m'avait pas aimé, et que rien par conséquent ne m'autorisait à lire en eux un message de bonheur",
+      "reason": "明确反事实假设及其推论；autoriser 此处是提供判断根据，不是书或石头准许我做什么。"
+    },
+    {
+      "type": "错译",
+      "before": "每天晚上都把白天那份未竟的功夫推倒重来",
+      "after": "每天晚上都把白天做坏了的活计拆毁、作废",
+      "source": "annulait, défaisait chaque soir le travail mal fait de la journée",
+      "reason": "mal fait 是做得不好，不是尚未完成；annuler/défaire 只说撤销、拆毁，不含重新开始。恢复与女工、线头相连的劳动比喻。"
+    },
+    {
+      "type": "错译",
+      "before": "或为新年旅行做准备",
+      "after": "或准备在新年假期外出",
+      "source": "se préparer à une absence pour les vacances du jour de l'an",
+      "reason": "原文说明为新年假期离开此地作准备，未进一步指定旅行活动。"
+    },
+    {
+      "type": "不符合现代中文习惯",
+      "before": "要在她眼中显得有价值",
+      "after": "要在她眼里抬高自己",
+      "source": "me faire valoir à ses yeux",
+      "reason": "faire valoir 表示设法使对方看重自己，“显得有价值”用语生硬且容易把人的评价写成物品估值。"
+    },
+    {
+      "type": "错译",
+      "before": "而丝毫不考虑我家会不会也让我去那里度假",
+      "after": "而丝毫不考虑那是不是我家打算送我去的地方",
+      "source": "et nullement que ce fût celui où ma famille avait l'intention de m'envoyer",
+      "reason": "原文以我家已有的目的地意向为参照，指出她择地时不顾是否与之相同；现译变成我家将来是否准许我也去她所选之地，改变了时间和参照方向。"
+    },
+    {
+      "type": "错译",
+      "before": "有时她向我保证，她爱我不如爱她的一个朋友，也不如前一天爱我，因为我的疏忽害她输了那一局；我便向她道歉，央求她告诉我，怎样才能让她重新更喜欢我，甚至比喜欢其他人还多。我要她对我说，这已经做到了；我为此恳求她，仿佛她能够随意改变对我的感情：仿佛只凭她愿不愿意、凭我哀求得够不够、凭我表现如何，她便能一句话改变心意。",
+      "after": "有时她肯定地对我说，她爱我不如爱她的一个朋友，也不如前一天爱我，因为我的疏忽害她输了那一局；我便向她道歉，央求她告诉我，怎样才能让她重新像从前那样爱我，进而爱我胜过其他人。我要她对我说，她已经又这样爱我了；我为此恳求她，仿佛她能够依她自己或我的意愿，按照我表现的好坏，为了讨我欢心，单凭她说出的几句话便改变对我的感情。",
+      "source": "pour qu'elle recommençât à m'aimer autant, pour qu'elle m'aimât plus que les autres ; je voulais qu'elle me dît que c'était déjà fait, je l'en suppliais comme si elle avait pu modifier son affection pour moi à son gré, au mien, pour me faire plaisir, rien que par les mots qu'elle dirait, selon ma bonne ou ma mauvaise conduite",
+      "reason": "autant 须说明恢复先前感情程度；à son gré, au mien 是依她或我的意愿，并无“我哀求得够不够”；补回 pour me faire plaisir 的讨好动机，同时保留凭言语及按表现改变感情的两项限定。assurait 在此是肯定地说，并非作出保证。"
+    }
+  ],
+  "annotation_notes": [
+    "第6单元现有标记正文“⊂它仿佛代表了希尔贝特心里最美好、最忠诚、毫不轻浮的那一面⊃”连同前面的“在我看来”将原文 qui était 的直接隐喻改为象征解释。因须保留注释标记及其内容，本次未改；建议主审同步考虑恢复“它就是女友心中最美好的那一部分，不轻浮而忠贞”的直接口吻。注释“这只是我的投射，后文矿物的规律即将反驳它”亦宜核对：后文论证的是物之美独立于爱情、不能证明她爱我，并非否定弹珠这一隐喻本身。",
+    "第8单元“在我内心的暗处，一位陌生的女工⊂无形的女工⊃”出现两个连续女工称谓而没有连接，正文读来重复。原文此处为 une ouvrière inconnue，后段才有 ouvrière invisible。现有注释说明可保留；请主审在同步标记时处理重复定位词，本次未动标记。"
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p034"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": 318,
+  "assessment": "本段完整保留了散步时的幸福遐想、归家前的忧惧以及次晨情绪转换的叙事链条；末句对两种精神状态毗邻而互不相通的分析也已传达。逐句核对后建议修订两处：橡树林道的草地仅在一侧，原译漏掉这一空间限定；晨光的barreaux对应园丁所靠梯子的横档，原译“栏杆”削弱了园丁架梯的比喻。其余长句、色带与飞鸟的比喻及母子分别的语气可保留。本段无须处理的注释。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "路旁是一块块草地",
+      "after": "路的一侧是一块块草地",
+      "source": "une allée de chênes bordée d'un côté de prés",
+      "reason": "d’un côté明确限定草地位于橡树林道的一侧；“路旁”未保留这一空间关系，补出“一侧”即可。"
+    },
+    {
+      "type": "错译",
+      "before": "把一道道栏杆似的光束靠在爬满旱金莲的墙上",
+      "after": "把一道道梯档似的光束靠在爬满旱金莲的墙上",
+      "source": "les rayons du matin, appuyant, comme le jardinier, leurs barreaux au mur",
+      "reason": "结合“像园丁一样”“靠在墙上”，barreaux是园丁所架梯子的横档意象：晨光在墙上形成一道道梯档。“栏杆”使这一比喻变成园丁把栏杆靠墙，形象关系不清。改作“梯档”保留原文省去整架梯子而只写横档的手法。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Pendant toute la journée, dans ces promenades, j'avais pu rêver au plaisir",
+      "translation_anchor": "整整一天，在这些散步途中，我可以悠然梦想种种快乐：做盖尔芒特公爵夫人的朋友、钓鳟鱼、在维沃纳河上荡舟",
+      "finding": "原文以过去完成时回顾一整天散步中曾有的遐想，后接三个不定式，分别是与公爵夫人交友、钓鳟鱼、泛舟。译文逐项保留；“我可以”在过去的叙述框架中表达当时得以如此梦想，与随后Mais引出的骤变相接。“悠然”略带描写性，但符合这一阶段无忧的遐想，不必单独改动。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "et, avide de bonheur, ne demander en ces moments-là rien d'autre à la vie",
+      "translation_anchor": "我渴望着幸福，在那些时刻对生活别无他求，只求它永远由一连串幸福的下午组成",
+      "finding": "avide de bonheur说的是叙述者渴求幸福；ne…rien d’autre…que限定他当时对生活唯一的要求，即永远接续幸福的下午。译文“别无他求，只求”保留否定与排他关系，“它”指生活，指代明确。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Mais quand sur le chemin du retour j'avais aperçu sur la gauche une ferme, assez distante de deux autres",
+      "translation_anchor": "可在回家的路上，每当我望见左边的一座农庄——它与另外两座离得很远，那两座反倒彼此紧挨着",
+      "finding": "Mais转入回程的反复体验，quand与后文未完成过去时构成每次看到地标便心跳加速的惯常关系；译为“每当”有依据。农庄在左侧，与另两座距离较远，而另两座相距很近，译文正确区分两个距离关系，并保留au contraire的对照。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "à partir de laquelle pour entrer dans Combray il n'y avait plus qu'à prendre une allée de chênes bordée d'un côté de prés",
+      "translation_anchor": "从那儿出发，进贡布雷只须走上一条橡树成荫的道路；路旁是一块块草地，各自归入一个围起的小园",
+      "finding": "laquelle回指刚看见的那座农庄，译文“从那儿出发”承接正确；ne…plus que说明自此进贡布雷只剩这条林道可走，“只须”成立。草地分别属于各自的小围地，译文已交代；但d’un côté明说只沿道路一侧，原译“路旁”漏掉这一限定，列入修改。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "plantés à intervalles égaux de pommiers qui y portaient, quand ils étaient éclairés par le soleil couchant, le dessin japonais de leurs ombres",
+      "translation_anchor": "草地上按等距栽着苹果树，夕阳照亮时，树影便在草地上印出日本画般的图案",
+      "finding": "plantés修饰草地，表示其上等距栽有苹果树；qui指苹果树，y指草地，树受夕阳照射，把自身影子的日本式图案投到草地上。译文“草地上”“树影”把地点和投影主体说明白，保留间距与夕阳条件；“日本画般”具体化dessin japonais的视觉修辞，可以保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "brusquement mon cœur se mettait à battre, je savais qu'avant une demi-heure nous serions rentrés",
+      "translation_anchor": "这时我的心便会骤然怦怦直跳：我知道不出半小时我们就会到家",
+      "finding": "前面长串地形描写都是quand从句，至此才落到骤然心跳这一主句；译文用“这时”恢复主干，并以“便会”保留反复性。avant une demi-heure是不到半小时，译为“不出半小时”准确；冒号把到家在即与焦虑之间的关系显明化，未改动事实。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "comme c'était de règle les jours où nous étions allés du côté de Guermantes et où le dîner était servi plus tard",
+      "translation_anchor": "而照惯例，凡是去盖尔芒特家那边散步的日子，晚饭开得更晚，我一喝完汤就会被差去上床睡觉；这样一来，母亲就像家里请了客似的被留在餐桌旁，不会上楼到我的床边来跟我道晚安",
+      "finding": "原文将去盖尔芒特方向散步、晚饭较迟、喝完汤就被遣去睡觉连为惯例，再以de sorte que引出母亲留席不能上楼道晚安的后果。译文各环节齐全；“像家里请了客似的”保留comme s’il y avait du monde的虚拟比较，并未断言当天确有客人。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "La zone de tristesse où je venais d'entrer était aussi distincte de la zone où je m'élançais avec joie",
+      "translation_anchor": "我刚踏入的这片悲伤地带，与片刻之前我还欢天喜地奔向的那片地带，界线分明得就像某些天空里，一条粉红色的带子仿佛被一条线与一条绿色或黑色的带子截然分开",
+      "finding": "两片zone分别是刚进入的悲伤状态与片刻前欢然奔赴的状态，译文“刚”“片刻之前”保留紧邻的时间关系。aussi…que引出天空色带的比较；“界线分明得就像”表达的是状态间的鲜明分隔。粉红与绿色或黑色之间的选择关系亦完整保留。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "On voit un oiseau voler dans le rose, il va en atteindre la fin, il touche presque au noir, puis il y est entré",
+      "translation_anchor": "你看见一只鸟在粉红中飞，眼看就要飞到尽头，几乎碰到了黑色，然后，它已经飞了进去",
+      "finding": "on是泛指观看者，译为“你”适合眼前示景的语气；en回指粉红色带，末尾y指黑色带。译文从“眼看就要”“几乎”推进到“已经”，保存将入未入与忽已跨界的节奏，贴合情绪骤然进入悲伤地带的比喻。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "Les désirs qui tout à l'heure m'entouraient…j'étais maintenant tellement en dehors d'eux que leur accomplissement ne m'eût fait aucun plaisir",
+      "translation_anchor": "方才还环绕着我的那些愿望——去盖尔芒特家那边、去旅行、去获得幸福——如今我已完全置身于它们之外，即使它们实现，也不会给我带来一丝快乐",
+      "finding": "前置的Les désirs由后面的eux复指，译文以破折号列举愿望后再说“它们”，中文结构清楚。tout à l’heure与maintenant的对照保留；ne m’eût fait表达假设这些愿望实现仍不能带来快乐，译文“即使……也不会”正确保留这种非实际的条件关系。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "Comme j'aurais donné tout cela pour pouvoir pleurer toute la nuit dans les bras de maman !",
+      "translation_anchor": "我多么情愿把这一切统统舍弃，只要能整夜在妈妈的怀里哭泣！",
+      "finding": "Comme加强感叹，j’aurais donné说明愿以此前一切欲望为代价换取母亲整夜怀抱。“多么情愿”“只要能”准确表达交换意愿与未能实现的渴望；“这一切”承接上句三个愿望，未误指其他事物。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "Je frissonnais, je ne détachais pas mes yeux angoissés du visage de ma mère…j'aurais voulu mourir",
+      "translation_anchor": "我瑟瑟发抖，焦灼的目光一刻也不离开母亲的脸——今晚，这张脸不会出现在那间卧室里，而我在想象中早已躺进了那间卧室——我恨不得死去",
+      "finding": "frissonnais、目光紧盯母亲以及愿死的感叹逐层加深焦虑，译文保留这一排列。qui引出的今晚不再出现与où引出的想象中已在卧室，分别落在母亲的面容和卧室上，中文破折号把两个关系分清。“躺进”比原文“想象中已看见自己在那里”稍具体，但紧接被遣上床的情境，未造成值得另改的语义偏移。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "Et cet état durerait jusqu'au lendemain, quand les rayons du matin, appuyant, comme le jardinier, leurs barreaux au mur revêtu de capucines",
+      "translation_anchor": "而这种状态会一直延续到第二天：清晨的阳光像园丁一样，把一道道栏杆似的光束靠在爬满旱金莲的墙上——那些花一直爬升到我窗前",
+      "finding": "cet état承接晚间忧惧，durerait与后面的je sauterais都是从当时望向次晨的将来，译文的“会”保留。capucines覆盖墙面并攀至窗口，译文完整；但barreaux在“园丁把它靠墙”的比喻里应理解为梯档，译为“栏杆”使比喻失去园丁架梯的联系，须修改。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "je sauterais à bas du lit pour descendre vite au jardin, sans plus me rappeler que le soir ramènerait jamais l'heure de quitter ma mère",
+      "translation_anchor": "我会一骨碌跳下床，飞快跑下楼去花园里，再也不记得晚上终究还会带来与母亲分别的时刻",
+      "finding": "跳下床的目的是迅速下花园，译文保留pour的目的关系。“再也不记得……还会”说明晨间快乐使他完全忘却晚间仍会重来，而非客观上再无分别；原文jamais处在忘却结构内，表达将来任何时候重临的可能，译文整体并未把它误成永不分别。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "c'est du côté de Guermantes que j'ai appris à distinguer ces états qui se succèdent en moi…avec la ponctualité de la fièvre",
+      "translation_anchor": "就这样，正是在盖尔芒特家那边，我学会了分辨那些在我身上相继更替的状态：在某些时期，它们甚至把每一天都瓜分开来，一个回来赶走另一个，守时得像发烧一样",
+      "finding": "强调句把认识两种状态的起点归于盖尔芒特方向的经历，译文“正是在”保留。pendant certaines périodes限定某些时期；vont jusqu’à标示程度递进，译为“甚至”贴切。l’un revenant chasser l’autre表示一个按时返回并驱走另一个，“一个回来赶走另一个”无误；发热按时发作的周期性通过“守时”传达。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "contigus, mais si extérieurs l'un à l'autre…que je ne puis plus comprendre, plus même me représenter, dans l'un",
+      "translation_anchor": "它们彼此相邻，却又如此互不相干，彼此之间毫无沟通的途径，以致置身其中一个状态时，我再也不能理解、甚至不能想象自己在另一个状态中渴望过、惧怕过或做过的事情",
+      "finding": "contigus指状态时间相邻，extérieurs与无沟通渠道又说明心理上彼此隔绝；译文保留“相邻却互不相干”的张力。si…que构成隔绝程度及其结果，“以致”明确这一逻辑。plus comprendre、plus même me représenter是连理解乃至想象也做不到的递进，三项désiré、redouté、accompli则分别落实为渴望、惧怕、做过，均无遗漏。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p318"
+  }
+}

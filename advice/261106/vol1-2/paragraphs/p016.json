@@ -1,0 +1,9 @@
+{
+  "id": 16,
+  "assessment": "逐句核对后保留原译。译文完整呈现姑妈询问弗朗索瓦丝是否听见钟声，并以“把我的脑袋都震裂了”传达“m’a cassé la tête”的夸张抱怨语气；问句结构自然，未发现值得修订的错漏或语句问题。",
+  "changes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p016"
+  }
+}

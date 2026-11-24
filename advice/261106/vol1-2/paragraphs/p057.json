@@ -1,0 +1,45 @@
+{
+  "id": 57,
+  "assessment": "本段人物关系、姑妈排斥两类访客的逻辑及叙述语气总体准确。修订欧拉莉查看缝补衣物的工作内容、皮肤病分布范围，以及三处不够准确或不通顺的表达。原有年金注释予以保留，与改文无冲突。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "浆洗织物",
+      "after": "检查、缝补衣物",
+      "source": "visiter le linge du curé",
+      "reason": "visiter le linge指查看衣物是否需要修补，并非浆洗；原译改变了欧拉莉所做零活的内容。"
+    },
+    {
+      "type": "错译",
+      "before": "半边脸颊和鹰钩鼻",
+      "after": "脸颊的部分皮肤和鹰钩鼻",
+      "source": "à une partie de ses joues et à son nez recourbé",
+      "reason": "原文指两颊的一部分，并未限定为半边脸颊。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "几声不以为然的沉默",
+      "after": "某些不以为然的沉默",
+      "source": "certains silences de désapprobation",
+      "reason": "沉默不能以“声”计量，此处指用沉默表达不赞同。"
+    },
+    {
+      "type": "不符合现代中文习惯",
+      "before": "可拜访之间就显出他们多么配不上这份恩遇",
+      "after": "可在拜访过程中就显出他们多么配不上这份恩遇",
+      "source": "au cours de leur visite, avaient montré combien ils étaient indignes de la faveur",
+      "reason": "“拜访之间”不能表达在一次拜访过程中的意思。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "还要宽慰她对未来抱有信心",
+      "after": "还要安慰她，使她对未来放心",
+      "source": "qu’on la rassurât sur son avenir",
+      "reason": "“宽慰她对未来抱有信心”搭配不通；原文要求访客使她不担忧自己未来的健康和命运。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p057"
+  }
+}

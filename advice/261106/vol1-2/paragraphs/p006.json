@@ -1,0 +1,24 @@
+{
+  "id": 6,
+  "assessment": "已结合前后段逐句核对。译文基本保留了姑妈怕劳神、接受额吻及催促弗朗索瓦丝上楼的叙事与语气；两处需调整：原文直接说椎骨隐现，译文却将椎骨改成额上骨节的比喻；s’amuser avec vous 的说笑消遣意味也被泛化成了耽搁。原文确实把 vertèbres 写在额头处，解剖位置虽反常，仍应保留原文表达，不自行改正。现有荆冠与念珠注释与原文无矛盾，全部保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "额上的骨节隐隐透出来，仿佛一颗颗椎骨，又像",
+      "after": "额上的椎骨隐隐透出来，仿佛",
+      "source": "où les vertèbres transparaissaient comme les pointes d’une couronne d’épines ou les grains d’un rosaire",
+      "reason": "原文以椎骨为隐现的主体，将其比作荆冠尖刺或念珠颗粒；译文增添骨节这一主体，并把椎骨改成第一层比喻，改变了原有修辞关系。"
+    },
+    {
+      "type": "错译",
+      "before": "别在楼下跟你们耽搁太久",
+      "after": "别在楼下跟你们说笑太久",
+      "source": "dis-lui de ne pas s’amuser trop longtemps avec vous",
+      "reason": "s’amuser 表示与家人一起说笑消遣，承接下段弗朗索瓦丝因喜欢这一家人而冷落姑妈的说明；单说耽搁未传达这种消遣意味。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p006"
+  }
+}

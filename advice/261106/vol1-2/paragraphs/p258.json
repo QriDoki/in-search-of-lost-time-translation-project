@@ -1,0 +1,49 @@
+{
+  "id": 258,
+  "assessment": "本段两句已按景物布局、苹果树开花、首次观察树影与光线、父亲以手杖截断光线等意群逐项核对。译文保留了叶饰的独特性、花簇的拟人语气以及金丝被截断而不偏移的视觉悖论，长句关系清楚。仅“被太阳晒暖”把原文表示日光照耀的词义转成温度，削弱树影与受光地面的对照，建议作一处局部修正；其余保留。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "À intervalles symétriques, au milieu de l'inimitable ornementation de leurs feuilles qu'on ne peut confondre avec la feuille d'aucun autre arbre fruitier",
+      "translation_anchor": "一株株苹果树以对称的间隔排开，在它们那无可模仿的叶饰之间——那种叶子绝不可能同任何别的果树的叶子相混——",
+      "finding": "“以对称的间隔排开”落实开头的空间布局；“它们”指苹果树，原文虽把主语后置，中文提前不改变修饰关系。inimitable译“无可模仿”，保留叶饰独一无二的评价；关系从句中的否定与aucun结合，表示不能同任何其他果树的叶子混淆，译文“绝不可能同任何别的……相混”范围相符。用破折号容纳这层补充说明，也使后面的开花动作仍以苹果树为主语，保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "les pommiers ouvraient leurs larges pétales de satin blanc ou suspendaient les timides bouquets de leurs rougissants boutons",
+      "translation_anchor": "绽开白缎子般宽大的花瓣，或是垂挂下一簇簇羞怯的、正在泛红的花蕾。",
+      "finding": "ouvraient与suspendaient分别对应“绽开”与“垂挂下”，ou所连接的盛开花瓣与含苞花簇两种形态也由“或是”保留。“白缎子般”传达花瓣的颜色和质感，“一簇簇”落实bouquets；“羞怯的”落在花蕾簇上，与timides的拟人表达相符，“正在泛红”保留rougissants的动态意味。词序稍作调整后中文可顺读，无须修改。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "C'est du côté de Méséglise que j'ai remarqué pour la première fois l'ombre ronde que les pommiers font sur la terre ensoleillée",
+      "translation_anchor": "就是在梅塞格利丝那边，我第一次注意到苹果树投在被太阳晒暖的土地上的圆圆树影",
+      "finding": "“就是在……那边”保留地点强调句，“第一次注意到”对应首次发现，树影的来源及圆形也都准确。但ensoleillée指土地受阳光照耀，并不表示已被晒暖；此处以受光地面衬出圆形树影，关键在明暗而非冷暖。建议把“被太阳晒暖的土地”改为“阳光照耀的土地”，使视觉关系明确，其余保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "et aussi ces soies d'or impalpable que le couchant tisse obliquement sous les feuilles",
+      "translation_anchor": "还有夕阳斜斜地在树叶底下织出的那种摸不着的金丝",
+      "finding": "et aussi将金丝同树影并列，均为“第一次注意到”的对象，译文“还有”保持了这一承接。le couchant为编织金丝的主体，译为“夕阳”；obliquement与sous les feuilles分别由“斜斜地”和“在树叶底下”承载。“摸不着的金丝”保留光线既似织物又无形可触的比喻，信息齐全，保留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "et que je voyais mon père interrompre de sa canne sans les faire jamais dévier",
+      "translation_anchor": "我看见父亲的手杖一次次把金丝打断，却从不曾让它们偏移分毫。",
+      "finding": "第二个que仍回指前面的金丝；译文以分号另起分句，并重提“金丝”，避免长句中指代模糊。原文是我看见父亲用手杖截断光线，译文把工具提为主语，父亲及工具关系仍明确。“一次次”把voyais的未完成过去时处理为回忆中反复出现的动作，与场景相容；sans与jamais所表达的始终不使光线偏离，以“却从不曾让它们偏移分毫”传达，保留截断而方向不变的观察，无须修改。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "被太阳晒暖的土地",
+      "after": "阳光照耀的土地",
+      "source": "la terre ensoleillée",
+      "reason": "ensoleillée说明土地受阳光照耀，并未陈述温度。“晒暖”额外引入温热感，且没有直接表现圆形树影所落在的明亮地面；改为“阳光照耀”更准确地保留此处明暗对照。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p258"
+  }
+}

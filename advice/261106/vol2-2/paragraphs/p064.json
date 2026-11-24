@@ -1,0 +1,280 @@
+{
+  "id": 64,
+  "assessment": "本段总体保留了叙述者对新时尚的厌恶、对旧人旧境的追慕及章末从空间转向时间的思辨，长句大体没有中后段漏译。需重点修正第11单元把往昔时刻本身的魅力改成“重温”的魅力、第10单元漏弱所渴求的快乐及两色火焰、第22单元将观念暂作事实并增出“恢复寂静”等问题；另校正衣料、帽饰关系及少量主语和问句结构。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Quelle horreur !",
+      "translation_anchor": "“多可怕！”",
+      "finding": "这是叙述者对当下时尚的脱口感叹；“多可怕”保留了夸张的厌恶语气。引号将内心独白标明，不改变感叹的对象。保留。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "peut-on trouver ces automobiles élégantes comme étaient les anciens attelages ?",
+      "translation_anchor": "我暗自说，“难道有人会觉得，这些汽车也有旧式马车那般优雅？",
+      "finding": "me disais-je 是对自己说，“暗自说”合适；peut-on 是反问，比较的是汽车与从前整套车马的优雅程度。“旧式马车”在此可统摄车马配置，“也有……那般”准确保留同等比较，不应读成汽车比旧车更优雅。保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "les femmes s'entravent dans des robes qui ne sont pas même en étoffe",
+      "translation_anchor": "女人们穿着那种布料都算不上的裙装，⊂步子却被裙摆绊得迈不开⊃",
+      "finding": "sans doute déjà trop vieux 是自嘲式让步，随后 mais 转为自己不适应这个世界，译文语气完整。s’entravent 指衣裙限制步子，正文与既有注释相容；但 qui ne sont pas même en étoffe 的 en étoffe 表材料，“裙装连布料都算不上”把衣物和材料作了类别比较，应明确为“甚至不是用布料做成的”。这是人物带夸张色彩的判断，不宜据此另行断定具体面料。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "si rien n'est plus de ce qui s'assemblait ... si la vulgarité et la folie ont remplacé",
+      "translation_anchor": "既然曾经聚拢在这些娇嫩而泛红的枝叶下的一切都已不复存在",
+      "finding": "两个 si 分别提出旧日聚集者消失、庸俗疯狂取代精美之物，两者共同支撑 À quoi bon 的反问；译文保留两个“既然”及最后的“又有什么用处”。ce qu’ils encadraient d’exquis 是树叶曾经框饰出的精美景象，“被这些枝叶衬托得精妙动人的一切”没有误把枝叶本身当作被取代的对象。rougissants 的渐红意象由“泛红”保留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Quelle horreur !",
+      "translation_anchor": "再到这些树下来又有什么用处？多可怕！",
+      "finding": "这里重复第1单元的惊呼，承接前面的反问而非开启新事件。译文重复“多可怕”保留了独白的回环和急促，保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Ma consolation, c'est de penser aux femmes que j'ai connues",
+      "translation_anchor": "优雅如今荡然无存，唯一的慰藉，便是回忆我当年认识的那些女子。",
+      "finding": "aujourd’hui qu’il n’y a plus d’élégance 给出如今无优雅的背景，译文提前处理合乎中文；penser aux femmes que j’ai connues 是想到过去认识的女人，“回忆……那些女子”与上下文相合。“唯一的”稍加强了口吻，但与这段内心独白中把慰藉全系于旧人相容，未构成另添情节，不必强改。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "chapeaux couverts d'une volière ou d'un potager ... une seule fleur d'iris toute droite",
+      "translation_anchor": "头上顶着像鸟笼或菜园般的夸张帽子；一顶帽沿只挺出一枝直直的鸢尾花的小帽",
+      "finding": "主句问的是那些看惯今人装束者还能否领会旧日斯万夫人的魅力，译文反问及 simple、mauve、une seule 的简素与单枝对比均保留。问题有二：couverts 修饰帽上覆盖的鸟、花果装饰，并非帽子形状像鸟笼或菜园，且现译“头上顶着”易误接看女人的那些人；宜明确是女人的帽上装饰。que dépassait 中帽子是 dépassait 的宾语，鸢尾花直直高出帽子，现译“帽沿只挺出”让帽沿充当伸出花的部位，中文也不顺，宜改为花伸出帽外。capote 译“软帽”未细分历史款式，但不影响此句简素与夸张的对照，保留。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "la tiédeur factice de son appartement était évoquée ... avait le même charme ... qu'avaient ... les fleurs",
+      "translation_anchor": "她步行而来，穿水獭皮外套；她寓所里那种人为的温煦便被带到寒风里；她客厅里那些花也有同样的魅力",
+      "finding": "长句首先以过去条件式反问能否向那些人说明冬晨相遇的激动，继而列出步行、水獭皮短外套、贝雷帽与两支刀形山鹑羽饰；“斜斜”无原文方位依据，应删。mais 转折的关键是衣装虽简，胸前受压的紫罗兰却足以唤起寓所中人工营造的温煦，était évoquée 是联想被唤回，并非暖意真被携到寒风里，宜让“仿佛浮现”的关系更明确。dont 承接紫罗兰花束：鲜活的蓝花面对灰天、冰冷空气、裸枝，只把季节天气当外框，而活在人的、尤其是这女子的氛围中。现译完整保留这些对照，并以“同样的魅力”接回客厅花瓶花盆中的花：炉火、丝质沙发、紧闭窗、窗外落雪的空间层次及望雪的拟人均在，没有漏掉长句后半。整句以“我又怎能”发问，末尾须恢复问号，避免问句悬而不结。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "il ne m'eût pas suffi que les toilettes fussent les mêmes",
+      "translation_anchor": "再说，即便衣着与那些年一模一样，于我也还不够。",
+      "finding": "ne ... pas suffi 是否定“衣着相同就足够”，条件式强调还须其他回忆要素共同出现；译文“即便……也还不够”保留了非充分条件，未误成衣着无需相同。toilettes 在此是整套服饰，“衣着”妥当。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "notre mémoire maintient équilibrées ... les plaisirs que je désirais",
+      "translation_anchor": "记忆把它们维系成一个不能随意拆开的整体；菊花燃起的橙色火光、深红的焰、粉白的火舌；我曾未能品出乐趣的时刻",
+      "finding": "本句先说明回忆各部分的相互依存：mémoire 不仅使之成整体，还使各部分在整体中保持平衡，现译漏弱 équilibrées，宜补足。不可抽去或拒绝任何一部分的限制译出。接着 j’aurais voulu 统摄到某位女子家、面对一杯茶、度过日末、深色墙壁寓所；括号给出斯万夫人家仍保持这布置的年份，现译无误。où luiraient 所指仍是寓所，菊花在十一月暮色中幻成三组火焰意象；“亮起……燃起”赘复，rose et blanche 是粉红与白两色，不能合成一种“粉白”。末尾 pendant des instants 回到所期望重现的时刻，pareils à ceux 引出过去未能发现所渴求快乐的时刻；现译只剩泛泛“未能品出乐趣”，漏去欲望的特定对象，应补回“自己所渴望的快乐”，从而与第11、16单元的欲望线索衔接。“读者以后会看到”保留预叙提示。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "ces instants me semblaient avoir eu eux-mêmes assez de charme",
+      "translation_anchor": "即便那些时刻本身不会带我走向什么幸福，仅仅重温它们便已足够迷人。",
+      "finding": "maintenant 修饰当下的回顾判断，avoir eu 表示这些往昔时刻本身曾有足够魅力；même ne me conduisant à rien 是即使当年并未把我引向什么结果。现译把它改成如今“重温”就足够迷人，并用“不会”改变时态、增入“幸福”这一特定终点。应恢复“如今觉得那些时刻本身曾有魅力”的判断，不能把回忆对象的魅力变成重温行为的魅力。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "Je voudrais les retrouver tels que je me les rappelais.",
+      "translation_anchor": "我多希望还能原样找回记忆里的那些时刻。",
+      "finding": "les 明确承接那些时刻；tels que je me les rappelais 是以记忆所呈现的样子找回，译文“原样”“记忆里的”保留了这一限定。“多希望”体现 voudrais 的愿望色彩，与随后现实阻断相接，保留。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "Hélas !",
+      "translation_anchor": "我多希望还能原样找回记忆里的那些时刻。唉！",
+      "finding": "感叹正位于愿望与当下白色寓所的落差处，“唉”对应惋惜；无额外信息或指代问题，保留。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "des appartements Louis XVI tout blancs, émaillés d’hortensias bleus",
+      "translation_anchor": "眼前只剩下通体洁白、摆着蓝色绣球花的⊂路易十六风格寓所⊃",
+      "finding": "ne ... plus que 表示如今只余这一种装饰风尚，译“只剩下”正确。Louis XVI 是室内风格而非路易十六本人住所；tout blancs 与前句深色墙面形成对照，蓝色绣球花也与菊花火色对照。émaillés 的点缀感在“摆着花”的具体陈设中仍可理解，保留。现有风格注释涉及艺术史概括，本段不额外核定，不据此改正文。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "on ne revenait plus à Paris que très tard",
+      "translation_anchor": "如今社交界人士每年都要等到很晚才回巴黎。",
+      "finding": "这里 très tard 是季节推迟，下一单元直到二月才回城提供限定，不是一天中夜归；现译以“每年”明确季节惯例，方向正确。on 的泛指按上下文落实到这些社交界人士，也未把返城时间误算为叙述者本人的行程。保留。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "si je lui avais demandé de reconstituer ... ce désir devenu lui-même inaccessible",
+      "translation_anchor": "倘若我请斯万夫人替我重现那段回忆的种种情景……她只会从某座乡间城堡回信",
+      "finding": "整句是未实际实现的假设：若请求重组回忆要素，她会从城堡答复二月才返城，晚于菊花时节；现译前置条件，再落回复信，完整保留假设而没有叙作真实通信。année lointaine、millésime 是同一遥远年份的重申，“牵系着遥远的某一年……无法回到那个年份”准确。第二个 les éléments 同前一个并列，说明所求重构的也是那份欲望赖以成立的要素；现译“重现那份欲望所依托的一切”维持这个关系。devenu lui-même inaccessible 的主体是欲望，不只是快乐，如今连当年的渴望也不可重得；现译明确“那欲望如今也和……快乐一样”，比较对象及 jadis vainement poursuivi 的从前徒劳追逐均未丢失。保留。"
+    },
+    {
+      "unit": 17,
+      "source_anchor": "mon imagination les avait individualisées et les avait pourvues d'une légende",
+      "translation_anchor": "我还需要她们仍是原来那些女人……我的想象曾使她们各自成为独特的人，还为每个人编织了一则独特的传奇。",
+      "finding": "除衣饰与室内情境外还须是同一批女人，条件式 il m’eût fallu 的不可实现意味已由“还需要……仍是”及前后假设表达。ce sont les mêmes femmes 不是要求她们都彼此相同。原因在于仍有信仰时，想象赋予每人个性和传奇，译文对 individualisées 与 pourvues d’une légende 分别表达，没有把传奇当作已证实的生平。保留。"
+    },
+    {
+      "unit": 18,
+      "source_anchor": "Hélas !",
+      "translation_anchor": "还为每个人编织了一则独特的传奇。唉！",
+      "finding": "此感叹从想象赋予旧人传奇转向亲见她们老去，译文放置正确。“唉”与前两次形成递进的失落，无须改写为更强的惊惧。"
+    },
+    {
+      "unit": 19,
+      "source_anchor": "l'avenue des Acacias -- l'allée de Myrtes -- ... les ombres terribles ... bosquets virgiliens",
+      "translation_anchor": "在金合欢道——也就是桃金娘道——我又见到了其中几位",
+      "finding": "j’en revis quelques-unes 是重新见到此前女人中的几位，vieilles 及 ombres terribles 表示昔日美人如今成为旧我的可怕幽影；既有正文与注释保留这一冥界联想。errant、cherchant 是她们游荡、绝望寻找的动作，on ne sait quoi 不给出寻找对象，译文“谁也不知道是什么”恰当。金合欢道插入 l’allée de Myrtes 并接 bosquets virgiliens，构成神话诗境的叠映；“也就是”容易把它实指为同一条道路的另一个正式地名，宜只保留破折号中的“桃金娘道”，让比拟关系由上下文显现，不据本段新增文化事实。"
+    },
+    {
+      "unit": 20,
+      "source_anchor": "Elles avaient fui depuis longtemps que j’étais encore à interroger vainement les chemins désertés.",
+      "translation_anchor": "她们早已离去，我却还徒劳地向空荡荡的林荫道追问她们的踪影。",
+      "finding": "avaient fui depuis longtemps 与 étais encore 相对，强调人已远去很久，自己仍问空路的时间错位，译文“早已……却还”保留。interroger les chemins 是向路发问的拟人，译文没有解释成现实中拦路问人；补明所问是她们踪影，承接近指且不改变动作。保留。"
+    },
+    {
+      "unit": 21,
+      "source_anchor": "Le soleil s’était caché.",
+      "translation_anchor": "太阳躲起来了。",
+      "finding": "过去完成时交代此时阳光已消失，为自然恢复灰暗本色铺垫；“躲起来”保留 s’était caché 的拟人，但未武断说成落山或被特定云层遮住。保留。"
+    },
+    {
+      "unit": 22,
+      "source_anchor": "La nature recommençait à régner ... le vide inhumain de la forêt désaffectée ... de n'être pas perçus par les sens",
+      "translation_anchor": "大自然重新开始统治布洛涅树林；这片树林曾是女人的极乐园；已恢复了非人的寂静与空旷；也来自记忆中的画面不再是眼前感官直接捕获的东西",
+      "finding": "本长句须逐层看：①重归自然的前提是“它是女人极乐园”这一观念已飞散，现译先说“曾是”才称幻念，易把观念当成过去事实，宜让整个判断从属于“幻念”。②假风车与真正灰天对举，湖像湖、树林像树林的重复表示景物失去人为投射后显出本来面目；“寻常的湖”“像掠过一片树林”完整保留去魅的节奏。③大鸟迅速穿林、尖叫、先后栖于高橡树，译文无漏；橡树兼有德鲁伊树冠与多多纳威严的不同文化意象，正文及既有注释没有将两者混作一个体系。④qui ... semblaient ... et m’aidaient 的主语都是橡树：它们昭示树林失去昔日用途后的非人空旷，也帮助“我”理解矛盾。现译在冒号后增入“已恢复”“寂静”，后者还弱化了刚出现的尖叫，并使“也帮我”的主语游移；宜删去恢复寂静的增译，明确帮助理解的仍是橡树。⑤结论是若在现实中寻找记忆画面，那画面总会失去来自记忆本身及不由感官感知的魅力；现译对现实与记忆的对举基本清楚，但“不再是眼前……东西”增添了时间变化和“直接”限定，应恢复原文单纯否定感官感知的关系。这一层不可误作现实景象原本没有任何美。"
+    },
+    {
+      "unit": 23,
+      "source_anchor": "La réalité que j'avais connue n'existait plus.",
+      "translation_anchor": "我从前认识的那个现实已不复存在。",
+      "finding": "que j’avais connue 把“现实”限定为自己曾经认识的特定现实，并非笼统宣称外部世界不存在；“我从前认识的那个现实”准确保留经验主体和昔今断裂，保留。"
+    },
+    {
+      "unit": 24,
+      "source_anchor": "Il suffisait que Mme Swann n'arrivât pas toute pareille au même moment, pour que l'Avenue fût autre.",
+      "translation_anchor": "只要斯万夫人没有以当年的模样、在当年的那一刻出现，这条林荫道便不再是从前那一条。",
+      "finding": "il suffisait ... pour que 是一项变化就足以使场所变样，否定作用于斯万夫人以同样形象和同样时刻到来。“只要……没有……便”完整保留这一充分条件；“当年的”按记忆情境把 toute pareille、même moment 具体化，与前句已失的现实及后句时间空间相连，没有把她本人死亡或消失强加给正文。保留。"
+    },
+    {
+      "unit": 25,
+      "source_anchor": "n'appartiennent pas qu'au monde de l'espace où nous les situons pour plus de facilité",
+      "translation_anchor": "我们认识的场所，并不只属于空间的世界——我们只是为了方便，才把它们安放在那里。",
+      "finding": "ne ... pas que 是否定“仅仅属于空间”，不否定其空间属性；译文“并不只属于”准确。où 指空间世界，pour plus de facilité 说明为方便而定位的认知方式，后半句“为了方便……安放在那里”保留这一层，没有误成现实中搬动地点。保留。"
+    },
+    {
+      "unit": 26,
+      "source_anchor": "le souvenir d'une certaine image n'est que le regret d'un certain instant",
+      "translation_anchor": "我们认识的每个地方，不过是当年生活里层层相邻的印象之间，薄薄的一片切面；怀念一幅景象，其实不过是在怀念一个一去不返的时刻",
+      "finding": "Ils 承接场所，mince tranche 是昔日生活中彼此毗邻的印象之间的薄片，并非地方物理变薄；译文明确“印象之间”的切面，表达充分。第二分句将 souvenir（对景象的回忆）揭示为 regret（对时刻的眷恋、怅惜），这是从视觉表象转向时间情感的关键；现译前后均用“怀念”，把两者差别抹平，宜恢复“对某一景象的回忆……对某一时刻的眷恋”。第三分句列房屋、道路、林荫道，不是说建筑必然毁坏，而是作为经验场所同样转瞬即逝，译文与下一单元的岁月比喻连读准确。"
+    },
+    {
+      "unit": 27,
+      "source_anchor": "comme les années.",
+      "translation_anchor": "而房屋、道路、林荫道，唉，都像岁月一样转瞬即逝。",
+      "finding": "本单元虽独立编号，语法上直接补完上一单元 fugitives 的比较：场所如岁月同样易逝。“像岁月一样转瞬即逝”把比较与形容词合并，且保留 hélas 的惋惜位置与章末时间主题，保留。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "那种布料都算不上的裙装",
+      "after": "那种甚至不是用布料做成的裙装",
+      "source": "des robes qui ne sont pas même en étoffe",
+      "reason": "en étoffe 表示制作材料，原文是裙装甚至不是布制的夸张抱怨，不是把裙装与布料划为同一类别。"
+    },
+    {
+      "type": "错译",
+      "before": "有些人看着这些可怕的女人，头上顶着像鸟笼或菜园般的夸张帽子，他们又怎么可能体会得到",
+      "after": "有些人看着这些可怕的女人，见她们帽上仿佛堆着一座鸟舍或一片菜园，又怎么可能体会得到",
+      "source": "ces horribles créatures sous leurs chapeaux couverts d'une volière ou d'un potager",
+      "reason": "帽上覆盖的鸟羽花果被比作鸟舍、菜园，并非帽子外形像鸟笼；同时明确帽子属于被观看的女人，消除现译分句的主语歧义。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "一顶帽沿只挺出一枝直直的鸢尾花的小帽",
+      "after": "一顶只有一枝笔直的鸢尾花伸出帽外的小帽",
+      "source": "un petit chapeau que dépassait une seule fleur d'iris toute droite",
+      "reason": "dépassait 的主语是鸢尾花，帽子是宾语；现译“帽沿只挺出”施受不清，宜让花作“伸出”的主语，并保留单枝与笔直。"
+    },
+    {
+      "type": "错译",
+      "before": "帽上斜斜挺出两片刀锋般的山鹑羽",
+      "after": "帽上挺出两片刀锋般的山鹑羽",
+      "source": "un simple béret que dépassaient deux couteaux de plumes de perdrix",
+      "reason": "原文写刀形羽饰高出贝雷帽，没有给出“斜斜”的方向；删去这一具体方位增译，保留羽饰形态。"
+    },
+    {
+      "type": "错译",
+      "before": "然而在她周围，只凭那束压在她胸前的紫罗兰，她寓所里那种人为的温煦便被带到寒风里",
+      "after": "然而，仅凭那束压在她胸前的紫罗兰，她寓所里那种人为营造的温煦，便仿佛又在她周围浮现",
+      "source": "autour de laquelle la tiédeur factice de son appartement était évoquée, rien que par le bouquet de violettes qui s'écrasait à son corsage",
+      "reason": "était évoquée 是寓所温暖被唤起的联想，借花束在她周围浮现；不是把实体暖意带到寒风里。“人为营造”也较单说“人为的”清楚。"
+    },
+    {
+      "type": "语句不通顺",
+      "before": "望着窗外的落雪。",
+      "after": "望着窗外的落雪？",
+      "source": "Aurais-je même pu leur faire comprendre ... les fleurs qui regardaient par la fenêtre close la neige tomber ?",
+      "reason": "花朵望雪的描写仍处在开头“我又怎能让他们明白”的长反问内部；问号应落在整个句子的终点。"
+    },
+    {
+      "type": "错译",
+      "before": "记忆把它们维系成一个不能随意拆开的整体",
+      "after": "记忆使它们在同一个整体中保持着平衡",
+      "source": "notre mémoire maintient équilibrées dans un assemblage",
+      "reason": "原文不仅说这些部分被组合，还强调记忆维持各部分的平衡；后文已完整说明不得抽去或拒绝任何一部分，不必在此重复“不能拆开”。"
+    },
+    {
+      "type": "错译",
+      "before": "会亮起菊花燃起的橙色火光、深红的焰、粉白的火舌",
+      "after": "会闪耀着菊花橙色的火光、通红的焰、粉红与洁白的火舌",
+      "source": "luiraient les feux orangés, la rouge combustion, la flamme rose et blanche des chrysanthèmes",
+      "reason": "rose et blanche 是粉红与白两色的火焰，“粉白”容易被读成单一浅粉色；同时消除“亮起……燃起”的重复而保持三组火焰意象。"
+    },
+    {
+      "type": "错译",
+      "before": "恰像另一些我曾未能品出乐趣的时刻",
+      "after": "恰像另一些我曾未能从中找到自己所渴望的快乐的时刻",
+      "source": "des instants pareils à ceux où ... je n'avais pas su découvrir les plaisirs que je désirais",
+      "reason": "遗漏的 que je désirais 指明未能发现的是当时自己所渴求的快乐，既非所有一般乐趣，也不只是未能品味；该限定与随后欲望及其追求的快乐相互呼应。"
+    },
+    {
+      "type": "错译",
+      "before": "然而如今，即便那些时刻本身不会带我走向什么幸福，仅仅重温它们便已足够迷人。",
+      "after": "然而如今，即便那些时刻没有把我引向任何结果，在我看来，它们本身也曾有足够的魅力。",
+      "source": "Mais maintenant, même ne me conduisant à rien, ces instants me semblaient avoir eu eux-mêmes assez de charme.",
+      "reason": "原文说如今回看，往昔时刻即使未带来所求结果，本身也曾有魅力。现译把“这些时刻本身曾有魅力”改为“重温它们足够迷人”，且把过去未有结果改成将来不会获得幸福，须恢复判断对象和时间关系。"
+    },
+    {
+      "type": "错译",
+      "before": "在金合欢道——也就是桃金娘道——",
+      "after": "在金合欢道——桃金娘道——",
+      "source": "dans l'avenue des Acacias -- l'allée de Myrtes -- ... dans les bosquets virgiliens",
+      "reason": "插语与后面的维吉尔树丛形成诗境叠映；“也就是”容易令人误以为两者是可考的同一条道路的两个名称。删去断言式连接，让原文破折号中的联想关系保留。"
+    },
+    {
+      "type": "错译",
+      "before": "大自然重新开始统治布洛涅树林；这片树林曾是女人的极乐园——如今，这个幻念早已从中飞散。",
+      "after": "大自然重新开始统治布洛涅树林；以为这片树林是女人极乐园的幻念，如今早已从中飞散。",
+      "source": "La nature recommençait à régner sur le Bois d'où s'était envolée l'idée qu'il était le Jardin élyséen de la Femme",
+      "reason": "“树林是女人的极乐园”在原文始终是 idée 的内容，现译先把它陈述成过去事实才补称幻念。将判断整体置于“幻念”内部，保留观念消失后自然再临的关系。"
+    },
+    {
+      "type": "错译",
+      "before": "，仿佛在宣告：这片不再为人间幻梦所用的树林，已恢复了非人的寂静与空旷，也帮我更好地懂得：",
+      "after": "，仿佛在宣告这片已失去昔日用途的树林中那非人的空旷；它们也帮我更好地懂得：",
+      "source": "les grands chênes qui ... semblaient proclamer le vide inhumain de la forêt désaffectée, et m'aidaient à mieux comprendre",
+      "reason": "vide inhumain 是非人的空旷，désaffectée 是失去旧日用途；原文没有“恢复寂静”，且前句明写鸟的尖叫。另将“它们也帮我”明确接回橡树，避免冒号后误读成树林的空旷帮助理解。"
+    },
+    {
+      "type": "错译",
+      "before": "也来自记忆中的画面不再是眼前感官直接捕获的东西",
+      "after": "也来自这些画面并不由感官感知这一点",
+      "source": "le charme qui leur vient de la mémoire même et de n'être pas perçus par les sens",
+      "reason": "魅力一方面来自记忆本身，另一方面来自这些画面不由感官感知的性质。“不再”“眼前”“直接”加入了原文没有的时间变化及程度限定，会弱化这里对记忆画面与感官知觉的区分。"
+    },
+    {
+      "type": "错译",
+      "before": "怀念一幅景象，其实不过是在怀念一个一去不返的时刻",
+      "after": "对某一景象的回忆，不过是对某一时刻的眷恋",
+      "source": "le souvenir d'une certaine image n'est que le regret d'un certain instant",
+      "reason": "原文有意区分 souvenir 的回忆与 regret 的眷恋怅惜，将对图景的记忆还原为对时刻的情感；前后均译“怀念”抹去了这层揭示。"
+    }
+  ],
+  "annotation_notes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p064"
+  }
+}

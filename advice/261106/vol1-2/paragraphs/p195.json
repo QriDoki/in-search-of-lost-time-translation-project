@@ -1,0 +1,135 @@
+{
+  "id": 195,
+  "assessment": "本段整体完整保留了姑妈循例度日、女工生产扰乱作息以及梦见丈夫复生反而受惊的反讽；长句中睡眠、苏醒、辨清梦境和感恩的递进关系基本清楚。逐句核对后，建议修正鼾声降调的数量、丈夫要求散步的使役关系，以及结尾回顾叙述的时态；其余修辞和叙述节奏可保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "再响起时低了几个调子",
+      "after": "再响起时低了一个调子",
+      "source": "reprit un ton plus bas",
+      "reason": "un ton是一个调子，原译“几个”将原文单数明确增为复数；保留降调这一听觉细节即可。"
+    },
+    {
+      "type": "错译",
+      "before": "还非要拉着我每天出去散步",
+      "after": "还非要让我每天出去散步",
+      "source": "qu’il voulait me faire faire une promenade tous les jours",
+      "reason": "faire faire表示要求或促使她去散步，没有丈夫拉着她同行的动作。“拉着”增添了身体动作和陪同情节，改为“让我”保留使役关系。"
+    },
+    {
+      "type": "错译",
+      "before": "她也好，任何人也好，永远不会知道我曾听到了什么",
+      "after": "她也好，任何人也好，都从未知道我曾听到了什么",
+      "source": "sans qu’elle ni personne eût jamais appris ce que j’avais entendu",
+      "reason": "eût appris与j’avais entendu构成回顾性的完成叙述，说明此事始终未被旁人得知；“永远不会知道”把叙述移成当时对未来的断言。“都从未知道”保留原文回顾事实的视角。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Ainsi passait la vie pour ma tante Léonie, toujours identique",
+      "translation_anchor": "莱奥妮姑妈的日子就这样一天天过去，永远一模一样",
+      "finding": "Ainsi承接前段生活琐事，passait的未完成时写持续的惯常生活；“就这样一天天过去”准确传达这一叙述功能。“永远一模一样”对应toujours identique，未把惯常状态误写成单次事件。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "dans la douce uniformité ... avec un dédain affecté et une tendresse profonde, son « petit traintrain »",
+      "translation_anchor": "那种温柔而一成不变的生活——她这样称呼它时，既带着刻意的轻蔑，又怀着深深的眷恋",
+      "finding": "douce uniformité的安适和单调并存，译作“温柔而一成不变”保留双重色彩；affecté指刻意装出的态度，与profonde的真实深情构成对照，译文两者均有。“小日子”在本句后续“一成不变”及“日常”的帮助下，承载petit traintrain对琐细例行生活的亲昵称呼，可以保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Préservé par tout le monde ... chacun ayant éprouvé l’inutilité de lui conseiller une meilleure hygiène ... s’était peu à peu résigné à le respecter",
+      "translation_anchor": "这套日常受到所有人的维护：且不说在家里，人人都试过劝她讲究点养生之道，发现毫无用处之后，便渐渐认了命，由着它去",
+      "finding": "被维护的对象是traintrain，不是姑妈本人；译文以“这套日常”明确先行词。ayant éprouvé交代先发现劝告无效、后无奈迁就的原因和先后关系，译文“发现……之后，便……”准确；meilleure hygiène在这里是更健康的生活方式，“讲究点养生之道”符合语境。résigné的无奈也保留在“认了命”中。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "mais même dans le village ... avant de clouer ses caisses ... si ma tante ne « reposait pas » ... fut pourtant troublé une fois cette année-là",
+      "translation_anchor": "甚至在村子里也一样——离我们家三条街远的那个包装工，每次钉板条箱之前，都要托人来问弗朗索瓦丝一声，姑妈是不是正在“歇息”——可就是这一成不变的日子，那一年也被打乱了一回",
+      "finding": "non seulement/mais même由家内推向村中，再由pourtant转到唯一例外，译文层次完整。à trois rues de nous是距离，非三条街之外某个方向；译为“三条街远”合适。间接疑问ne reposait pas是在探问是否休息，译作“是不是正在”没有误解否定。包装工怕敲箱惊扰的关系虽不明说仍可理解。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Comme un fruit caché qui serait parvenu à maturité sans qu’on s’en aperçût et se détacherait spontanément, survint une nuit la délivrance de la fille de cuisine",
+      "translation_anchor": "就像一颗藏在暗处的果子，谁也没留意它已经成熟，忽然间便自行坠落了——一天夜里，厨房女工临盆了",
+      "finding": "隐蔽成熟、自行脱落的果实比喻生产突然而自然地发生；“谁也没留意”对应无人察觉，“自行”对应spontanément。法语条件式使这一果实情景带假想色彩，中文由“就像”统摄，不需机械另加假设词。“临盆”结合后文阵痛、请接生婆理解为生产事件发生，时间“一天夜里”也保留。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Mais ses douleurs étaient intolérables ... il n’y avait pas de sage-femme à Combray ... avant le jour ... à Thiberzy",
+      "translation_anchor": "可她疼得无法忍受，而贡布雷又没有接生婆，弗朗索瓦丝只好天不亮就动身，去蒂贝尔齐请一个来",
+      "finding": "ses指厨房女工，中文“她”就近承接，没有误指姑妈。贡布雷无接生婆是弗朗索瓦丝必须到外地寻找的原因，“而……又没有……只好……”保留因果；avant le jour是天亮前，不是一般清晨，译文准确。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Ma tante, à cause des cris ... ne put reposer ... malgré la courte distance ... revenue que très tard, lui manqua beaucoup",
+      "translation_anchor": "姑妈被厨房女工的喊叫声吵得没法休息，而弗朗索瓦丝尽管路不算远，回来时却已很晚，少了她，姑妈实在觉得离不开",
+      "finding": "姑妈不能休息的原因是叫声，弗朗索瓦丝缺席带来的是姑妈感到需要她，两个层面未混淆。malgré与ne...que分别表示虽近却迟及直到很晚才回，译文“尽管……却已很晚”均有表达。lui manqua beaucoup以姑妈为感受者，“少了她，姑妈实在觉得离不开”略显口语回环，但能传达侍候者不在身边所造成的缺失，不宜强改成仅有情感上的想念。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Aussi, ma mère me dit-elle dans la matinée : « Monte donc voir si ta tante n’a besoin de rien. »",
+      "translation_anchor": "所以上午母亲便对我说：“上楼去看看你姑妈缺不缺什么。”",
+      "finding": "Aussi承接弗朗索瓦丝不在、姑妈需要照料，译成“所以”保留安排孩子探望的缘由。否定疑问n’a besoin de rien用“缺不缺什么”自然表达关切，没有译成确认姑妈什么都不需要；Monte的上楼方向和dans la matinée的上午时间均保留。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "J’entrai dans la première pièce ... couchée sur le côté, qui dormait ; je l’entendis ronfler légèrement",
+      "translation_anchor": "我走进头一间屋子，透过敞开的房门，看见姑妈侧躺着睡着了，还听见她轻轻地打着鼾",
+      "finding": "先入外间、隔着开门望见姑妈的空间次序完整，“侧躺”对应sur le côté；dormait写当时正在睡，“睡着了”在“看见”的框架下可理解为所见状态，没有造成此时才入睡的明确误读。视觉后接听觉的顺序和鼾声的轻微程度都保留。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "J’allais m’en aller doucement ... le bruit ... était intervenu dans son sommeil et en avait « changé la vitesse », comme on dit pour les automobiles",
+      "translation_anchor": "我正要悄悄退出去，可我弄出的那点声响多半已经钻进了她的睡梦，给它“变了速”——就像人们说汽车时那样",
+      "finding": "j’allais表示尚未实行的离去意图；“正要”正确。sans doute是对声音扰动睡眠的推测，“多半”恰当。en指睡眠，“给它变了速”的“它”就近指睡梦，保留汽车换速比喻而未按现实动作理解。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "car la musique du ronflement s’interrompit une seconde et reprit un ton plus bas",
+      "translation_anchor": "因为鼾声的乐曲中断了一秒，再响起时低了几个调子",
+      "finding": "car以鼾声变化支持前面的推测，“因为”保留解释关系；musique与短暂停顿都译出。但un ton为单数，译为“几个调子”增加降调幅度，建议改为“低了一个调子”。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "puis elle s’éveilla et tourna à demi son visage ... une sorte de terreur ... un rêve affreux ... elle ne pouvait me voir ... ne sachant si je devais m’avancer ou me retirer",
+      "translation_anchor": "接着她醒了过来，把脸转过来一半……她显然刚刚做了一场可怕的噩梦……她看不见我，我便待在原地，不知是该走上前去，还是该退出来",
+      "finding": "译文依次保留醒来、半转脸、显出恐惧、叙述者推断刚做噩梦的过程。venait de写刚刚发生，“刚刚”准确；“显然”保留推断而非姑妈亲口告诉。姑妈姿势造成她看不见“我”，从而“我”踌躇进退，主语与空间限制均清楚。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "mais déjà elle semblait revenue au sentiment de la réalité ... le mensonge des visions ... un sourire de joie, de pieuse reconnaissance envers Dieu qui permet que la vie soit moins cruelle que les rêves",
+      "translation_anchor": "可她似乎已经回到了现实的感觉中，认出了那些吓着她的幻象不过是虚妄；一丝喜悦的微笑，一种虔诚的感恩——感谢上帝让生活不像梦境那般残酷——微微照亮了她的脸庞",
+      "finding": "mais déjà转折说明“我”仍犹豫时她已恢复现实感，semblait的观察限度译成“似乎”。mensonge不是有人说谎，而是梦中景象不真实，“幻象不过是虚妄”准确。“微笑，一种……感恩”为解释性接续，对应同一笑容中的喜悦和虔诚；moins cruelle的比较译成“不像……那般残酷”，未反转梦与现实的残酷程度。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "avec cette habitude ... à mi-voix à elle-même quand elle se croyait seule ... « Dieu soit loué ! nous n’avons comme tracas que la fille de cuisine qui accouche. »",
+      "translation_anchor": "她自以为独处时养成了低声自言自语的习惯，此刻便喃喃说道：“感谢上帝！我们唯一的烦心事，也不过是厨房女工生孩子。”",
+      "finding": "se croyait seule只是自以为无人，而实际叙述者在场，译文“自以为”保留戏剧性信息差；à mi-voix以“低声”“喃喃”表达。ne...que限制烦恼只有这件事，译文“唯一……不过”保留庆幸及轻视女工痛苦的口气。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "Voilà-t-il pas que je rêvais que mon pauvre Octave était ressuscité et qu’il voulait me faire faire une promenade tous les jours !",
+      "translation_anchor": "谁曾想我竟然梦见我可怜的奥克塔夫死而复生，还非要拉着我每天出去散步！",
+      "finding": "反问感叹用“谁曾想……竟然”自然传出；mon pauvre及复生、每天散步均完整，表现她宁可丈夫不复生也不愿改作息的反讽。但me faire faire指让她去散步，“拉着我”增出丈夫身体动作及同行情景，建议改“让我”。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "Sa main se tendit vers son chapelet ... le sommeil recommençant ne lui laissa pas la force de l’atteindre : elle se rendormit, tranquillisée",
+      "translation_anchor": "她伸手去够小桌上的念珠，可重新袭来的睡梦没给她够到它的力气：她又安心地睡了过去",
+      "finding": "念珠位置、伸手欲够却没有够到的未完成动作以及睡意再次压倒她的原因均保留。“睡梦”在此指再度到来的睡眠，虽“睡意”更常见，但不会使人误以为她又做了新梦；tranquillisée译“安心”准确连接前面的感恩。"
+    },
+    {
+      "unit": 17,
+      "source_anchor": "et je sortis à pas de loup ... sans qu’elle ni personne eût jamais appris ce que j’avais entendu",
+      "translation_anchor": "而我蹑手蹑脚地退出卧室——她也好，任何人也好，永远不会知道我曾听到了什么",
+      "finding": "à pas de loup的无声轻步译成“蹑手蹑脚”准确，ni personne也被“任何人”完整覆盖。但eût jamais appris回顾无人曾得知这一事实，“永远不会知道”改成对未来的预言，建议用“都从未知道”，与全段回忆叙述保持一致。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p195"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 121,
+  "assessment": "本段问出友人犹太出身后以呼喊或哼唱暗示的叙述及条件关系基本准确。修订条件从句，明确同学本人已经到场，并将盘问的方式改为较自然的中文表达；其余保留。",
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "如果那位被盘问的同学就在场，被他用一场藏而不露的盘问逼得在不知不觉中承认了自己的出身",
+      "after": "如果那位同学本人已经到场，并被他用一番不露痕迹的盘问逼得在不知不觉中承认了自己的出身",
+      "source": "si c'était le patient lui-même déjà arrivé qu'il avait forcé à son insu, par un interrogatoire dissimulé, à confesser ses origines",
+      "reason": "“本人已经到场”明确外祖父直接向同学本人套问的情境；原译“就在场，被他”衔接生硬，“一场藏而不露的盘问”搭配不自然，改后保留隐蔽盘问及当事人不知不觉透露出身的意思。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p121"
+  }
+}

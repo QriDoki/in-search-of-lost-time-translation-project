@@ -1,0 +1,111 @@
+{
+  "id": 234,
+  "assessment": "本段以风景拟人、爱情失意与心脏病诊疗的双关掩饰勒格朗丹不愿介绍熟人的用意，译文大体保留了这一语调。需要修订的集中在三处：归航小艇承接的是晚照的旗色，并非向城堡致敬；“sans vérité”不是说此地不存在，“délicatesse”也不宜漏去；称呼和“prédisposé”应保留对孩子忧郁倾向的描述，不能提前落实为已有宿疾。其余长句及医学双关可保留。",
+  "changes": [
+    {
+      "type": "错译",
+      "before": "归航的小艇在粼粼波光里划开纹路，向桅顶升起三角旗、挂出旗号，向它致敬",
+      "after": "归航的小艇在斑斓的水面上划开纹路，在桅上升起晚照的三角旗，披挂着晚照的色彩",
+      "source": "dont les barques qui rentrent en striant l’eau diaprée hissent à leurs mâts la flamme et portent les couleurs",
+      "reason": "dont承接soir，三角旗与旗色属于晚照的拟人化意象，原文并无向城堡或晚照致敬的动作；diaprée强调水面的斑斓色彩，不只是闪动的波光。改文明确回指晚照，保留旗帜比喻。"
+    },
+    {
+      "type": "错译",
+      "before": "这片并不存在的土地，他带着马基雅维利式的算计补充道",
+      "after": "这片毫无真实可言的土地，他带着马基雅维利式的细腻心机补充道",
+      "source": "Ce pays sans vérité, ajouta-t-il avec une délicatesse machiavélique",
+      "reason": "sans vérité与后面的pure fiction一起形容风景如虚构文学，并非否认土地客观存在。“算计”仅表现machiavélique，漏去délicatesse所指的细腻、委婉手腕；“细腻心机”保留二者结合的讽刺意味。"
+    },
+    {
+      "type": "错译",
+      "before": "对我们的小朋友——他已经那么郁郁寡欢，他的心已经有那样的宿疾——我肯定不会选择它、推荐它",
+      "after": "对我的小朋友——他已经那么容易忧伤，他的心又有这样的倾向——我肯定不会选择它、推荐它",
+      "source": "pour mon petit ami déjà si enclin à la tristesse, pour son cœur prédisposé",
+      "reason": "mon为勒格朗丹本人的亲昵称呼，不是“我们”；enclin à la tristesse说容易陷入忧伤，而非已经长期郁郁寡欢。prédisposé延续这种易感倾向，并为下文医学比喻铺垫，原文尚未说孩子已有“宿疾”。"
+    }
+  ],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Là comme partout, je connais tout le monde et je ne connais personne",
+      "translation_anchor": "在那儿，就像在所有的地方一样，我认识所有人，也不认识任何人",
+      "finding": "保留tout le monde与personne的矛盾说法，表现答话者故作玄虚；“在那儿”承接父亲所问的地方。“他可没那么快缴械”对应ne se rendait pas si vite，既保留抵抗追问的比喻，也没有误解为身体动作。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "beaucoup les choses et fort peu les personnes. Mais les choses elles-mêmes y semblent des personnes",
+      "translation_anchor": "我了解事物很多，了解人却很少。但那里的事物本身倒像是人",
+      "finding": "法语省略重复的connaître，译文补出“了解”使中文可读，事物与人的对举完整。后接“稀有的人物，禀质细腻，像是被生活辜负过”，对应rares、essence délicate及条件式aurait déçues，保留想象与拟人，并未断言某些真人的经历，可保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "Parfois c’est un castel que vous rencontrez sur la falaise, au bord du chemin où il s’est arrêté pour confronter son chagrin au soir encore rose où monte la lune d’or",
+      "translation_anchor": "有时你会在悬崖上、在大路边遇见一座小城堡，它停驻在那里，拿自己的忧伤与那依然粉红、升起金色月亮的晚照相对",
+      "finding": "castel译“小城堡”，悬崖与路边两层位置均有交代；il指拟人化的城堡，译文以“它停驻”延续这一关系。confronter son chagrin au soir译为以忧伤与晚照相对，保留抽象意象；金月从仍呈粉红色的暮景中升起的关系也清楚，可保留。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "dont les barques qui rentrent en striant l’eau diaprée hissent à leurs mâts la flamme et portent les couleurs",
+      "translation_anchor": "归航的小艇在粼粼波光里划开纹路，向桅顶升起三角旗、挂出旗号，向它致敬",
+      "finding": "dont回指soir，小艇将晚照的光色化为旗帜与旗色。原译“向它致敬”增添原文没有的行为，还可能使“它”被理解为城堡；“旗号”也未体现couleurs在此作为晚照色彩的双重意味。修改为明确以晚照为所属者的旗帜与色彩，同时以“斑斓”对应diaprée。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "parfois c’est une simple maison solitaire, plutôt laide, l’air timide mais romanesque, qui cache à tous les yeux quelque secret impérissable de bonheur et de désenchantement",
+      "translation_anchor": "有时只是一幢孤零零的普通房子，样子相当丑，神态羞怯却富于浪漫气息，向所有人藏着一个关于幸福与幻灭的不朽秘密",
+      "finding": "第二个parfois与城堡构成并列，simple maison与castel的大小、华美差别得以保留。“神态羞怯却富于浪漫气息”承接房子的拟人化，mais的转折清楚；秘密兼含幸福与幻灭，impérissable译“不朽”略显庄重但符合此处抒情口吻，“向所有人藏着”也能表达无人得见，毋须为句式另改。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Ce pays sans vérité, ajouta-t-il avec une délicatesse machiavélique, ce pays de pure fiction est d’une mauvaise lecture pour un enfant",
+      "translation_anchor": "这片并不存在的土地，他带着马基雅维利式的算计补充道，这片纯属虚构的土地，不适合孩子阅读",
+      "finding": "两次ce pays是同位重述，后半以“阅读”把风景比作文学生成的国度，原译保留了这一修辞。前半“并不存在”却把sans vérité误落实为不存在，应改为“毫无真实可言”。délicatesse machiavélique把委婉细腻与机心结合，原译只剩“算计”，补回“细腻”后更能呈现故作体贴的讽刺。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "ce n’est certes pas lui que je choisirais et recommanderais pour mon petit ami déjà si enclin à la tristesse, pour son cœur prédisposé",
+      "translation_anchor": "对我们的小朋友——他已经那么郁郁寡欢，他的心已经有那样的宿疾——我肯定不会选择它、推荐它",
+      "finding": "否定强调ce n’est certes pas及choisirais/recommanderais所表达的选择、推荐意愿已译出，lui承接风景国度，中文“它”可保留。mon应为“我的”；enclin与prédisposé都侧重容易忧伤的倾向，“郁郁寡欢”“宿疾”分别把倾向改成既成状态、实际疾病。修改称呼及破折号内说明，保留对孩子与其心灵的双重关照。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Les climats de confidence amoureuse et de regret inutile peuvent convenir au vieux désabusé que je suis, ils sont toujours malsains pour un tempérament qui n’est pas formé",
+      "translation_anchor": "那种宜于倾诉爱情、徒然追悔的气候，也许适合我这样一个饱经幻灭的老人，但对一个尚未成型的性情，永远是有害的",
+      "finding": "“倾诉爱情”对应confidence amoureuse，“徒然追悔”对应regret inutile，延续风景与情感气候的双关。适合失意老人而不利于性情尚未定型者的对照完整，“也许”与peuvent相应，“永远”表现toujours的绝对口气。“尚未成型的性情”较抽象，但与原文tempérament qui n’est pas formé相符，可保留。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Croyez-moi, reprit-il avec insistance, les eaux de cette baie, déjà à moitié bretonne, peuvent exercer une action sédative, d’ailleurs discutable",
+      "translation_anchor": "请相信我，他又一再强调地说，那个已经半属布列塔尼的海湾的水，也许能……起到镇静的作用——不过这作用也值得商榷",
+      "finding": "avec insistance的坚持口吻、“半属布列塔尼”对海湾的地域修饰，以及镇静功效随即被质疑的自我限定都已译出。中文将“起到镇静的作用”后置，仍与两个“心”的并列宾语保持连贯；“一再”虽比单次强调稍强，但在reprit所处的反复劝说中不构成值得修订的信息增添。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "sur un cœur qui n’est plus intact comme le mien, sur un cœur dont la lésion n’est plus compensée",
+      "translation_anchor": "对我这样一颗不再完好的心、一颗损伤已无从代偿的心",
+      "finding": "两个sur同指勒格朗丹自己的心，后者补充解释前者，译文以并列名词组承接，指代清楚。“不再完好”保留n’est plus；“损伤”“代偿”保留医学用词，使爱情伤心的比喻与随后会诊口吻衔接，可保留。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "Elles sont contre-indiquées à votre âge, petit garçon",
+      "translation_anchor": "对您这个年纪，这些水是禁忌的，小男孩",
+      "finding": "Elles明确指海湾的水，译文补出“这些水”避免误指气候；contre-indiquées的医学禁忌含义及对孩子年龄的限制均译出。“小男孩”保留居高临下而亲昵的称呼，可保留。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "« Bonne nuit, voisin », ajouta-t-il en nous quittant avec cette brusquerie évasive dont il avait l’habitude",
+      "translation_anchor": "“晚安，邻居”，他说着便同我们道别，还是那副惯常的回避式的唐突派头",
+      "finding": "晚安与邻居称呼均完整；惯常的唐突中带有逃避追问的性质，译作“回避式的唐突派头”虽有刻意感，但明确对应brusquerie évasive，并符合叙述者此处嘲讽眼光，可保留。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "se retournant vers nous avec un doigt levé de docteur, il résuma sa consultation : « Pas de Balbec avant cinquante ans, et encore cela dépend de l’état du cœur », nous cria-t-il",
+      "translation_anchor": "然后他转过身来，像医生似地竖起一根手指，给这次会诊作了小结：“五十岁以前不要去巴尔贝克，而且还得看心脏的状况”，他朝我们喊道",
+      "finding": "转身、医生竖指、会诊小结与喊话四层动作完整。“五十岁以前不要去”保留pas…avant的禁止范围；et encore进一步限制五十岁以后能否前往，中文“而且还得看”可以自然承接这一条件。末尾“心脏的状况”使心灵伤痛与医学诊断的双关落定，可保留。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p234"
+  }
+}

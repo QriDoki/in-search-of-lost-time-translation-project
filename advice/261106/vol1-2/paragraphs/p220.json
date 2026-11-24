@@ -1,0 +1,134 @@
+{
+  "id": 220,
+  "assessment": "逐句及主要意群核对：人物关系、两次相遇的时间顺序、鞠躬与臀部浪涛的肉身比喻，以及眼色从殷勤升级为爱情宣言的讽刺，整体译出较完整。提出两处修改：开头时间定语连接不顺；结尾遗漏“含情的瞳仁”与慵倦情态，并以“仿佛”弱化确定描写。其余长句、拟人及夸张均有原文依据，保留。此段无须处理的注释冲突。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Hélas ! nous devions définitivement changer d’opinion sur Legrandin.",
+      "translation_anchor": "唉！我们对勒格朗丹的看法注定要彻底改变。",
+      "finding": "Hélas的叹息与devions的回顾性预示均已保留；définitivement为彻底、最终改变，此处“注定要彻底改变”符合随后揭露其势利的叙事方向，无须改。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Un des dimanches qui suivit la rencontre sur le Pont-Vieux après laquelle mon père avait dû confesser son erreur",
+      "translation_anchor": "在旧桥相遇——那次相遇之后，父亲不得不承认自己错了——随后的一个星期天",
+      "finding": "时间主干是“旧桥那次相遇之后的一个星期天”，after laquelle再补充父亲在那次相遇之后承认错误。现译“在旧桥相遇……随后的”把地点介词结构与时间定语拼接，中文修饰关系不顺；改为“在旧桥那次相遇……之后的一个星期天”，保留两层先后关系。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "comme la messe finissait et qu’avec le soleil et le bruit du dehors quelque chose de si peu sacré entrait dans l’église",
+      "translation_anchor": "弥撒即将结束，随着阳光和外面的喧声，某种如此不神圣的东西进了教堂",
+      "finding": "comme在此交代当时情境；finissait是弥撒将散的阶段，现译“即将结束”可保留。阳光、外界声响与非神圣气息一同进入教堂，并为后面的俗事交谈提供条件，未误作宗教仪式本身不神圣。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "Mᵐᵉ Goupil, Mᵐᵉ Percepied (toutes les personnes qui tout à l’heure ... leurs pieds n’avaient repoussé légèrement le petit banc)",
+      "translation_anchor": "古比尔夫人、贝斯比埃夫人（还有所有刚才我稍稍迟到进来时仍埋头祈祷的人；要不是她们的脚同时把那张挡住我去路的小长凳轻轻推开，我简直会以为她们根本没看见我进来）",
+      "finding": "括号回忆叙述者刚才迟到入教堂：众人目光仍在祈祷上，脚却让开挡路长凳，说明她们其实看见了他。“要不是……会以为……根本没看见”准确保留反事实条件与否定；“挡住我去路”虽概括了通往座位的路径，但不改变动作关系。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "commençaient à s’entretenir avec nous à haute voix de sujets tout temporels comme si nous étions déjà sur la place",
+      "translation_anchor": "已开始同我们高声谈论种种十足的俗事，仿佛我们已置身广场",
+      "finding": "tout temporels与教堂的sacré相对，指世俗话题；“俗事”恰当。comme si是假设性比拟，现译“仿佛”保留了人仍在教堂、口气却像已到广场的反差。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "nous vîmes sur le seuil brûlant du porche, dominant le tumulte bariolé du marché, Legrandin ... présenter à la femme d’un autre gros propriétaire terrien",
+      "translation_anchor": "我们在门廊灼热的门槛上看见了勒格朗丹，他站得高高的，仿佛凌驾于这片五光十色的市井喧闹之上：我们最近遇见他时与他同行的那位夫人的丈夫，正在把他引见给附近另一位大地主的太太",
+      "finding": "门槛的灼热、市场的杂色喧闹及勒格朗丹所处高位均有对应。引见者是先前同行女士的丈夫，受引见者是另一位当地大地主的妻子，现译层次清楚，未把两个丈夫或两位女士混同；“正在”也保留en train de的进行状态。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "La figure de Legrandin exprimait une animation, un zèle extraordinaires ; il fit un profond salut avec un renversement secondaire en arrière",
+      "translation_anchor": "勒格朗丹的脸上流露出异乎寻常的兴奋与殷勤；他深深鞠了一躬，随即又向后猛地一仰",
+      "finding": "animation、zèle在此不是抽象活力与宗教热诚，而是面对贵妇的兴奋和殷勤，现译合乎场景。先深鞠躬、再向后仰的次序与secondaire相合。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "qui ramena brusquement son dos au delà de la position de départ et qu’avait dû lui apprendre le mari de sa sœur, Mᵐᵉ de Cambremer",
+      "translation_anchor": "让他的背猛然反弹到比起始位置更靠后的地方——这一手想必是他妹妹康布雷梅尔夫人的丈夫教给他的",
+      "finding": "背部超过行礼前位置的夸张幅度保留；avait dû表示叙述者推测，“想必”正确。康布雷梅尔夫人是其妹妹，教动作的是妹妹的丈夫，现译指代无误。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Ce redressement rapide fit refluer ... la croupe de Legrandin que je ne supposais pas si charnue",
+      "translation_anchor": "这一急速的挺直让勒格朗丹的臀部向后涌起，宛如一道炽烈而肌肉贲张的波浪——我原没想到他的臀部竟如此丰腴",
+      "finding": "redressement承接鞠躬后的挺身；臀部被写成富有肌肉与冲劲的浪，现译保留了物质肉身的滑稽形象。“原没想到……如此”准确反映叙述者此前对臀部丰腴程度的意外。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "cette ondulation de pure matière, ce flot tout charnel, sans expression de spiritualité ... la possibilité d’un Legrandin tout différent",
+      "translation_anchor": "这纯粹物质的波动、这全然肉感的浪涛，不含半点灵性的表露，被一种充满卑劣的热切抽打成风暴，忽然在我脑海中唤起了一种可能：存在一个与我们所认识的截然不同的勒格朗丹",
+      "finding": "连续同位比喻、sans的灵性缺席以及卑下殷勤激起风暴的关系均保留。叙述者只是突然意识到另一个勒格朗丹“可能”存在，译文也保留可能性，没有提前变成确定断言。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "Cette dame le pria de dire quelque chose à son cocher ... l’empreinte de joie timide et dévouée ... y persistait encore",
+      "translation_anchor": "这位夫人请他去跟她的车夫交代几句话；他朝马车走去时，引见刻在他脸上的那种羞怯而效忠的喜悦的印痕依然留在那里",
+      "finding": "这位夫人承接新受引见的地主太太，son cocher是她的车夫。引见造成的羞怯、忠顺喜悦在脸上延续，现译“印痕依然”保留persistait encore；“效忠”措辞偏重，但贴合下文卑躬殷勤的讽刺语气，可保留。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "Ravi dans une sorte de rêve ... être le jouet inerte et mécanique du bonheur",
+      "translation_anchor": "他沉浸在某种梦境中，微微笑着，随后急忙回到夫人身边；他走得比平时快，两个肩膀滑稽地左右摇晃；他如此彻底地放任自己沉溺其中，不再顾及其他，看上去活像是幸福手中一个毫无生气的、机械的玩偶",
+      "finding": "ravi dans把人物写成被喜悦摄入梦境，译文的“沉浸”与前后喜悦呼应。快步导致肩膀左右晃动，完全沉醉、不顾其他又使他宛如幸福操纵的玩偶，两层因果均保留；“毫无生气的、机械的”对应玩偶的被动僵机械性，不需因他正活跃而删。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "il était trop bien élevé pour détourner la tête, mais il fixa ... un point si éloigné ... qu’il ne put nous voir et n’eut pas à nous saluer",
+      "translation_anchor": "他教养太好，不好意思把头扭开，但他那突然充满深深遐思的目光凝在地平线上一处遥远的点，远得看不见我们，也就不必向我们致意",
+      "finding": "表面教养使他不直接转头回避，故改用注视极远处来避免招呼；现译保留mais转折和si…que后果，读者能看出“看不见”是自我制造的情境。遐思的突然出现也保留了讽刺，不需明说他假装。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "Son visage restait ingénu ... un veston souple et droit ... Et une lavallière à pois ... comme l’étendard",
+      "translation_anchor": "他的脸庞依然天真，衬着下面一件柔软笔挺的上衣——那上衣仿佛身不由己地误入了它所憎恶的奢华之中。一条被广场上的风吹动的圆点领巾继续在勒格朗丹身上飘扬，宛如他高傲的离群索居与高贵独立的旗帜。",
+      "finding": "脸庞仍显天真，与上衣被拟人化为厌恶奢华、误入其间的形象并列；现译明确把“身不由己”归给上衣。圆点领巾作为骄傲孤立与独立的旗帜，延续人物外表自我形象的讽刺，两个句子的修辞均应保留。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "Au moment où nous arrivions à la maison ... dire qu’on l’apportât tout de suite. Nous croisâmes près de l’église ... conduisant la même dame à sa voiture.",
+      "translation_anchor": "我们到家时，妈妈发现忘了拿圣奥诺雷蛋糕，便让父亲带我原路折回去，吩咐立刻把蛋糕送来。我们在教堂附近与勒格朗丹擦肩而过，他正从对面走来，送同一位夫人去上马车。",
+      "finding": "到家之际才发现遗忘蛋糕，父亲和叙述者因此折返，并要求送来；现译没有把任务误成重新购买。第二次碰面发生在教堂附近，对向而行的勒格朗丹仍陪同同一女士，“同一位”正确衔接前次场景。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "Il passa contre nous ... un petit signe en quelque sorte intérieur aux paupières ... put passer parfaitement inaperçu",
+      "translation_anchor": "他紧贴我们身边走过，没有停下同身旁夫人的谈话，只用蓝眼睛的一角向我们递了个几乎完全藏在眼皮里的小眼色；那眼色不牵动他脸上的任何肌肉，完全可以不被他的谈话对象察觉",
+      "finding": "紧贴经过、谈话不停、示意局限在眼皮内这三个动作同时发生。n’intéressant pas是面部肌肉不参与，现译“不牵动”明确；put passer表示足以不被发现，译作“完全可以不被”保留其可能性，没有武断添加女士确实未见。"
+    },
+    {
+      "unit": 17,
+      "source_anchor": "cherchant à compenser par l’intensité du sentiment le champ un peu étroit ... il fit pétiller tout l’entrain de la bonne grâce ... jusqu’aux mystères de la complicité",
+      "translation_anchor": "但他试图用情感的强烈来弥补他为这份情感的表达划定的狭窄范围：在专属我们的那一角碧蓝里，他让殷勤亲切的全部热切火花四射，那份热切超出了愉快、近乎狡黠；他把和气的种种微妙一路提炼，直到心照不宣的眼色、只说一半的话、弦外之音与共谋的神秘",
+      "finding": "以强度补偿表达范围狭窄是下文不断升级的逻辑，译文明确保留；一角碧蓝指蓝眼睛中分给“我们”的部分。由亲切活泼跨入狡黠、默契暗号和共谋，逐级递进的夸张没有被概括掉；“共谋”是亲昵默契的比喻，在这一串眼色与暗示中可理解。"
+    },
+    {
+      "unit": 18,
+      "source_anchor": "et finalement exalta les assurances d’amitié ... illuminant alors pour nous seuls, d’une langueur secrète et invisible à la châtelaine, une prunelle énamourée dans un visage de glace",
+      "translation_anchor": "最后，他把友谊的保证一路升格为柔情的表白、爱的宣言；于是，这股只有我们看得到、那位城堡女主人看不到的隐秘柔情，仿佛只点亮了他那张冷脸上的一只眼睛。",
+      "finding": "友谊保证逐级升为柔情表白和爱情宣言，前半已保留。后半原文明说在冰冷面孔中点亮一颗含情的瞳仁，langueur另补其慵倦缠绵的情态；现译把prunelle énamourée简化成“一只眼睛”，遗漏瞳仁本身饱含爱意及langueur，又添加“仿佛”弱化实际描写，且“只有我们看得到”容易泛指柔情可见，原句pour nous seuls是只向我们显露。修订保留冰冷面孔与含情瞳仁的精确反差。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "语句不通顺",
+      "before": "在旧桥相遇——那次相遇之后，父亲不得不承认自己错了——随后的一个星期天",
+      "after": "在旧桥那次相遇——那次相遇之后，父亲不得不承认自己错了——之后的一个星期天",
+      "source": "Un des dimanches qui suivit la rencontre sur le Pont-Vieux après laquelle mon père avait dû confesser son erreur",
+      "reason": "原译“在旧桥相遇……随后的”缺少顺畅的名词及时间定语连接；把“那次相遇”作为时间参照，明确主干是相遇之后的某个星期天，插入语仍说明父亲承认错误的时间。"
+    },
+    {
+      "type": "错译",
+      "before": "于是，这股只有我们看得到、那位城堡女主人看不到的隐秘柔情，仿佛只点亮了他那张冷脸上的一只眼睛。",
+      "after": "于是，他那张冰冷的脸上，一颗含情脉脉的瞳仁便只为我们亮了起来，透出一缕隐秘的、那位城堡女主人看不到的慵倦柔情。",
+      "source": "illuminant alors pour nous seuls, d’une langueur secrète et invisible à la châtelaine, une prunelle énamourée dans un visage de glace",
+      "reason": "prunelle énamourée是含情的瞳仁，langueur是恋情中慵倦缠绵的情态，不能都简化为普通的“一只眼睛”和“柔情”；原文也无“仿佛”所加的不确定性。改文同时保留只向我们流露、贵妇看不见，以及含情瞳仁与冰冷面孔相对照的讽刺。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p220"
+  }
+}

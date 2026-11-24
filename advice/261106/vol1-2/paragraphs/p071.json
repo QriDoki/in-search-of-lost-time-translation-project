@@ -1,0 +1,17 @@
+{
+  "id": 71,
+  "assessment": "逐句核对后，人物衣饰、称呼上的迟疑以及舅公隐去双方姓名的动机均传达准确，长句关系清楚。仅将吃橘子的动作改为自然的中文表达，保留原文临近吃完的含义。",
+  "changes": [
+    {
+      "type": "不符合现代中文习惯",
+      "before": "正在把一只橘子吃到最后",
+      "after": "就快吃完一只橘子了",
+      "source": "qui achevait de manger une mandarine",
+      "reason": "“把一只橘子吃到最后”搭配生硬；原文表示吃橘子的动作接近完成，改为“就快吃完”更合乎中文习惯。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p071"
+  }
+}

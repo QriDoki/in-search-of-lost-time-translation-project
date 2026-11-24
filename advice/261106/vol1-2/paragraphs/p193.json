@@ -1,0 +1,17 @@
+{
+  "id": 193,
+  "assessment": "本段仅一句，承接姑妈命人追回欧拉莉，叙述弗朗索瓦丝未能追上而返回。“可”保留转折，“回来了”与“没能追上”完整传达返回及追赶失败的先后关系；人名、否定与动作对象无误，中文表达通顺，保留原译。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Mais Françoise revenait n'ayant pu rattraper Eulalie.",
+      "translation_anchor": "可弗朗索瓦丝回来了，没能追上欧拉莉。",
+      "finding": "Mais承接上段“快去追她”的命令，表示结果未如所愿，译作“可”贴切。Françoise是返回与追赶两个动作的共同主语；revenait叙述她返回，中文用“回来了”自然交代动作结果。n’ayant pu是否定的复合分词结构，说明在返回之前未能追上欧拉莉；“没能追上欧拉莉”准确保留能力或尝试未果之意，逗号连接两个分句虽沿用原文先叙返回、后补充缘由的次序，时间关系仍清楚。无需修订。"
+    }
+  ],
+  "changes": [],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p193"
+  }
+}

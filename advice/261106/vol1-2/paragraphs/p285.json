@@ -1,0 +1,37 @@
+{
+  "id": 285,
+  "assessment": "本段只有一个句子，直接引语的挑逗语气及“小姐”的戏谑称呼均可保留；叙述部分却把说话人及被模仿者完全对调。前段一直以凡德伊小姐为主语，写她努力寻找放荡女子的语言，因此本句 finit-elle par dire 的 elle 仍是凡德伊小姐；son amie 则是她的女友。本句应是凡德伊小姐终于说出一句大概从女友那里学来的话，而非女友模仿凡德伊小姐。合并修正两处相互关联的指代，其他文字不改。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Mademoiselle me semble avoir des pensées bien lubriques, ce soir",
+      "translation_anchor": "我看小姐今晚的心思可真够淫荡的",
+      "finding": "me semble 是说话人的判断，“我看”已表达；Mademoiselle 是直接向对方使用的第三人称式戏谑称呼，译为“小姐”保留了故作姿态的语气。pensées bien lubriques 指淫荡的念头，“心思可真够淫荡的”传达了词义及 bien 的加强作用，ce soir 对应“今晚”，无须改动。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "finit-elle par dire",
+      "translation_anchor": "女友终于开口说道",
+      "finding": "elle 承接前段以凡德伊小姐为主体的叙述：她试图寻找放荡女子该说的话，终于说出这句挑逗语。“终于开口说道”对应 finit par dire，但“女友”把说话人改成了对方，应明确改为“凡德伊小姐”。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "répétant sans doute une phrase qu'elle avait entendue autrefois dans la bouche de son amie",
+      "translation_anchor": "多半是在重复一句从前听凡德伊小姐说过的话",
+      "finding": "répétant 的动作主体仍为凡德伊小姐，关系从句中的 elle 也指她；son amie 是她的女友，所以是她复述过去听女友说过的一句话。“多半”保留 sans doute 的推测口气，“从前听……说过”也传达 avait entendue autrefois 的先时关系；仅须将被模仿者由“凡德伊小姐”改为“女友”，与前一意群一并修正。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "女友终于开口说道，多半是在重复一句从前听凡德伊小姐说过的话。",
+      "after": "凡德伊小姐终于开口说道，多半是在重复一句从前听女友说过的话。",
+      "source": "finit-elle par dire, répétant sans doute une phrase qu'elle avait entendue autrefois dans la bouche de son amie",
+      "reason": "elle 延续前段主语凡德伊小姐，son amie 指她的女友。原译将说话人和被模仿者颠倒，破坏了她勉强学说放荡话语的叙述逻辑，须同时纠正。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p285"
+  }
+}

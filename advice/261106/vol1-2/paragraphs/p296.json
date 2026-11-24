@@ -1,0 +1,165 @@
+{
+  "id": 296,
+  "assessment": "逐句核对全段，并对施虐心理的论证长句分意群复核。原译整体保留了表象与内心、恶与快乐、父女相似性造成的心理阻隔等论述及修辞，绝大多数可保留。发现三处值得修订的语义问题：把剧院与现实的倾向比较绝对化；把“不能把恶习视为有别于礼貌义务之物”译成她已如此看待，倒置否定范围；把“恶在她看来可喜”的关系从句误接到快乐，并使下一分句的评价对象含混。全部注释及标记保留，现有剧院注释与修订无矛盾。",
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Et pourtant j’ai pensé depuis que si M. Vinteuil avait pu assister",
+      "translation_anchor": "可是后来我又想到，就算凡德伊先生当时能够看到这一幕",
+      "finding": "开篇 depuis 标明这是事后的回想，si…avait pu / eût… 为亡父已不可能亲见的反事实设想；“后来”“当时能够”“也许还不至于”保留时间层次及推测。其信任对象是女儿的善心，不是对具体行为的认可；后半“未必就完全错了”对应 peut-être…pas…tout à fait tort，双重限制保留，毋须改动。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "Certes, dans les habitudes de Mlle Vinteuil l’apparence du mal était si entière",
+      "translation_anchor": "诚然，在凡德伊小姐的习性里，恶的外表是那样完备",
+      "finding": "这里断言的是恶的表象之完整，并未断言她内心全恶；原译后续重复“邪恶表象”维持了这一层区分。“除了一个有施虐倾向的女人，几乎再不可能”落实 ailleurs que chez une sadique 与 on aurait eu de la peine 的程度，保留。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "c’est à la lumière de la rampe des théâtres du boulevard plutôt que",
+      "translation_anchor": "这样的场面只有在⊂林荫大道剧院⊃",
+      "finding": "女儿使女友向父亲肖像吐唾沫，对应 faire cracher une amie；“只为她活了一辈子”保留父亲的奉献。场所比较 plutôt…que 却被“只有……才……”绝对化，应改为“更可能见于……而非……”。注释标记及全文原样保留，注释说明舞台与真实一幕的对照，并不与改文冲突。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "et il n’y a guère que le sadisme qui donne un fondement dans la vie",
+      "translation_anchor": "而也几乎只有施虐狂，才能让情节剧的美学在现实生活里找到根基",
+      "finding": "guère que 是“几乎只有”，本处确有近乎排他意味，与前一处 plutôt que 不同。fondement dans la vie 指现实依据，译为“在现实生活里找到根基”保留了情节剧夸张行为在施虐现象中有现实基础的论点，可留。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "Dans la réalité, en dehors des cas de sadisme",
+      "translation_anchor": "在现实中，撇开施虐狂的情况不谈，一个女儿对亡父的纪念和遗愿",
+      "finding": "原文暂排施虐情形，设想普通女儿也可能同样残酷地违背亡父意愿、损害其身后记忆；“也许”“同样残酷”保留可能性和比较关系。mais 转折的是行为是否被明确浓缩为粗陋而天真的象征动作，原译“不会特意……概括成”传达这一对照。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "ce que sa conduite aurait de criminel serait plus voilé",
+      "translation_anchor": "她行为中罪恶的成分，在别人眼里、甚至在她自己眼里",
+      "finding": "ce que…de criminel 不是称全部行为都是犯罪，而是行为中的罪恶成分，原译准确限定。更隐蔽既相对于他人，也相对于自己；破折号内“她作恶却不肯向自己承认”说明后者，保存 sans se l’avouer 的自我遮掩，没有误作她不曾作恶。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "Mais, au-delà de l’apparence, dans le cœur de Mlle Vinteuil",
+      "translation_anchor": "但是，透过表象，在凡德伊小姐心里，恶至少在起初恐怕并非不掺杂别的东西",
+      "finding": "原文从外部表象转向内心，对“恶并非纯粹”加 au début du moins 和 sans doute 两层限定；“至少在起初”“恐怕”“并非不掺杂”均有对应。双重否定保留作者谨慎回转的语气，不为简化而改。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Une sadique comme elle est l’artiste du mal",
+      "translation_anchor": "像她这样的女施虐狂是恶的艺术家，而一个坏得彻头彻尾的生物成不了恶的艺术家",
+      "finding": "施虐者可把恶当艺术，彻底恶者反而做不到；原因是后者与恶没有内外距离，把恶视作自然，甚至与自身不可分。原译“对后者来说”明确条件句中 lui / elle 指 entièrement mauvaise 的人，未误指凡德伊小姐；“恶的艺术家”的悖论照留。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "et la vertu, la mémoire des morts, la tendresse filiale",
+      "translation_anchor": "至于美德、对死者的追念、做子女的温情，她既不心存崇敬",
+      "finding": "此处仍以彻底恶者为假设对象，推论她既不崇拜这三种价值，也就无法从亵渎它们获得亵圣快感。原译“既不……也就不会……”保留 comme 的因果，les 的对象也完整列出；“她”的前指可由上一分句“后者”衔接，保留。"
+    },
+    {
+      "unit": 10,
+      "source_anchor": "Les sadiques de l’espèce de Mlle Vinteuil sont des êtres si purement sentimentaux",
+      "translation_anchor": "凡德伊小姐这一类的施虐狂，是那样纯粹多情善感、那样天生善良的人",
+      "finding": "两个 si 共同引出 que 的结果：由于她们多情、天性有德，连感官快乐也被视作坏事与恶人专利。原译“那样……就连……”保留因果程度关系，sensuel 限于感官快乐，“在她们看来”保留主观判断，未把快乐判为客观邪恶。"
+    },
+    {
+      "unit": 11,
+      "source_anchor": "Et quand ils se concèdent à eux-mêmes de s’y livrer un moment",
+      "translation_anchor": "而当她们破例准许自己沉溺片刻时，便竭力钻进恶人的皮囊",
+      "finding": "y 指上述感官快乐；她们让自己与同伙共同扮恶，目的只在短暂产生逃离谨严温柔灵魂的幻觉。“竭力”“好让”“幻觉”“仿佛”区分尝试、目的与真实结果；“非人世界”保留 inhumain 对温柔之心的反衬，可留。"
+    },
+    {
+      "unit": 12,
+      "source_anchor": "Et je comprenais combien elle l’eût désiré",
+      "translation_anchor": "而我呢，正因为看到她绝无可能做到，才明白她曾多么渴望做到",
+      "finding": "l’ 回指暂时逃离自己温柔而谨严的灵魂；原句用无法成功的程度反衬愿望的强烈，译文“正因为……才明白……多么”维持观察到欲望的推理。原文是不可能成功，并非已实际逃脱；“绝无可能”保留该限度。"
+    },
+    {
+      "unit": 13,
+      "source_anchor": "Au moment où elle se voulait si différente de son père",
+      "translation_anchor": "就在她一心要显得和父亲截然不同的时刻",
+      "finding": "se voulait 是她希望自己不同于父亲，而非事实不同；“一心要显得”保留意图。ce qu’elle me rappelait 的观察者是叙述者，“她让我想起的，恰恰是”正确连接父亲的思考与说话方式，造成欲望与实际相似的反讽。"
+    },
+    {
+      "unit": 14,
+      "source_anchor": "Bien plus que sa photographie, ce qu’elle profanait",
+      "translation_anchor": "比起那张照片，她真正亵渎的、她驱使来为自己的快乐服务",
+      "finding": "长句首先把物理照片与她身上活着的父亲遗迹相比，后者才更成为被亵渎之物，同时横隔于快乐与她之间。eux / les 在此指 plaisirs，“那些快乐”“无法直接品尝”指代清楚，三次 ce que 的并列作用在中文的连续定语中保留。"
+    },
+    {
+      "unit": 15,
+      "source_anchor": "la ressemblance de son visage, les yeux bleus de sa mère à lui",
+      "translation_anchor": "更是她面容上的那种肖似：他像传家珠宝一样传给她的、他母亲的那双蓝眼睛",
+      "finding": "sa mère à lui 特别指父亲的母亲，即小姐的祖母；“他母亲”“他……传给她”没有误成小姐母亲。面容相似、蓝眼睛及和蔼举止共同承载父亲遗传下来的存在；“传家珠宝”保留家庭珍宝的比拟，宜留。"
+    },
+    {
+      "unit": 16,
+      "source_anchor": "ces gestes d’amabilité qui interposaient entre le vice de Mlle Vinteuil et elle",
+      "translation_anchor": "在凡德伊小姐的恶习与她本人之间隔上了一套措辞、一种心态",
+      "finding": "和蔼举止带出的措辞和心态不适合恶习（lui 指 vice），所以阻止她认识恶习“作为一种与礼貌义务不同的东西”。原译后接“在她眼里，恶习成了……截然不同”把受阻的认识反说成已经形成的认识，应把后半整体纳入“无从认识到”的范围；其余阻隔譬喻保留。"
+    },
+    {
+      "unit": 17,
+      "source_anchor": "Ce n’est pas le mal qui lui donnait l’idée du plaisir, qui lui semblait agréable",
+      "translation_anchor": "不是恶让她想到快乐、让她觉得快乐可喜；而是快乐让她觉得邪恶",
+      "finding": "两处 qui 均以 le mal 为主语；原译第二项却补入“快乐”作可喜之物。后句 malin 的被评价者是 le plaisir，并非她自己。修为“并不是恶……也不是恶在她看来可喜；而是快乐在她看来带着邪恶”，使论述从恶到快乐与从快乐到恶的方向明确。"
+    },
+    {
+      "unit": 18,
+      "source_anchor": "Et comme chaque fois qu’elle s’y adonnait il s’accompagnait pour elle",
+      "translation_anchor": "而每次她放纵自己沉溺于快乐，快乐总在她那里伴着那些邪恶念头出现",
+      "finding": "il 指快乐，les pensées mauvaises 只在沉溺时出现、其余时间不在她有德的灵魂里；原译破折号准确交代这一时间对照。comme 说明她渐把快乐等同于恶的原因，“久而久之”落实 finissait，“恶本身”传达大写 Mal 的抽象绝对性，保留。"
+    },
+    {
+      "unit": 19,
+      "source_anchor": "Peut-être Mlle Vinteuil sentait-elle que son amie n’était pas foncièrement mauvaise",
+      "translation_anchor": "也许凡德伊小姐感觉到，女友骨子里并不坏",
+      "finding": "两个从句均为女友的性质或状态：并非本质恶人，说亵渎言语时也并不真诚。原译保留开头“也许”的不确定性，“对她说”中的“她”指凡德伊小姐，与 amie 的主语区分可辨，毋须改动。"
+    },
+    {
+      "unit": 20,
+      "source_anchor": "Du moins avait-elle le plaisir d’embrasser sur son visage des sourires, des regards",
+      "translation_anchor": "至少，她还有那份快乐，能在她脸上吻到那些微笑、那些眼神",
+      "finding": "son visage 为女友的脸；她吻的是脸上显出的微笑与目光，原译保留这一转喻。feints peut-être 表示虽可能伪装，但低俗邪恶的表现类似残酷享乐者；“也许是装出来的，但”与后面“而非善良和痛苦”保存让步及对照，未把内心实质同表情混同。"
+    },
+    {
+      "unit": 21,
+      "source_anchor": "Elle pouvait s’imaginer un instant qu’elle jouait vraiment les jeux",
+      "translation_anchor": "她可以有一刹那想象自己真的在玩那种游戏",
+      "finding": "pouvait s’imaginer 限定这仍是短暂幻想；条件式 eût joués / aurait ressenti 则设想真正对亡父怀野蛮情感的女儿会与失去天性的同伙怎样行事。原译“有一刹那想象”“原本会玩”“确实怀有”保留幻想与假定人物的内心真实之间的层次。"
+    },
+    {
+      "unit": 22,
+      "source_anchor": "Peut-être n’eût-elle pas pensé que le mal fût un état si rare",
+      "translation_anchor": "倘若她能像在所有其他人身上一样，在自己身上辨认出",
+      "finding": "末句倒置 si 从句，提出未能发生的自知：她若看出自己也有人人皆有的、对所造成痛苦的漠然，就不会把恶视作罕见且可逃入歇息的异乡。原译“倘若……也许就不会”保留反事实及推测，破折号中的“不管……就是……”传达任人如何命名都不改其残酷本质，结尾“移居其中……安宁”保留旅行和休息的隐喻。"
+    }
+  ],
+  "changes": [
+    {
+      "type": "错译",
+      "before": "这样的场面只有在⊂林荫大道剧院⊃≼🏛️十九世纪巴黎林荫大道的通俗剧院以情节剧、强烈冲突和夸张舞台效果著称；这里以剧院脚灯对照乡间客厅中的真实一幕。≽的脚灯下才看得到，而不是在一座真正的乡间宅第的灯下",
+      "after": "这样的场面更可能见于⊂林荫大道剧院⊃≼🏛️十九世纪巴黎林荫大道的通俗剧院以情节剧、强烈冲突和夸张舞台效果著称；这里以剧院脚灯对照乡间客厅中的真实一幕。≽的脚灯下，而非一座真正的乡间宅第的灯下",
+      "source": "c’est à la lumière de la rampe des théâtres du boulevard plutôt que sous la lampe d’une maison de campagne véritable qu’on peut voir",
+      "reason": "plutôt que 表示两个场域之间的倾向比较，原译“只有……才……而不是……”改成了绝对排除，与眼前真实发生的场景也有抵牾。改为“更可能见于”保留作者以通俗舞台衬照现实的夸张语气，同时不添加原文没有的唯一性。"
+    },
+    {
+      "type": "错译",
+      "before": "使她无从认识恶习，在她眼里，恶习成了同她平日尽心履行的无数礼貌义务截然不同的另一种东西",
+      "after": "使她无从认识到，恶习是同她平日尽心履行的无数礼貌义务截然不同的东西",
+      "source": "l’empêchait de le connaître, comme quelque chose de très différent des nombreux devoirs de politesse auxquels elle se consacrait d’habitude",
+      "reason": "le 指 vice；comme quelque chose de très différent 是 connaître 的认知内容，整个内容受 empêchait 否定：遗传而来的礼貌措辞与心态，使她不能把恶习体验为有别于日常礼貌义务的事情。原译在“认识恶习”后断开，接着正面断言她觉得恶习截然不同，颠倒了否定范围及心理逻辑。"
+    },
+    {
+      "type": "错译",
+      "before": "不是恶让她想到快乐、让她觉得快乐可喜；而是快乐让她觉得邪恶。",
+      "after": "并不是恶让她想到快乐，也不是恶在她看来可喜；而是快乐在她看来带着邪恶。",
+      "source": "Ce n’est pas le mal qui lui donnait l’idée du plaisir, qui lui semblait agréable ; c’est le plaisir qui lui semblait malin.",
+      "reason": "两个 qui 的先行词同为 le mal：“给她快乐的念头”和“在她看来可喜”都描述被否定的恶。原译把第二个关系从句的主语换成“快乐”，改变了对照；末半句“快乐让她觉得邪恶”又可能读成快乐使她自觉邪恶。明确两次评价对象，恢复“并非恶令人愉悦，而是愉悦被认作恶”的倒置关系。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p296"
+  }
+}

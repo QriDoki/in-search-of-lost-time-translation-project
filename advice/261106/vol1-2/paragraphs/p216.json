@@ -1,0 +1,65 @@
+{
+  "id": 216,
+  "assessment": "本段按叙述长句的主要意群及随后各句粗话逐项核对，未发现有把握且值得修订的错译、漏译或中文句法问题。译文保留了弗朗索瓦丝从阅读病例时感动落泪到面对真实病人时厌烦讥讽的反转；两个否定并列、同样痛苦在阅读与亲见两种情境中的对照，以及她误以为旁人已经离开的发言条件均清楚。直接引语中的性行为暗示、对女工的贬斥及引出下一段方言俗语的冒号也均对应。本段无注释需要协调，建议保留现译。",
+  "changes": [],
+  "sentence_checks": [
+    {
+      "unit": 1,
+      "source_anchor": "Mais dès que je l'eus appelée et qu'elle fut revenue près du lit de la Charité de Giotto, ses larmes cessèrent aussitôt de couler",
+      "translation_anchor": "可我刚一叫她，她一回到乔托的仁爱床边，眼泪立刻就止住了",
+      "finding": "Mais承接上段她阅读临床描述时落泪的情景，译为“可”保留转折。“我”叫她、她返回床边在先，止泪在后；“刚一”“一回到”“立刻”共同表现dès que与aussitôt所强调的迅速变化。“她”始终指弗朗索瓦丝，“乔托的仁爱”是病中厨房女工的既有代称，未错换主语。"
+    },
+    {
+      "unit": 2,
+      "source_anchor": "elle ne put reconnaître ni cette agréable sensation de pitié et d'attendrissement qu'elle connaissait bien et que la lecture des journaux lui avait souvent donnée, ni aucun plaisir de même famille",
+      "translation_anchor": "她再也找不回那种她所熟悉的、读报常常带给她的怜悯与心软的愉快感觉，也找不回任何同类的快感",
+      "finding": "ne put reconnaître在此指身处真实病人床前时无法再体验到熟悉的那种感觉，“找不回”能够表达这一情境中的失落。“她所熟悉的”与“读报常常带给她的”两个修饰语同指这种感受，关系清楚。ni…ni…对应“找不回……也找不回……”，未误作仍有别类愉快；pitié、attendrissement及agréable分别落实为“怜悯”“心软”“愉快”，保留叙述者对这种自我享受式同情的讽刺。"
+    },
+    {
+      "unit": 3,
+      "source_anchor": "dans l'ennui et dans l'irritation de s'être levée au milieu de la nuit pour la fille de cuisine, et à la vue des mêmes souffrances dont la description l'avait fait pleurer",
+      "translation_anchor": "半夜里为厨房女工爬起来，她满心厌烦恼火，眼看着刚才那段描述还让她掉泪的那些痛苦",
+      "finding": "ennui和irritation分别由“厌烦”“恼火”承接；“半夜里为厨房女工爬起来”明确其不满的缘由，s’être levée的完成关系未被译成尚未起床。des mêmes souffrances强调亲见的正是描述曾使她哭泣的那种痛苦；译文借“刚才那段描述还让她掉泪的那些痛苦”保留同一痛苦的照应，“刚才”也与上一段读书后被叫回的连续情景相合。中文修饰链稍长，但能辨明让她落泪的是描述，所见的是痛苦，不必为缩句而改。"
+    },
+    {
+      "unit": 4,
+      "source_anchor": "elle n'eut plus que des ronchonnements de mauvaise humeur, même d'affreux sarcasmes",
+      "translation_anchor": "剩下的只有怨气冲冲的嘟囔，甚至是恶毒的冷嘲热讽",
+      "finding": "ne…plus que对应“剩下的只有”，指出原先的泪水与温情消失，而不只是新增抱怨；ronchonnements与sarcasmes分别译为“嘟囔”“冷嘲热讽”，même译为“甚至”，保留从不快抱怨升级为残忍讥讽的递进。“恶毒”与affreux在这一语境的谴责意味相称。"
+    },
+    {
+      "unit": 5,
+      "source_anchor": "disant, quand elle crut que nous étions partis et ne pouvions plus l'entendre",
+      "translation_anchor": "她以为我们已经走开、再也听不见了，便说",
+      "finding": "把法语分词disant另起一句，仍以弗朗索瓦丝为说话人。“以为”准确保留crut所限定的主观判断，未把“我们已经离开”写成叙述者确认的事实；“已经走开”及“再也听不见”对应两个由que引出的条件，说明她何以敢说后面的粗话。"
+    },
+    {
+      "unit": 6,
+      "source_anchor": "Elle n'avait qu'à ne pas faire ce qu'il faut pour ça !",
+      "translation_anchor": "她当初别干那件招来这事的事不就完了！",
+      "finding": "n’avait qu’à ne pas faire是责怪对方当初本可以不做，译文用“当初别……不就完了”保留这种轻率的归责语气。ce qu’il faut pour ça以含混说法指会导致怀孕生产的性行为，译文也以“那件……的事”避开直说；“招来这事”对应结果指向，未误解为当前治病所需的事情。句中“事”有意口语重复，与人物说话语气相容。"
+    },
+    {
+      "unit": 7,
+      "source_anchor": "ça lui a fait plaisir ! qu'elle ne fasse pas de manières maintenant.",
+      "translation_anchor": "她自己快活过了！这会子倒别装腔作势了。",
+      "finding": "前句ça回指性行为，lui指女工，“自己快活过了”保留弗朗索瓦丝指责她曾获得快感的意思。后句否定命令qu’elle ne fasse pas…由“别”表达，maintenant由“这会子”表达；“装腔作势”对应faire des manières，准确呈现她把真正的病痛诬为作态的残酷判断，并非叙述者认可病人是在假装。"
+    },
+    {
+      "unit": 8,
+      "source_anchor": "Faut-il tout de même qu'un garçon ait été abandonné du bon Dieu pour aller avec *ça*.",
+      "translation_anchor": "一个男人得是被好天主抛弃到什么地步，才会去跟*那种货色*鬼混啊。",
+      "finding": "Faut-il…pour…是带惊叹意味的程度反问，译为“得是……到什么地步，才会……”保留夸张的推论，并非实际求问。aller avec在上下文指发生性关系，“鬼混”符合说话人的鄙夷口气；斜体ça把女工贬为物件，“那种货色”保留这种侮辱性指称及强调。garçon在这里指与她发生关系的男子，“一个男人”未改变事件人物关系。"
+    },
+    {
+      "unit": 9,
+      "source_anchor": "Ah ! c'est bien comme on disait dans le patois de ma pauvre mère :",
+      "translation_anchor": "唉！真应了我可怜母亲家乡土话里说的那句：",
+      "finding": "Ah为感叹，“唉”与此处嫌恶感叹相容；c’est bien comme on disait引出用于评说眼前情形的旧日俗语，“真应了……那句”准确建立引语关系。patois译为“家乡土话”，ma pauvre mère译为“我可怜母亲”，保留人物提及母亲的感情色彩。末尾冒号衔接下一段方言诗句，未把本段擅自补成独立完整的俗语。"
+    }
+  ],
+  "agent": {
+    "kind": "collaboration-subagent",
+    "task": "p216"
+  }
+}

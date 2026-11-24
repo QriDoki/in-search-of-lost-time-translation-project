@@ -1,0 +1,504 @@
+{
+  "reviewed": {
+    "1": {
+      "decision": "accept_all",
+      "reason": "原文蓝色主体为池水，恢复水色，不增加光线运动。"
+    },
+    "2": {
+      "decision": "accept_all",
+      "reason": "明确原文par引导判断依据，中文情感作判断原因更通顺。"
+    },
+    "3": {
+      "decision": "accept_all",
+      "reason": "insoupçonné 是未曾想到，非隐秘进行；结合当地被纳入历史的上下文，修订解释成立。"
+    },
+    "4": {
+      "decision": "accept_all",
+      "reason": "qui piquait 主语春天，with aiguilles 是工具，现译被动关系确有倒置。"
+    },
+    "5": {
+      "decision": "accept_all",
+      "reason": "三项均改善中文修饰或程度表达，原文专名/个体与通感论述保留。"
+    },
+    "6": {
+      "decision": "accept_all",
+      "reason": "de préférence宜明确偏好；coiffe译中性头饰、légère译轻盈成立。注释建筑归属另核。"
+    },
+    "8": {
+      "decision": "accept_all",
+      "reason": "有天才是法语搭配直搬；是个天才保留原文对演员的评价。原始assessment“禁止就医安排”为笔误，应为“禁止看戏及日常外出安排”。",
+      "assessment_correction": "本段五个句子／单元的禁止看戏及日常外出安排、未能旅行的失望、想象副本与现实花园的对照均对应完整，未见明确错译或漏译。建议将“有天才”这一生硬搭配改为现代中文常用说法，其余保留。"
+    },
+    "7": {
+      "decision": "accept_all",
+      "reason": "核对24个源文单元，七项分别恢复缺漏或错误修饰关系，删去夹入正文的解释；陆路与门廊意象有明确原文。Saint-Marc注释另行核实。"
+    },
+    "9": {
+      "decision": "accept_all",
+      "reason": "补回heureuse与叙述者痛苦的对照，代词统一承接近处的未知世界，呼喊中抛出意象的中文关系更清楚。"
+    },
+    "10": {
+      "decision": "retain",
+      "reason": "逐句覆盖8单元，行程、预告与临时缺席、家庭女教师怕雨的主体及条件关系均无明确问题。"
+    },
+    "11": {
+      "decision": "accept_all",
+      "reason": "前文仍属阴晴未定，应保留s’il的假设；黑色影纹是花格投在石面的光影，非铁栏自身发光。"
+    },
+    "12": {
+      "decision": "retain",
+      "reason": "已核对长句内评价对照、时刻与季节区别、幸福的承诺及比苔藓更柔暖等意群，保留。"
+    },
+    "13": {
+      "decision": "retain",
+      "reason": "六句核对完整：雪袍金线黑纹、空椅与老太太、母亲问候及贵族式套近乎等主体和语气均对应，保留。"
+    },
+    "14": {
+      "decision": "accept_all",
+      "reason": "à la main确为手里，être d’un temps不必是出生事实；悬置条件句转为含意外口气的中文问句成立。"
+    },
+    "15": {
+      "decision": "accept_all",
+      "reason": "删除小小的这一无原文的减轻限定，保留当时叙述者把雪日当作共同患难的认真感受。"
+    },
+    "16": {
+      "decision": "retain",
+      "reason": "反而不太不幸的少数日子这一双重否定与对比方向保留，中文难得一句可接受。"
+    },
+    "17": {
+      "decision": "retain",
+      "reason": "长句中的自私假设、爱情排斥其他感情的悖论、渴望会面却无快乐的转折均保留，不为字面悖论作解释性改写。"
+    },
+    "18": {
+      "decision": "accept_all",
+      "reason": "恢复比较而非绝对判断，jusque-là接回期待中的告白时点，dont从句放弃道路的主语确为je。"
+    },
+    "19": {
+      "decision": "accept_all",
+      "reason": "lui修正爱情、Il回指爱情均有语法与上下文支持；补回indépendante，hygiène依病症语境为保健，另两项中文搭配调整清楚。"
+    },
+    "20": {
+      "decision": "accept_all",
+      "reason": "sous les cercles imprimés指圆形邮戳，补形状同时改正被覆上的搭配，保留印记与外界印证关系。"
+    },
+    "21": {
+      "decision": "accept_all",
+      "reason": "petit nom与前文nom de baptême对应，不是另一个乳名；恢复与其他伙伴或父母共有的标志这一平行关系；亲密的自觉等译法通顺。"
+    },
+    "22": {
+      "decision": "accept_all",
+      "reason": "tenir pour rien是不予看重，le passé不限于昨日；否定结构移到把之前并明确眼前所得不能自足的评价，中文衔接顺畅。"
+    },
+    "23": {
+      "decision": "accept_all",
+      "reason": "恢复desceller解除固定和举童向太阳赐福的意象，亲切的动机句式改顺，corsage在佩花语境译衣襟更免内衣歧义。"
+    },
+    "24": {
+      "decision": "retain_with_rejected_suggestion",
+      "reason": "brusque在与正式拘谨相对的语境中也含不讲究、不加修饰或粗率之意，现译随随便便尚可；只改为急促反而将特征缩窄为速度。底本lieux在Project Gutenberg同段亦如此，本轮不据猜测校改原文或增添神祇意象。",
+      "sources": [
+        "https://www.gutenberg.org/cache/epub/2650/pg2650-images.html"
+      ],
+      "source_collation": "另检主worktree本地raw-proust-corpus/chapters-txt/vol2-2.txt，第47行亦作lieux。保留底本文字，将疑点留档，不据猜测恢复dieux。"
+    },
+    "25": {
+      "decision": "accept_all",
+      "reason": "修顺联想对象的句式，恢复次要横向线的图像，花瓶动作与啄食主体区分清楚；épithète与后文名字的比喻应有层次。"
+    },
+    "26": {
+      "decision": "accept_all",
+      "reason": "courage在受挫语境为勉力维持掩饰的心力，修订补回内在耗竭且在面前掩饰搭配自然。"
+    },
+    "27": {
+      "decision": "retain",
+      "reason": "四单元中友谊期待、刚到就走及请求明日早来等语义和人物口吻对应，保留。"
+    },
+    "28": {
+      "decision": "retain",
+      "reason": "脸上亮起来与欢跳着回答保留神情和动作，重复她虽可选润色但不妨碍中文，保留。"
+    },
+    "29": {
+      "decision": "accept_all",
+      "reason": "manquer un arbre de Noël为错过活动，改为无法参加；保留开头故意先允诺又说不来的口吻。"
+    },
+    "30": {
+      "decision": "accept_all",
+      "reason": "恢复soir傍晚及节庆结束后的场景比较，去掉具体彩旗未摘的无原文解释，身体沉重一句保留。"
+    },
+    "31": {
+      "decision": "retain",
+      "reason": "反常天气、四处病人及天上也乱套的乡间保姆口吻已传达，保留。"
+    },
+    "32": {
+      "decision": "accept_with_punctuation_revision",
+      "reason": "恢复魔力与独特处境并列作用的主干，内在约束力和痛苦处境的归属正确；补未来指向及被迫支配两行为。主审将插入语改为逗号并以句号分层。"
+    },
+    "33": {
+      "decision": "accept_all",
+      "reason": "每晚反复的心理动作宜明确，可能实现的范围不能改成口头说出；末句按原文保留作品、心灵与爱情赠予的区分。"
+    },
+    "35": {
+      "decision": "accept_all",
+      "reason": "clarté是行为呈现出清楚意义，改文减少规律/无误的实化和绝对化，保留以行为而非心愿判断未来的论证。"
+    },
+    "34": {
+      "decision": "accept_with_wording_revision_and_supplements",
+      "reason": "核对全段18单元，11项建议均有原文或中文句法依据；恢复女仆、活计、择地参照及意愿/讨好动机。第9项主审用让她看重自己，另同步修正直接隐喻和重复女工标记。"
+    },
+    "36": {
+      "decision": "accept_all",
+      "reason": "感情不可能改变是此刻爱情接受的断言；旧友情无计可施不等于已破裂，次日/节日条件及时间拟人、为新友谊奠基均应恢复。"
+    },
+    "37": {
+      "decision": "accept_all",
+      "reason": "distinguer指辨认出街道，par plaisir为说街名带来的快乐，并非直接写爱慕；主次动机与骑士忠诚的限定可恢复。"
+    },
+    "38": {
+      "decision": "retain",
+      "reason": "父亲不解反复提街名的问话、住处舒适近树林及另有十条同样街道的反驳均完整自然。"
+    },
+    "39": {
+      "decision": "accept_all_with_annotation_supplements",
+      "reason": "结合前文名字如新、无法习惯的语境，en même temps que d’être familier共用cesser结构，现译仍亲密方向相反；另恢复实际奏响/默读及期待好结果。按子agent提示同步某些及姓名注释位置。"
+    },
+    "40": {
+      "decision": "accept_with_wording_revision_and_note",
+      "reason": "去掉未明说的单次/攀附上流限定，恢复folle和Car的推断因果；fort commun主审保留很普通的程度，注释同步说明母亲对斯万夫人的偏见。"
+    },
+    "41": {
+      "decision": "accept_all",
+      "reason": "偶遇为泛指on；rien que无漫不经心之意，aride无困倦动作，买伞为实有过去经历，恢复直接超自然形象。"
+    },
+    "42": {
+      "decision": "retain",
+      "reason": "相互问好的简短问句与叙述标识对应完整，保留。"
+    },
+    "43": {
+      "decision": "accept_all",
+      "reason": "nous指一家，chercher à保留尝试；plus比较限度及不愿认识妻子的担忧原因均应明确。"
+    },
+    "44": {
+      "decision": "retain",
+      "reason": "推论式追问与否定、下句闹翻的复述吻合，保留。"
+    },
+    "45": {
+      "decision": "accept_all",
+      "reason": "attenter à为侵害/破坏，不蕴含已经揭露真相的成功结果；并列两行为更稳妥。"
+    },
+    "46": {
+      "decision": "retain",
+      "reason": "不再邀请与可能招致怪怨的条件/可能性对应en vouloir，语气为推测而非事实，保留。"
+    },
+    "47": {
+      "decision": "retain",
+      "reason": "泛指无义务邀请所有人、反问对方是否邀请及不识其妻三层均译出；口语连贯。"
+    },
+    "48": {
+      "decision": "retain",
+      "reason": "转折强调过去常来贡布雷、用呀表示反驳母亲上句，保留。"
+    },
+    "49": {
+      "decision": "accept_all",
+      "reason": "恢复过去/现在及在巴黎的地点关系，去掉未明说的秘密，末句只让共同回忆引出致意动作，不增一眼认出的因果。"
+    },
+    "50": {
+      "decision": "accept_all",
+      "reason": "同一房屋重复引入并由想象力误转为我，是明确句法问题；分享长处宜改具备；d’un cran应补一等幅度。"
+    },
+    "51": {
+      "decision": "accept_all",
+      "reason": "ne devait pas venir为预告缺席，tâchais指设法行动，删去仿佛的额外不确定性，保留选择路线以接近她的目的。"
+    },
+    "52": {
+      "decision": "retain",
+      "reason": "Qu’est-ce que vous avez对应您怎么了，关切或追问对方状态的意思及礼貌人称均保留。"
+    },
+    "53": {
+      "decision": "accept_with_wording_revision",
+      "reason": "补回与希尔贝特名字相同的魅力及永久阻隔；恢复窗帘之间、目光及两项程度关系，去掉无原文的街头/偶尔限定。主审同时恢复surnaturelle的直接修辞。"
+    },
+    "64": {
+      "decision": "accept_all",
+      "reason": "15项分别恢复材料/帽饰关系、联想而非实物暖意、长反问标点、记忆所维持的平衡、两色火焰、欲求限定、时刻本身曾有魅力、诗境叠映、幻念/事实区分、橡树主语及记忆/眷恋的概念层次。"
+    },
+    "63": {
+      "decision": "accept_with_annotation_revision_and_supplements",
+      "reason": "21项恢复树叶拟喻、树种而非植株数、树木材质、同一建筑两种显露方式、全称否定、枝干/花束复数、光影剪裁、同位关系、季节力量、马车高度和欲望指代、帽高与信仰/存在的逻辑。另同步修辞句法、地点串修饰关系及注释。"
+    },
+    "54": {
+      "decision": "accept_all",
+      "reason": "恢复田庄接在两种树林之后的共同关系、脚步迅速、植物近旁感而非行走、珍贵寄生虫、仅仅的限制、化名现用、获得传授的信念与预先接受的时点，修顺末句并列和接触范围。"
+    },
+    "55": {
+      "decision": "accept_all",
+      "reason": "13项恢复眨眼、王者威仪、亲身经验、整车高度、未实现的往日愿望、口头应允、脱离车队、忍不住议论、反问回敬、同伴共同走过、身旁和时点及头转向她的现代中文表达。"
+    },
+    "56": {
+      "decision": "accept_all",
+      "reason": "记住服饰是日后辨认的打算，point de repère为向知情朋友询问的线索，修订恢复意向和辨认关系。"
+    },
+    "57": {
+      "decision": "retain",
+      "reason": "四短句提示姓名与旧名，口语衔接自然，保留。"
+    },
+    "58": {
+      "decision": "accept_all",
+      "reason": "恢复忧伤眼睛之后未说完的悬置句，不补面熟这一解释性判断。"
+    },
+    "59": {
+      "decision": "retain",
+      "reason": "劝诫别提旧事、婚姻身份与社交地位及仍美貌三层信息、语气均对应，保留。"
+    },
+    "60": {
+      "decision": "accept_all",
+      "reason": "étrange不必有别致的褒义，avec des chinoiseries不限定摆满，回到奇特和有中国式陈设。"
+    },
+    "61": {
+      "decision": "accept_all",
+      "reason": "未听见不能改为未听清，银行家从句修顺；脱帽礼的幅度/时长不等于举臂高度；修正地点状语和固定行当，末句保留不定指来人与反复场景。"
+    },
+    "62": {
+      "decision": "accept_all_and_chapter_term_sync",
+      "reason": "六项恢复人工营造搭配、不能入睡的程度、思想专注而非视觉、窗帘两角与嘴角呼应、繁复多样的限制，以及散布各处、双排七叶树/布景画师/点景人物。树种在本章其余对应处同步校正。"
+    }
+  },
+  "overrides": {
+    "p024:1": {
+      "decision": "reject",
+      "reason": "急促的举止仅突出速度，未必比现译更好地保留brusque与拘谨礼节的对照，现译可保留。"
+    },
+    "p032:2": {
+      "decision": "revise",
+      "after": "然而，我的心灵只要想到她，单凭自身的运转便会充满魔力；而一种心理习惯所形成的心灵褶痕，又以其内在的约束力，使我相对于希尔贝特不可避免地处在一个特殊、独一无二的位置上，哪怕这个位置令人痛苦。这股魔力和这种处境，已开始使这一次冷淡的表示也带上几分小说般的浪漫色彩；",
+      "reason": "语义建议采纳；以逗号容纳让步语、句号分开下一并列判断，避免单侧破折号后紧接分号使层次不清。"
+    },
+    "p034:9": {
+      "decision": "revise",
+      "after": "要让她看重自己",
+      "reason": "faire valoir核心为使自己受到看重；此译比在她眼里抬高自己更自然，亦避免单指自我吹嘘。"
+    },
+    "p040:3": {
+      "decision": "revise",
+      "after": "因为她虽出身很普通，",
+      "reason": "恢复Car因果，同时以很普通保留fort commun的程度，避免寻常过度淡化。"
+    },
+    "p053:5": {
+      "decision": "revise",
+      "after": "斯万那超自然的身影，随时可能在那里突然出现",
+      "reason": "补回inopinément，同时去掉近乎对surnaturelle的弱化，与本章其他直接神化斯万的表述一致。"
+    },
+    "p063:15": {
+      "decision": "revise",
+      "after": "也没有固定在一座⊂供奉爱神的小庙⊃≼🏛️🪶原文作 un petit temple à l'amour，指小型神庙式园林建筑；此处也与爱情的记忆相映。≽里",
+      "annotation_change": true,
+      "reason": "采纳删除重复小庙短语，同时删除无从本段确认的并非真实景点断言，保留中性的建筑与爱情意象说明。"
+    },
+    "p063:21": {
+      "decision": "revise",
+      "after": "为了掩盖我们已丧失了赋予新事物以真实的能力这一事实",
+      "reason": "用这一事实收束已丧失能力的完整命题，使掩盖对象明确对应le manque，不误成能力本身。"
+    },
+    "p054:1": {
+      "decision": "revise",
+      "after": "譬如，一座像⊂弗吉尼亚农场⊃≼🏛️原文 comme une exploitation agricole dans la Virginie，意为具有美国弗吉尼亚地区情调的农场式景观；与岩洞、沼泽等并列，强调布洛涅树林中不同地方风景被人为拼接的效果。≽的田庄，里面栽着红叶树和美洲橡树，紧接在湖边的冷杉林或一片高大的乔木林后面；那乔木林中会忽然现身一个脚步飞快的散步女子，裹着柔软的毛皮，长着野兽般美丽的眼睛",
+      "annotation_change": true,
+      "reason": "采纳景观相接与人物速度修订，同时按本段实际法语纠正注释中并未出现的短引。"
+    }
+  },
+  "supplements": [
+    {
+      "id": "p006:note1",
+      "paragraph": 6,
+      "type": "注释同步修正",
+      "before": "库唐斯圣母大教堂钟楼的俗称，并非“用黄油建造的塔”：一说因石色微黄，一说与斋期捐献食油的旧俗有关，具体由来待考。",
+      "after": "“黄油塔”（tour de beurre）本是鲁昂大教堂一座塔楼的名称；这里由库唐斯地名末尾丰腴、泛黄的音色引出，不宜当作库唐斯钟楼的实地名称。",
+      "source": "Coutances, cathédrale normande, que sa diphtongue finale, grasse et jaunissante, couronne par une tour de beurre",
+      "reason": "独立子agent标待核后，主审核对大阪大学刊载的地名诗学论文及鲁昂大教堂官方平面说明；现有注释将鲁昂塔名误归库唐斯，须纠正以免固化误读。",
+      "sources": [
+        "https://ir.library.osaka-u.ac.jp/repo/ouka/all/69833/gallia_56_071.pdf",
+        "https://cathedrale-rouen.net/patrimoine/visites/plaquette/visitepage3.php"
+      ]
+    },
+    {
+      "id": "p007:note1",
+      "paragraph": 7,
+      "type": "专名及注释同步修正",
+      "before": "⊂圣马可广场⊃≼🏛️Piazza San Marco，威尼斯的主要广场，以圣马可大教堂及其钟楼为地标。此处大照片中戴圆顶硬礼帽的现代小人物，与叙述者从艺术文字里想象出的古代威尼斯人物形成反差。≽",
+      "after": "⊂圣马可⊃≼🏛️原文 Saint-Marc。照片中门廊前戴圆顶硬礼帽的现代小人物，与叙述者从艺术文字里想象出的古代威尼斯人物形成反差。≽",
+      "source": "dans une grande photographie de Saint-Marc ... devant les porches",
+      "reason": "原文只称Saint-Marc，且明确门廊定位；具体照片构图未能独立核实，因此采用原文名称，删除将其限定为Piazza San Marco的扩译。保留现代人物与艺术想象人物的对照说明。"
+    },
+    {
+      "id": "p021:note1",
+      "paragraph": 21,
+      "type": "注释同步修正",
+      "before": "指小名被女孩亲口念出时的心理感受",
+      "after": "指名字被女孩亲口念出时的心理感受",
+      "source": "mon petit nom；votre nom de baptême",
+      "reason": "与本段正文petit nom由小名改名字的决定同步，消除注释中残留的乳名暗示。"
+    },
+    {
+      "id": "p025:note1",
+      "paragraph": 25,
+      "type": "注释同步修正",
+      "before": "这是正统派拥戴的王位觊觎者称号",
+      "after": "这是保王派拥戴的王位觊觎者称号",
+      "source": "Philippe VII；前段comte de Paris、les Orléans",
+      "reason": "核对Larousse的奥尔良家族说明，Philippe VII是巴黎伯爵菲利普的拥护者所用王号；其继承涉及保王阵营合流，用统称保王派避免把人物狭义限定为正统派而与奥尔良背景相混。",
+      "sources": [
+        "https://www.larousse.fr/archives/grande-encyclopedie/page/10001"
+      ]
+    },
+    {
+      "id": "p034:note1",
+      "paragraph": 34,
+      "type": "修辞及注释同步修正",
+      "before": "我吻了吻那颗玛瑙弹珠，在我看来，⊂它仿佛代表了希尔贝特心里最美好、最忠诚、毫不轻浮的那一面⊃≼🧵这只是我的投射，后文矿物的规律即将反驳它≽；",
+      "after": "我吻了吻那颗玛瑙弹珠，⊂它就是女友心中最美好的那一部分，不轻浮而忠贞⊃≼🧵弹珠被写成女友之心的一部分；后文转而指出物之美独立于爱情，不能凭它认定对方爱自己。≽；",
+      "source": "la bille d’agate qui était la meilleure part du cœur de mon amie, la part qui n’était pas frivole, mais fidèle",
+      "reason": "恢复原文直接隐喻，避免改成仿佛代表的象征解释；后文否定的是以物之美证明被爱，注释不宜声称矿物规律反驳隐喻本身。"
+    },
+    {
+      "id": "p034:note2",
+      "paragraph": 34,
+      "type": "注释定位词同步修正",
+      "before": "一位陌生的女工⊂无形的女工⊃",
+      "after": "一位⊂陌生的女工⊃",
+      "source": "une ouvrière inconnue",
+      "reason": "消除两个连续女工称谓，标记落在原文inconnue对应的陌生的女工上；保留已有注释内容。"
+    },
+    {
+      "id": "p039:note1",
+      "paragraph": 39,
+      "type": "注释定位正文同步修正",
+      "before": "⊂仿佛失语症患者忽然认不得一个最常用的词⊃",
+      "after": "⊂仿佛某些失语症患者面对最常用的词也会觉得陌生⊃",
+      "source": "ainsi qu’il arrive à certains aphasiques à l’égard des mots les plus usuels",
+      "reason": "恢复certains限定，避免将比喻泛化为全部失语症患者，也不将名字如新的体验额外坐实为突然认不得；保留原注内容。"
+    },
+    {
+      "id": "p039:note2",
+      "paragraph": 39,
+      "type": "注释位置及措辞同步修正",
+      "before": "我又夸起那位读*《辩论报》*的老太太⊂布拉坦夫人⊃≼🧵即前文在香榭丽舍读报的老妇人，此处首次出现全名；后文母亲将揭穿她的真实身份。≽（我曾向父母暗示，她是一位大使夫人，也许还是一位殿下），继续颂扬她的美貌、她的气派、她的高贵，直到有一天，凭希尔贝特曾提到的姓氏，我说，她大概叫布拉坦夫人。",
+      "after": "我又夸起那位读*《辩论报》*的老太太（我曾向父母暗示，她是一位大使夫人，也许还是一位殿下），继续颂扬她的美貌、她的气派、她的高贵，直到有一天，凭希尔贝特曾提到的姓氏，我说，她大概叫⊂布拉坦夫人⊃≼🧵即前文在香榭丽舍读报的老妇人，此处首次出现姓氏；后文母亲将揭穿她的真实身份。≽。",
+      "source": "la vieille dame qui lisait les Débats ... jusqu’au jour où ... elle devait s’appeler Mme Blatin",
+      "reason": "不在本句开头提前插入尚未交代的姓氏，将同一注释移到句末原文实际出现Mme Blatin之处；法文未给教名，注中全名相应改姓氏。"
+    },
+    {
+      "id": "p040:note1",
+      "paragraph": 40,
+      "type": "注释同步修正",
+      "before": "母亲嘲笑的只是她攀附权贵的虚荣，并非否认她品行端正",
+      "after": "在母亲看来，她虽出身普通，却一向没有品行方面的闲话；正因此，她竟与斯万夫人交往才显得不可思议，流露出母亲对斯万夫人的偏见。",
+      "source": "il faut bien qu’elle soit une espèce de folle ... si elle connaît vraiment Mme Swann. Car si elle était d’un milieu fort commun, au moins il n’y a jamais rien eu que je sache à dire sur elle.",
+      "reason": "原注只归结为攀附权贵，遮蔽Car引出的品行/交游反差及对斯万夫人的偏见；依本段话语逻辑同步改正。"
+    },
+    {
+      "id": "p063:map",
+      "paragraph": 63,
+      "type": "修饰关系及注释定位修正",
+      "before": "⊂阿尔默农维尔、普雷卡特朗、马德里、赛马场、大湖⊃≼🏛️均为布洛涅树林内或其周边的散步、餐饮、游乐与赛马地点；此处只是叙述者眼中的地理索引，不必逐一定位。≽的岸边",
+      "after": "⊂阿尔默农维尔、普雷卡特朗、马德里、赛马场、大湖岸边⊃≼🏛️均为布洛涅树林内或其周边的散步、餐饮、游乐与赛马地点；此处只是叙述者眼中的地理索引，不必逐一定位。≽",
+      "source": "Armenonville, le Pré Catelan, Madrid, le Champ de courses, les bords du Lac",
+      "reason": "只有末项是大湖岸边，不能把的岸边挂到整串地点后。保留原注内容，岸边随末项进入同一定位标记。"
+    },
+    {
+      "id": "p063:dryad",
+      "paragraph": 63,
+      "type": "语句不通顺",
+      "before": "它们唤起我对",
+      "after": "它们在我心中唤起",
+      "source": "ils m’évoquaient la dryade, la belle mondaine rapide et colorée",
+      "reason": "与采纳的树精的形象衔接，避免唤起我对树精的形象这一不通搭配。"
+    },
+    {
+      "id": "p063:spelling",
+      "paragraph": 63,
+      "type": "注释引文拼写修正",
+      "before": "chiffrons liberty",
+      "after": "chiffons liberty",
+      "source": "des chiffons liberty",
+      "reason": "按本段法文纠正注释中多出的r。"
+    },
+    {
+      "id": "p054:names",
+      "paragraph": 54,
+      "type": "注释同步修正",
+      "before": "既是金合欢的名字，也是那些美人的名字",
+      "after": "先以金合欢之名引出女性化、慵懒温柔的联想，再类比舞会宾客的名字。",
+      "source": "leur nom féminin, désœuvré et doux ... comme ces valses ... le nom des belles invitées",
+      "reason": "区分金合欢之名及随后以宾客姓名作比，不把两者断为同一语法实指。"
+    },
+    {
+      "id": "p054:garden",
+      "paragraph": 54,
+      "type": "注释同步修正",
+      "before": "原文 jardin des femmes：把女人比作园中被观赏的珍奇花木，语带戏谑，也隐含凝视的目光，并非单纯的赞美。",
+      "after": "原文 Jardin des femmes：承接动物园的比喻，把女人写成园中被观看的珍奇生灵，也使她们与花木彼此映照，带有戏谑与凝视的意味。",
+      "source": "comme ces jardins zoologiques ... une promeneuse ... les beaux yeux d’une bête ... le Jardin des femmes",
+      "reason": "兼顾动物园、毛皮和兽眼的近邻比喻，不将此处仅解释成花木类比。"
+    },
+    {
+      "id": "p055:wing",
+      "paragraph": 55,
+      "type": "具体意象及注释定位修正",
+      "before": "一片⊂虹雉翅羽⊃",
+      "after": "一只⊂虹雉的翅翼⊃",
+      "source": "une aile de lophophore",
+      "reason": "aile是鸟翼而非单根羽毛，明确量词与定位词，原注内容不变。"
+    },
+    {
+      "id": "p007:tree",
+      "paragraph": 7,
+      "type": "树种及注释同步修正",
+      "before": "林荫道上的栗树",
+      "after": "林荫道上的七叶树",
+      "source": "marronniers",
+      "reason": "与第62段树种校正统一：法文marronnier在此为七叶树类，非食用栗属；同步本章对应正文与注释。",
+      "sources": [
+        "https://www.snhf.org/fiche-plante/marronnier-dinde/",
+        "https://www.iplant.cn/info/Aesculus%20hippocastanum?t=z"
+      ]
+    },
+    {
+      "id": "p063:tree-leaf",
+      "paragraph": 63,
+      "type": "树种及注释同步修正",
+      "before": "阳光将栗树叶映得厚如砖块",
+      "after": "阳光将七叶树叶映得厚如砖块",
+      "source": "marronniers",
+      "reason": "与第62段树种校正统一：法文marronnier在此为七叶树类，非食用栗属；同步本章对应正文与注释。",
+      "sources": [
+        "https://www.snhf.org/fiche-plante/marronnier-dinde/",
+        "https://www.iplant.cn/info/Aesculus%20hippocastanum?t=z"
+      ]
+    },
+    {
+      "id": "p063:tree-note",
+      "paragraph": 63,
+      "type": "树种及注释同步修正",
+      "before": "此处形容栗树叶在阳光下的色块与纹样",
+      "after": "此处形容七叶树叶在阳光下的色块与纹样",
+      "source": "marronniers",
+      "reason": "与第62段树种校正统一：法文marronnier在此为七叶树类，非食用栗属；同步本章对应正文与注释。",
+      "sources": [
+        "https://www.snhf.org/fiche-plante/marronnier-dinde/",
+        "https://www.iplant.cn/info/Aesculus%20hippocastanum?t=z"
+      ]
+    },
+    {
+      "id": "p063:tree-trianon",
+      "paragraph": 63,
+      "type": "树种及注释同步修正",
+      "before": "特里亚农的栗树与丁香",
+      "after": "特里亚农的七叶树与丁香",
+      "source": "marronniers",
+      "reason": "与第62段树种校正统一：法文marronnier在此为七叶树类，非食用栗属；同步本章对应正文与注释。",
+      "sources": [
+        "https://www.snhf.org/fiche-plante/marronnier-dinde/",
+        "https://www.iplant.cn/info/Aesculus%20hippocastanum?t=z"
+      ]
+    }
+  ]
+}
