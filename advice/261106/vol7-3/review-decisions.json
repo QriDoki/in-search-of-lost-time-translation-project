@@ -460,5 +460,107 @@
   "decision": "adopt-optional",
   "old": "有一天，您的朋友吉赛尔曾并着双脚跳过一把椅子",
   "reason": "主审采纳：「有一天」已标过去，「曾」重叠且书面腔，对白宜删"
+ },
+ {
+  "paragraph": 53,
+  "decision": "adopt-optional",
+  "old": "渐隐于黑发的第一道波浪里",
+  "reason": "主审采纳：beaux cheveux noirs 的 beaux 漏译，「乌黑秀发」补足"
+ },
+ {
+  "paragraph": 53,
+  "decision": "adopt-optional",
+  "old": "不知道自己为什么落空",
+  "reason": "主审采纳：leur erreur 嘴唇自身的错误，非「为何落空」"
+ },
+ {
+  "paragraph": 53,
+  "decision": "adopt-optional",
+  "old": "那脖子凑近看去，仿佛被一面放大镜放大，近看皮肤粗粝的纹理使颈部显得结实，改变了整张脸的印象。",
+  "reason": "主审采纳：comme à la loupe 隔着放大镜看；去「凑近/近看」重复；caractère 特征"
+ },
+ {
+  "paragraph": 53,
+  "decision": "adopt-optional",
+  "old": "显然比海胆乃至鲸鱼都要复杂得多的造物",
+  "reason": "主审采纳：moins rudimentaire 仅表更复杂，「得多」为增译程度"
+ },
+ {
+  "paragraph": 54,
+  "decision": "adopt-optional",
+  "old": "让同样的几座纪念建筑像一支部队那样轮番变换阵形",
+  "reason": "主审采纳：monuments 泛指著名建筑，「纪念建筑」窄化；「几座」无据"
+ },
+ {
+  "paragraph": 54,
+  "decision": "adopt-optional",
+  "old": "显出它同样可以拥有的另外一百种面貌",
+  "reason": "主审采纳：qu'elle est 本体上的「是」，非潜能上的「可以拥有」"
+ },
+ {
+  "paragraph": 54,
+  "decision": "adopt-optional",
+  "old": "因为就接吻而言，我们鼻孔和眼睛的位置实在不便于接吻，正如嘴唇的构造也同样不合用",
+  "reason": "主审采纳：两处「接吻」复沓，收紧"
+ },
+ {
+  "paragraph": 55,
+  "decision": "adopt-optional",
+  "old": "她随时可以躲开我粗暴的举动",
+  "reason": "主审采纳：attaque 进攻，与「支配快感」构成攻防比喻"
+ },
+ {
+  "paragraph": 55,
+  "decision": "adopt-optional",
+  "old": "诚然，与从前的神色相比，今日我嘴唇凑近时她脸上浮起的那种迷醉神情，也只差在线条上极细微的偏移；可就是在这点偏移里，容得下全部的距离：一个男人给伤者最后一击和伸手救他之间的距离，一幅画像的崇高与可怖之间的距离。",
+  "reason": "主审采纳：法文整句为括号旁白插句，与本段第一处括号插句一致，保留原作层次"
+ },
+ {
+  "paragraph": 55,
+  "decision": "adopt-optional",
+  "old": "——最近这几个月里，在巴黎或巴尔贝克，某个我不知名的人也许无意间替我铺了路——",
+  "reason": "主审采纳：un de ces mois derniers 最近数月中不定指的某一个月，非持续数月"
+ },
+ {
+  "paragraph": 56,
+  "decision": "adopt-optional",
+  "old": "她曾怀着厌恶拒绝了我的爱",
+  "reason": "主审采纳：horreur 惊骇，较「厌恶」重，与下文 répulsion 区分"
+ },
+ {
+  "paragraph": 56,
+  "decision": "adopt-optional",
+  "old": "一点被冒犯的羞怯",
+  "reason": "主审采纳：pudeur 羞耻心/羞涩，「羞怯」偏性格害羞"
+ },
+ {
+  "paragraph": 57,
+  "decision": "adopt-optional",
+  "old": "阿尔贝蒂娜就摆出了一副我从未在她脸上见过的神情",
+  "reason": "主审采纳：prendre un air 神情自然浮现，「摆出」带刻意表演意味"
+ },
+ {
+  "paragraph": 57,
+  "decision": "adopt-optional",
+  "old": "使她那张变得年轻了的面孔又显出幼年一般的纯真",
+  "reason": "主审采纳：定语嵌「了」生硬，去掉更顺"
+ },
+ {
+  "paragraph": 58,
+  "decision": "adopt-optional",
+  "old": "——那根本不要紧，你看，我时间多的是。",
+  "reason": "主审采纳：补句首 Mais 反驳语气，与 p031 口径一致"
+ },
+ {
+  "paragraph": 59,
+  "decision": "adopt-optional",
+  "old": "她似乎觉得才同我亲热过便立刻起身未免失礼",
+  "reason": "主审采纳：ce qu'elle venait de faire 刻意委婉含混，正文保留含蓄，实情由译注承载"
+ },
+ {
+  "paragraph": 60,
+  "decision": "adopt-optional",
+  "old": "自己说话就非得带着哀戚的口吻",
+  "reason": "主审采纳：apitoyé 怜悯/悲悯（对他人的同情），「哀戚」偏自身悲伤"
  }
 ]
