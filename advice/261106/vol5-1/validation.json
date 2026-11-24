@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "review_status": "complete",
+  "reviewed_paragraphs": 239,
+  "total_paragraphs": 239,
+  "next_paragraph": null,
+  "applied_changes": 785,
+  "changed_paragraphs": 214,
+  "retained_paragraphs": 25,
+  "rejected_original_suggestions": 2,
+  "base_commit": "ee8577781ef9cd1af33c910c4d8d2ee8f86dc382",
+  "source_sha256": "738886d029be4e6dfc3aa51bcf93f49c43c1a2a9a701ceacd037451bc42c2435",
+  "dev_sha256": "8f75267da04a1a3454687a2481e643539199941e3482a288f277c73b3d29d443",
+  "checks": {
+    "independent_agents_and_full_reports": 239,
+    "unique_non_overlapping_original_changes": true,
+    "all_proposals_have_decisions": true,
+    "exact_replay_matches_dev": true,
+    "source_unchanged": true,
+    "paragraph_count": 239,
+    "annotation_structure": true,
+    "new_quote_imbalances": [],
+    "index_rows_and_local_links": true,
+    "intentional_markdown_hard_breaks": 75,
+    "unexpected_trailing_whitespace": 0
+  },
+  "commands": [
+    {
+      "command": "python3 advice/261106/vol5-1/validate-review.py",
+      "exit_code": 0
+    },
+    {
+      "command": "POLISH_VERSION=dev npm run build",
+      "exit_code": 0,
+      "log": "build-validation.log",
+      "existing_notices": [
+        "既有其他章节标题提示",
+        "既有包体大于500kB提示"
+      ]
+    }
+  ],
+  "remaining_uncertainties": "见unresolved.json，保留合理多义及无可靠异文支持的底本疑点，不臆改源文。"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 144,
+  "changes": [
+    {
+      "old": "从生命中共同的东西",
+      "new": "从生活中寻常的素材",
+      "reason": "des éléments communs de la vie 指从日常生活中提取的普通素材，与后文画室、艺术小圈子的生活及 qui les dépasse 相对；不是生命之间共有的成分。改译消除“生命中共同的东西”的指向不明。"
+    },
+    {
+      "old": "整整一座不可企及的世界的岬角",
+      "new": "那不可企及的世界的一整座岬角",
+      "reason": "Tout un promontoire du monde inaccessible 中 inaccessible 修饰 monde，tout un 修饰 promontoire；现译“整整一座不可企及的世界的岬角”容易把“一座”连到“世界”，调整属格层次，保留岬角隐喻。"
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": 105,
+  "changes": [
+    {
+      "old": "我打算在两三天之后去他的画室",
+      "new": "我打算在接下来的两三天内去他的画室",
+      "reason": "dans les deux ou trois jours suivants 表示随后两三天内，不是两三天之后。"
+    },
+    {
+      "old": "那少女算不上什么，却毕竟与我曾在行列中注意到的那一个略有不同。",
+      "new": "那个少女与我曾在行列中注意到的那一个差别不大，却毕竟还是略有不同。",
+      "reason": "qui n’était guère 与 qui était tout de même un peu 共用句尾 différente de…：差别不大但仍有一点不同；n’était guère 不能独立解作“算不上什么”。"
+    }
+  ],
+  "notes": []
+}

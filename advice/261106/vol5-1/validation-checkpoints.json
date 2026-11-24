@@ -1,0 +1,39 @@
+[
+  {
+    "client_date": "2026-11-17",
+    "reviewed_paragraphs": 100,
+    "applied_changes": 331,
+    "checks": [
+      "100个已审段落各有独立agent及详细报告",
+      "修改建议段内唯一且不重叠",
+      "331项采纳修改精确重放与dev一致",
+      "法文原文哈希未变",
+      "git diff --check通过"
+    ]
+  },
+  {
+    "client_date": "2026-11-17",
+    "reviewed_paragraphs": 150,
+    "applied_changes": 480,
+    "checks": [
+      "150个已审段落独立agent映射不重复",
+      "helper apply两次幂等重建、精确重放与dev一致",
+      "原文哈希未变",
+      "239段结构与注释锚点结构合法",
+      "git diff --check通过"
+    ]
+  },
+  {
+    "client_date": "2026-11-17",
+    "reviewed_paragraphs": 150,
+    "applied_changes": 480,
+    "checks": [
+      "各已审段有独立agent和完整报告",
+      "原始修改建议唯一且不重叠",
+      "采纳修改精确重放与dev一致",
+      "原文哈希不变",
+      "注释结构合法"
+    ],
+    "quote_flags": []
+  }
+]

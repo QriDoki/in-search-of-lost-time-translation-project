@@ -1,0 +1,26 @@
+{
+  "id": 78,
+  "changes": [
+    {
+      "old": "甚至忘了自己还有非活下去不可的理由",
+      "new": "忘了非活下去不可",
+      "reason": "la nécessité de ne pas mourir 是不死、活下去的必要性，与害怕生病、工作的重要性并列；原文没有“甚至”的递进，也没有另一个“理由”名词。删去两项增译，恢复三项排比。"
+    },
+    {
+      "old": "某支战曲声",
+      "new": "某支军队进行曲声",
+      "reason": "quelque marche guerrière 指一支带军事色彩的进行曲；marche 的行进节奏正是后文步态、军礼和将军比喻的依据。“战曲”遗漏曲式及行进感。"
+    },
+    {
+      "old": "在两排已经摆好餐具的桌子之间向前走",
+      "new": "在一排排已经摆好餐具的桌子之间向前走",
+      "reason": "les rangées 是不定数量的复数，没有“两排”的限定；改为“一排排”避免增添餐厅布局。"
+    },
+    {
+      "old": "仿佛乐队向我们致以军礼，替我们奏响一曲并非凭本事赢得的凯歌",
+      "new": "仿佛乐队向我们致以军礼，赐予我们这份本不配享有的凯旋荣耀",
+      "reason": "qui nous décernait ses honneurs militaires et ce triomphe immérité 中 décerner 同时支配 honneurs 和 triomphe，给他们的是军礼与不应得的凯旋荣耀；现译把 triomphe 另改成“一曲凯歌”，又把 immérité 具体化为缺乏“本事”，偏离无功而受礼的自嘲。"
+    }
+  ],
+  "notes": []
+}

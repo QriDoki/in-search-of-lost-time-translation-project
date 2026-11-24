@@ -1,0 +1,21 @@
+{
+  "id": 226,
+  "changes": [
+    {
+      "old": "使脸颊显出另一种颜色，但那质地却与眼睛无异",
+      "new": "使脸颊显得颜色虽与眼睛不同，质地却与眼睛无异",
+      "reason": "d’une autre couleur, mais non d’une autre matière que les yeux：句尾比较项 les yeux 同时约束颜色与质地；现译“另一种颜色”缺少比较对象，易误读为脸颊自身变色。"
+    },
+    {
+      "old": "随我为同一个回忆所置入的信念之力、随我对它评价方式的不同而定",
+      "new": "随面对同一个回忆时介入的信念有多强、随我对它评价方式的不同而定",
+      "reason": "selon la force de la croyance interposée pour un même souvenir 指同一回忆中介入其间的信念及其强度；“我……所置入”增加主动操控，而下一句明说信念常在人不知不觉中充满心灵。"
+    },
+    {
+      "old": "始终给某种信念起一个名字：这信念在某一天我见到阿尔贝蒂娜时统治着我的心灵，造成当时的氛围、人与物的面貌，就像海的面貌取决于那些几乎看不见的云",
+      "new": "每次都说出那种信念的名字：在我见到阿尔贝蒂娜的某一天，正是这信念统治着我的心灵，构成其中的氛围；人的面貌如同海的面貌，取决于那些几乎看不见的云",
+      "reason": "donner toujours son nom à la croyance 承接逐日说明天气，意在每次指明当日信念，而非只给不定的“某种信念”起名。en faisant l’atmosphère 指信念构成心灵氛围；其后 l’aspect des êtres, comme celui des mers, dépendant de ces nuées 是独立分词结构，现译将“面貌”并入造成的宾语，又加“物”，削弱“信念—云”的类比。"
+    }
+  ],
+  "notes": []
+}

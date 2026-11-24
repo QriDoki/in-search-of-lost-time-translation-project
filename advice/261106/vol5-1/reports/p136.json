@@ -1,0 +1,21 @@
+{
+  "id": 136,
+  "changes": [
+    {
+      "old": "随着我进入划分我情感的那两大方式中的这一种或那一种",
+      "new": "随着我进入交替支配我情感的两大状态中的这一种或那一种",
+      "reason": "les deux grands modes qui se partageaient ma sensibilité 指两种分据、支配感受能力的状态；“划分我情感的方式”易误读为划分类别的方法。下文 cette alternance de deux états 也明确回指这两种状态。"
+    },
+    {
+      "old": "取代那些或已褪色、或还新鲜的回忆",
+      "new": "取代那些已经褪色的新近回忆",
+      "reason": "effacés et récents 共同修饰 souvenirs，原文并未以 ou 分列两类回忆；“新近”说时间，“褪色”说夜晚到来后记忆印象的消退，二者可以并存。现译“或……或……”改变逻辑关系。"
+    },
+    {
+      "old": "晚会也就失去了魅力",
+      "new": "晚会也就减了几分魅力",
+      "reason": "perdrait de son charme 是丧失一部分魅力；“失去了魅力”容易读成全然无魅力，宜保留原文分量。"
+    }
+  ],
+  "notes": []
+}

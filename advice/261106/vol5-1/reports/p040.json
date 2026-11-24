@@ -1,0 +1,16 @@
+{
+  "id": 40,
+  "changes": [
+    {
+      "old": "给情妇寄信和电报",
+      "new": "给情妇寄信、发电报",
+      "reason": "envoyer à sa maîtresse des lettres et des dépêches 统摄信与电报；中文通常说“寄信、发电报”，不说“寄电报”。"
+    },
+    {
+      "old": "一面又远远地找借口跟他闹翻，我总能从他的脸色突然变白看出又出了事",
+      "new": "一面又设法隔着这么远跟他闹别扭，我总能从他那副失魂落魄的神情看出又出了事",
+      "reason": "trouvait, à distance, le moyen d’avoir une brouille 是相隔两地仍能设法与他闹别扭，未说“找借口”；figure décomposée 指强烈情绪使面容失常，并非特指脸色发白，更没有“突然”的时间信息。修订保留距离反差与叙述者由外貌得知争执的关系。"
+    }
+  ],
+  "notes": []
+}

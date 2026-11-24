@@ -1,0 +1,16 @@
+{
+  "id": 47,
+  "changes": [
+    {
+      "old": "在正式调回那里之前，眼下到傍晚为止，那边总还需要他。",
+      "new": "在他正式回到那里之前，从现在起，那边每天都要他待到下午快结束的时候。",
+      "reason": "en attendant qu’il y rentrât d’une manière définitive 是等待他正式回去，不明确表示军事调动；maintenant 与 toujours 表示此后持续如此，jusqu’à la fin de l’après-midi 是每天需留到下午将尽，而不是笼统的“眼下到傍晚”。"
+    },
+    {
+      "old": "我正处在青春年华的某个阶段：心里还没有明确的意中人，于是到处——就像一个热恋者寻找他所爱的女人那样——我们处处渴求美、寻找美，也处处看见美。",
+      "new": "我正处在青春年华中那种没有特定恋情、心无所系的时期；在这样的时期，人到处都——像热恋者渴求、寻找、看见自己心爱的女人一样——渴求美、寻找美、看见美。",
+      "reason": "dépourvues d’un amour particulier 与 vacantes 共同修饰 périodes，指无特定恋情、感情尚未占满的阶段；现译遗漏 vacantes，并用“于是”代替关系副词 où。comme un amoureux la femme dont il est épris 的省略比喻涵盖 désire、cherche、voit 三个动作，现译仅保留寻找。修订同时理顺从“我”到泛指 on 的过渡及“到处/处处”的重复。"
+    }
+  ],
+  "notes": []
+}

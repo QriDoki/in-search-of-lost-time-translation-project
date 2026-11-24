@@ -1,0 +1,15 @@
+{
+  "id": 186,
+  "changes": [
+    {
+      "old": "≼📚勒孔特·德·李勒的诗行（原诗题名与出处待书目核实）；“喙首战船”指古代船首装撞角（喙）的战船，诗句次序保持原作的格律顺序。≽",
+      "new": "≼📚🔤引自勒孔特·德·李勒诗剧《复仇女神》（Les Érinnyes）第一部《克吕泰涅斯特拉》（Klytaimnestra）开场的台词，收入《悲剧诗集》（Poèmes tragiques）。“喙首战船”指船首装有撞角的古代战船。≽",
+      "reason": "已据勒孔特·德·李勒《复仇女神》第一部Klytaimnestra开场Talthybios台词核实诗句出处，消除待核占位；原注称中文“诗句次序保持原作的格律顺序”不实，p187–188已为中文语序重排宾语和处所，删除该句。保留撞角释义，并将文学出处及词义说明分别标为📚🔤。"
+    }
+  ],
+  "notes": [
+    "正文保留：Ils先行、les rois后置复指，现译“他们走了，那些……君王”保留该停顿；des nefs éperonnées指统率装有撞角之战船的君王，“喙首战船的君王”可作诗性领属表达。",
+    "已合读p186–188：Emmenant的宾语Les hommes chevelus…已在中文p187呈现，sur la mer tempétueuse在p188呈现，无单行漏译。",
+    "原诗转录本写Entraînant，普鲁斯特本段写Emmenant，属引文措辞差异，审校按普鲁斯特底本，不改源文，也不把这一差异误作译文错误。出处：https://fr.wikisource.org/wiki/Po%C3%A8mes_tragiques/Les_%C3%89rinnyes/Klytaimnestra （开场Talthybios台词）。"
+  ]
+}

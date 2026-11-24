@@ -1,0 +1,46 @@
+{
+  "id": 67,
+  "changes": [
+    {
+      "old": "凡是能与这群姑娘沾上边儿的事物，都成了叫我动情、继而遐想的由头",
+      "new": "凡是能与这一群人沾上边儿的事物，都成了令人动情、继而遐想的由头",
+      "reason": "Quand le désir…为泛论，elle回指petite tribu humaine；原译突然收窄为姑娘并将普遍论断改成第一人称，宜恢复一般表述。"
+    },
+    {
+      "old": "一些消费便宜的小城镇，家具商的儿子就是那里的衣着风度出众之人",
+      "new": "在一些消费便宜的偏僻小地方，家具商的儿子就是那里的风雅之王",
+      "reason": "petits trous为带轻慢口吻的偏僻小地方；prince des élégances不仅说衣着出众，还保留与随后威尔士亲王、宫廷呼应的王者比喻。"
+    },
+    {
+      "old": "那时它的字形我还没分辨清楚，因而还拿不准",
+      "new": "那时我还没听清这个姓的具体形式，因而还拿不准",
+      "reason": "sur la plage…avait résonné及forme que j’avais mal distinguée均立足听觉记忆；并非看过文字但字形不清。"
+    },
+    {
+      "old": "我们醒来时、昏厥后重新找到的第一个词",
+      "new": "我们醒来时或昏厥后恢复意识时最先想起的词",
+      "reason": "soit…soit…为两种情形；retrouvions指恢复意识后最先重新浮现于心，并非昏厥中或仅时间上的昏厥后。"
+    },
+    {
+      "old": "而且要经由她认为比自己高的人去认识",
+      "new": "而且要由他们认为地位比自家高的人来引见",
+      "reason": "elle、elle-même在此回指la famille Simonet，而非小西蒙内个人；通过这样的引见免受全家的轻视，需明示复数家庭指代。"
+    },
+    {
+      "old": "好让她不至于把我看得低贱",
+      "new": "好让这家人不至于瞧不起我",
+      "reason": "pour qu’elle…回指la famille Simonet；明确指代并以自然中文表达avoir une idée dédaigneuse de moi。"
+    },
+    {
+      "old": "每当这些如此不同的女人的形象进入我们心中",
+      "new": "每当这些与我们如此不同的女人的形象进入我们心中",
+      "reason": "si différentes与后文étrangères、pareil à nous及异物消化比喻相连，重点是女人与主体的差异，原译容易被读成女人彼此不同。"
+    },
+    {
+      "old": "身体容不得异物侵入自己的怀抱",
+      "new": "身体容不得异物侵入体内",
+      "reason": "organisme physique与dans son sein所述是身体内部，服务于digérer、assimiler的生理比喻；怀抱误导为体外拥抱。"
+    }
+  ],
+  "notes": []
+}
