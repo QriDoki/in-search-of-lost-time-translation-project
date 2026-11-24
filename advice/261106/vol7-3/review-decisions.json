@@ -388,5 +388,77 @@
   "decision": "adopt-optional",
   "old": "照这样下去，我怕自己会忍不住吻您。",
   "reason": "主审采纳：补 nous 主语「我们要是」，两人共处所指明晰"
+ },
+ {
+  "paragraph": 41,
+  "decision": "adopt-optional",
+  "old": "那可真是天大的不幸呢",
+  "reason": "主审采纳：「就…了」显性呼应 Ce serait 条件式，保留「呢」的调侃尾音"
+ },
+ {
+  "paragraph": 42,
+  "decision": "adopt-optional",
+  "old": "因为阿尔贝蒂娜说话的声调那么饱满、柔软，仿佛带着触感",
+  "reason": "主审采纳：charnelle 肉感的，「饱满」偏离；删解释性增译「仿佛带着触感」"
+ },
+ {
+  "paragraph": 42,
+  "decision": "adopt-optional",
+  "old": "最初以为可信的",
+  "reason": "主审采纳：probable 很可能/多半，非「可信」"
+ },
+ {
+  "paragraph": 42,
+  "decision": "adopt-optional",
+  "old": "人的身体也不过是与她的肉身相贴",
+  "reason": "主审采纳：seul 只有身体参与，与精神欲望沉睡的对照是全句支点，「也不过是」弱化"
+ },
+ {
+  "paragraph": 42,
+  "decision": "adopt-optional",
+  "old": "先递给你一件光学器具，随后又换了一件",
+  "reason": "主审采纳：prêter 借给，人生出借光学器具的比喻与立体镜呼应"
+ },
+ {
+  "paragraph": 43,
+  "decision": "adopt-optional",
+  "old": "身上还萦绕着一整串海滨的印象",
+  "reason": "主审采纳：tenait, liées autour d'elle 系绑意象，「系着」较「萦绕」贴近"
+ },
+ {
+  "paragraph": 44,
+  "decision": "reject-optional",
+  "old": "我得让您给我开一张",
+  "reason": "保留现译：使役分句与下文「非得我签字吗」「再领一张」的戏谑衔接自然，属语用许可的显化，注释已点明"
+ },
+ {
+  "paragraph": 46,
+  "decision": "adopt-optional",
+  "old": "以后还能再领一张吗？",
+  "reason": "主审采纳：补 tout de même 让步语气「照样」"
+ },
+ {
+  "paragraph": 48,
+  "decision": "adopt-optional",
+  "old": "跟我说说，还有一句话：",
+  "reason": "主审采纳：encore un mot 习语「另有一问」，「还有一件事」更自然"
+ },
+ {
+  "paragraph": 48,
+  "decision": "adopt-optional",
+  "old": "既凌厉又狡黠的目光",
+  "reason": "主审采纳：dur 冷硬无情，「凌厉」偏锋锐，与 rusé 并列的冷眼语义略偏"
+ },
+ {
+  "paragraph": 48,
+  "decision": "adopt-optional",
+  "old": "您能不能告诉我，那种时候您在想什么？",
+  "reason": "主审采纳：否定疑问句表委婉执意的催问，保留否定式更传神"
+ },
+ {
+  "paragraph": 50,
+  "decision": "adopt-optional",
+  "old": "有一天，您的朋友吉赛尔曾并着双脚跳过一把椅子",
+  "reason": "主审采纳：「有一天」已标过去，「曾」重叠且书面腔，对白宜删"
  }
 ]
