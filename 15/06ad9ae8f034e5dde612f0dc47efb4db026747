@@ -1,0 +1,23 @@
+advice/261106/vol8-1/paragraphs/p066.md
+  s_24039074b1c965::t_37822d86937416 1-19
+polish/dev/chapters/polished-vol8-1.md
+  s_24039074b1c965::t_96bd9dd29a627d 157,159,161,163,165,167,169,171,173,175,177,179
+  s_24039074b1c965::t_444d0b22b8627d 181,183,185,187,189,191,193,195,197,199,201,203
+  s_24039074b1c965::t_27220e3a3ad2a6 133,135,137,139,141,143,145,147,149,151,153,155
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "1506ad9ae8f034e5dde612f0dc47efb4db026747",
+  "prompts": {},
+  "sessions": {
+    "s_24039074b1c965": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20c48-82b6-7dc3-a2bf-431387530ba6",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
