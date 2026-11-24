@@ -1,0 +1,30 @@
+{
+ "id": 75,
+ "edits": [
+  {
+   "old": "据说公爵夫妇已经分居了",
+   "new": "据说盖尔芒特公爵夫妇已经分居了",
+   "reason": "法文明确为 entre le duc et la duchesse de Guermantes，现译漏掉专名限定语「盖尔芒特」，消息首次落地时指代留有不必要的含糊",
+   "type": "漏译"
+  },
+  {
+   "old": "我整日都在同那种决意舍弃的痴迷作最后道别",
+   "new": "我整日都在向那种决意舍弃的病作最后道别",
+   "reason": "主审采纳：ce mal 回指 mal imaginaire，与催眠师/医生意象同属「病」链；「向…道别」更自然",
+   "type": "错译"
+  },
+  {
+   "old": "把你唤回责任感和现实",
+   "new": "把你唤回到责任与现实之中",
+   "reason": "主审采纳：rappeler au sentiment du devoir et de la réalité 唤回到责任与现实之中",
+   "type": "中文习惯"
+  },
+  {
+   "old": "你已经叫全家人当笑话谈了",
+   "new": "你已经成了全家人的笑柄",
+   "reason": "主审采纳：la fable de la maison 全家的笑柄，结构更顺",
+   "type": "中文习惯"
+  }
+ ],
+ "optional": []
+}
