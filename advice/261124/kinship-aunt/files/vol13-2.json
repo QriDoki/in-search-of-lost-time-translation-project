@@ -1,0 +1,13 @@
+{
+  "chapter": "vol13-2",
+  "file": "polish/dev/chapters/polished-vol13-2.md",
+  "edits": [],
+  "uncertain": [
+    {
+      "occurrence": 1,
+      "old": "他因为姑母维尔迪兰家那些信徒衣着难看",
+      "issue": "「姑母」所指为维尔迪兰夫人（奥克塔夫的长辈），句法与原文 « des fidèles de sa tante Verdurin » 一致（姑母为维尔迪兰夫人的同位语，非语法误析）。但奥克塔夫与维尔迪兰家的血缘方向全书未点明：vol5 仅云 « un peu parent... des Verdurin »（远亲，未定侧）；vol10 « M. Verdurin... son neveu » 把侄子归于维尔迪兰先生（现译『维尔迪兰先生的侄子』）；本章又作 « neveu des Verdurin » 与 « son neveu »（维尔迪兰夫人的侄子）。两种可能：(a) 血缘在夫人一侧，她为奥克塔夫父系姑母或母系姨母，现译『姑母』或可成立；(b) 血缘在先生一侧（vol10 倾向），则夫人为姻亲长辈（伯母/叔母/舅母），『姑母』误。tante 无父系/母系/姻亲标记，无法确证，不强行改。非盖尔芒特公爵夫人奥丽阿娜，不涉核心姑母→舅母规则。",
+      "french": "« de sa crainte de monter dans le « tram » avec des fidèles de sa tante Verdurin à cause de leur vilain habillement »"
+    }
+  ]
+}

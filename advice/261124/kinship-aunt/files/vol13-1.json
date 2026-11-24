@@ -1,0 +1,19 @@
+{
+  "chapter": "vol13-1",
+  "file": "polish/dev/chapters/polished-vol13-1.md",
+  "edits": [
+    {
+      "old": "我姑母会气冲冲地骂他",
+      "new": "我舅母会气冲冲地骂他",
+      "reason": "说话人为圣卢，对盖尔芒特公爵夫人的跟班出主意；ma tante 指该跟班的女主人盖尔芒特公爵夫人奥丽阿娜。奥丽阿娜是圣卢舅父（盖尔芒特公爵，圣卢之母马桑特夫人的亲兄弟）之妻，即圣卢舅母，非姑母。",
+      "occurrence": 5
+    },
+    {
+      "old": "我会对我姑母说",
+      "new": "我会对我舅母说",
+      "reason": "同段圣卢之言 je dirai à ma tante；ma tante 仍指盖尔芒特公爵夫人奥丽阿娜（圣卢舅父公爵之妻），应作舅母。",
+      "occurrence": 6
+    }
+  ],
+  "uncertain": []
+}

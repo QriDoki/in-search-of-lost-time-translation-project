@@ -1,0 +1,25 @@
+{
+  "chapter": "vol5-1",
+  "file": "polish/dev/chapters/polished-vol5-1.md",
+  "edits": [],
+  "uncertain": [
+    {
+      "occurrence": 2,
+      "old": "这一切始于圣卢的一位姑母家中的某个晚上",
+      "issue": "法文仅作 « une tante de Saint-Loup »，未点名是哪位姑母。若指维尔巴里西斯侯爵夫人（圣卢姑外祖母辈）应保留「姑母」；若指盖尔芒特公爵夫人奥丽阿娜（圣卢舅母）应改「舅母」。本章及跨章交叉引用均无法定名，无法确证。",
+      "french": "« avait commencé un soir chez une tante de Saint-Loup, lequel avait obtenu d'elle que son amie viendrait pour de nombreux invités dire des fragments d'une pièce symboliste »"
+    },
+    {
+      "occurrence": 3,
+      "old": "圣卢求得姑母同意",
+      "issue": "与 [2] 同一位未具名姑母（d'elle 回指 une tante de Saint-Loup）。所指无法确证（维尔巴里西斯→保留 / 公爵夫人→改舅母），与 [2] 共进退。",
+      "french": "« lequel avait obtenu d'elle que son amie viendrait … dire des fragments d'une pièce symboliste »"
+    },
+    {
+      "occurrence": 4,
+      "old": "第二天，圣卢的姑母遭到众口一词的责备",
+      "issue": "与 [2][3] 同一位未具名姑母（朗诵会女主人）。« un duc bien connu » 为不定指，略倾向女主人非公爵夫人（否则最自然者为其夫盖尔芒特公爵），但非确证；无法定名，标 UNCERTAIN。",
+      "french": "« Le lendemain la tante de Saint-Loup avait été unanimement blâmée d'avoir laissé paraître chez elle une artiste aussi grotesque. Un duc bien connu ne lui cacha pas qu'elle n'avait à s'en prendre qu'à elle-même si elle se faisait critiquer. »"
+    }
+  ]
+}

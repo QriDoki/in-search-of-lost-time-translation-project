@@ -1,0 +1,32 @@
+{
+  "chapter": "vol15-1",
+  "file": "polish/dev/chapters/polished-vol15-1.md",
+  "edits": [
+    {
+      "old": "与希尔贝特的姑母盖尔芒特公爵夫人交谈的",
+      "new": "与希尔贝特的舅母盖尔芒特公爵夫人交谈的",
+      "reason": "法文 « la tante de Gilberte, la duchesse de Guermantes »，句内明写所指为盖尔芒特公爵夫人奥丽阿娜。她是希尔贝特之夫圣卢的舅父（公爵）之妻，即圣卢的舅母；希尔贝特随夫称呼应作舅母。同章 [5][6] 已作「舅母」，统一。",
+      "occurrence": 4
+    },
+    {
+      "old": "想避免因拉谢尔的事与姑母发生冲突",
+      "new": "想避免因拉谢尔的事与舅母发生冲突",
+      "reason": "法文 « Gilberte… avait voulu éviter un conflit avec sa tante au sujet de Rachel »，下文明写 « devant Mme de Guermantes »，所指为公爵夫人奥丽阿娜，即希尔贝特随夫圣卢所称的舅母；与同章 [5][6]「舅母」统一。",
+      "occurrence": 8
+    }
+  ],
+  "uncertain": [
+    {
+      "occurrence": 2,
+      "old": "他大概是在某位姑母家里见过我",
+      "issue": "说话人「他」经法文确证为维尔芒杜瓦侯爵（marquis de Villemandois），是 « un jeune neveu de Mme de Guermantes »（公爵夫人的侄子），并非圣卢。「une de ses tantes」未具名：或为某位长辈（姑母作 tante 泛称默认尚可），或即公爵夫人本人（因 « on y parlait souvent de moi »），但维尔芒杜瓦的父母系属未交代，无法定姑母/姨母/伯叔母。且公爵夫人此处是作为维尔芒杜瓦的长辈被提及，非圣卢/希尔贝特口径，「姑母→舅母」主规则不适用，不能强改。两可，标 UNCERTAIN。",
+      "french": "« Un jeune neveu de Mme de Guermantes, le marquis de Villemandois… Mon nom lui rappelait tout au plus qu'il avait dû me voir, ou quelqu'un des miens, chez une de ses tantes… »"
+    },
+    {
+      "occurrence": 3,
+      "old": "便急忙跟我谈起他的姑母",
+      "issue": "同 [2]，说话人维尔芒杜瓦侯爵（公爵夫人的侄子），「sa tante」与 [2] « une de ses tantes » 同指，所指与亲属方向无法确证；非圣卢/希尔贝特口径，主规则不适用。标 UNCERTAIN，不强行改。",
+      "french": "« Et ne sachant pas au juste s'il se faisait présenter ou représenter, il se hâta de me parler de sa tante, chez qui il ne doutait pas qu'il avait dû me rencontrer, se rappelant qu'on y parlait souvent de moi, mais non de nos querelles. »"
+    }
+  ]
+}

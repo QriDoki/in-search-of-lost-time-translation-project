@@ -1,0 +1,13 @@
+{
+  "chapter": "vol7-2",
+  "file": "polish/dev/chapters/polished-vol7-2.md",
+  "edits": [],
+  "uncertain": [
+    {
+      "occurrence": 1,
+      "old": "他当时来看望他的一位姑母，卢森堡亲王妃",
+      "issue": "所指为卢森堡亲王妃（拿骚伯爵/后为卢森堡大公储的 tante），人物明确但谱系方向未言：法文仅 une de ses tantes，非奥丽阿娜作为圣卢/希尔贝特姑母的情形，核心改例不适用。无子卢森堡大公立侄儿拿骚为大公储提示父系关联（若亲王妃为拿骚家出生则是父系姑母，可保留），但 vol4 称她为英王与奥皇的侄女/外甥女、vol5 圣卢只说 un peu ma cousine，亦可能是嫁入的叔伯母或母系姨母/舅母。方向无法确证，按简报标 UNCERTAIN，不强行改；与 vol8-1[1]（同一人）及 vol9-4 主审对卢森堡家的处理一致。",
+      "french": "« Je l'avais connu à Balbec où il était venu voir une de ses tantes, la princesse de Luxembourg, alors qu'il n'était encore que comte de Nassau. »"
+    }
+  ]
+}

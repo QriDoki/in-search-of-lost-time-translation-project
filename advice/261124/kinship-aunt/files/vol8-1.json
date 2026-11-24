@@ -1,0 +1,31 @@
+{
+  "chapter": "vol8-1",
+  "file": "polish/dev/chapters/polished-vol8-1.md",
+  "edits": [],
+  "uncertain": [
+    {
+      "occurrence": 1,
+      "old": "今年他去巴尔贝克看望姑母卢森堡亲王妃",
+      "issue": "所指为卢森堡亲王妃（年轻大公储的 tante），人物明确但谱系方向未言：法文仅 sa tante，无法确证是父系姑母（保留）还是母系姨母/叔伯母（应改）。拿骚/卢森堡家谱在本章及相邻卷不足以确证，按简报不强行改。",
+      "french": "« Puis on raconta qu'étant allé voir cette année sa tante la princesse de Luxembourg, à Balbec, et étant descendu au Grand Hôtel… »"
+    },
+    {
+      "occurrence": 11,
+      "old": "我姑母做他的老情妇",
+      "issue": "公爵夫人（奥丽阿娜）口中的姑母=诺尔普瓦老情妇、将续娶者，与[13]同为『弗洛里蒙·德·吉斯的女儿』。既为吉斯家女则非盖尔芒特父系姑母，可能是嫁入的叔伯母/母系姨母/远亲泛称，方向无法确证；vol7 的 Florimond（维尔巴里西斯祖父）世代/姓氏不合，不能坐实父系。标 UNCERTAIN。",
+      "french": "« …que ma tante, qui ne l'amuse pas déjà beaucoup comme vieille maîtresse, lui paraisse inutile comme nouvelle épouse. »"
+    },
+    {
+      "occurrence": 12,
+      "old": "我那可怜的姑母就像那些先锋派艺术家",
+      "issue": "与[11]同一人（诺尔普瓦老情妇那位姑母），同一谱系疑点，方向无法确证，标 UNCERTAIN。",
+      "french": "« Vraiment, ma pauvre tante est comme ces artistes d'avant-garde, qui ont tapé toute leur vie contre l'Académie… »"
+    },
+    {
+      "occurrence": 13,
+      "old": "要是我姑母嫁给诺尔普瓦",
+      "issue": "公爵（巴赞）口中的姑母=同[11]/[12]者，明言『弗洛里蒙·德·吉斯的女儿』。吉斯家女非盖尔芒特父系姑母（父之姐妹），更可能是叔伯母/姨母/远亲泛称，但具体方向无法从原文确证，标 UNCERTAIN，不强行改。",
+      "french": "« …si ma tante épousait Norpois, pour une fois je serais de l'avis de Gilbert. Être la fille de Florimond de Guise et faire un tel mariage, ce serait… à faire rire les poules… »"
+    }
+  ]
+}

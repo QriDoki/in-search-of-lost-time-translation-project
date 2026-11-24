@@ -1,0 +1,38 @@
+{
+  "chapter": "vol7-1",
+  "file": "polish/dev/chapters/polished-vol7-1.md",
+  "edits": [
+    {
+      "old": "人就是这样把姑母忘掉的",
+      "new": "人就是这样把舅母忘掉的",
+      "reason": "法文 « Bonjour, Robert, dit-elle ; eh bien ! voilà comme on oublie sa tante »（第573行），dit-elle 的 elle 紧承上句主语 Mme de Guermantes（公爵夫人奥丽阿娜），下文 « Ils causèrent un instant ensemble... Mme de Guermantes se tourna vers moi » 印证与罗贝尔交谈者即公爵夫人。她当面自称圣卢的长辈；按铁律1、2，圣卢之母马桑特夫人是公爵亲姐妹，公爵为圣卢舅父，公爵夫人即圣卢舅母，应作「舅母」。",
+      "occurrence": 14
+    },
+    {
+      "old": "希望姑母对我再热情一点",
+      "new": "希望舅母对我再热情一点",
+      "reason": "法文 « faisait à distance des efforts désespérés pour obtenir un peu plus encore de sa tante »（第579行），sa tante 为圣卢的长辈，实指蓝眼睛的盖尔芒特公爵夫人奥丽阿娜（elle = 公爵夫人）。按铁律2她是圣卢舅父公爵之妻=圣卢舅母，应作「舅母」。",
+      "occurrence": 15
+    },
+    {
+      "old": "就这样硬把我安排到他姑母身旁坐下",
+      "new": "就这样硬把我安排到他舅母身旁坐下",
+      "reason": "法文 « me dit Saint-Loup en me forçant ainsi à m'asseoir à côté de sa tante »（第585行），圣卢去母亲马桑特夫人处，把叙述者安排到公爵夫人奥丽阿娜身旁（下文与叙述者交谈、第651行看表告辞者即公爵夫人）。sa tante 实指奥丽阿娜，按铁律2为圣卢舅母，应作「舅母」。",
+      "occurrence": 16
+    },
+    {
+      "old": "我姑母说，是你在躲着她",
+      "new": "我舅母说，是你在躲着她",
+      "reason": "法文圣卢言 « ma tante dit que c'est toi qui la fuis, que tu ne lui dis pas un mot »（第727行），叙述者随即想 « notre imminent départ pour Balbec m'eût empêché d'essayer de revoir Mme de Guermantes, de lui assurer que je n'avais rien contre elle »（第729行），确证 ma tante 实指盖尔芒特公爵夫人奥丽阿娜。按铁律2她是圣卢舅母，应作「舅母」。",
+      "occurrence": 28
+    }
+  ],
+  "uncertain": [
+    {
+      "occurrence": 2,
+      "old": "或者上我某位姑母家去",
+      "issue": "法文为匿名泛称 « ma tante X »，说话人是泛称的「neveux gratins」（圣卢仅作首例被举出），所指姑母刻意不点名，无法锁定具体人物与谱系方向。上下文为维尔巴里西斯与另外三位沦落夫人各自的沙龙，公爵夫人沙龙正显赫不属此语境，故无法确证为奥丽阿娜；亦可能为某侄子的父系姑母（应保留「姑母」）。两种可能并存，不强行改。",
+      "french": "« Je vous conduirai chez ma tante Villeparisis, ou chez ma tante X..., c'est un salon intéressant. »"
+    }
+  ]
+}

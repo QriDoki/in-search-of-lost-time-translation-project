@@ -1,0 +1,55 @@
+{
+  "chapter": "vol6-1",
+  "file": "polish/dev/chapters/polished-vol6-1.md",
+  "edits": [
+    {
+      "old": "我看着圣卢姑母的这张照片",
+      "new": "我看着圣卢舅母的这张照片",
+      "reason": "照片主人是盖尔芒特公爵夫人奥丽阿娜（同段「与盖尔芒特夫人的又一次相遇」确证）；她是圣卢舅父公爵之妻，即圣卢的舅母。法文 « la photographie de sa tante »（sa = Saint-Loup）。",
+      "occurrence": 1
+    },
+    {
+      "old": "发现他也有几分像他姑母的一张照片",
+      "new": "发现他也有几分像他舅母的一张照片",
+      "reason": "所指即同一张公爵夫人照片（法文 « une photographie de sa tante »，下文 « Les traits de la duchesse de Guermantes »）；罗贝尔面貌与她相似源于其母马桑特夫人与公爵的亲兄妹血统。圣卢应称舅母。",
+      "occurrence": 2
+    },
+    {
+      "old": "剪出的脸几乎可以与他的姑母重叠",
+      "new": "剪出的脸几乎可以与他的舅母重叠",
+      "reason": "句内明写公爵夫人的线条（法文 « la figure de Robert presque superposable à celle de sa tante »，sa tante = la duchesse de Guermantes）；圣卢的舅母。",
+      "occurrence": 3
+    },
+    {
+      "old": "我姑母刚来信",
+      "new": "我舅母刚来信",
+      "reason": "叙述者想象圣卢说的话，法文 « ma tante vient de m'écrire »；上下文整段思念盖尔芒特夫人确证所指为公爵夫人奥丽阿娜，圣卢的舅母。",
+      "occurrence": 4
+    },
+    {
+      "old": "无法带我去见他姑母",
+      "new": "无法带我去见他舅母",
+      "reason": "法文 « empêcher Robert de me mener de longtemps chez sa tante »；即计划中的巴黎拜访公爵夫人（下文圣卢言拜访推迟、叙述者答「去不了盖尔芒特夫人家」）。圣卢的舅母。",
+      "occurrence": 5
+    },
+    {
+      "old": "因为去我姑母家拜访的事只好往后推了",
+      "new": "因为去我舅母家拜访的事只好往后推了",
+      "reason": "圣卢的话，法文 « notre visite chez ma tante qui se trouve ajournée »；叙述者答句直接以「盖尔芒特夫人家」对应，确证所指为公爵夫人，圣卢的舅母。",
+      "occurrence": 6
+    },
+    {
+      "old": "好让圣卢能请求他姑母接待我",
+      "new": "好让圣卢能请求他舅母接待我",
+      "reason": "法文 « demander à sa tante de me recevoir »；借口是看埃尔斯蒂尔画作，下文（dev 第518行）明言三幅重要作品属于盖尔芒特夫人。圣卢的舅母。",
+      "occurrence": 7
+    },
+    {
+      "old": "我不知道您和您姑母的交情是否够深",
+      "new": "我不知道您和您舅母的交情是否够深",
+      "reason": "叙述者对圣卢说，法文 « en termes assez intimes avec votre tante »；「那位夫人」即藏有埃尔斯蒂尔画作的盖尔芒特公爵夫人（dev 第518、532行确证）。圣卢的舅母。",
+      "occurrence": 8
+    }
+  ],
+  "uncertain": []
+}
