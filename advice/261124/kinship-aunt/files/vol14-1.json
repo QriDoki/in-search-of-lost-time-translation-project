@@ -1,0 +1,13 @@
+{
+  "chapter": "vol14-1",
+  "file": "polish/dev/chapters/polished-vol14-1.md",
+  "edits": [],
+  "uncertain": [
+    {
+      "occurrence": 1,
+      "old": "童年时，库尔蒙姑母就住在这一带，我常来闲逛",
+      "issue": "法文 ma tante de Courmont 确证为日记叙述者（龚古尔式人物）本人的长辈，非奥丽阿娜、与圣卢/希尔贝特无涉；但 Courmont 全书仅此一见，tante 方向不明：可能是父系姑母（现译正确），也可能是母系姨母或舅父/伯叔父之妻（舅母/伯叔母）。无法确证，不强行改。",
+      "french": "« Tout un quartier où a flâné mon enfance quand ma tante de Courmont l'habitait »"
+    }
+  ]
+}

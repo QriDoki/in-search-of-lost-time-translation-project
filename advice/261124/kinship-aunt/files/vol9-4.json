@@ -1,0 +1,13 @@
+{
+ "chapter": "vol9-4",
+ "file": "polish/dev/chapters/polished-vol9-4.md",
+ "edits": [],
+ "uncertain": [
+  {
+   "occurrence": 8,
+   "old": "因为他寄住在姑母家",
+   "issue": "主审降级：卢森堡公爵夫人确切谱系无法确证。法文仅称她为夏吕斯 belle-sœur、圣卢 tante，但她嫁卢森堡公爵而非盖尔芒特家兄弟，子agent「夏吕斯兄弟之妻=舅母」推理不成立。全书本身不一致：vol7-2/vol8-1 作「姑母」，vol9-4[2] 作「舅母」。姑/姨/舅母方向无据，不强改，留待谱系考据。",
+   "french": "« Son oncle Charlus y est en villégiature chez sa belle-sœur, la duchesse de Luxembourg… dire bonjour à sa tante »"
+  }
+ ]
+}

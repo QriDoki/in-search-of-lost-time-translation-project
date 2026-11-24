@@ -1,0 +1,13 @@
+{
+  "chapter": "vol7-3",
+  "file": "polish/dev/chapters/polished-vol7-3.md",
+  "edits": [
+    {
+      "old": "我曾怨圣卢没有带我到他姑母家去。",
+      "new": "我曾怨圣卢没有带我到他舅母家去。",
+      "reason": "法文 « J'en avais voulu à Saint-Loup de ne m'avoir pas mené chez sa tante »，sa tante 实指盖尔芒特公爵夫人奥丽阿娜。圣卢之母马桑特夫人是盖尔芒特公爵的亲姐妹，公爵为圣卢舅父，公爵夫人即圣卢舅母（铁律1、2），应作「舅母」。",
+      "occurrence": 2
+    }
+  ],
+  "uncertain": []
+}
