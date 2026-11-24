@@ -1,6 +1,6 @@
 # vol5-1 逐段审校索引
 
-已完成：239/239 段已由独立子 agent 审校；采纳 785 项修改，涉及 214 段，25 个已审段保留现译；0 段待审。
+已完成：239/239 段已由独立子 agent 审校；采纳 810 项修改，涉及 215 段，24 个已审段保留现译；0 段待审。
 
 | 段号 | 法文段首 | 报告 | 采纳修改数 |
 | --- | --- | --- | --- |
@@ -19,15 +19,15 @@
 | 013 | *Où vient sur l'herbe d'un tombeau* | [逐句分析](paragraphs/p013.md) · [原始建议](reports/p013.json) | 1 |
 | 014 | *Mourir la pâle Adriatique.* | [逐句分析](paragraphs/p014.md) · [原始建议](reports/p014.json) | 0 |
 | 015 | Or, de quelqu'un qu'on admire de confiance, on recueille, on cite | [逐句分析](paragraphs/p015.md) · [原始建议](reports/p015.json) | 3 |
-| 016 | Il y avait donc, enclavé en mon camarade Bloch, un père Bloch, qu | [逐句分析](paragraphs/p016.md) · [原始建议](reports/p016.json) | 3 |
+| 016 | Il y avait donc, enclavé en mon camarade Bloch, un père Bloch, qu | [逐句分析](paragraphs/p016.md) · [原始建议](reports/p016.json) | 4 |
 | 017 | J'y fus moi-même pris et à la manière dont M. Bloch père parla de | [逐句分析](paragraphs/p017.md) · [原始建议](reports/p017.json) | 6 |
 | 018 | M. Bloch père qui ne connaissait Bergotte que de loin, et la vie  | [逐句分析](paragraphs/p018.md) · [原始建议](reports/p018.json) | 5 |
 | 019 | L'égocentrisme permettant de la sorte à chaque humain de voir l'u | [逐句分析](paragraphs/p019.md) · [原始建议](reports/p019.json) | 3 |
 | 020 | Cette importance illusoire de M. Bloch père était d'ailleurs éten | [逐句分析](paragraphs/p020.md) · [原始建议](reports/p020.json) | 6 |
-| 021 | La ressemblance était des plus vagues, mais on eût dit que ce fût | [逐句分析](paragraphs/p021.md) · [原始建议](reports/p021.json) | 19 |
-| 022 | -- Comment, vous êtes le fils du marquis de Marsantes ? mais je l | [逐句分析](paragraphs/p022.md) · [原始建议](reports/p022.json) | 3 |
+| 021 | La ressemblance était des plus vagues, mais on eût dit que ce fût | [逐句分析](paragraphs/p021.md) · [原始建议](reports/p021.json) | 20 |
+| 022 | -- Comment, vous êtes le fils du marquis de Marsantes ? mais je l | [逐句分析](paragraphs/p022.md) · [原始建议](reports/p022.json) | 5 |
 | 023 | -- Saint-Loup au casque d'airain, dit Bloch, reprenez un peu de c | [逐句分析](paragraphs/p023.md) · [原始建议](reports/p023.json) | 3 |
-| 024 | D'habitude, après avoir sorti de derrière les fagots pour un cama | [逐句分析](paragraphs/p024.md) · [原始建议](reports/p024.json) | 6 |
+| 024 | D'habitude, après avoir sorti de derrière les fagots pour un cama | [逐句分析](paragraphs/p024.md) · [原始建议](reports/p024.json) | 8 |
 | 025 | Mais les demoiselles Bloch et leur frère rougirent jusqu'aux orei | [逐句分析](paragraphs/p025.md) · [原始建议](reports/p025.json) | 8 |
 | 026 | J'allai voir Bloch à la suite de ce dîner, il me rendit ma visite | [逐句分析](paragraphs/p026.md) · [原始建议](reports/p026.json) | 6 |
 | 027 | Elle eut bientôt à l'égard de Saint-Loup qu'elle adorait une dési | [逐句分析](paragraphs/p027.md) · [原始建议](reports/p027.json) | 4 |
@@ -35,7 +35,7 @@
 | 029 | Françoise ne se trompait pas moins sur Saint-Loup quand elle disa | [逐句分析](paragraphs/p029.md) · [原始建议](reports/p029.json) · [补充1](paragraphs/p029-followup.md) | 4 |
 | 030 | En effet, s'il y avait une classe contre laquelle il eût de la pr | [逐句分析](paragraphs/p030.md) · [原始建议](reports/p030.json) | 2 |
 | 031 | -- Une carpe, me dit-il, comme toutes ses pareilles. C'est d'aill | [逐句分析](paragraphs/p031.md) · [原始建议](reports/p031.json) | 3 |
-| 032 | Ayant un préjugé contre les gens qui le fréquentaient, il allait  | [逐句分析](paragraphs/p032.md) · [原始建议](reports/p032.json) | 14 |
+| 032 | Ayant un préjugé contre les gens qui le fréquentaient, il allait  | [逐句分析](paragraphs/p032.md) · [原始建议](reports/p032.json) | 15 |
 | 033 | Cette période dramatique de leur liaison -- et qui était arrivée  | [逐句分析](paragraphs/p033.md) · [原始建议](reports/p033.json) | 1 |
 | 034 | Mais quand elle était apparue, un grand lys à la main, dans un co | [逐句分析](paragraphs/p034.md) · [原始建议](reports/p034.json) | 3 |
 | 035 | -- Que diable aussi, on ne nous sort pas des numéros de cette for | [逐句分析](paragraphs/p035.md) · [原始建议](reports/p035.json) | 2 |
@@ -79,7 +79,7 @@
 | 073 | On frappa ; c'était Aimé qui avait tenu à m'apporter lui-même les | [逐句分析](paragraphs/p073.md) · [原始建议](reports/p073.json) | 1 |
 | 074 | Aimé, avant de se retirer, tint à me dire que Dreyfus était mille | [逐句分析](paragraphs/p074.md) · [原始建议](reports/p074.json) | 4 |
 | 075 | Ce ne fut pas sans un léger choc au cœur qu'à la première page de | [逐句分析](paragraphs/p075.md) · [原始建议](reports/p075.json) | 4 |
-| 076 | Les premiers temps, quand nous arrivions, le soleil venait de se  | [逐句分析](paragraphs/p076.md) · [原始建议](reports/p076.json) | 5 |
+| 076 | Les premiers temps, quand nous arrivions, le soleil venait de se  | [逐句分析](paragraphs/p076.md) · [原始建议](reports/p076.json) | 6 |
 | 077 | -- Vous n'aurez pas froid ? Vous feriez peut-être mieux de le gar | [逐句分析](paragraphs/p077.md) · [原始建议](reports/p077.json) | 0 |
 | 078 | Je répondais : « Non, non », et peut-être je ne sentais pas le fr | [逐句分析](paragraphs/p078.md) · [原始建议](reports/p078.json) | 4 |
 | 079 | À partir de ce moment-là j'étais un homme nouveau, qui n'était pl | [逐句分析](paragraphs/p079.md) · [原始建议](reports/p079.json) | 1 |
@@ -107,7 +107,7 @@
 | 101 | Et il ne savait pas si un petit « lever de soleil sur la mer », q | [逐句分析](paragraphs/p101.md) · [原始建议](reports/p101.json) | 1 |
 | 102 | Nous le vîmes lire notre lettre, la remettre dans sa poche, conti | [逐句分析](paragraphs/p102.md) · [原始建议](reports/p102.json) | 2 |
 | 103 | Dans les quelques mots qu'Elstir vint nous dire, en s'asseyant à  | [逐句分析](paragraphs/p103.md) · [原始建议](reports/p103.json) | 3 |
-| 104 | Et sans doute les premiers temps avait-il pensé, dans la solitude | [逐句分析](paragraphs/p104.md) · [原始建议](reports/p104.json) | 5 |
+| 104 | Et sans doute les premiers temps avait-il pensé, dans la solitude | [逐句分析](paragraphs/p104.md) · [原始建议](reports/p104.json) | 6 |
 | 105 | Elstir ne resta pas longtemps à causer avec nous. Je me promettai | [逐句分析](paragraphs/p105.md) · [原始建议](reports/p105.json) | 2 |
 | 106 | À partir de cet après-midi-là, moi, qui les jours précédents avai | [逐句分析](paragraphs/p106.md) · [原始建议](reports/p106.json) | 2 |
 | 107 | Mais c'est peut-être encore celle au teint de géranium, aux yeux  | [逐句分析](paragraphs/p107.md) · [原始建议](reports/p107.json) | 3 |
@@ -117,7 +117,7 @@
 | 111 | Je n'en aimais aucune les aimant toutes, et pourtant leur rencont | [逐句分析](paragraphs/p111.md) · [原始建议](reports/p111.json) | 3 |
 | 112 | Ma grand'mère me témoignait, parce que maintenant je m'intéressai | [逐句分析](paragraphs/p112.md) · [原始建议](reports/p112.json) | 2 |
 | 113 | Je dus finir par obéir à ma grand-mère avec d'autant plus d'ennui | [逐句分析](paragraphs/p113.md) · [原始建议](reports/p113.json) | 1 |
-| 114 | C'est aussi en détournant les yeux que je traversai le jardin qui | [逐句分析](paragraphs/p114.md) · [原始建议](reports/p114.json) | 3 |
+| 114 | C'est aussi en détournant les yeux que je traversai le jardin qui | [逐句分析](paragraphs/p114.md) · [原始建议](reports/p114.json) | 4 |
 | 115 | Au moment où j'entrai, le créateur était en train d'achever, avec | [逐句分析](paragraphs/p115.md) · [原始建议](reports/p115.json) | 0 |
 | 116 | Les stores étaient clos de presque tous les côtés, l'atelier étai | [逐句分析](paragraphs/p116.md) · [原始建议](reports/p116.json) | 2 |
 | 117 | Le plus grand nombre de ceux qui m'entouraient n'étaient pas ce q | [逐句分析](paragraphs/p117.md) · [原始建议](reports/p117.json) | 4 |
@@ -125,8 +125,8 @@
 | 119 | C'est par exemple à une métaphore de ce genre -- dans un tableau, | [逐句分析](paragraphs/p119.md) · [原始建议](reports/p119.json) | 5 |
 | 120 | Bien qu'on dise avec raison qu'il n'y a pas de progrès, pas de dé | [逐句分析](paragraphs/p120.md) · [原始建议](reports/p120.json) | 4 |
 | 121 | L'effort qu'Elstir faisait pour se dépouiller en présence de la r | [逐句分析](paragraphs/p121.md) · [原始建议](reports/p121.json) | 5 |
-| 122 | « L'idée de ce grand voile dans lequel les Anges portent le corps | [逐句分析](paragraphs/p122.md) · [原始建议](reports/p122.json) | 3 |
-| 123 | Cette vaste vision céleste dont il me parlait, ce gigantesque poè | [逐句分析](paragraphs/p123.md) · [原始建议](reports/p123.json) | 1 |
+| 122 | « L'idée de ce grand voile dans lequel les Anges portent le corps | [逐句分析](paragraphs/p122.md) · [原始建议](reports/p122.json) | 4 |
+| 123 | Cette vaste vision céleste dont il me parlait, ce gigantesque poè | [逐句分析](paragraphs/p123.md) · [原始建议](reports/p123.json) | 2 |
 | 124 | -- Elle part des fonds des âges pour aboutir à Jésus-Christ, me d | [逐句分析](paragraphs/p124.md) · [原始建议](reports/p124.json) | 1 |
 | 125 | Je lui dis aussi que je m'étais attendu à trouver un monument pre | [逐句分析](paragraphs/p125.md) · [原始建议](reports/p125.json) | 1 |
 | 126 | Les joies intellectuelles que je goûtais dans cet atelier ne m'em | [逐句分析](paragraphs/p126.md) · [原始建议](reports/p126.json) | 3 |
@@ -137,7 +137,7 @@
 | 131 | Elle s'était éloignée ; de l'atelier on ne la voyait plus. Je pen | [逐句分析](paragraphs/p131.md) · [原始建议](reports/p131.json) | 3 |
 | 132 | J'allais et venais, impatient qu'il eût fini de travailler ; je s | [逐句分析](paragraphs/p132.md) · [原始建议](reports/p132.json) · [补充1](paragraphs/p132-annotation-followup.md) | 9 |
 | 133 | Il venait enfin de donner un dernier coup de pinceau à ses fleurs | [逐句分析](paragraphs/p133.md) · [原始建议](reports/p133.json) | 4 |
-| 134 | Le soir tombait ; il fallut revenir ; je ramenais Elstir vers sa  | [逐句分析](paragraphs/p134.md) · [原始建议](reports/p134.json) | 6 |
+| 134 | Le soir tombait ; il fallut revenir ; je ramenais Elstir vers sa  | [逐句分析](paragraphs/p134.md) · [原始建议](reports/p134.json) | 7 |
 | 135 | J'ai dit qu'Albertine ne m'était pas apparue ce jour-là la même q | [逐句分析](paragraphs/p135.md) · [原始建议](reports/p135.json) | 1 |
 | 136 | Certes, à Combray déjà j'avais vu diminuer ou grandir selon les h | [逐句分析](paragraphs/p136.md) · [原始建议](reports/p136.json) | 3 |
 | 137 | Variation d'une croyance, néant de l'amour aussi, lequel, préexis | [逐句分析](paragraphs/p137.md) · [原始建议](reports/p137.json) | 4 |
@@ -160,7 +160,7 @@
 | 154 | Quand quelques jours après le départ de Saint-Loup, j'eus réussi  | [逐句分析](paragraphs/p154.md) · [原始建议](reports/p154.json) | 3 |
 | 155 | Quand j'arrivai chez Elstir, un peu plus tard, je crus d'abord qu | [逐句分析](paragraphs/p155.md) · [原始建议](reports/p155.json) | 4 |
 | 156 | Au moment où Elstir me demanda de venir pour qu'il me présentât à | [逐句分析](paragraphs/p156.md) · [原始建议](reports/p156.json) | 2 |
-| 157 | Si la connaissance du plaisir fut ainsi retardée pour moi de quel | [逐句分析](paragraphs/p157.md) · [原始建议](reports/p157.json) | 6 |
+| 157 | Si la connaissance du plaisir fut ainsi retardée pour moi de quel | [逐句分析](paragraphs/p157.md) · [原始建议](reports/p157.json) | 7 |
 | 158 | Pourtant, quelques déceptions inévitables qu'elle doive apporter, | [逐句分析](paragraphs/p158.md) · [原始建议](reports/p158.json) | 2 |
 | 159 | Je rentrai en pensant à cette matinée, en revoyant l'éclair au ca | [逐句分析](paragraphs/p159.md) · [原始建议](reports/p159.json) | 6 |
 | 160 | J'avais beau être assez désappointé d'avoir trouvé en M^lle^ Simo | [逐句分析](paragraphs/p160.md) · [原始建议](reports/p160.json) | 3 |
@@ -193,34 +193,34 @@
 | 187 | *Emmenant sur la mer tempétueuse, hélas !* | [逐句分析](paragraphs/p187.md) · [原始建议](reports/p187.json) | 0 |
 | 188 | *Les hommes chevelus de l'héroïque Hellas.* | [逐句分析](paragraphs/p188.md) · [原始建议](reports/p188.json) | 0 |
 | 189 | Je ne pouvais plus mépriser les modistes puisque Elstir m'avait d | [逐句分析](paragraphs/p189.md) · [原始建议](reports/p189.json) | 4 |
-| 190 | Souvent nous rencontrions les sœurs de Bloch que j'étais obligé d | [逐句分析](paragraphs/p190.md) · [原始建议](reports/p190.json) | 6 |
+| 190 | Souvent nous rencontrions les sœurs de Bloch que j'étais obligé d | [逐句分析](paragraphs/p190.md) · [原始建议](reports/p190.json) | 7 |
 | 191 | Il y avait des jours où nous goûtions dans l'une des fermes-resta | [逐句分析](paragraphs/p191.md) · [原始建议](reports/p191.json) | 2 |
-| 192 | Mais quelquefois au lieu d'aller dans une ferme, nous montions ju | [逐句分析](paragraphs/p192.md) · [原始建议](reports/p192.json) | 4 |
+| 192 | Mais quelquefois au lieu d'aller dans une ferme, nous montions ju | [逐句分析](paragraphs/p192.md) · [原始建议](reports/p192.json) | 5 |
 | 193 | Étendu sur la falaise je ne voyais devant moi que des prés, et, a | [逐句分析](paragraphs/p193.md) · [原始建议](reports/p193.json) | 3 |
 | 194 | Nos provisions épuisées, nous jouions à des jeux qui jusque-là m' | [逐句分析](paragraphs/p194.md) · [原始建议](reports/p194.json) | 3 |
 | 195 | Ce n'était pas seulement une matinée mondaine, une promenade avec | [逐句分析](paragraphs/p195.md) · [原始建议](reports/p195.json) · [补充1](p195-review-supplement.md) | 15 |
 | 196 | Je m'en rendais compte et pourtant nous causions si peu. Tandis q | [逐句分析](paragraphs/p196.md) · [原始建议](reports/p196.json) | 0 |
 | 197 | Pour un convalescent qui se repose tout le jour dans un jardin fl | [逐句分析](paragraphs/p197.md) · [原始建议](reports/p197.json) | 2 |
 | 198 | Parfois une gentille attention de telle ou telle éveillait en moi | [逐句分析](paragraphs/p198.md) · [原始建议](reports/p198.json) | 1 |
-| 199 | « Mais au lieu d'écrire des bêtises, cria-t-elle en se tournant d | [逐句分析](paragraphs/p199.md) · [原始建议](reports/p199.json) · [补充1](p199-review-supplement.md) | 9 |
-| 200 | « C'est à croire qu'elle a copié cela, s'écria-t-elle quand elle  | [逐句分析](paragraphs/p200.md) · [原始建议](reports/p200.json) · [补充1](p200-review-supplement.md) | 9 |
+| 199 | « Mais au lieu d'écrire des bêtises, cria-t-elle en se tournant d | [逐句分析](paragraphs/p199.md) · [原始建议](reports/p199.json) · [补充1](p199-review-supplement.md) | 10 |
+| 200 | « C'est à croire qu'elle a copié cela, s'écria-t-elle quand elle  | [逐句分析](paragraphs/p200.md) · [原始建议](reports/p200.json) · [补充1](p200-review-supplement.md) | 10 |
 | 201 | L'admiration et l'attention avaient donné si chaud à Albertine qu | [逐句分析](paragraphs/p201.md) · [原始建议](reports/p201.json) | 2 |
 | 202 | Pendant ce temps, je songeais à la petite feuille de bloc-notes q | [逐句分析](paragraphs/p202.md) · [原始建议](reports/p202.json) | 2 |
 | 203 | L'état caractérisé par l'ensemble des signes auxquels nous reconn | [逐句分析](paragraphs/p203.md) · [原始建议](reports/p203.json) | 7 |
 | 204 | Mais pour une grande part, notre étonnement vient surtout de ce q | [逐句分析](paragraphs/p204.md) · [原始建议](reports/p204.json) | 6 |
 | 205 | Quant à l'harmonieuse cohésion où se neutralisaient depuis quelqu | [逐句分析](paragraphs/p205.md) · [原始建议](reports/p205.json) | 8 |
-| 206 | Je rejoignis Andrée, recommençai à lui faire des éloges d'Alberti | [逐句分析](paragraphs/p206.md) · [原始建议](reports/p206.json) | 5 |
+| 206 | Je rejoignis Andrée, recommençai à lui faire des éloges d'Alberti | [逐句分析](paragraphs/p206.md) · [原始建议](reports/p206.json) | 6 |
 | 207 | Nous étions sortis du petit bois et avions suivi un lacis de chem | [逐句分析](paragraphs/p207.md) · [原始建议](reports/p207.json) | 4 |
 | 208 | Nous allâmes retrouver les autres jeunes filles pour rentrer. Je  | [逐句分析](paragraphs/p208.md) · [原始建议](reports/p208.json) | 0 |
 | 209 | Pendant tout ce retour, l'image d'Albertine noyée dans la lumière | [逐句分析](paragraphs/p209.md) · [原始建议](reports/p209.json) | 3 |
 | 210 | Quelques jours après la partie de furet, comme nous étant laissés | [逐句分析](paragraphs/p210.md) · [原始建议](reports/p210.json) | 3 |
-| 211 | Dans la semaine qui suivit je ne cherchai guère à voir Albertine. | [逐句分析](paragraphs/p211.md) · [原始建议](reports/p211.json) | 3 |
+| 211 | Dans la semaine qui suivit je ne cherchai guère à voir Albertine. | [逐句分析](paragraphs/p211.md) · [原始建议](reports/p211.json) | 4 |
 | 212 | Je tâchai d'obtenir d'Elstir, mais sans dire à personne que je l' | [逐句分析](paragraphs/p212.md) · [原始建议](reports/p212.json) | 3 |
 | 213 | Puisque Andrée ne m'avait pas cru quand je lui disais que la fami | [逐句分析](paragraphs/p213.md) · [原始建议](reports/p213.json) | 1 |
 | 214 | Elle était généralement en tiers dans mes rendez-vous avec son am | [逐句分析](paragraphs/p214.md) · [原始建议](reports/p214.json) | 2 |
 | 215 | Environ un mois après le jour où nous avions joué au furet, on me | [逐句分析](paragraphs/p215.md) · [原始建议](reports/p215.json) | 3 |
 | 216 | Nous fûmes rejoints par Octave qui ne fit pas de difficulté pour  | [逐句分析](paragraphs/p216.md) · [原始建议](reports/p216.json) | 7 |
-| 217 | J'allai dîner avec ma grand-mère, je sentais en moi un secret qu' | [逐句分析](paragraphs/p217.md) · [原始建议](reports/p217.json) · [补充1](paragraphs/p217-coverage-supplement.md) | 6 |
+| 217 | J'allai dîner avec ma grand-mère, je sentais en moi un secret qu' | [逐句分析](paragraphs/p217.md) · [原始建议](reports/p217.json) · [补充1](paragraphs/p217-coverage-supplement.md) | 7 |
 | 218 | J'avais cru que l'amour que j'avais pour Albertine n'était pas fo | [逐句分析](paragraphs/p218.md) · [原始建议](reports/p218.json) | 5 |
 | 219 | Si cette sorte de vogue qu'avait obtenue Albertine ne paraissait  | [逐句分析](paragraphs/p219.md) · [原始建议](reports/p219.json) | 7 |
 | 220 | Plaisant plus qu'elle ne voulait et n'ayant pas besoin de clairon | [逐句分析](paragraphs/p220.md) · [原始建议](reports/p220.json) | 3 |
@@ -231,13 +231,13 @@
 | 225 | Il errait entre elles d'autant plus voluptueusement que sur ces v | [逐句分析](paragraphs/p225.md) · [原始建议](reports/p225.json) | 3 |
 | 226 | Il en était d'Albertine comme de ses amies. Certains jours, mince | [逐句分析](paragraphs/p226.md) · [原始建议](reports/p226.json) | 3 |
 | 227 | Sans doute leurs visages à toutes avaient bien changé pour moi de | [逐句分析](paragraphs/p227.md) · [原始建议](reports/p227.json) | 1 |
-| 228 | J'avais remplacé au fond du cerveau de ces jeunes filles le mépri | [逐句分析](paragraphs/p228.md) · [原始建议](reports/p228.json) | 3 |
+| 228 | J'avais remplacé au fond du cerveau de ces jeunes filles le mépri | [逐句分析](paragraphs/p228.md) · [原始建议](reports/p228.json) | 4 |
 | 229 | Pour n'importe laquelle de mes amies de la petite bande, comment  | [逐句分析](paragraphs/p229.md) · [原始建议](reports/p229.json) | 2 |
-| 230 | Les géographes, les archéologues nous conduisent bien dans l'île  | [逐句分析](paragraphs/p230.md) · [原始建议](reports/p230.json) | 3 |
+| 230 | Les géographes, les archéologues nous conduisent bien dans l'île  | [逐句分析](paragraphs/p230.md) · [原始建议](reports/p230.json) | 5 |
 | 231 | Puis les concerts finirent, le mauvais temps arriva, mes amies qu | [逐句分析](paragraphs/p231.md) · [原始建议](reports/p231.json) | 3 |
 | 232 | Parfois pourtant la pluie trop cinglante nous retenait, ma grand' | [逐句分析](paragraphs/p232.md) · [原始建议](reports/p232.json) | 1 |
 | 233 | -- Cela fera tant de plaisir à Maurice. | [逐句分析](paragraphs/p233.md) · [原始建议](reports/p233.json) | 0 |
-| 234 | Et quand dans le hall je les rencontrai tous trois, ce fut M. de  | [逐句分析](paragraphs/p234.md) · [原始建议](reports/p234.json) | 0 |
+| 234 | Et quand dans le hall je les rencontrai tous trois, ce fut M. de  | [逐句分析](paragraphs/p234.md) · [原始建议](reports/p234.json) | 1 |
 | 235 | -- Vous ne nous ferez pas le plaisir de dîner avec nous ? | [逐句分析](paragraphs/p235.md) · [原始建议](reports/p235.json) | 0 |
 | 236 | En somme j'avais bien peu profité de Balbec, ce qui ne me donnait | [逐句分析](paragraphs/p236.md) · [原始建议](reports/p236.json) | 1 |
 | 237 | Le directeur m'offrait pour l'année prochaine de meilleures chamb | [逐句分析](paragraphs/p237.md) · [原始建议](reports/p237.json) | 1 |
