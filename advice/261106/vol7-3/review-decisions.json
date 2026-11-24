@@ -172,5 +172,101 @@
   "decision": "adopt-optional",
   "old": "她经常来往的那些巴黎人",
   "reason": "主审采纳：les personnes qu'elle fréquentait à Paris 指她在巴黎来往的人，未必是巴黎本地人"
+ },
+ {
+  "paragraph": 11,
+  "decision": "chief-adjust",
+  "old": "我感觉到，在这个刚坐到我床边来的漂亮姑娘身上，有什么已经不同了",
+  "reason": "主审微调：「还是原来那个、刚坐到…」并列定语生硬，改破折号插入语补 même"
+ },
+ {
+  "paragraph": 11,
+  "decision": "adopt-optional",
+  "old": "比如，她似乎比从前更聪明了",
+  "reason": "主审采纳：se montrait mieux 指才智更多显露，非智力较从前提高"
+ },
+ {
+  "paragraph": 11,
+  "decision": "adopt-optional",
+  "old": "并不比她自己的“我亲爱的拉辛”和吉赛尔的“我亲爱的朋友”更不可笑",
+  "reason": "主审采纳：pas moins comiques que 惯用义「跟…一样可笑」，三重否定费解"
+ },
+ {
+  "paragraph": 11,
+  "decision": "adopt-optional",
+  "old": "她仿佛是窗外雾气孕育的女儿",
+  "reason": "主审采纳：直陈隐喻无「仿佛」；dehors 指户外而非特指窗外"
+ },
+ {
+  "paragraph": 11,
+  "decision": "adopt-optional",
+  "old": "让另一具温暖而陌生的肉身与我的血肉相融",
+  "reason": "主审采纳：matière 物质与下文 corps 身体构成对照；différente 异于我而非陌生"
+ },
+ {
+  "paragraph": 12,
+  "decision": "adopt-optional",
+  "old": "是她言谈中突然冒出的一些新词",
+  "reason": "主审采纳：apparition 仅表出现，「突然」为增饰"
+ },
+ {
+  "paragraph": 13,
+  "decision": "adopt-optional",
+  "old": "我完全知道",
+  "reason": "主审采纳：je sais parfaitement 口语作「我很清楚」更自然"
+ },
+ {
+  "paragraph": 14,
+  "decision": "adopt-optional",
+  "old": "同样，为了说",
+  "reason": "主审采纳：pour dire 此处「要说」更合中文习惯，去逐字硬译"
+ },
+ {
+  "paragraph": 16,
+  "decision": "adopt-optional",
+  "old": "她端详我的脸，说她倒想看看我留小胡子的模样。",
+  "reason": "主审采纳：avoua 坦言口吻与 « porter la moustache » 引号标记均须保留"
+ },
+ {
+  "paragraph": 16,
+  "decision": "adopt-optional",
+  "old": "它们一听便能认出说话者出身殷实之家",
+  "reason": "主审采纳：décèlent 暴露/显露，「它们…认出」施事错位，补出「让人一听便知」"
+ },
+ {
+  "paragraph": 17,
+  "decision": "adopt-optional",
+  "old": "——嗳，她眼看就十四岁啦。",
+  "reason": "主审采纳：Dame 自明语气「可不」更贴丈夫宽解口吻"
+ },
+ {
+  "paragraph": 18,
+  "decision": "adopt-optional",
+  "old": "用的正是这个意思",
+  "reason": "主审采纳：「用…意思」搭配生硬，父亲用例说明的是词"
+ },
+ {
+  "paragraph": 18,
+  "decision": "adopt-optional",
+  "old": "这类书面说法",
+  "reason": "主审采纳：法文仅引 Laps de temps，无「书面」定性，且此语为口头说出"
+ },
+ {
+  "paragraph": 18,
+  "decision": "adopt-optional",
+  "old": "即使是用在高尔夫球会的社交圈上",
+  "reason": "主审采纳：même pour le golf 无「社交圈」，上下文已含社交意味"
+ },
+ {
+  "paragraph": 19,
+  "decision": "adopt-optional",
+  "old": "最漂亮、最得体的办法",
+  "reason": "主审采纳：la solution élégante 单个形容词无最高级，删叠用的「最」；人物拿腔由全句语境承载"
+ },
+ {
+  "paragraph": 20,
+  "decision": "adopt-optional",
+  "old": "在从前陌生的世界里",
+  "reason": "主审采纳：terrains 土地与冲积泥沙、曲折迂回的地理意象连贯"
  }
 ]
