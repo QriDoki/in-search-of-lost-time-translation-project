@@ -1,0 +1,21 @@
+polish/dev/chapters/polished-vol8-1.md
+  s_24039074b1c965::t_cdd189155786b8 253,257,259,261,263,265,267,269,273,275
+  s_24039074b1c965::t_252750e14faee6 229,231,233,235,237,239,241,243,247,249,251
+  s_24039074b1c965::t_caf943ea5e02c4 205,207,209,213,215,217,219,221,223,225,227
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "236e02d42d4057bb1a9d06333df0be07148c5427",
+  "prompts": {},
+  "sessions": {
+    "s_24039074b1c965": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20c48-82b6-7dc3-a2bf-431387530ba6",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
