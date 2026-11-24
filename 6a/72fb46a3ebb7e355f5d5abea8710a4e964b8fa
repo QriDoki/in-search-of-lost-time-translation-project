@@ -1,0 +1,26 @@
+polish/dev/chapters/polished-vol8-1.md
+  s_24039074b1c965::t_8da9a1378d2285 373,375,377,379,381,383,387,391,393,395
+  s_24039074b1c965::t_dd5182f8475137 349,351,353,355,357,359,361,363,365,367,369,371
+  s_24039074b1c965::t_68db049db933e1 397,399,401,403,405,407,409,411,413,415,417,419
+advice/261106/vol8-1/paragraphs/p195.md
+  s_24039074b1c965::t_dd5357299bbbec 8
+advice/261106/vol8-1/paragraphs/p190.md
+  s_24039074b1c965::t_a889e2487f8a3a 8-11,13
+  s_24039074b1c965::t_dd5357299bbbec 12,16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "6a72fb46a3ebb7e355f5d5abea8710a4e964b8fa",
+  "prompts": {},
+  "sessions": {
+    "s_24039074b1c965": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20c48-82b6-7dc3-a2bf-431387530ba6",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
