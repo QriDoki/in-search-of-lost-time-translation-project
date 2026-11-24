@@ -1,0 +1,176 @@
+[
+ {
+  "paragraph": 1,
+  "decision": "adopt-optional",
+  "old": "激动得仿佛那声响正是某个神秘命运不可抗拒的召唤，就像",
+  "reason": "主审采纳：pareils aux fameux coups d'archet 修饰声响（ils）而非召唤，插入语恢复同位结构；与下一项配套，注释块原样保留"
+ },
+ {
+  "paragraph": 1,
+  "decision": "adopt-optional",
+  "old": "开篇那几下著名的运弓一样。",
+  "reason": "主审采纳：与上一项配套，恢复「声响像运弓、仿佛是命运召唤」结构"
+ },
+ {
+  "paragraph": 1,
+  "decision": "adopt-optional",
+  "old": "大自然每一次骤然变换景象",
+  "reason": "主审采纳：changement à vue 为戏剧术语「当众换景」，à vue 意为在眼前而非骤然"
+ },
+ {
+  "paragraph": 2,
+  "decision": "chief-adjust",
+  "old": "另一幅则来自圣卢带我留宿的附近一座城堡",
+  "reason": "主审微调：「去度过二十四小时的」定语生硬，改「去住过二十四小时的」"
+ },
+ {
+  "paragraph": 2,
+  "decision": "adopt-optional",
+  "old": "那些彼此交织、共同奏出这份快乐的印象",
+  "reason": "主审采纳：richement tissées 的 richement 未译出，补「繁复」"
+ },
+ {
+  "paragraph": 2,
+  "decision": "reject-optional",
+  "old": "记忆所收藏的几幅雾景",
+  "reason": "保留「雾景」：两幅画面均为雾中景（brume），bruine 与 brume 原文意象相混，改「微雨」反与上下文雾气意象抵牾"
+ },
+ {
+  "paragraph": 2,
+  "decision": "adopt-optional",
+  "old": "那山冈即使看不见",
+  "reason": "主审采纳：同段 colline 前译「山丘」后译「山冈」，统一作「山丘」"
+ },
+ {
+  "paragraph": 3,
+  "decision": "adopt-optional",
+  "old": "外祖母最看重我的健康与情绪安定",
+  "reason": "主审采纳：soucieuse avant tout de 意为最关心/挂念，「看重」偏评价"
+ },
+ {
+  "paragraph": 3,
+  "decision": "adopt-optional",
+  "old": "这些消遣她自己是不肯去寻的，并会说服自己相信",
+  "reason": "主审采纳：破折号插入语后补出主语「她」并改分号，避免「并会说服」误挂「这些消遣」"
+ },
+ {
+  "paragraph": 3,
+  "decision": "adopt-optional",
+  "old": "她不会阻拦，却决不会赞许",
+  "reason": "主审采纳：补出 cette sortie；désapprouver 为不赞成；删无据强调词「决」"
+ },
+ {
+  "paragraph": 4,
+  "decision": "chief-adjust",
+  "old": "它不时发出打嗝一般的刺耳声响，",
+  "reason": "主审微调：「声响发出声音」叠床架屋，改「声响里夹着声音」"
+ },
+ {
+  "paragraph": 4,
+  "decision": "adopt-optional",
+  "old": "与我关于唐西埃尔的回忆毫无关系",
+  "reason": "主审采纳：「对……的回忆」较「关于……的回忆」更合中文习惯"
+ },
+ {
+  "paragraph": 4,
+  "decision": "adopt-optional",
+  "old": "它就会让我想起那些回忆",
+  "reason": "主审采纳：「想起……回忆」动宾语义重复，rappeler qch à qn 即唤起"
+ },
+ {
+  "paragraph": 5,
+  "decision": "adopt-optional",
+  "old": "星期天的散步人仿佛也被那层光雾镀成了银色",
+  "reason": "主审采纳并微调：dans lesquels 指丝网中，s'argenter 为反身泛银光；删增出的施动者「那层光雾」与欧化被动"
+ },
+ {
+  "paragraph": 5,
+  "decision": "adopt-optional",
+  "old": "便代我向这位年轻女子约见",
+  "reason": "主审采纳：「向…约见」搭配不合中文习惯，demander un rendez-vous à qn 即约某人见面"
+ },
+ {
+  "paragraph": 5,
+  "decision": "adopt-optional",
+  "old": "尤其是我们臆想中的那几个",
+  "reason": "主审采纳：d'un des trois amants qu'on se figure 确指「臆想中三个情人之一」，恢复确数与同位补充关系"
+ },
+ {
+  "paragraph": 5,
+  "decision": "adopt-optional",
+  "old": "能够毫不软弱地得知继任者的名字",
+  "reason": "主审采纳：sans faiblesse 指情绪上撑得住，「坦然」较「毫不软弱地」自然"
+ },
+ {
+  "paragraph": 6,
+  "decision": "reject-optional",
+  "old": "而我的心思一再回到那炽热的欢愉，再回头看眼前的下午——唉，那欢愉还要过几天才能尝到，而且是同斯泰尔马里亚夫人一起——眼前这个我即将独自过完的下午，便显得十分空虚、十分忧郁。",
+  "reason": "保留现译：重构后对照关系由欢愉与空虚下午的并置承载，信息无损；「下午」两见属可接受的节奏重复，整句重写收益小风险大"
+ },
+ {
+  "paragraph": 7,
+  "decision": "adopt-optional",
+  "old": "那丰盈的身躯里仿佛盛着我在巴尔贝克度过的岁月——那些日子仿佛早已为我备好",
+  "reason": "主审采纳：contenant/préparés 为直陈隐喻，删两个「仿佛」与增译「早已」，还原笔力"
+ },
+ {
+  "paragraph": 7,
+  "decision": "reject-optional",
+  "old": "那背影仿佛在替她说",
+  "reason": "保留「背影」：坐姿之背亦可称背影，文学语感自然，属措辞偏好"
+ },
+ {
+  "paragraph": 7,
+  "decision": "adopt-optional",
+  "old": "她个子也长高了",
+  "reason": "主审采纳：son corps avait grandi 指整个身体长大，与「换了一张脸」构成脸/身体对照，非仅身高"
+ },
+ {
+  "paragraph": 7,
+  "decision": "reject-optional",
+  "old": "但阿尔贝蒂娜与这些人的相似之处，也只有这一点。",
+  "reason": "保留现译：解释性译法准确清晰（上文即言与这些人的相似之处），更直译反而含混"
+ },
+ {
+  "paragraph": 8,
+  "decision": "adopt-optional",
+  "old": "往常她要到春天才来；那时，初绽花朵上方的雷雨早已搅得我好几个星期心绪不宁，以至于我分不清那份欢喜究竟来自阿尔贝蒂娜的归来，还是来自春天的到来。",
+  "reason": "主审采纳：de sorte que 结果从句承接「只在春天回来」，雷雨为分词背景；现译把因果挂到雷雨上"
+ },
+ {
+  "paragraph": 8,
+  "decision": "adopt-optional",
+  "old": "就是一种慵懒、畏缩而不彻底的占有巴尔贝克的办法",
+  "reason": "主审采纳：lâche 意为怯懦；forme 译「方式」较「办法」贴切"
+ },
+ {
+  "paragraph": 8,
+  "decision": "adopt-optional",
+  "old": "在海上地平线前摇曳的身影",
+  "reason": "主审采纳：horizon marin 即中文「海平线」，「海上地平线」冗余"
+ },
+ {
+  "paragraph": 9,
+  "decision": "adopt-optional",
+  "old": "涌来的浪潮",
+  "reason": "主审采纳：déferlement 特指碎浪拍岸，「拍岸」较「涌来」更确"
+ },
+ {
+  "paragraph": 10,
+  "decision": "chief-adjust",
+  "old": "她总在漫长间隔之后，像玫瑰色幻影般突然出现，默默来访，我依旧无从得知她两次来访之间做过什么——那些事始终沉在她生活的幽暗里",
+  "reason": "主审微调：「并不怎么让我知道」生硬，改「很少让我得知」；apparitions 译「身影」"
+ },
+ {
+  "paragraph": 10,
+  "decision": "adopt-optional",
+  "old": "与她往年避暑的惯例不同",
+  "reason": "主审采纳：ordre habituel 指行程惯常顺序；villégiature 泛指度假小住，非必避暑"
+ },
+ {
+  "paragraph": 10,
+  "decision": "adopt-optional",
+  "old": "她经常来往的那些巴黎人",
+  "reason": "主审采纳：les personnes qu'elle fréquentait à Paris 指她在巴黎来往的人，未必是巴黎本地人"
+ }
+]
