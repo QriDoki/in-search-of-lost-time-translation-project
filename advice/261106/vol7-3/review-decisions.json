@@ -268,5 +268,59 @@
   "decision": "adopt-optional",
   "old": "在从前陌生的世界里",
   "reason": "主审采纳：terrains 土地与冲积泥沙、曲折迂回的地理意象连贯"
+ },
+ {
+  "paragraph": 21,
+  "decision": "adopt-optional",
+  "old": "连同对黑衣端庄得体的信念，一起传给她的——穿黑色总是得体、合宜",
+  "reason": "主审采纳：l'estime pour le noir 为「对黑衣的推崇」，还原并消除与破折号小句的「得体」重复"
+ },
+ {
+  "paragraph": 22,
+  "decision": "adopt-optional",
+  "old": "要是事情顺着常理发展",
+  "reason": "主审采纳：cours normal 指正常进程/轨迹，非「常理」"
+ },
+ {
+  "paragraph": 22,
+  "decision": "adopt-optional",
+  "old": "趁我父母不在，阿尔贝蒂娜在我这儿待了这么久",
+  "reason": "主审采纳：en l'absence de mes parents 中性情境状语，「趁」增添刻意利用之意"
+ },
+ {
+  "paragraph": 22,
+  "decision": "adopt-optional",
+  "old": "至于我，她若一直不懂这个词，我也乐得如此",
+  "reason": "主审采纳：aucun inconvénient 无妨/不反对，「乐得如此」语气偏强"
+ },
+ {
+  "paragraph": 26,
+  "decision": "adopt-optional",
+  "old": "；就像有人主动提出替你引荐",
+  "reason": "主审采纳：补回 car 因果连接，比喻是「她想必明白了」的推断依据；与 E1 不重叠"
+ },
+ {
+  "paragraph": 26,
+  "decision": "adopt-optional",
+  "old": "那是一个欲望的笨拙说法",
+  "reason": "主审采纳并微调：定语结构改自然；désir 仍作「欲望」，不改弱为「愿望」"
+ },
+ {
+  "paragraph": 27,
+  "decision": "adopt-optional",
+  "old": "她问，语气里带着女人特有的谦顺",
+  "reason": "主审采纳：la femme 类指，无「特有」限定"
+ },
+ {
+  "paragraph": 28,
+  "decision": "adopt-optional",
+  "old": "不过，索性整个人躺到床上会更方便些",
+  "reason": "主审采纳：补 alors/vous/mon lit，条件逻辑与指代明晰，与前文「我的床」一致"
+ },
+ {
+  "paragraph": 30,
+  "decision": "adopt-optional",
+  "old": "——不，再往里一点。",
+  "reason": "主审采纳：s'enfoncer 陷/沉动作义，与后文床罩凹陷描写呼应"
  }
 ]
