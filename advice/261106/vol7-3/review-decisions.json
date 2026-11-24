@@ -646,5 +646,95 @@
   "decision": "adopt-optional",
   "old": "我做什么都得看能不能见到斯泰尔马里亚夫人",
   "reason": "主审采纳：je voulais 意愿/打算，补「打算」还原主动安排之意"
+ },
+ {
+  "paragraph": 71,
+  "decision": "adopt-optional",
+  "old": "我总没法事先定下来",
+  "reason": "主审采纳：savoir 知道，非「定下来」，恢复认知义"
+ },
+ {
+  "paragraph": 72,
+  "decision": "adopt-optional",
+  "old": "很快就能行了，因为我很快会有一个不必与姑母共用的出入口。",
+  "reason": "主审采纳：补 très possible 程度义，法文仅一个 bientôt，去重复「很快」"
+ },
+ {
+  "paragraph": 73,
+  "decision": "adopt-optional",
+  "old": "便把脸颊伸过来",
+  "reason": "主审采纳：「脸颊凑过来」搭配更自然"
+ },
+ {
+  "paragraph": 73,
+  "decision": "adopt-optional",
+  "old": "应当临时替刚才床上的那些吻添上一份情意",
+  "reason": "主审采纳：补 improviser 即兴、sur mon lit 我床上、échangés 交换"
+ },
+ {
+  "paragraph": 74,
+  "decision": "adopt-optional",
+  "old": "才是我们随时能够接近、真正能够占有的唯一对象",
+  "reason": "主审采纳：à notre disposition 供我们支配，「接近」偏弱"
+ },
+ {
+  "paragraph": 75,
+  "decision": "adopt-optional",
+  "old": "我整日都在同那种决意舍弃的痴迷作最后道别",
+  "reason": "主审采纳：ce mal 回指 mal imaginaire，与催眠师/医生意象同属「病」链；「向…道别」更自然"
+ },
+ {
+  "paragraph": 75,
+  "decision": "adopt-optional",
+  "old": "把你唤回责任感和现实",
+  "reason": "主审采纳：rappeler au sentiment du devoir et de la réalité 唤回到责任与现实之中"
+ },
+ {
+  "paragraph": 75,
+  "decision": "adopt-optional",
+  "old": "你已经叫全家人当笑话谈了",
+  "reason": "主审采纳：la fable de la maison 全家的笑柄，结构更顺"
+ },
+ {
+  "paragraph": 76,
+  "decision": "reject-optional",
+  "old": "奇异的声音",
+  "reason": "拒绝：与 p077 方向冲突，主审裁定统一作「奇异」（étrange 本义奇异非陌生），采纳 p077 E1，本项不取"
+ },
+ {
+  "paragraph": 78,
+  "decision": "adopt-optional",
+  "old": "而且出门时十分坦然",
+  "reason": "主审采纳：librement 自由自在地，与不再「百般提防」呼应"
+ },
+ {
+  "paragraph": 78,
+  "decision": "adopt-optional",
+  "old": "继续清晨远游的理由",
+  "reason": "主审采纳：pérégrinations 街区晨间闲逛，「远游」易误为去远方"
+ },
+ {
+  "paragraph": 79,
+  "decision": "adopt-optional",
+  "old": "而且他们正与同僚谈着某件正经事",
+  "reason": "主审采纳：ont à parler 有正经事要谈（义务），进行体略失"
+ },
+ {
+  "paragraph": 79,
+  "decision": "adopt-optional",
+  "old": "而且因为她不会知道",
+  "reason": "主审采纳：elle ne les apprenait pas 未完成过去时叙事实「并未听说」，非将然"
+ },
+ {
+  "paragraph": 80,
+  "decision": "adopt-optional",
+  "old": "看见了我，看见我坐在那张贝热尔式扶手椅上",
+  "reason": "主审采纳：m'aperçut 一次瞥见，补 ma，去双「看见」冗复"
+ },
+ {
+  "paragraph": 80,
+  "decision": "adopt-optional",
+  "old": "只存着友好的心意",
+  "reason": "主审采纳：ne cherchais qu'à être aimable 只求亲切的主动努力，与当年努力装漠然对照"
  }
 ]
