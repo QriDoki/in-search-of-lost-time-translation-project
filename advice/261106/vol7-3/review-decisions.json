@@ -1000,5 +1000,53 @@
   "decision": "chief-adjust",
   "old": "君王被纷繁的政务缠身",
   "reason": "译注内定位词最小同步：配合 p103 引诗「纷繁」→「纷扰」，仅改所引二字，注释其余内容不动"
+ },
+ {
+  "paragraph": 111,
+  "decision": "adopt-optional",
+  "old": "说来有点自私，我实在觉得可惜",
+  "reason": "主审采纳：égoïstement, pour moi 直率自嘲，去弱化「有点」与增补「实在」，补「替自己」"
+ },
+ {
+  "paragraph": 112,
+  "decision": "adopt-optional",
+  "old": "夏吕斯先生在阿尔让库尔先生面前羞于承认认识我，这倒也罢了。",
+  "reason": "主审采纳：rougir de moi 因我而脸红，还原脸红意象与羞臊→否认的递进对比"
+ },
+ {
+  "paragraph": 113,
+  "decision": "adopt-optional",
+  "old": "别人只能忘却一半的前嫌",
+  "reason": "主审采纳：incomplètement 不完全，「一半」添加无据比例"
+ },
+ {
+  "paragraph": 113,
+  "decision": "adopt-optional",
+  "old": "她不会就往事作什么解释",
+  "reason": "主审采纳：补 non seulement…mais 递进框架第一层「不仅」，与后文「而且」呼应"
+ },
+ {
+  "paragraph": 113,
+  "decision": "adopt-optional",
+  "old": "纵使圣卢求她邀请我时",
+  "reason": "主审采纳：supplier 恳求/哀求，语气强于「求」"
+ },
+ {
+  "paragraph": 113,
+  "decision": "adopt-optional",
+  "old": "人便感到一种净化的意味",
+  "reason": "主审采纳：impression 感觉，「感到…意味」搭配生硬"
+ },
+ {
+  "paragraph": 114,
+  "decision": "adopt-optional",
+  "old": "才觉得自己能恢复活力吗",
+  "reason": "主审采纳：reprenais vie et force 直陈式实际恢复，「能」添加或然语气且略去 force"
+ },
+ {
+  "paragraph": 115,
+  "decision": "adopt-optional",
+  "old": "而是说了他的坏话——在那场短暂的谈话里，我深知夏吕斯先生讲究礼节，所以在把他带来之前先向男爵提起了这位同学。",
+  "reason": "主审采纳：pendant le court entretien 是 desservi 的时间状语，移回「说坏话」前还原挂靠"
  }
 ]
