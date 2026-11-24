@@ -562,5 +562,89 @@
   "decision": "adopt-optional",
   "old": "自己说话就非得带着哀戚的口吻",
   "reason": "主审采纳：apitoyé 怜悯/悲悯（对他人的同情），「哀戚」偏自身悲伤"
+ },
+ {
+  "paragraph": 61,
+  "decision": "adopt-optional",
+  "old": "您人真好",
+  "reason": "主审采纳：gentil 在容貌赞美后的温存语境取「可爱」义，「人真好」偏品德评语"
+ },
+ {
+  "paragraph": 62,
+  "decision": "adopt-optional",
+  "old": "却是两分钟前才开始成立，而且只会维持几个钟头",
+  "reason": "主审采纳：「成立」与「真话」搭配生硬，「才开始的」更自然，反讽不受影响"
+ },
+ {
+  "paragraph": 64,
+  "decision": "adopt-optional",
+  "old": "乍一听见，这两个名字对我毫无意义。",
+  "reason": "主审采纳：ne rien dire à qqn 没能唤起记忆，非「毫无意义」"
+ },
+ {
+  "paragraph": 64,
+  "decision": "adopt-optional",
+  "old": "这很可能，你们的母亲有来往",
+  "reason": "主审采纳：C'est possible 弱让步「也许吧」，「很可能」加重"
+ },
+ {
+  "paragraph": 64,
+  "decision": "adopt-optional",
+  "old": "她是布朗代夫人的一位侄孙辈亲属",
+  "reason": "主审采纳：petite-nièce 惯译「侄孙女」，原文确指亲属关系；「一位侄孙辈亲属」含糊且生硬"
+ },
+ {
+  "paragraph": 65,
+  "decision": "adopt-optional",
+  "old": "人们只记得祖辈对另一些西蒙内做过那个侮辱性的撇嘴",
+  "reason": "主审采纳：「做过…撇嘴」动名搭配生硬，「那副…撇嘴模样」更合中文"
+ },
+ {
+  "paragraph": 65,
+  "decision": "adopt-optional",
+  "old": "便怀着相互的好感去攀亲，结果却一无所获",
+  "reason": "主审采纳：cherchent s'ils n'ont aucun lien de parenté 查究是否沾亲，「攀亲」偏主动拉关系"
+ },
+ {
+  "paragraph": 65,
+  "decision": "adopt-optional",
+  "old": "心情甚至莫名乐观",
+  "reason": "主审采纳：d'ailleurs 而且/况且补充递进，「甚至」语义偏"
+ },
+ {
+  "paragraph": 66,
+  "decision": "adopt-optional",
+  "old": "女主人虽照样接待了他，心里却并非不在意",
+  "reason": "主审采纳：ainsi 就这样/以这副样子；曲言法补「毫」更顺口"
+ },
+ {
+  "paragraph": 67,
+  "decision": "adopt-optional",
+  "old": "您在笑吗？",
+  "reason": "主审采纳：惊讶确认回声问句，去「吗」更贴语气"
+ },
+ {
+  "paragraph": 68,
+  "decision": "adopt-optional",
+  "old": "她柔声答道",
+  "reason": "主审采纳：tendrement 温柔深情，「柔声」偏声音轻柔"
+ },
+ {
+  "paragraph": 68,
+  "decision": "reject-optional",
+  "old": "我们方才的所为",
+  "reason": "保留「所为」：中性委婉与全章刻意含混口径一致（参 p059），se livrer 的纵情义由上下文承载，「忘情之举」反过显"
+ },
+ {
+  "paragraph": 69,
+  "decision": "adopt-optional",
+  "old": "一有机会，我就派人来接您",
+  "reason": "主审采纳：quand je pourrai 含糊推托，与下段闪烁口吻相应，「一…就」急切感不合"
+ },
+ {
+  "paragraph": 70,
+  "decision": "adopt-optional",
+  "old": "我做什么都得看能不能见到斯泰尔马里亚夫人",
+  "reason": "主审采纳：je voulais 意愿/打算，补「打算」还原主动安排之意"
  }
 ]
