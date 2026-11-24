@@ -790,5 +790,131 @@
   "decision": "adopt-optional",
   "old": "母亲星期六或星期日回来，",
   "reason": "主审采纳：revenant 一次性归期，加「就要」避免习惯性误读"
+ },
+ {
+  "paragraph": 91,
+  "decision": "adopt-optional",
+  "old": "想请您上门吃顿饭，可真不容易。",
+  "reason": "主审采纳：chez soi 女主人自己家，「到家里来」更贴请客口吻"
+ },
+ {
+  "paragraph": 92,
+  "decision": "adopt-optional",
+  "old": "都来助兴的歌手",
+  "reason": "主审采纳：Celles 阴性复数承 diva 指女歌唱家，补「女」"
+ },
+ {
+  "paragraph": 94,
+  "decision": "adopt-optional",
+  "old": "在这样艰难的时期，分居尚未正式完成",
+  "reason": "主审采纳：补 s'effectue 正在办理的过程义"
+ },
+ {
+  "paragraph": 94,
+  "decision": "adopt-optional",
+  "old": "便以为别人给她们的消息有误",
+  "reason": "主审采纳：personnes/elles 语法阴性未必全女性，泛称「他们」"
+ },
+ {
+  "paragraph": 94,
+  "decision": "adopt-optional",
+  "old": "她们先前听说是公爵要分居",
+  "reason": "主审采纳：同上，性别指代泛化"
+ },
+ {
+  "paragraph": 94,
+  "decision": "adopt-optional",
+  "old": "随后她们急忙把这消息传开去",
+  "reason": "主审采纳：同上，性别指代泛化"
+ },
+ {
+  "paragraph": 94,
+  "decision": "adopt-optional",
+  "old": "终于还是走了，看见公爵夫人",
+  "reason": "主审采纳：sortaient 未完成过去时，「往外走」保留进行态与「看见」同时"
+ },
+ {
+  "paragraph": 95,
+  "decision": "adopt-optional",
+  "old": "要是有人告诉我盖尔芒特夫人会请我去看她，更不必说请我去吃饭，我准会惊愕不已。",
+  "reason": "主审采纳：「更不必说」移句末，递进仍在，语序更顺"
+ },
+ {
+  "paragraph": 95,
+  "decision": "adopt-optional",
+  "old": "它在我心中依然完全不同",
+  "reason": "主审采纳：imaginer 想象动作须译出，去与前句重复的「在我心中」"
+ },
+ {
+  "paragraph": 95,
+  "decision": "adopt-optional",
+  "old": "明明是主人怕这客人混进他们其他朋友中间，却故意说成是客人自己不愿见外人",
+  "reason": "主审采纳：主人把自己的同一恐惧假装归给客人（paria），非「不愿见外人」"
+ },
+ {
+  "paragraph": 96,
+  "decision": "adopt-optional",
+  "old": "那就再好不过。",
+  "reason": "主审采纳：Ce serait gentil 温和客气话，「您能来就太好了」语气相称"
+ },
+ {
+  "paragraph": 96,
+  "decision": "adopt-optional",
+  "old": "她非常可爱",
+  "reason": "主审采纳：charmante 无程度副词，「很」即可"
+ },
+ {
+  "paragraph": 96,
+  "decision": "adopt-optional",
+  "old": "要不是有几位有趣的客人",
+  "reason": "主审采纳：agréable 令人愉快，补 rencontrer 结识动作"
+ },
+ {
+  "paragraph": 97,
+  "decision": "adopt-optional",
+  "old": "在那些中间层次、正拼命向上攀升的社交圈子里，亲族关系反倒不受重视——这些圈子被一种永不停歇的上升运动裹挟；相反，在像小资产阶级和亲王贵族这样静止不动的圈子里，家族却扮演重要角色",
+  "reason": "主审采纳：原文仅一个 au contraire；删无据「反倒」、合并重复关系从句、统一「家族」，désertée 备受冷落"
+ },
+ {
+  "paragraph": 97,
+  "decision": "adopt-optional",
+  "old": "他们长年困守在同一帮熟人组成的小圈子里",
+  "reason": "主审采纳：vivre sur soi-même 主动自我封闭，toujours 始终，「困守」偏被围困"
+ },
+ {
+  "paragraph": 98,
+  "decision": "adopt-optional",
+  "old": "她对这些亲戚了如指掌，却是日常而琐碎的了解",
+  "reason": "主审采纳：familiale 家常意味须译出；「了如指掌」偏重、「却是」无据转折"
+ },
+ {
+  "paragraph": 99,
+  "decision": "adopt-optional",
+  "old": "有些仅仅是时髦讲究的人家，倒得提防访客太多。",
+  "reason": "主审采纳：peuvent 可以；défendre sa porte 闭门谢客惯用语"
+ },
+ {
+  "paragraph": 99,
+  "decision": "adopt-optional",
+  "old": "难得有人给公爵夫人提一个陌生人，她也不必考量陌生人能给自己带来多少社交地位",
+  "reason": "主审采纳：désigner 引荐；ne songeait pas à 不会想到去，非「不必」"
+ },
+ {
+  "paragraph": 99,
+  "decision": "adopt-optional",
+  "old": "而且她本来也未必会相信他们的话，要不是她注意到：",
+  "reason": "主审采纳：sans doute 多半/无疑，「未必」偏弱"
+ },
+ {
+  "paragraph": 100,
+  "decision": "adopt-optional",
+  "old": "她巴不得能被对方接待。",
+  "reason": "主审采纳：être reçue chez elle 补「到对方府上」处所义"
+ },
+ {
+  "paragraph": 100,
+  "decision": "chief-adjust",
+  "old": "只要有人提起其中一位，比如说起她的一位姻亲姐妹，她立刻换了一副面孔。",
+  "reason": "主审微调：去「只要…时」杂糅，其余按原 edit"
  }
 ]
