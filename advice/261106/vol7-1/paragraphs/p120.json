@@ -1,0 +1,18 @@
+{
+  "id": 120,
+  "edits": [
+    {
+      "old": "布洛克压低了声音对我说",
+      "new": "布洛克又压低声音对我说",
+      "reason": "reprit 表示布洛克接着上一段的话继续说，现译漏掉承接义",
+      "type": "漏译"
+    }
+  ],
+  "optional": [
+    {
+      "old": "不过我是想纯从",
+      "new": "不过我是想从",
+      "reason": "原文 c'est au point de vue balzacien 无 purement 一类限定，「纯」为增译，删去更贴近原文且不触及注释定位词"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 20,
+  "edits": [
+    {
+      "old": "老年的畏缩、下意识的烦躁",
+      "new": "赌气似的蜷缩、老年生理上的愠恼",
+      "reason": "recroquevillement boudeur 是赌气般的蜷缩，dépit physiologique de la vieillesse 是老年生理上的愠恼；现译把 physiologique 误作下意识、丢失 boudeur，并把老年错挂到前一项。",
+      "type": "错译"
+    },
+    {
+      "old": "故意模仿旧贵族乡土腔调的做作",
+      "new": "故意模仿旧贵族近乎乡土的腔调的做作",
+      "reason": "le ton presque paysan 的限定语 presque（近乎）漏译。",
+      "type": "漏译"
+    }
+  ],
+  "optional": [
+    {
+      "old": "让她原本十分和蔼的神情平添了几分皱巴巴的乖戾",
+      "new": "把她原本十分和蔼的神情皱成了几分乖戾",
+      "reason": "était froncée par 意为和蔼本身被皱成乖戾，平添暗示另加，意象略偏；可选更贴近 froncer 的动词。"
+    }
+  ]
+}

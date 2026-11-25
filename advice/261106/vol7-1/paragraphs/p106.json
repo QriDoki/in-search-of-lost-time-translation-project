@@ -1,0 +1,23 @@
+{
+  "id": 106,
+  "edits": [
+    {
+      "old": "尽管他并不怀疑真有这样的人",
+      "new": "尽管他确信并没有这样的人",
+      "reason": "encore qu'il n'en doutât pas 指他毫不怀疑客厅里没有思想不正的人，现译把否定方向译反，颠倒了反讽",
+      "type": "错译"
+    }
+  ],
+  "optional": [
+    {
+      "old": "突然涌来，攫住了他的双腿",
+      "new": "攫住了他的双腿",
+      "reason": "s'empara 仅表攫住，涌来为原文所无；soudain 已由前半句忽然想起译出，突然重复"
+    },
+    {
+      "old": "您总归能安然脱身",
+      "new": "您总归有把握安然脱身",
+      "reason": "补出 vous seriez toujours sûre 中 sûre 的确定语气"
+    }
+  ]
+}

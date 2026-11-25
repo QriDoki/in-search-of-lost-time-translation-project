@@ -1,0 +1,12 @@
+{
+  "id": 250,
+  "edits": [
+    {
+      "old": "一场⊂*社交界的隆重大集会*⊃≼🎭🔤原文 assises mondaines；assises 本可指巡回重罪法庭开庭或隆重会议，此处以法庭式的郑重揶揄社交盛会。≽了！",
+      "new": "⊂*社交界的隆重大集会*⊃≼🎭🔤原文 assises mondaines；assises 本可指巡回重罪法庭开庭或隆重会议，此处以法庭式的郑重揶揄社交盛会。≽之一了！",
+      "reason": "des grandes assises mondaines 与 une des solennités 平行（省略 une），应译「……之一」；现译「一场」漏掉限定语「之一」，删「一场」并于注释后补「之一」，注释内容原样保留。",
+      "type": "漏译"
+    }
+  ],
+  "optional": []
+}

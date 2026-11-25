@@ -1,0 +1,23 @@
+{
+  "id": 113,
+  "edits": [
+    {
+      "old": "她也不愿让他在没有结识诺尔普瓦先生之前就走",
+      "new": "她也不愿让他在尚未获得结识诺尔普瓦先生这份满足之前就走",
+      "reason": "原文 sans avoir eu la satisfaction de connaître M. de Norpois 中的 satisfaction（结识诺尔普瓦先生对布洛克是一份满足/款待）被漏译",
+      "type": "漏译"
+    }
+  ],
+  "optional": [
+    {
+      "old": "再也不能带来任何新收获的旧关系",
+      "new": "再也不能带来任何收益的死残余",
+      "reason": "résidu mort qui ne fructifierait plus 的「死残渣、再不能生息结果」意象被弱化为「旧关系」"
+    },
+    {
+      "old": "既然上流社会中体面的那一部分并不登她的门",
+      "new": "既然上流社会中风雅时髦的那一部分并不登她的门",
+      "reason": "monde élégant 指时髦风雅的上流社会，「体面」偏重得体，语义略偏"
+    }
+  ]
+}
