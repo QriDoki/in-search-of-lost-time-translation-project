@@ -1,0 +1,80 @@
+advice/261106/vol8-1/paragraphs/p344.md
+  s_24039074b1c965::t_edfd0d8b7e03d0 1-12
+advice/261106/vol8-1/paragraphs/p348.md
+  s_24039074b1c965::t_e03faf289b6e6a 1-17
+  s_24039074b1c965::t_294970cb1b327e 18
+advice/261106/vol8-1/paragraphs/p359.md
+  s_24039074b1c965::t_6db8c4362686d6 1-17
+advice/261106/vol8-1/paragraphs/p354.md
+  s_24039074b1c965::t_d0a26cecdea241 1-14
+advice/261106/vol8-1/paragraphs/p345.md
+  s_24039074b1c965::t_8730d59dd09aaa 1-8,11-13
+  s_24039074b1c965::t_d5e3edfc49cdac 9-10,14
+advice/261106/vol8-1/paragraphs/p365.md
+  s_24039074b1c965::t_1a4046d42c2e72 9
+  s_24039074b1c965::t_95350200731ed3 1-8,10-16
+advice/261106/vol8-1/paragraphs/p346.md
+  s_24039074b1c965::t_d261a3afb5e386 12,22
+  s_24039074b1c965::t_926925df1ba05e 1-11,13-21
+advice/261106/vol8-1/paragraphs/p343.md
+  s_24039074b1c965::t_326621ed8091f9 1-16
+advice/261106/vol8-1/paragraphs/p353.md
+  s_24039074b1c965::t_a288901dec3663 10,19
+  s_24039074b1c965::t_6ad8de9877d6f6 1-9,11-18
+advice/261106/vol8-1/paragraphs/p347.md
+  s_24039074b1c965::t_32da49a67bb9ca 1-16
+advice/261106/vol8-1/paragraphs/p355.md
+  s_24039074b1c965::t_b2ee62cf37b312 1-10,12-23,26-28
+  s_24039074b1c965::t_c803ca6e025d1c 11,24-25,29
+advice/261106/vol8-1/paragraphs/p363.md
+  s_24039074b1c965::t_405989a814c1e4 11
+advice/261106/vol8-1/paragraphs/p349.md
+  s_24039074b1c965::t_8e5cb936f64249 15
+  s_24039074b1c965::t_830cdda6424bb2 1-14
+advice/261106/vol8-1/paragraphs/p360.md
+  s_24039074b1c965::t_b8f3946cb7474c 8-9,12
+  s_24039074b1c965::t_1e466b3884e217 1-7,10-11,13-16
+advice/261106/vol8-1/paragraphs/p357.md
+  s_24039074b1c965::t_59d8aa0c598f2d 1-27
+  s_24039074b1c965::t_bccd9b42bad3eb 28
+advice/261106/vol8-1/paragraphs/p366.md
+  s_24039074b1c965::t_51fdd3158afaaa 1-12
+advice/261106/vol8-1/paragraphs/p362.md
+  s_24039074b1c965::t_574b8b7095df7b 1-15
+advice/261106/vol8-1/paragraphs/p352.md
+  s_24039074b1c965::t_9bb98b5cbc9bb0 1-15
+advice/261106/vol8-1/paragraphs/p358.md
+  s_24039074b1c965::t_44f023b7b1acc0 1-13,15-17
+  s_24039074b1c965::t_f2197747c33f21 18
+  s_24039074b1c965::t_fc5d110ae5a6b7 14
+advice/261106/vol8-1/paragraphs/p361.md
+  s_24039074b1c965::t_a5185b0be8218a 1-18
+advice/261106/vol8-1/paragraphs/p350.md
+  s_24039074b1c965::t_2ff0a47f567267 16,20,28,42,46
+  s_24039074b1c965::t_c612f28ea91912 1-15,17-19,21-27,29-41,43-45
+advice/261106/vol8-1/paragraphs/p364.md
+  s_24039074b1c965::t_40bda3c3aec3ef 1-8,10,13-16
+  s_24039074b1c965::t_6a4cf8cac7a38f 9,11-12,17
+advice/261106/vol8-1/paragraphs/p356.md
+  s_24039074b1c965::t_21e6b99cf07981 1-23
+polish/dev/chapters/polished-vol8-1.md
+  s_24039074b1c965::t_9a759c59f21e7e 711,713,715,717,719,721,723,725,727,729,731,733
+advice/261106/vol8-1/paragraphs/p351.md
+  s_24039074b1c965::t_3e6c5e323b9d66 1-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "6ffdd14105f46a896921251df70d72c2356a7af3",
+  "prompts": {},
+  "sessions": {
+    "s_24039074b1c965": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20c48-82b6-7dc3-a2bf-431387530ba6",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
