@@ -1,0 +1,65 @@
+advice/261106/vol8-1/paragraphs/p376.md
+  s_24039074b1c965::t_a5cbe28cbf2886 1-12
+advice/261106/vol8-1/paragraphs/p367.md
+  s_24039074b1c965::t_b7479749b812b0 1-12
+advice/261106/vol8-1/paragraphs/p382.md
+  s_24039074b1c965::t_ebe76d7a90f7fa 1-12
+advice/261106/vol8-1/paragraphs/p371.md
+  s_24039074b1c965::t_ba69a1725e5953 1-13
+advice/261106/vol8-1/paragraphs/p375.md
+  s_24039074b1c965::t_d74c86d54a7e99 1-8,10-12,15,17-21
+  s_24039074b1c965::t_ce7752063ff028 9,13-14,16,22
+polish/dev/chapters/polished-vol8-1.md
+  s_24039074b1c965::t_0817ce7cd5f030 735,737,741,743,745,747,749,751,753,755,757,759
+  s_24039074b1c965::t_2136b0d7545051 769
+  s_24039074b1c965::t_a26033dba76bba 761,763,767
+advice/261106/vol8-1/paragraphs/p370.md
+  s_24039074b1c965::t_15d892767e69ad 1-16
+advice/261106/vol8-1/paragraphs/p377.md
+  s_24039074b1c965::t_bf355cc2c515a3 1-9,11-32
+  s_24039074b1c965::t_88c132c5d153fc 10,33
+advice/261106/vol8-1/paragraphs/p374.md
+  s_24039074b1c965::t_6dfb661a0de1d9 8-10,14,18-19,23
+  s_24039074b1c965::t_0ba1376895fc19 1-7,11-13,15-17,20-22
+advice/261106/vol8-1/paragraphs/p369.md
+  s_24039074b1c965::t_cd946991098085 1-12
+advice/261106/vol8-1/paragraphs/p384.md
+  s_24039074b1c965::t_2136b0d7545051 12-13,16
+  s_24039074b1c965::t_9661546a3ccb87 1-11,14-15
+advice/261106/vol8-1/paragraphs/p380.md
+  s_24039074b1c965::t_dbd336cef55627 1-16
+  s_24039074b1c965::t_6017cb55b4a9ba 17
+advice/261106/vol8-1/paragraphs/p381.md
+  s_24039074b1c965::t_69fd5243892962 44
+  s_24039074b1c965::t_6fee0b349fd2e5 1-43
+advice/261106/vol8-1/paragraphs/p378.md
+  s_24039074b1c965::t_71e47895013351 1-12
+advice/261106/vol8-1/paragraphs/p379.md
+  s_24039074b1c965::t_b892055936f9d5 14
+  s_24039074b1c965::t_76fd8bad8c83b3 1-13,15-19
+advice/261106/vol8-1/paragraphs/p372.md
+  s_24039074b1c965::t_7f5ae28462e864 12
+  s_24039074b1c965::t_44fe2b00ac0700 1-11,13,15-23
+  s_24039074b1c965::t_f10e35a4e19bc0 14,24
+advice/261106/vol8-1/paragraphs/p373.md
+  s_24039074b1c965::t_91a4d82309bee5 1-7,9-20,22-24
+  s_24039074b1c965::t_c4629cf17a6a9c 8,21,25
+advice/261106/vol8-1/paragraphs/p383.md
+  s_24039074b1c965::t_d1e8595a0914af 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "64c6ed8f26eb15ee875ef9f31cd7bd3ba9b0500a",
+  "prompts": {},
+  "sessions": {
+    "s_24039074b1c965": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20c48-82b6-7dc3-a2bf-431387530ba6",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
