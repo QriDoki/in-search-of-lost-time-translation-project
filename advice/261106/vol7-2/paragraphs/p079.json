@@ -1,0 +1,18 @@
+{
+  "id": 79,
+  "edits": [
+    {
+      "old": "脸颊微微一动",
+      "new": "脸颊几乎难以察觉地微微一笑",
+      "reason": "sourirent 意为「微笑」，现译「微微一动」泛化为一般动作，丢失脸颊因自得而含笑的意象；imperceptiblement 以「几乎难以察觉」补出。",
+      "type": "错译"
+    },
+    {
+      "old": "浓密胡茬",
+      "new": "过于浓密的胡茬",
+      "reason": "barbe trop forte 的 trop 含「过于」程度义，现译「浓密」略去，可酌情补出。",
+      "type": "漏译"
+    }
+  ],
+  "optional": []
+}

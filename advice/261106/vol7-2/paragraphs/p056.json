@@ -1,0 +1,48 @@
+{
+  "id": 56,
+  "edits": [
+    {
+      "old": "最大变化",
+      "new": "巨大变化",
+      "reason": "la grande modification 为原级'巨大的变化'，非最高级 la plus grande，'最大'属增译",
+      "type": "增译"
+    },
+    {
+      "old": "意识刚才还栖息其中",
+      "new": "心智刚才还栖息其中",
+      "reason": "intelligence 应译'心智'，与同句 conscience（意识）区分，避免与后文'心智'指代混乱",
+      "type": "错译"
+    },
+    {
+      "old": "那片朦胧微光",
+      "new": "那片只是稍稍朦胧一些的光",
+      "reason": "补回 un peu plus tamisée 的比较级与程度，睡醒光线相近是本段记忆干扰论证的关键",
+      "type": "漏译"
+    },
+    {
+      "old": "仿佛我们的心智曾沉在乳白色的水底",
+      "new": "仿佛在乳白色的水底",
+      "reason": "comme au fond opalin des eaux 是修饰 reposait（栖息）的处所比喻，'曾沉'改栖息为下沉并添已完成语气，失真",
+      "type": "错译"
+    },
+    {
+      "old": "因为已再无法记起它",
+      "new": "因为我们再也记不起它了",
+      "reason": "'已＋再＋无法'叠用生硬，ne…plus 宜译'再也……不'，符合现代中文习惯",
+      "type": "中文习惯"
+    },
+    {
+      "old": "也带走了梦的种种景象，连梦的形貌也一并消失",
+      "new": "也带走了梦的种种景象",
+      "reason": "les aspects du songe 仅一个宾语，现译重复译出'景象'与'形貌'，属增译且句式杂糅",
+      "type": "增译"
+    },
+    {
+      "old": "那虚假的存在感",
+      "new": "那虚假的存在",
+      "reason": "l'existence mensongère 指梦境虚假的'存在'本身，'存在感'为现代心理学术语，语义窄化且语体不合",
+      "type": "错译"
+    }
+  ],
+  "optional": []
+}

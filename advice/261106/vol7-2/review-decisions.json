@@ -1,0 +1,866 @@
+[
+  {
+    "paragraph": 1,
+    "decision": "adopt-optional",
+    "old": "如今我必须瞒着她我对她病情的看法、瞒着我的忧虑，甚至比对陌生路人还要守口如瓶。",
+    "reason": "主审采纳：forcé 不得不/把字句解双她；venait de 刚刚"
+  },
+  {
+    "paragraph": 1,
+    "decision": "adopt-optional",
+    "old": "心事和忧伤，如今她全还给了我。",
+    "reason": "主审采纳：forcé 不得不/把字句解双她；venait de 刚刚"
+  },
+  {
+    "paragraph": 2,
+    "decision": "reject-optional",
+    "old": "没经您的医生邀请会诊，我不能贸然接手。",
+    "reason": "现译「不能贸然接手」口吻自然，me substituer 语义已含；属措辞偏好，保留"
+  },
+  {
+    "paragraph": 3,
+    "decision": "adopt-optional",
+    "old": "至少也和他们总有往来",
+    "reason": "删去添加的恒常频率「总」，贴合 en relations avec eux"
+  },
+  {
+    "paragraph": 4,
+    "decision": "adopt-optional",
+    "old": "她现在实在经不起再跑这一趟",
+    "reason": "peu en état 无「再」意，删去避免误读此趟已跑过"
+  },
+  {
+    "paragraph": 5,
+    "decision": "reject-optional",
+    "old": "商业部长家赴宴",
+    "reason": "商业部长为历史语境译法，与既有译注及第011段一致，保留；不改锚文字"
+  },
+  {
+    "paragraph": 5,
+    "decision": "reject-optional",
+    "old": "我顶多能抽出十五分钟给她",
+    "reason": "「紧打紧」方言口吻超出原语域，顶多已传达上限；保留"
+  },
+  {
+    "paragraph": 6,
+    "decision": "reject-optional",
+    "old": "还戒备地看了我一眼",
+    "reason": "「还戒备地看了我一眼」已传达 non sans 曲言，简洁；保留"
+  },
+  {
+    "paragraph": 7,
+    "decision": "adopt-optional",
+    "old": "就发生在今天下午，一个日程安排得再明白不过的下午，一个每一小时怎么用都早已安排好的下午",
+    "reason": "主审采纳：incertain 反义呼应/bon air 新鲜空气/三重形容词补足（习见代亲切）"
+  },
+  {
+    "paragraph": 7,
+    "decision": "adopt-optional",
+    "old": "为的是一个月下来凑足所需的户外空气",
+    "reason": "主审采纳：incertain 反义呼应/bon air 新鲜空气/三重形容词补足（习见代亲切）"
+  },
+  {
+    "paragraph": 7,
+    "decision": "adopt-optional",
+    "old": "因为死亡在这里呈现出一种人们熟悉的寻常面貌",
+    "reason": "主审采纳：incertain 反义呼应/bon air 新鲜空气/三重形容词补足（习见代亲切）"
+  },
+  {
+    "paragraph": 8,
+    "decision": "adopt-optional",
+    "old": "都得耗费生命的气力，也要变成一场令人筋疲力尽的搏斗",
+    "reason": "devient 直陈并列，「并」较「也要」贴合"
+  },
+  {
+    "paragraph": 10,
+    "decision": "adopt-optional",
+    "old": "他那副生硬的神气却变了",
+    "reason": "rogue 冷傲/傲慢，「生硬」语义偏"
+  },
+  {
+    "paragraph": 10,
+    "decision": "reject-optional",
+    "old": "据说还在筹备一次为时尚远的共和国总统竞选",
+    "reason": "「为时尚远」已传达 lointaine，「或早或晚」偏移语义；保留"
+  },
+  {
+    "paragraph": 9,
+    "decision": "adopt-optional",
+    "old": "都被那只⊂无形的天使⊃",
+    "reason": "主审采纳：量词那位/删重复定语/从…中收尾"
+  },
+  {
+    "paragraph": 9,
+    "decision": "adopt-optional",
+    "old": "正像那些猜疑情人忠贞的情人：同一种疑虑",
+    "reason": "主审采纳：量词那位/删重复定语/从…中收尾"
+  },
+  {
+    "paragraph": 9,
+    "decision": "reject-optional",
+    "old": "像一个爱搭话的邻居、一位混得极熟的房客那样",
+    "reason": "liant 拆分展开为生动意译，语义不偏；属风格偏好，保留"
+  },
+  {
+    "paragraph": 9,
+    "decision": "adopt-optional",
+    "old": "从她按时听见他弄出的响动，她推断出他的习惯",
+    "reason": "主审采纳：量词那位/删重复定语/从…中收尾"
+  },
+  {
+    "paragraph": 11,
+    "decision": "adopt-optional",
+    "old": "您外祖母恐怕已无力回天",
+    "reason": "主审采纳并改「没救了」，与第012段 qui était perdue 译法一致；无力回天主语搭配欠妥"
+  },
+  {
+    "paragraph": 11,
+    "decision": "reject-optional",
+    "old": "再说，有戈达尔医生照料，你们也尽可安心。",
+    "reason": "en excellentes mains 的褒义已由「尽可安心」传达；点明医术高明属可选显化，保留"
+  },
+  {
+    "paragraph": 12,
+    "decision": "reject-optional",
+    "old": "教授还在里面大发雷霆，我却站在楼梯平台上",
+    "reason": "「却」的反讽并置恰当，agent 亦承认「却」亦通；保留"
+  },
+  {
+    "paragraph": 13,
+    "decision": "adopt-optional",
+    "old": "我们的出租马车得先沿着这堵墙走上一段",
+    "reason": "主审采纳"
+  },
+  {
+    "paragraph": 13,
+    "decision": "adopt-optional",
+    "old": "我不愿让母亲太注意她面容的改变、嘴角的歪斜",
+    "reason": "主审采纳"
+  },
+  {
+    "paragraph": 13,
+    "decision": "adopt-optional",
+    "old": "外祖母半藏在披巾里",
+    "reason": "主审采纳"
+  },
+  {
+    "paragraph": 14,
+    "decision": "adopt-optional",
+    "old": "在有机会扭断鸡脖子以前，她早已学会扯下蜻蜓的翅膀",
+    "reason": "主审采纳"
+  },
+  {
+    "paragraph": 15,
+    "decision": "adopt-optional",
+    "old": "于是她不愿让女儿失望",
+    "reason": "主审采纳"
+  },
+  {
+    "paragraph": 15,
+    "decision": "adopt-optional",
+    "old": "想陪伴女儿熬过她有生以来最痛苦的时刻",
+    "reason": "主审采纳"
+  },
+  {
+    "paragraph": 16,
+    "decision": "reject-optional",
+    "old": "好啦，我的女儿！",
+    "reason": "「我的女儿」与本章多处呼语一致，可接受；保留"
+  },
+  {
+    "paragraph": 16,
+    "decision": "adopt-optional",
+    "old": "好啦，我的女儿！",
+    "reason": "主审采纳：仅补「是」顺句，保留「一点儿也不」的反讽语气"
+  },
+  {
+    "paragraph": 17,
+    "decision": "reject-optional",
+    "old": "不愿去看她脸上别处",
+    "reason": "「脸上别处」简洁达意，le reste 语义未失；保留"
+  },
+  {
+    "paragraph": 18,
+    "decision": "reject-optional",
+    "old": "女儿向你保证。",
+    "reason": "「女儿向你保证」中文自称已通顺自然；补「你的」属偏好，保留"
+  },
+  {
+    "paragraph": 19,
+    "decision": "adopt-optional",
+    "old": "在那无比亲爱的额头上",
+    "reason": "主审采纳"
+  },
+  {
+    "paragraph": 21,
+    "decision": "adopt-optional",
+    "old": "我们的谎话，弗朗索瓦丝一眼就能看穿",
+    "reason": "主审采纳：d'avance 事先义落实"
+  },
+  {
+    "paragraph": 22,
+    "decision": "adopt-optional",
+    "old": "如此正直、威严而又管用的仆役规训者",
+    "reason": "主审采纳：noble 高尚"
+  },
+  {
+    "paragraph": 22,
+    "decision": "adopt-optional",
+    "old": "她绝不容许我们家哪个仆人有负于我们",
+    "reason": "主审采纳：补回 manquât 引号存反讽距离"
+  },
+  {
+    "paragraph": 22,
+    "decision": "adopt-optional",
+    "old": "她这个领衔的演员决不许别人抢了角色",
+    "reason": "主审采纳：titulaire 正牌"
+  },
+  {
+    "paragraph": 23,
+    "decision": "adopt-optional",
+    "old": "而我们又无法以任何真正的疗效补偿这些痛苦",
+    "reason": "主审采纳：补 que nous lui causions 自责语气"
+  },
+  {
+    "paragraph": 23,
+    "decision": "adopt-optional",
+    "old": "让母亲方才或许听到的那些呻吟",
+    "reason": "主审采纳：celles 指 plaintes，改抱怨一致"
+  },
+  {
+    "paragraph": 24,
+    "decision": "reject-optional",
+    "old": "唉！我的女儿",
+    "reason": "呼语「我的女儿」与本章一致，保留"
+  },
+  {
+    "paragraph": 25,
+    "decision": "adopt-optional",
+    "old": "眼中的哀鸣",
+    "reason": "主审采纳：gémissement 统一呻吟，regards 目光"
+  },
+  {
+    "paragraph": 25,
+    "decision": "adopt-optional",
+    "old": "那一阵痉挛般的抽动",
+    "reason": "主审采纳：sursaut 单次、convulsif 痉挛性"
+  },
+  {
+    "paragraph": 26,
+    "decision": "reject-edit",
+    "old": "我抱怨是因为",
+    "reason": "「抱怨」准确译 se plaindre 且自然；「哼哼」偏非言语呻吟，属偏好，降级保留"
+  },
+  {
+    "paragraph": 26,
+    "decision": "reject-optional",
+    "old": "躺得难受",
+    "reason": "「躺得难受」口语达意，mal couchée 语义未失；保留"
+  },
+  {
+    "paragraph": 26,
+    "decision": "adopt-optional",
+    "old": "总觉得头发乱了",
+    "reason": "主审采纳：删无据频率「总」"
+  },
+  {
+    "paragraph": 27,
+    "decision": "adopt-optional",
+    "old": "她终有一刻就能找到藏在里面的病魔",
+    "reason": "主审采纳：atteindre 触及，去重复"
+  },
+  {
+    "paragraph": 28,
+    "decision": "adopt-optional",
+    "old": "总会找到办法的",
+    "reason": "主审采纳：on va trouver 我们/即时"
+  },
+  {
+    "paragraph": 29,
+    "decision": "chief-adjust",
+    "old": "≽。但这作品尚未全部完成。",
+    "reason": "edit2 补「的」修领属结构"
+  },
+  {
+    "paragraph": 29,
+    "decision": "adopt-optional",
+    "old": "这场无形的雕刻已近完成",
+    "reason": "主审采纳：Ce travail de statuaire 无无形义"
+  },
+  {
+    "paragraph": 29,
+    "decision": "adopt-optional",
+    "old": "一吻、一啜泣，还是一笑的凿子所刻",
+    "reason": "主审采纳：啜泣量词一声"
+  },
+  {
+    "paragraph": 29,
+    "decision": "adopt-optional",
+    "old": "外祖母也竭力把脸转向妈妈。",
+    "reason": "主审采纳：tendre 伸脸相就"
+  },
+  {
+    "paragraph": 30,
+    "decision": "adopt-optional",
+    "old": "他的诊箱里装着他所有病人的各种鼻炎",
+    "reason": "主审采纳：rhume 伤风感冒非鼻炎，风与风袋呼应"
+  },
+  {
+    "paragraph": 30,
+    "decision": "adopt-optional",
+    "old": "都是一种没有被弄明白的鼻病",
+    "reason": "主审采纳：mal comprise 被误解"
+  },
+  {
+    "paragraph": 30,
+    "decision": "adopt-optional",
+    "old": "我们心里当然想的是完全另一回事",
+    "reason": "主审采纳：语序顺句"
+  },
+  {
+    "paragraph": 31,
+    "decision": "adopt-optional",
+    "old": "此前我们尚未把这场疾病从病榻旁纷繁的痛苦感受中辨认出来",
+    "reason": "主审采纳：pas assez isolé 程度否定+剥离义"
+  },
+  {
+    "paragraph": 32,
+    "decision": "reject-edit",
+    "old": "他一向喜欢连续一阵子去同一户人家坐坐，在那里他无须费心应酬。",
+    "reason": "frais à faire 此处指社交精力，「费心应酬」达意；「破费」误窄化为金钱，se fixer 译待上一阵亦未必胜坐坐；降级保留"
+  },
+  {
+    "paragraph": 32,
+    "decision": "adopt-optional",
+    "old": "如今是为了长久地沉默而无人要求他开口",
+    "reason": "主审采纳：目的结构主语一致"
+  },
+  {
+    "paragraph": 32,
+    "decision": "adopt-optional",
+    "old": "他几乎什么也看不见了",
+    "reason": "主审采纳：ne plus voir goutte 绝对语气"
+  },
+  {
+    "paragraph": 33,
+    "decision": "adopt-optional",
+    "old": "当年只有文人赏识那些作品",
+    "reason": "主审采纳：connues 知晓"
+  },
+  {
+    "paragraph": 33,
+    "decision": "adopt-optional",
+    "old": "如今声势日盛，在大众中迅速传扬开来",
+    "reason": "主审采纳：extraordinaire 非凡传播力，删迅速"
+  },
+  {
+    "paragraph": 33,
+    "decision": "adopt-optional",
+    "old": "她们那股冲劲十足的青春和吵闹的欢乐叫你疲倦",
+    "reason": "主审采纳：补 mais 转折却"
+  },
+  {
+    "paragraph": 34,
+    "decision": "reject-optional",
+    "old": "他原本令我倾心的明澈，如今反显得浅薄",
+    "reason": "「原本…如今反」对照显化隐含对比，有助理解且非误导；保留"
+  },
+  {
+    "paragraph": 35,
+    "decision": "adopt-optional",
+    "old": "正是那些我们从前不肯承认画的是女人的雷诺阿人物",
+    "reason": "主审采纳：où 不肯从中看出女人，雷诺阿画作"
+  },
+  {
+    "paragraph": 36,
+    "decision": "adopt-optional",
+    "old": "却陌生得让我难以跟上的新联系",
+    "reason": "主审采纳：n'avais pas l'habitude 不习惯，呼应主题"
+  },
+  {
+    "paragraph": 36,
+    "decision": "adopt-optional",
+    "old": "我想到，距离贝戈特当年同样令我耳目一新的时候，并没过去多少年；当年贝戈特同样为我改换了整个世界的面貌，正如今天我期待那位新作家做到的那样。",
+    "reason": "主审采纳：还原 c'était Bergotte qui 强调，删耳目一新"
+  },
+  {
+    "paragraph": 36,
+    "decision": "adopt-optional",
+    "old": "不会又冒出一个新人，到那时，今天的新星也会迅速退到贝戈特那一边，成了旧作家？",
+    "reason": "主审采纳：l'actuel 今天这位新作家，删星喻/到那时/成了旧作家"
+  },
+  {
+    "paragraph": 37,
+    "decision": "adopt-optional",
+    "old": "他一下子让我对那位新作家倒了胃口",
+    "reason": "主审采纳：me dégoûta 无突然体貌"
+  },
+  {
+    "paragraph": 37,
+    "decision": "adopt-optional",
+    "old": "说那人长得酷似布洛克，几乎认错人。",
+    "reason": "主审采纳：补使动对象让人认错"
+  },
+  {
+    "paragraph": 38,
+    "decision": "reject-optional",
+    "old": "大半已经流注到自己的书里",
+    "reason": "「流注」为可接受文学用语，非误译；保留"
+  },
+  {
+    "paragraph": 38,
+    "decision": "reject-optional",
+    "old": "他日益消瘦，仿佛那些书都是从他身上手术切除的器官",
+    "reason": "「器官」为 opéré d'eux 的合理意象显化，agent 亦许保留；保留"
+  },
+  {
+    "paragraph": 39,
+    "decision": "adopt-optional",
+    "old": "这是一份妇人特有的细心",
+    "reason": "主审采纳：discrète 不事声张"
+  },
+  {
+    "paragraph": 39,
+    "decision": "adopt-optional",
+    "old": "更好的是，见我们推辞",
+    "reason": "主审采纳：et mieux 讽刺递进更妙"
+  },
+  {
+    "paragraph": 39,
+    "decision": "adopt-optional",
+    "old": "她便愿意四处托人，为我们物色一名男佣",
+    "reason": "主审采纳：恢复 mettre en campagne 引号标记"
+  },
+  {
+    "paragraph": 39,
+    "decision": "adopt-optional",
+    "old": "像模特儿两次坐姿写生的间隙",
+    "reason": "主审采纳：pose 未限定坐姿"
+  },
+  {
+    "paragraph": 40,
+    "decision": "adopt-optional",
+    "old": "也未必说得更好",
+    "reason": "主审采纳：条件式过去确断，也不会"
+  },
+  {
+    "paragraph": 41,
+    "decision": "adopt-optional",
+    "old": "颇得住户敬重，尤其是朱皮安",
+    "reason": "主审采纳（前次已应用）"
+  },
+  {
+    "paragraph": 41,
+    "decision": "adopt-optional",
+    "old": "我只盼弗朗索瓦丝守在床边别走",
+    "reason": "主审采纳（前次已应用）"
+  },
+  {
+    "paragraph": 42,
+    "decision": "adopt-optional",
+    "old": "几乎独一无二的意见",
+    "reason": "主审采纳（前次已应用）"
+  },
+  {
+    "paragraph": 42,
+    "decision": "adopt-optional",
+    "old": "不让病人出去换换地方？换换空气，说不定胃口就好了……",
+    "reason": "主审采纳（前次已应用）"
+  },
+  {
+    "paragraph": 43,
+    "decision": "adopt-optional",
+    "old": "有一段时间，尿毒症的症候转移到了外祖母的眼睛上。",
+    "reason": "主审采纳（前次已应用）"
+  },
+  {
+    "paragraph": 43,
+    "decision": "adopt-optional",
+    "old": "于是便凭着那股笨拙，显得分外突出、好客得过分。",
+    "reason": "主审采纳（前次已应用）"
+  },
+  {
+    "paragraph": 43,
+    "decision": "adopt-optional",
+    "old": "外祖母说出口的话，几乎每一句都得让人请她重说一遍。",
+    "reason": "主审采纳（前次已应用）"
+  },
+  {
+    "paragraph": 44,
+    "decision": "adopt-optional",
+    "old": "她被自己的无能为力制服了，她无力地垂下头",
+    "reason": "主审采纳（前次已应用）"
+  },
+  {
+    "paragraph": 44,
+    "decision": "adopt-optional",
+    "old": "或者只做些无需动脑的小动作",
+    "reason": "主审采纳（前次已应用）"
+  },
+  {
+    "paragraph": 45,
+    "decision": "adopt-optional",
+    "old": "大家硬把一个投水寻死的寡妇从水里救了上来；外祖母后来对我说过",
+    "reason": "主审采纳（前次已应用）"
+  },
+  {
+    "paragraph": 46,
+    "decision": "adopt-optional",
+    "old": "她几乎粗暴地同母亲扭打了一阵",
+    "reason": "主审采纳（前次已应用）"
+  },
+  {
+    "paragraph": 46,
+    "decision": "adopt-optional",
+    "old": "那件披在她身上的毛皮大衣",
+    "reason": "主审采纳（前次已应用）"
+  },
+  {
+    "paragraph": 47,
+    "decision": "adopt-optional",
+    "old": "不安、哀怨、",
+    "reason": "主审采纳（前次已应用）"
+  },
+  {
+    "paragraph": 47,
+    "decision": "adopt-optional",
+    "old": "、惊惶；",
+    "reason": "主审采纳（前次已应用）"
+  },
+  {
+    "paragraph": 48,
+    "decision": "adopt-optional",
+    "old": "一张她自己也根本料想不到会变成的脸",
+    "reason": "主审采纳：ne pouvait se figurer 想象不出"
+  },
+  {
+    "paragraph": 48,
+    "decision": "adopt-optional",
+    "old": "那因刚才的梳头而备受折磨、却依旧美丽的额头",
+    "reason": "主审采纳并收紧语域：删因刚才的梳头/却依旧，备受折磨代折腾得够呛"
+  },
+  {
+    "paragraph": 49,
+    "decision": "adopt-optional",
+    "old": "必须设法减轻脑部充血。",
+    "reason": "主审采纳：il fallait 必须，删设法"
+  },
+  {
+    "paragraph": 50,
+    "decision": "adopt-optional",
+    "old": "像油液一样柔润而澄亮",
+    "reason": "主审采纳：liquides 液态润泽"
+  },
+  {
+    "paragraph": 50,
+    "decision": "adopt-optional",
+    "old": "又轻轻捏了捏我的手",
+    "reason": "主审采纳：presser 握/压"
+  },
+  {
+    "paragraph": 51,
+    "decision": "adopt-optional",
+    "old": "才强忍水蛭在身上蠕动",
+    "reason": "主审采纳：supportait 忍受着"
+  },
+  {
+    "paragraph": 52,
+    "decision": "adopt-optional",
+    "old": "到头来竟无不落到试穿衣裳这件事上",
+    "reason": "主审采纳：删惊讶标记竟，格言式反讽"
+  },
+  {
+    "paragraph": 53,
+    "decision": "adopt-optional",
+    "old": "被巨大悲痛压住的人",
+    "reason": "主审采纳：accabler 压垮"
+  },
+  {
+    "paragraph": 53,
+    "decision": "adopt-optional",
+    "old": "连别人最小的麻烦也倍加顾惜的温柔",
+    "reason": "主审采纳：fût-ce 哪怕，体贴入微"
+  },
+  {
+    "paragraph": 54,
+    "decision": "reject-optional",
+    "old": "——对不起，把你吵醒了。",
+    "reason": "母亲口语「对不起，把你吵醒了」自然且合唤醒情境；troubler/venir 差异属偏好，保留"
+  },
+  {
+    "paragraph": 55,
+    "decision": "adopt-optional",
+    "old": "我一边醒过来，一边答道",
+    "reason": "主审采纳：瞬间动词醒过来用连动式"
+  },
+  {
+    "paragraph": 56,
+    "decision": "adopt-optional",
+    "old": "那虚假的存在感",
+    "reason": "主审采纳：l'existence mensongère 存在本身"
+  },
+  {
+    "paragraph": 57,
+    "decision": "adopt-optional",
+    "old": "仿佛怕一句话便会伤着我",
+    "reason": "主审采纳：删具体化条件"
+  },
+  {
+    "paragraph": 59,
+    "decision": "adopt-optional",
+    "old": "她的眼睑闭着，却因无法完全合拢，仍露出一小片瞳仁",
+    "reason": "主审采纳：补 plutôt que parce qu'elles s'ouvraient 对比"
+  },
+  {
+    "paragraph": 59,
+    "decision": "adopt-optional",
+    "old": "如今它已失去任何意思",
+    "reason": "主审采纳：什么意思也不表示"
+  },
+  {
+    "paragraph": 60,
+    "decision": "adopt-optional",
+    "old": "擦一擦外祖母的额头",
+    "reason": "主审采纳：imbiber 润湿，与注湿敷一致"
+  },
+  {
+    "paragraph": 62,
+    "decision": "adopt-optional",
+    "old": "盖尔芒特先生的到来，恰像人家正忙着动身，偏有位客人登门。",
+    "reason": "主审采纳：en voyage 远行呼应行李箱"
+  },
+  {
+    "paragraph": 62,
+    "decision": "reject-optional",
+    "old": "我推说此刻不便惊动他。",
+    "reason": "「推说」简洁达意，s'excuser sur 已传达；婉言致歉属偏好，保留"
+  },
+  {
+    "paragraph": 63,
+    "decision": "adopt-optional",
+    "old": "他对我从不拒绝",
+    "reason": "主审采纳：il ne me refuse rien 有求必应"
+  },
+  {
+    "paragraph": 64,
+    "decision": "adopt-optional",
+    "old": "当作一家无人能及的名店来称引",
+    "reason": "主审采纳：fournisseur 引号反讽供应商"
+  },
+  {
+    "paragraph": 65,
+    "decision": "adopt-optional",
+    "old": "而且他认定这是维护自己“完美绅士”名声不可缺少的一步",
+    "reason": "主审采纳：恢复 rien n'était plus 三重排比"
+  },
+  {
+    "paragraph": 65,
+    "decision": "adopt-optional",
+    "old": "并说我母亲似乎被这场不幸打击得很厉害",
+    "reason": "主审采纳：affectée 引号反讽"
+  },
+  {
+    "paragraph": 66,
+    "decision": "adopt-optional",
+    "old": "特获破例恩准，便于当天赶来。",
+    "reason": "主审采纳：当天便赶来了，免便于误读"
+  },
+  {
+    "paragraph": 66,
+    "decision": "adopt-optional",
+    "old": "却发现他在指缝间留了一道缝",
+    "reason": "主审采纳：手指间小缝，补 petit 消冗余"
+  },
+  {
+    "paragraph": 67,
+    "decision": "adopt-optional",
+    "old": "我出去了一会儿。",
+    "reason": "主审采纳：de la chambre 走出房间"
+  },
+  {
+    "paragraph": 67,
+    "decision": "adopt-optional",
+    "old": "这歌声与方才那可怕的濒死喘鸣一样",
+    "reason": "主审采纳：le râle 无评价词"
+  },
+  {
+    "paragraph": 67,
+    "decision": "adopt-optional",
+    "old": "还混进了几声更像人类发出的叹息",
+    "reason": "主审采纳：plus humains 更带人情味"
+  },
+  {
+    "paragraph": 68,
+    "decision": "adopt-optional",
+    "old": "本身却仍然很大",
+    "reason": "主审采纳：n'en était pas moins 丝毫未减"
+  },
+  {
+    "paragraph": 69,
+    "decision": "adopt-optional",
+    "old": "最后竟像戴上了一副漠然的面具",
+    "reason": "主审采纳：finissait par 久而久之便"
+  },
+  {
+    "paragraph": 70,
+    "decision": "adopt-optional",
+    "old": "每到生死攸关的关头",
+    "reason": "主审采纳：生死关头凝练"
+  },
+  {
+    "paragraph": 70,
+    "decision": "adopt-optional",
+    "old": "推说他身子娇弱",
+    "reason": "主审采纳：délicat de santé 体质虚弱，合大汉反讽"
+  },
+  {
+    "paragraph": 72,
+    "decision": "reject-optional",
+    "old": "而在去赴那“一切”之前，他总是早已“把什么都想到了”",
+    "reason": "保留 « tout » 引号讳饰修辞；「赴一切」虽略拗，引号不可舍，保留"
+  },
+  {
+    "paragraph": 72,
+    "decision": "adopt-optional",
+    "old": "他得了个我们并不知道的绰号",
+    "reason": "主审采纳：ignorions 未完成过去，补当时"
+  },
+  {
+    "paragraph": 73,
+    "decision": "adopt-optional",
+    "old": "他近来有些耳背",
+    "reason": "主审采纳：était devenu 状态变化，删近来"
+  },
+  {
+    "paragraph": 74,
+    "decision": "adopt-optional",
+    "old": "信上说贡布雷天气坏透了",
+    "reason": "主审采纳：那边承前指代，免贡布雷重复"
+  },
+  {
+    "paragraph": 76,
+    "decision": "adopt-optional",
+    "old": "你说哪儿天气不好来着？",
+    "reason": "主审采纳：与下句您提到贡布雷统一尊称"
+  },
+  {
+    "paragraph": 78,
+    "decision": "adopt-optional",
+    "old": "这不奇怪",
+    "reason": "主审采纳：ne m'étonne pas 个人反应"
+  },
+  {
+    "paragraph": 78,
+    "decision": "adopt-optional",
+    "old": "每次这边天气坏，贡布雷就天好",
+    "reason": "主审采纳：天气不好更自然"
+  },
+  {
+    "paragraph": 79,
+    "decision": "adopt-optional",
+    "old": "浓密胡茬",
+    "reason": "主审采纳：barbe trop forte 过于浓密"
+  },
+  {
+    "paragraph": 80,
+    "decision": "reject-edit",
+    "old": "父亲忽然匆匆奔了过去",
+    "reason": "se précipita 无方向补语，父亲奔往门口迎医生，「了过去」可通；方向非确证错译，降级保留"
+  },
+  {
+    "paragraph": 80,
+    "decision": "adopt-optional",
+    "old": "他匀称的身段与柔韧的动作",
+    "reason": "主审采纳：taille charmante 优美"
+  },
+  {
+    "paragraph": 80,
+    "decision": "adopt-optional",
+    "old": "迪厄拉富瓦确实称得上一位名医",
+    "reason": "主审采纳：a pu 让步固然"
+  },
+  {
+    "paragraph": 82,
+    "decision": "adopt-optional",
+    "old": "她的姐妹给我们打电报说了什么",
+    "reason": "主审采纳：ses 指外祖母，显化免误挂母亲"
+  },
+  {
+    "paragraph": 83,
+    "decision": "adopt-optional",
+    "old": "知道，⊂贝多芬⊃≼📚🧵电报原文并未交代，突兀与荒诞正见讽刺。≽，有人告诉我了",
+    "reason": "主审采纳：电报引语加『』，注释原样保留"
+  },
+  {
+    "paragraph": 84,
+    "decision": "adopt-optional",
+    "old": "她们简直疯到该捆起来了",
+    "reason": "主审采纳：程度补语得"
+  },
+  {
+    "paragraph": 84,
+    "decision": "adopt-optional",
+    "old": "我可怜的老伴那么爱她们",
+    "reason": "主审采纳：哀叹式停顿语气"
+  },
+  {
+    "paragraph": 88,
+    "decision": "adopt-optional",
+    "old": "过一阵我们再给她吸氧",
+    "reason": "主审采纳：tout à l'heure 过一会儿"
+  },
+  {
+    "paragraph": 89,
+    "decision": "adopt-optional",
+    "old": "那近乎幸福的呻吟",
+    "reason": "主审采纳：plainte heureuse 矛盾修辞，删近乎"
+  },
+  {
+    "paragraph": 89,
+    "decision": "adopt-optional",
+    "old": "人们不会对一个将死的人这样说话",
+    "reason": "主审采纳：pour 对于，非当面讲"
+  },
+  {
+    "paragraph": 89,
+    "decision": "adopt-optional",
+    "old": "那些长久遭痛苦压抑的温柔与喜悦",
+    "reason": "主审采纳：tant 那么多，删长久"
+  },
+  {
+    "paragraph": 91,
+    "decision": "reject-optional",
+    "old": "这永远说不准",
+    "reason": "补「也」纯属节奏偏好，现译自然；保留"
+  },
+  {
+    "paragraph": 92,
+    "decision": "adopt-optional",
+    "old": "氧气的声音已经停了",
+    "reason": "主审采纳：与第089段嘶嘶声一致"
+  },
+  {
+    "paragraph": 92,
+    "decision": "adopt-optional",
+    "old": "便能钟爱的东西",
+    "reason": "主审采纳：所爱是人，对象"
+  },
+  {
+    "paragraph": 92,
+    "decision": "adopt-optional",
+    "old": "或许只是反射",
+    "reason": "主审采纳：soit réflexe 中性，删只是"
+  },
+  {
+    "paragraph": 93,
+    "decision": "adopt-optional",
+    "old": "她的五官重现了出嫁前的柔美，仿佛纯洁与顺从亲手描画过",
+    "reason": "主审采纳：délicatement tracés 直陈，删出嫁前/仿佛"
+  },
+  {
+    "paragraph": 93,
+    "decision": "adopt-optional",
+    "old": "此前一直显得比她年轻",
+    "reason": "主审采纳：qu'elle 指外祖母，免误指弗朗索瓦丝"
+  }
+]
