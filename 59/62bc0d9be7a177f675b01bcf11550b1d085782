@@ -1,0 +1,30 @@
+advice/261106/vol8-1/paragraphs/p330.md
+  s_24039074b1c965::t_465243dff5a10a 1-13
+advice/261106/vol8-1/paragraphs/p329.md
+  s_24039074b1c965::t_3c1b64a493ab39 1-25
+advice/261106/vol8-1/paragraphs/p331.md
+  s_24039074b1c965::t_8129cc75196250 18
+  s_24039074b1c965::t_1c05486d579798 1-17
+polish/dev/chapters/polished-vol8-1.md
+  s_24039074b1c965::t_e95c831e6e4000 667,669,671,673,675,677,679,681,683,685
+  s_24039074b1c965::t_0d32fb4cdb0dfd 635,637,639,641,643,645,647,651,653,655,657
+  s_24039074b1c965::t_4ede554d0ade85 649,659,663
+advice/261106/vol8-1/paragraphs/p332.md
+  s_24039074b1c965::t_e90c69dedee366 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "5962bc0d9be7a177f675b01bcf11550b1d085782",
+  "prompts": {},
+  "sessions": {
+    "s_24039074b1c965": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20c48-82b6-7dc3-a2bf-431387530ba6",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Qri <qri@qri.moe>"
+    }
+  }
+}
