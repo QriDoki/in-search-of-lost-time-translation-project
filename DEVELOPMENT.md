@@ -58,6 +58,10 @@ npm run build:site   # 生成并构建静态站点到 site/.vitepress/dist
 npm run build:epub   # 生成 8 个 EPUB 到 dist/epub（需要 pandoc）
 npm run build:all    # 站点 + EPUB
 npm run preview      # 预览已构建的站点
+npm test             # 双套件：node --test scripts/tests/*.mjs && vitest run
+npm run test:node    # 仅构建侧 node:test
+npm run test:vitest  # 仅数据层/组件 vitest
+npm run typecheck    # tsc --noEmit（user-storage / reader.ts / tests/storage）
 ```
 
 ## 构建结构
@@ -148,3 +152,29 @@ CI 检出仓库后运行 `node scripts/resolve-polish-version.mjs`，排除 `dev
 版本选择与内容模型的回归测试：`node --test scripts/tests/test_content_version.mjs`。
 
 `base` 由工作流按仓库名自动设置（项目站点为 `/<repo>/`，用户站点为 `/`）；自定义域名可在 **Settings → Secrets and variables → Actions → Variables** 里设 `VITEPRESS_BASE`。
+
+## 用户存储与位置编码段落 ID
+
+阅读器用户数据（摘录/书签/进度/设置）的存储与同步系统位于 `site/.vitepress/theme/composables/user-storage/`，设计文档见 `docs/user-storage/`。数据层用 Dexie/IndexedDB（按账号库名隔离），云同步经 Microsoft Graph approot（仅 `Files.ReadWrite.AppFolder`），MSAL/docx/diff-match-patch 均动态 import 懒加载，阅读主 bundle 零增量。
+
+### 位置编码段落 ID 体系
+
+- 段落 ID 形如 `vol1-1_0003`：`{章节键}_{非空白行序号}`。章节键取自润色稿文件名（`polished-vol1-1.md` → `vol1-1`）；序号是该文件内**按换行 split、去掉空串与仅含空格/制表符的行**后的 0 起序号，补零至 4 位（`0000`–`9999`）。标题行、黄瓜分隔行等非空白行同样占用序号。
+- **无注册表、无构建期写入**：ID 完全由稿件源位置决定，`content.mjs` 在组装页面时随溯源算出每页的 `paragraphIds`，`prepare-site.mjs` 收集后注入渲染插件。删除了旧的 `publish/paragraph-map.json` 注册表与 `assign-paragraph-ids.mjs` 分配脚本。
+- 同一章节文件可被 `arrange.json` 拆给多个页面，序号按文件全局计算，故跨页仍唯一；不同版本复用相同章节键，ID 按版本命名空间隔离（浏览器加载 `paragraph-ids-{version}.json`）。
+- 版权页（`copyright`）保留旧页内序号 ID（`p-000001`），不纳入位置编码。卷书名页的法文标题等注入块无稿件溯源，用 `{pageId}_inj0000` 兜底。
+- 指纹/归一化唯一实现在 `scripts/lib/fingerprint.mjs`（构建与浏览器共用，FNV-1a 32 位 base36，与现有 `hashText` 逐位一致），用于运行时定位校验。
+
+### 定位与旧数据兜底
+
+- 四级定位管线（`anchor.ts`）：级别 1 直接命中 + 指纹 + 切片校验；级别 2 exact+prefix+suffix 精确匹配；级别 4 diff-match-patch 模糊（仅对直接命中的位置槽，懒加载）；级别 5 段落降级。
+- 位置编码下 ID 直接命中即身份。译文改版导致段落增删时序号会漂移，旧 ID 不再保证指向同一段——这是位置编码相对注册表的取舍。
+- 旧格式 ID（`P000xxx`/`p-000xxx`）无直接命中时落到**全文精确搜索兜底**（级别 2）；已删除 supersedes 谱系（lineage）机制与 `paragraph-lineage.json`。存量进度迁移仍走 `paragraph-ids-{version}.json` 的页内序号索引。
+
+构建生成（gitignore）：`site/.vitepress/generated/paragraph-ids.json`（渲染插件查表）、`site/public/reader/paragraph-ids-{version}.json`（浏览器迁移 + pid→page 路由）。EPUB 构建不经过段落插件，产物与段落 ID 体系隔离、逐字节不变（`test_epub_invariance.mjs` 守护）。
+
+### 测试
+
+- 构建侧（node:test，零新依赖）：`scripts/tests/test_fingerprint.mjs`、`test_paragraph_plugin.mjs`、`test_epub_invariance.mjs`、`test_search.mjs` 等，CI 现有 `node --test scripts/tests/*.mjs` 自动拾取。
+- 数据层（vitest + fake-indexeddb + happy-dom）：`tests/storage/*.test.ts`。组件测试 `tests/components/`（前端交付）。禁 Playwright。
+- 类型检查：`npm run typecheck`（tsconfig scope 限定 user-storage / reader.ts / tests/storage，不检查 `.vue`）。

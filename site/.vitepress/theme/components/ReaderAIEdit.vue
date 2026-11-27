@@ -18,18 +18,12 @@ const agents = [
 ]
 let generation = 0
 
-function updateSelection() {
-  const selection = window.getSelection()
-  const article = document.querySelector('.reader-chapter .vp-doc')
-  if (!selection || selection.isCollapsed || !article || !selection.rangeCount) {
-    selectedText.value = ''
-    return
-  }
-  const range = selection.getRangeAt(0)
-  const text = selection.toString()
-  selectedText.value = article.contains(range.startContainer) && article.contains(range.endContainer) && text.trim()
-    ? text
-    : ''
+/** D20 收编：浮动圆钮退役，选区工具条 dispatch 本事件触发原 copyPrompt 流程。 */
+function onTrigger(event: Event) {
+  const text = (event as CustomEvent<string>).detail
+  if (typeof text !== 'string' || !text.trim()) return
+  selectedText.value = text
+  void copyPrompt()
 }
 
 async function copyPrompt() {
@@ -63,32 +57,15 @@ function reset() {
 }
 
 watch(() => route.path, reset)
-onMounted(() => document.addEventListener('selectionchange', updateSelection))
+onMounted(() => window.addEventListener('reader-ai-edit:trigger', onTrigger))
 onBeforeUnmount(() => {
   reset()
-  document.removeEventListener('selectionchange', updateSelection)
+  window.removeEventListener('reader-ai-edit:trigger', onTrigger)
 })
 </script>
 
 <template>
   <Teleport to="body">
-    <button
-      v-if="selectedText"
-      class="reader-ai-edit reader-ui"
-      type="button"
-      aria-label="AI编辑：复制修订提示词"
-      title="AI编辑 · 复制修订提示词"
-      :disabled="copying"
-      @pointerdown.prevent
-      @click="copyPrompt"
-    >
-      <svg viewBox="0 0 32 32" width="30" height="30" fill="none" aria-hidden="true">
-        <path d="m7 19 12-12a2.8 2.8 0 0 1 4 4L11 23l-5 1 1-5Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" />
-        <path d="m17 9 4 4M7 19l4 4M6 28h13" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" />
-        <path d="m25 16 1.5 4.5L31 22l-4.5 1.5L25 28l-1.5-4.5L19 22l4.5-1.5L25 16ZM9 3l1 3 3 1-3 1-1 3-1-3-3-1 3-1 1-3Z" fill="currentColor" />
-      </svg>
-    </button>
-
     <div v-if="notice" class="reader-ai-notice reader-ui" role="status" aria-live="polite">
       <span v-if="notice === 'success'">AI修订提示词已复制, 前往<button type="button" class="reader-ai-agent-action" aria-haspopup="dialog" @click="dialog?.showModal()">Agent</button>使用可以修订本书</span>
       <span v-else>复制失败，请允许浏览器访问剪切板后重试。</span>
@@ -113,26 +90,6 @@ onBeforeUnmount(() => {
 </template>
 
 <style scoped>
-.reader-ai-edit {
-  position: fixed;
-  z-index: 46;
-  right: max(24px, env(safe-area-inset-right));
-  bottom: calc(112px + env(safe-area-inset-bottom));
-  display: grid;
-  place-items: center;
-  width: 58px;
-  height: 58px;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 50%;
-  background: var(--vp-c-bg-elv);
-  color: var(--reader-accent);
-  box-shadow: 0 6px 24px color-mix(in srgb, var(--reader-accent) 20%, transparent);
-  cursor: pointer;
-  transition: background .18s, transform .18s;
-}
-.reader-ai-edit:hover { background: var(--vp-c-bg-soft); transform: translateY(-2px); }
-.reader-ai-edit:disabled { cursor: wait; opacity: .65; }
-.reader-ai-edit:focus-visible,
 .reader-ai-dialog a:focus-visible,
 .reader-ai-agent-action:focus-visible,
 .reader-ai-close:focus-visible { outline: 2px solid var(--reader-accent); outline-offset: 3px; }
@@ -182,7 +139,6 @@ onBeforeUnmount(() => {
 .reader-ai-badge { padding: 1px 7px; border-radius: 20px; background: var(--reader-accent-soft); color: var(--reader-accent); font-size: 11px; white-space: nowrap; }
 .reader-ai-external { margin-left: auto; color: var(--reader-accent); }
 @media (max-width: 480px) {
-  .reader-ai-edit { right: max(16px, env(safe-area-inset-right)); width: 52px; height: 52px; }
   .reader-ai-notice { right: 16px; max-width: calc(100vw - 32px); }
   .reader-ai-dialog { padding: 20px; }
 }

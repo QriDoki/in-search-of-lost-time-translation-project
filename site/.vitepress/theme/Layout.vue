@@ -1,22 +1,32 @@
 <script setup lang="ts">
 import DefaultTheme from 'vitepress/theme'
 import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
-import { useData } from 'vitepress'
+import { useData, useRouter, withBase } from 'vitepress'
 import ChapterNav from './components/ChapterNav.vue'
 import ReadingProgress from './components/ReadingProgress.vue'
 import ReaderDock from './components/ReaderDock.vue'
 import ReaderAnnotations from './components/ReaderAnnotations.vue'
 import ReaderSearchHighlight from './components/ReaderSearchHighlight.vue'
 import ReaderAIEdit from './components/ReaderAIEdit.vue'
+import ReaderToast from './components/ReaderToast.vue'
+import ReaderSelectionToolbar from './components/ReaderSelectionToolbar.vue'
+import ReaderHighlightPopover from './components/ReaderHighlightPopover.vue'
+import ReaderShareLanding from './components/ReaderShareLanding.vue'
+import ReaderProgressBanner from './components/ReaderProgressBanner.vue'
 import { useBook } from './composables/book'
+import { progress } from './composables/reader'
+import { deviceId, initUserStorage, useSyncState, useUserStorage, type ReaderPanel, type ReadingPosition } from './composables/user-storage'
 
 const { book } = useBook()
 
 const { Layout } = DefaultTheme
 const { page, frontmatter } = useData()
+const router = useRouter()
+const { account } = useUserStorage()
+const { status: syncStatus } = useSyncState()
 
 const isReaderPage = computed(() => Boolean(frontmatter.value.readerPageId))
-const readerPanel = ref<'toc' | 'settings' | null>(null)
+const readerPanel = ref<ReaderPanel>(null)
 const headerHidden = ref(false)
 let lastScrollY = 0
 let scrollFrame = 0
@@ -59,6 +69,77 @@ function onReaderClick() {
   showHeader()
 }
 
+/** D33：弹层「未同步」小字 / 面板状态行 → 打开对应面板。 */
+function onPanelOpen(event: Event) {
+  const panel = (event as CustomEvent<ReaderPanel>).detail
+  if (panel) readerPanel.value = panel
+}
+
+/* 摘录按钮红点：未处理冲突（P1）或失效摘录。 */
+const degradedCount = ref(0)
+function onDegraded(event: Event) {
+  degradedCount.value = (event as CustomEvent<{ count: number }>).detail?.count ?? 0
+}
+const excerptAlert = computed(() => degradedCount.value > 0 || syncStatus.value.conflicts > 0)
+
+/* ☁︎ 同步状态图标（F1-2：八态映射；仅已连接时显示）。 */
+const syncIcon = computed(() => {
+  const s = syncStatus.value
+  switch (s.state) {
+    case 'synced': return '☁︎✓'
+    case 'syncing': return '☁︎'
+    case 'pending': return `☁︎·${s.pending}`
+    case 'offline': return '☁︎̸'
+    case 'conflict': return '☁︎⚠'
+    case 'error': return '☁︎!'
+    case 'paused': return '☁︎⏸'
+    case 'needs-auth': return '☁︎!'
+    default: return '☁︎'
+  }
+})
+const syncTitle = computed(() => {
+  const s = syncStatus.value
+  switch (s.state) {
+    case 'synced': return '已同步'
+    case 'syncing': return '正在同步…'
+    case 'pending': return `${s.pending} 项待同步`
+    case 'offline': return '离线 · 更改已保存在本机'
+    case 'conflict': return `${s.conflicts} 条冲突待处理`
+    case 'error': return '同步失败 · 重试'
+    case 'paused': return '同步已暂停'
+    case 'needs-auth': return '需要重新登录'
+    default: return '数据仅保存在本机'
+  }
+})
+
+/* 跨设备进度横幅（F1-4：异页且另一设备较新才显示；绝不自动跳转）。 */
+const bannerRemote = ref<ReadingPosition | null>(null)
+watch(
+  () => progress.last,
+  (next, prev) => {
+    const currentPage = String(frontmatter.value.readerPageId ?? '')
+    if (
+      next &&
+      isReaderPage.value &&
+      next.pageId !== currentPage &&
+      next.deviceId &&
+      next.deviceId !== deviceId() &&
+      (!prev || next.updatedAt > prev.updatedAt)
+    ) {
+      bannerRemote.value = next
+    } else {
+      bannerRemote.value = null
+    }
+  },
+)
+async function onBannerJump(): Promise<void> {
+  const remote = bannerRemote.value
+  bannerRemote.value = null
+  if (!remote) return
+  const meta = book.value.pages.find((p) => p.id === remote.pageId)
+  if (meta) await router.go(`${withBase(meta.path)}?resume=1`)
+}
+
 watch(() => page.value.relativePath, () => {
   readerPanel.value = null
   showHeader()
@@ -67,14 +148,19 @@ watch(readerPanel, (panel) => { if (panel) showHeader() })
 
 onMounted(() => {
   showHeader()
+  void initUserStorage()
   window.addEventListener('scroll', onScroll, { passive: true })
   document.addEventListener('focusin', onNavFocus)
   document.addEventListener('click', onReaderClick)
+  window.addEventListener('reader-panel:open', onPanelOpen)
+  window.addEventListener('reader-excerpts:degraded', onDegraded)
 })
 onBeforeUnmount(() => {
   window.removeEventListener('scroll', onScroll)
   document.removeEventListener('focusin', onNavFocus)
   document.removeEventListener('click', onReaderClick)
+  window.removeEventListener('reader-panel:open', onPanelOpen)
+  window.removeEventListener('reader-excerpts:degraded', onDegraded)
   if (scrollFrame) cancelAnimationFrame(scrollFrame)
 })
 </script>
@@ -89,6 +175,12 @@ onBeforeUnmount(() => {
     </template>
     <template #layout-top>
       <ReadingProgress v-if="isReaderPage" />
+      <ReaderProgressBanner
+        v-if="bannerRemote"
+        :remote="bannerRemote"
+        @jump="onBannerJump"
+        @stay="bannerRemote = null"
+      />
     </template>
     <template #nav-bar-content-before>
       <a
@@ -120,6 +212,13 @@ onBeforeUnmount(() => {
           @click="readerPanel = readerPanel === 'toc' ? null : 'toc'"
         >目录</button>
         <button
+          class="reader-nav__button"
+          :class="{ 'is-active': readerPanel === 'excerpts' }"
+          aria-controls="reader-excerpts-panel"
+          :aria-expanded="readerPanel === 'excerpts'"
+          @click="readerPanel = readerPanel === 'excerpts' ? null : 'excerpts'"
+        >摘录<span v-if="excerptAlert" class="reader-nav__dot" role="status" aria-label="存在失效摘录或未处理冲突" /></button>
+        <button
           v-if="isReaderPage"
           class="reader-nav__button"
           :class="{ 'is-active': readerPanel === 'settings' }"
@@ -127,6 +226,16 @@ onBeforeUnmount(() => {
           :aria-expanded="readerPanel === 'settings'"
           @click="readerPanel = readerPanel === 'settings' ? null : 'settings'"
         >阅读设置</button>
+        <button
+          v-if="account"
+          class="reader-nav__button reader-sync-icon"
+          :class="{ 'is-active': readerPanel === 'sync', 'is-spinning': syncStatus.state === 'syncing' }"
+          aria-controls="reader-sync-panel"
+          :aria-expanded="readerPanel === 'sync'"
+          :aria-label="`云同步：${syncTitle}`"
+          :title="syncTitle"
+          @click="readerPanel = readerPanel === 'sync' ? null : 'sync'"
+        >{{ syncIcon }}<span v-if="syncStatus.conflicts > 0" class="reader-nav__dot" aria-hidden="true" /></button>
       </nav>
     </template>
     <template #doc-after>
@@ -137,6 +246,10 @@ onBeforeUnmount(() => {
       <ReaderAnnotations v-if="isReaderPage" />
       <ReaderSearchHighlight v-if="isReaderPage" />
       <ReaderAIEdit v-if="isReaderPage" />
+      <ReaderSelectionToolbar v-if="isReaderPage" />
+      <ReaderHighlightPopover v-if="isReaderPage" />
+      <ReaderShareLanding v-if="isReaderPage" />
+      <ReaderToast />
     </template>
   </Layout>
 </template>
