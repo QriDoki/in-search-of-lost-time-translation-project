@@ -2,6 +2,7 @@
 import { nextTick, onBeforeUnmount, onMounted, ref, shallowRef, watch } from 'vue'
 import { onContentUpdated, useRoute } from 'vitepress'
 import { prefs } from '../composables/reader'
+import { usePopoverPosition } from '../composables/usePopoverPosition'
 import { annotationIsVisible } from '../../../../scripts/lib/annotation-types.mjs'
 
 const route = useRoute()
@@ -9,12 +10,11 @@ const trigger = shallowRef<HTMLButtonElement | null>(null)
 const popover = ref<HTMLElement | null>(null)
 const content = ref('')
 const pinned = ref(false)
-const positioned = ref(false)
-const position = ref({ left: '0px', top: '0px' })
 const popoverId = 'reader-annotation-popover'
 let hideTimer: ReturnType<typeof setTimeout> | undefined
-let resizeObserver: ResizeObserver | undefined
-let frame = 0
+
+const { position, positioned, schedule: schedulePosition, update: updatePosition, observe, reset, start, dispose } =
+  usePopoverPosition(() => trigger.value, () => popover.value, { onAnchorMissing: () => close() })
 
 function cancelHide() {
   clearTimeout(hideTimer)
@@ -27,38 +27,8 @@ function close(restoreFocus = false) {
   previous?.removeAttribute('aria-controls')
   trigger.value = null
   pinned.value = false
-  positioned.value = false
-  resizeObserver?.disconnect()
+  reset()
   if (restoreFocus) previous?.focus({ preventScroll: true })
-}
-
-function updatePosition() {
-  const button = trigger.value
-  const panel = popover.value
-  if (!button || !panel) return
-  if (!button.isConnected) return close()
-
-  const anchor = button.getBoundingClientRect()
-  const bounds = panel.getBoundingClientRect()
-  const margin = 12
-  const gap = 10
-  const width = document.documentElement.clientWidth
-  const height = window.innerHeight
-  const left = Math.max(margin, Math.min(anchor.left + anchor.width / 2 - bounds.width / 2, width - bounds.width - margin))
-  const below = anchor.bottom + gap
-  const above = anchor.top - bounds.height - gap
-  const preferredTop = below + bounds.height <= height - margin ? below : above
-  const top = Math.max(margin, Math.min(preferredTop, height - bounds.height - margin))
-  position.value = { left: `${left}px`, top: `${top}px` }
-  positioned.value = true
-}
-
-function schedulePosition() {
-  if (!trigger.value || frame) return
-  frame = requestAnimationFrame(() => {
-    frame = 0
-    updatePosition()
-  })
 }
 
 async function open(button: HTMLButtonElement, pin: boolean, focus = false) {
@@ -71,11 +41,18 @@ async function open(button: HTMLButtonElement, pin: boolean, focus = false) {
   pinned.value = pin
   button.setAttribute('aria-expanded', 'true')
   button.setAttribute('aria-controls', popoverId)
+  // 弹层互斥（protocol §6.3）：打开书内注解即关闭用户摘录弹层。
+  window.dispatchEvent(new CustomEvent('reader-popover:open', { detail: { source: 'annotation' } }))
   await nextTick()
   if (trigger.value !== button) return
   updatePosition()
-  if (popover.value) resizeObserver?.observe(popover.value)
+  observe()
   if (focus) popover.value?.focus({ preventScroll: true })
+}
+
+function onPopoverOpen(event: Event) {
+  const source = (event as CustomEvent<{ source: string }>).detail?.source
+  if (source && source !== 'annotation') close()
 }
 
 function findTrigger(target: EventTarget | null) {
@@ -137,24 +114,22 @@ watch(() => route.path, () => close())
 
 onMounted(() => {
   applyAnnotationFilter()
-  resizeObserver = new ResizeObserver(schedulePosition)
+  start()
   document.addEventListener('pointerover', onPointerOver)
   document.addEventListener('pointerout', onPointerOut)
   document.addEventListener('click', onClick)
   document.addEventListener('keydown', onKeydown)
-  window.addEventListener('scroll', schedulePosition, { passive: true, capture: true })
-  window.addEventListener('resize', schedulePosition)
+  window.addEventListener('reader-popover:open', onPopoverOpen)
 })
 
 onBeforeUnmount(() => {
   close()
-  cancelAnimationFrame(frame)
+  dispose()
   document.removeEventListener('pointerover', onPointerOver)
   document.removeEventListener('pointerout', onPointerOut)
   document.removeEventListener('click', onClick)
   document.removeEventListener('keydown', onKeydown)
-  window.removeEventListener('scroll', schedulePosition, true)
-  window.removeEventListener('resize', schedulePosition)
+  window.removeEventListener('reader-popover:open', onPopoverOpen)
 })
 </script>
 

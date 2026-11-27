@@ -11,12 +11,27 @@
     "build:site": "npm run build",
     "build:epub": "node scripts/build-epub.mjs",
     "build:all": "node scripts/build-all.mjs",
-    "preview": "vitepress preview site"
+    "preview": "vitepress preview site",
+    "test": "node --test scripts/tests/*.mjs && vitest run",
+    "test:node": "node --test scripts/tests/*.mjs",
+    "test:vitest": "vitest run",
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
+    "@azure/msal-browser": "^5.30.0",
+    "@types/diff-match-patch": "^1.0.36",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "@vue/test-utils": "^2.6.0",
+    "dexie": "^4.4.7",
+    "diff-match-patch": "^1.0.5",
+    "docx": "^9.16.1",
     "entities": "^7.0.1",
+    "fake-indexeddb": "^6.2.8",
+    "happy-dom": "^21.0.4",
     "markdown-it": "^14.1.0",
     "markdown-it-footnote": "^4.0.0",
-    "vitepress": "1.6.4"
+    "typescript": "^5.9.3",
+    "vitepress": "1.6.4",
+    "vitest": "^3.2.4"
   }
 }

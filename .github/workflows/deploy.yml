@@ -76,6 +76,9 @@ jobs:
       - name: Test site and CI logic
         run: node --test scripts/tests/*.mjs
 
+      - name: Test storage and components
+        run: npx vitest run
+
       # 项目站点默认为 /<repo>/；用户站点为 /。
       # 自定义域名或特殊部署路径可在仓库 Variables 中设置 VITEPRESS_BASE。
       - name: Build site

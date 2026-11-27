@@ -56,19 +56,50 @@ function escapeHtml(value) {
     .replace(/"/g, '&quot;')
 }
 
-/** 按「黄瓜行」把一份润色稿切成若干段（分隔符本身不入正文，段号从 0 起）。 */
+/** 章节文件名 → 位置编码前缀：polished-vol1-1.md → vol1-1。 */
+function chapterKeyOfFile(file) {
+  const match = String(file).match(/polished-(.+)\.md$/i)
+  return match ? match[1] : String(file).replace(/\.md$/i, '').replace(/^polished-/, '')
+}
+
+/** 文件内「非空白行」序号（0 起）；空白行（空串或仅空格/制表符）记 -1。 */
+function nonBlankOrdinals(raw) {
+  const ordinals = []
+  let next = 0
+  for (const line of raw.split(/\r?\n/)) {
+    if (line.trim() === '') ordinals.push(-1)
+    else ordinals.push(next++)
+  }
+  return ordinals
+}
+
+const pad4 = (value) => String(value).padStart(4, '0')
+
+/** 位置编码 paragraphId：{章节键}_{非空白行序号:0000}。无溯源（注入块）返回 undefined。 */
+function positionalPid(prov, no) {
+  if (!prov || no == null || no < 0) return undefined
+  const ordinal = prov.ordinals[no]
+  return ordinal == null || ordinal < 0 ? undefined : `${prov.chapterKey}_${pad4(ordinal)}`
+}
+
+/**
+ * 按「黄瓜行」把一份润色稿切成若干段（分隔符本身不入正文，段号从 0 起）。
+ * 每段保留原始行号 no，供位置编码 paragraphId 溯源。
+ */
 function splitSections(text) {
   const sections = []
   let current = []
-  for (const line of text.split(/\r?\n/)) {
+  const lines = text.split(/\r?\n/)
+  for (let no = 0; no < lines.length; no += 1) {
+    const line = lines[no]
     if (SEPARATOR_LINE.test(line)) {
-      sections.push(current.join('\n'))
+      sections.push(current)
       current = []
     } else {
-      current.push(line)
+      current.push({ text: line, no })
     }
   }
-  sections.push(current.join('\n'))
+  sections.push(current)
   return sections
 }
 
@@ -82,7 +113,17 @@ function plainTitle(value) {
 
 function createPartReader(chaptersDir) {
   const rawCache = new Map()
+  const provCache = new Map()
   const sectionCache = new Map()
+
+  const provOf = (file, raw) => {
+    let prov = provCache.get(file)
+    if (!prov) {
+      prov = { chapterKey: chapterKeyOfFile(file), ordinals: nonBlankOrdinals(raw) }
+      provCache.set(file, prov)
+    }
+    return prov
+  }
 
   return function readPart(part) {
     const file = typeof part === 'string' ? part : part?.file
@@ -97,8 +138,12 @@ function createPartReader(chaptersDir) {
       raw = fs.readFileSync(full, 'utf8')
       rawCache.set(file, raw)
     }
+    const prov = provOf(file, raw)
 
-    if (typeof part === 'string') return { file, text: raw, label: file }
+    if (typeof part === 'string') {
+      const lines = raw.split(/\r?\n/).map((text, no) => ({ text, no }))
+      return { file, text: raw, label: file, lines, prov }
+    }
 
     let sections = sectionCache.get(file)
     if (!sections) {
@@ -119,10 +164,19 @@ function createPartReader(chaptersDir) {
         `arrange.json 的取段超出范围：${file} section=${JSON.stringify(part.section)}（共 ${sections.length} 段）`,
       )
     }
+    const chosen = sections.slice(from, to + 1)
+    // 段间以一行空行（no=-1）分隔，对应原来的 join('\n\n')。
+    const lines = []
+    chosen.forEach((section, index) => {
+      if (index > 0) lines.push({ text: '', no: -1 })
+      lines.push(...section)
+    })
     return {
       file,
-      text: sections.slice(from, to + 1).join('\n\n'),
+      text: chosen.map((section) => section.map((line) => line.text).join('\n')).join('\n\n'),
       label: `${file}#${JSON.stringify(part.section)}`,
+      lines,
+      prov,
     }
   }
 }
@@ -177,11 +231,10 @@ function fixListLikeEmphasis(text) {
  * 去掉一份 part 开头重复的祖先/自身标题（arrange.json 约定：
  * 同一节点的标题只在其首个 part 出现一次，分册续文从正文开始）。
  */
-function stripLeadingHeadings(text, allowedTitles, ctx, label) {
-  const lines = text.split(/\r?\n/)
+function stripLeadingHeadings(lines, allowedTitles, ctx, label) {
   let index = 0
   while (index < lines.length) {
-    const line = lines[index]
+    const line = lines[index].text
     if (!line.trim()) {
       index += 1
       continue
@@ -195,7 +248,7 @@ function stripLeadingHeadings(text, allowedTitles, ctx, label) {
     }
     index += 1
   }
-  return lines.slice(index).join('\n')
+  return lines.slice(index)
 }
 
 /**
@@ -247,7 +300,7 @@ function formatInline(text, ctx, label) {
   return converted
 }
 
-function paragraphBlocks(text, ctx, label) {
+function paragraphBlocks(text, ctx, label, pid) {
   const trimmed = text.trim()
   if (!trimmed) return []
 
@@ -258,7 +311,7 @@ function paragraphBlocks(text, ctx, label) {
     ctx.warn(`${label}：段首字符会被解析成 Markdown 结构：${converted.slice(0, 40)}…`)
   }
 
-  return [{ type: 'para', text: converted }]
+  return [{ type: 'para', text: converted, pid }]
 }
 
 /**
@@ -277,40 +330,41 @@ function subtitleHtml(text, ctx, label) {
 }
 
 /**
- * 把一段稿件正文解析成块。
+ * 把一段稿件正文解析成块。lines 为带原始行号的行数组（{text,no}），
+ * prov 提供章节键与非空白行序号，用于位置编码 paragraphId。
  */
-function parseText(text, options) {
-  const { ctx, allowedTitles, label, stripHeading } = options
+function parseText(lines, options) {
+  const { ctx, allowedTitles, label, stripHeading, prov } = options
   const body = stripHeading
-    ? stripLeadingHeadings(text, allowedTitles, ctx, label)
-    : text
+    ? stripLeadingHeadings(lines, allowedTitles, ctx, label)
+    : lines
 
   const blocks = []
   let paragraph = []
 
   const flush = () => {
     if (!paragraph.length) return
-    blocks.push(...paragraphBlocks(paragraph.join('\n'), ctx, label))
+    blocks.push(...paragraphBlocks(paragraph.map((line) => line.text).join('\n'), ctx, label, positionalPid(prov, paragraph[0].no)))
     paragraph = []
   }
 
-  for (const line of body.split(/\r?\n/)) {
+  for (const { text: line, no } of body) {
     if (SEPARATOR_LINE.test(line)) {
       flush()
-      blocks.push({ type: 'raw', html: SCENE_BREAK_HTML })
+      blocks.push({ type: 'raw', html: SCENE_BREAK_HTML, pid: positionalPid(prov, no) })
       continue
     }
     const heading = line.match(HEADING_LINE)
     if (heading) {
       flush()
-      blocks.push({ type: 'raw', html: subtitleHtml(plainTitle(heading[2]), ctx, label) })
+      blocks.push({ type: 'raw', html: subtitleHtml(plainTitle(heading[2]), ctx, label), pid: positionalPid(prov, no) })
       continue
     }
     if (!line.trim()) {
       flush()
       continue
     }
-    paragraph.push(line.trim())
+    paragraph.push({ text: line.trim(), no })
   }
   flush()
 
@@ -342,13 +396,14 @@ function renderNode(node, level, state) {
 
   const allowedTitles = new Set([node.title, ...state.ancestors.map((item) => item.title)])
   ;(node.parts ?? []).forEach((part, index) => {
-    const { text, label } = state.readPart(part)
+    const { lines, label, prov } = state.readPart(part)
     blocks.push(
-      ...parseText(text, {
+      ...parseText(lines, {
         ctx: state.ctx,
         label,
         allowedTitles,
         stripHeading: index === 0,
+        prov,
       }),
     )
   })
@@ -399,6 +454,20 @@ function collectAnchorIds(blocks, pageId) {
     anchors.push({ id: block.id, level: block.level, title: block.text, listed: block.listed })
   }
   return anchors
+}
+
+/**
+ * 页面内按渲染顺序的 <p> 位置 ID（para 与 raw 块都会渲染成 <p>）。
+ * 注入块（如卷书名页的法文标题）无稿件溯源，用 pageId 兜底编号。
+ */
+function collectParagraphIds(blocks, pageId) {
+  const ids = []
+  let injected = 0
+  for (const block of blocks) {
+    if (block.type !== 'para' && block.type !== 'raw') continue
+    ids.push(block.pid ?? `${pageId}_inj${pad4(injected++)}`)
+  }
+  return ids
 }
 
 function makePage(fields) {
@@ -479,6 +548,7 @@ function readCopyrightPage(root, ctx, buildVersion) {
     markdown: blocksToMarkdown(blocks),
     chars: countChars(blocks),
     anchors: [],
+    paragraphIds: [],
   })
 }
 
@@ -538,13 +608,14 @@ export function buildBook(options = {}) {
       readPart,
     }
     ;(volumeNode.parts ?? []).forEach((part, index) => {
-      const { text, label } = readPart(part)
+      const { lines, label, prov } = readPart(part)
       volumeBlocks.push(
-        ...parseText(text, {
+        ...parseText(lines, {
           ctx,
           label,
           allowedTitles: new Set([volumeTitle]),
           stripHeading: index === 0,
+          prov,
         }),
       )
     })
@@ -564,6 +635,7 @@ export function buildBook(options = {}) {
       markdown: blocksToMarkdown(volumeBlocks),
       chars: countChars(volumeBlocks),
       anchors: [],
+      paragraphIds: collectParagraphIds(volumeBlocks, volumePageId),
     })
     pages.push(volumePage)
 
@@ -599,6 +671,7 @@ export function buildBook(options = {}) {
         markdown: blocksToMarkdown(blocks),
         chars: countChars(blocks),
         anchors: anchorIds,
+        paragraphIds: collectParagraphIds(blocks, pageId),
       })
       pages.push(unitPage)
       volumePages.push(unitPage)

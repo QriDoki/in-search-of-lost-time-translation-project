@@ -1,5 +1,6 @@
 import { computed, reactive, watch } from 'vue'
 import { defaultAnnotationTypes, sanitizeAnnotationTypes } from '../../../../scripts/lib/annotation-types.mjs'
+import type { ProgressDoc, SettingsDoc } from './user-storage/types'
 import {
   book,
   pageAt,
@@ -35,6 +36,29 @@ export interface ReadingPosition {
   /** 该页读到的最大进度，用于目录中的历史已读标记 */
   maxProgress: number
   updatedAt: string
+  /** D12 补全：同刻合并 tie-break（可选） */
+  deviceId?: string
+  /** D12 补全：迁移失配标记，下次成功保存即清除（可选） */
+  needsRelocate?: boolean
+}
+
+/** 持久化适配器（protocol §5.7）。缺省 = localStorage（现状）；迁移成功后切 IDB。 */
+export interface PersistAdapter {
+  saveProgress(pos: ReadingPosition): void // fire-and-forget，内部 catch
+  savePrefs(prefs: ReaderPrefs): void // prefs 双写：IDB + localStorage（D11）
+  clearProgress(): void
+}
+
+const localStorageAdapter: PersistAdapter = {
+  saveProgress: () => {}, // savePosition 已写 localStorage
+  savePrefs: () => {}, // prefs watch 已 writeJson
+  clearProgress: () => {}, // clearReadingProgress 已 removeItem
+}
+
+let persist: PersistAdapter = localStorageAdapter
+
+export function setPersistAdapter(a: PersistAdapter): void {
+  persist = a
 }
 
 interface StoredProgress {
@@ -203,7 +227,8 @@ export function initReader() {
     prefs,
     () => {
       applyPreferences()
-      writeJson(PREFS_KEY, { ...prefs })
+      writeJson(PREFS_KEY, { ...prefs }) // 双写 localStorage（D11：防主题闪烁，永久保留）
+      persist.savePrefs({ ...prefs })
     },
     { deep: true },
   )
@@ -225,6 +250,7 @@ export function savePosition(position: ReadingPosition) {
     last: progress.last,
     pages: progress.pages,
   })
+  persist.saveProgress(next)
 }
 
 export function setActivePage(pageId: string) {
@@ -250,7 +276,53 @@ export function clearReadingProgress() {
   } catch {
     // ignore
   }
+  persist.clearProgress()
 }
+
+/**
+ * 水合进度（protocol §5.7）。
+ * merge：迁移水合（按页 updatedAt 较新胜、maxProgress max）。
+ * replace：switchScope 整体替换（★ 不得并集，否则账号间串数据）。
+ */
+export function hydrateProgress(doc: ProgressDoc, mode: 'merge' | 'replace'): void {
+  if (mode === 'replace') {
+    progress.pages = { ...doc.pages }
+    progress.last = doc.last
+    return
+  }
+  for (const [pageId, pos] of Object.entries(doc.pages)) {
+    const existing = progress.pages[pageId]
+    if (!existing) {
+      progress.pages[pageId] = pos
+    } else {
+      const winner = pos.updatedAt >= existing.updatedAt ? pos : existing
+      progress.pages[pageId] = { ...winner, maxProgress: Math.max(existing.maxProgress, pos.maxProgress) }
+    }
+  }
+  if (doc.last && (!progress.last || doc.last.updatedAt >= progress.last.updatedAt)) {
+    progress.last = doc.last
+  }
+}
+
+/** 水合偏好（merge 按 stamps 较新；replace 整体替换同步字段，width 保持设备本地）。 */
+export function hydratePrefs(doc: SettingsDoc, mode: 'merge' | 'replace'): void {
+  if (mode === 'replace') {
+    Object.assign(prefs, doc.prefs)
+    return
+  }
+  for (const key of Object.keys(doc.prefs) as (keyof SettingsDoc['prefs'])[]) {
+    const stamp = doc.stamps[key]
+    if (!stamp) continue
+    // merge：仅当远端 stamp 较新时覆盖（本地无 stamp 记录时直接采纳）
+    const localStamp = prefsStamps[key]
+    if (!localStamp || stamp.t > localStamp.t || (stamp.t === localStamp.t && stamp.d > localStamp.d)) {
+      ;(prefs as Record<string, unknown>)[key] = doc.prefs[key]
+      prefsStamps[key] = stamp
+    }
+  }
+}
+
+const prefsStamps: Record<string, { t: string; d: string }> = {}
 
 export const overallProgress = computed(() => {
   // 阅读页实时采用当前位置；首页、目录页采用最后保存的位置。

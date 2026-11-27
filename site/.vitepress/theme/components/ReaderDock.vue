@@ -1,8 +1,11 @@
 <script setup lang="ts">
 import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
-import { onContentUpdated, useData, withBase } from 'vitepress'
+import { onContentUpdated, useData, useRouter, withBase } from 'vitepress'
 import { useBook, versionPrefix } from '../composables/book'
 import ReaderAnnotationTypes from './ReaderAnnotationTypes.vue'
+import ReaderExcerpts from './ReaderExcerpts.vue'
+import ReaderSyncPanel from './ReaderSyncPanel.vue'
+import { useSyncState, useUserStorage } from '../composables/user-storage'
 import {
   clearReadingProgress,
   initReader,
@@ -27,8 +30,11 @@ import {
 
 const { page } = useData()
 const { book } = useBook()
+const router = useRouter()
+const { scope, account } = useUserStorage()
+const { status: syncStatus } = useSyncState()
 
-const panel = defineModel<'toc' | 'settings' | null>('panel', { default: null })
+const panel = defineModel<import('../composables/user-storage').ReaderPanel>('panel', { default: null })
 const currentPageId = computed(() => String(page.value.frontmatter.readerPageId ?? ''))
 const currentPage = computed(() => book.value.pages.find((entry) => entry.id === currentPageId.value))
 const currentHash = ref('')
@@ -304,6 +310,52 @@ function onKeydown(event: KeyboardEvent) {
   if (event.key === 'Escape') panel.value = null
 }
 
+/* ------------------------------------------------------------------ */
+/* 摘录面板跳转（同页闪烁定位；跨页 pendingOpen 由摘录层消费）           */
+/* ------------------------------------------------------------------ */
+
+async function onExcerptNavigate(pageId: string, paragraphId: string, highlightId?: string): Promise<void> {
+  panel.value = null
+  if (highlightId) {
+    window.dispatchEvent(new CustomEvent('reader-highlight:open', { detail: { id: highlightId, flash: true } }))
+  }
+  if (pageId === currentPageId.value) {
+    const node = document.getElementById(paragraphId)
+    if (node) {
+      const top = node.getBoundingClientRect().top + window.scrollY - Math.max(90, window.innerHeight * 0.35)
+      window.scrollTo({ top: Math.max(0, top), behavior: 'instant' })
+    }
+    return
+  }
+  const meta = book.value.pages.find((p) => p.id === pageId)
+  if (!meta) return
+  await router.go(`${withBase(meta.path)}#${paragraphId}`)
+}
+
+/* 移动端底部抽屉：拖拽把手下滑关闭（仅新面板，toc/settings 保持现状）。 */
+const sheetEl = ref<HTMLElement | null>(null)
+let dragging = false
+let dragStartY = 0
+let dragDy = 0
+
+function onHandleDown(event: PointerEvent): void {
+  dragging = true
+  dragStartY = event.clientY
+  dragDy = 0
+  ;(event.target as HTMLElement).setPointerCapture?.(event.pointerId)
+}
+function onHandleMove(event: PointerEvent): void {
+  if (!dragging) return
+  dragDy = Math.max(0, event.clientY - dragStartY)
+  if (sheetEl.value) sheetEl.value.style.transform = `translateY(${dragDy}px)`
+}
+function onHandleUp(): void {
+  if (!dragging) return
+  dragging = false
+  if (sheetEl.value) sheetEl.value.style.transform = ''
+  if (dragDy > 80) panel.value = null
+}
+
 function onPageHide() {
   saveNow()
 }
@@ -526,6 +578,74 @@ onBeforeUnmount(() => {
             <button class="reader-text-button" @click="resetPreferences">恢复默认设置</button>
             <button class="reader-text-button" @click="handleClearProgress">清除阅读进度</button>
           </div>
+
+          <div class="reader-setting reader-setting--sync">
+            <span class="reader-setting__label">云同步</span>
+            <span class="reader-sync-entry__status">
+              {{ account ? `已连接 · ${syncStatus.state === 'synced' ? '已同步' : syncStatus.state === 'paused' ? '同步已暂停' : '查看状态'}` : '未连接 · 数据仅保存在本机' }}
+            </span>
+            <button class="reader-text-button" @click="panel = 'sync'">{{ account ? '管理' : '连接 OneDrive' }}</button>
+          </div>
+        </div>
+      </section>
+    </Transition>
+
+    <Transition name="reader-panel">
+      <section
+        v-if="panel === 'excerpts'"
+        id="reader-excerpts-panel"
+        ref="sheetEl"
+        class="reader-panel reader-panel--excerpts"
+        role="dialog"
+        aria-label="摘录"
+      >
+        <div
+          class="reader-panel__handle"
+          aria-hidden="true"
+          @pointerdown="onHandleDown"
+          @pointermove="onHandleMove"
+          @pointerup="onHandleUp"
+          @pointercancel="onHandleUp"
+        />
+        <header class="reader-panel__header">
+          <div>
+            <strong>摘录</strong>
+            <span class="reader-panel__subtitle">本机存储 · 可导出备份</span>
+          </div>
+          <button class="reader-icon-button" aria-label="关闭摘录" @click="panel = null">×</button>
+        </header>
+        <div class="reader-panel__body">
+          <ReaderExcerpts :key="scope" @navigate="onExcerptNavigate" @open-sync="panel = 'sync'" />
+        </div>
+      </section>
+    </Transition>
+
+    <Transition name="reader-panel">
+      <section
+        v-if="panel === 'sync'"
+        id="reader-sync-panel"
+        ref="sheetEl"
+        class="reader-panel reader-panel--sync"
+        role="dialog"
+        aria-label="云同步"
+      >
+        <div
+          class="reader-panel__handle"
+          aria-hidden="true"
+          @pointerdown="onHandleDown"
+          @pointermove="onHandleMove"
+          @pointerup="onHandleUp"
+          @pointercancel="onHandleUp"
+        />
+        <header class="reader-panel__header">
+          <div>
+            <strong>云同步</strong>
+            <span class="reader-panel__subtitle">数据存放在你自己的 OneDrive</span>
+          </div>
+          <button class="reader-icon-button" aria-label="关闭云同步" @click="panel = null">×</button>
+        </header>
+        <div class="reader-panel__body">
+          <ReaderSyncPanel :key="scope" />
         </div>
       </section>
     </Transition>

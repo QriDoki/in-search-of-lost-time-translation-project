@@ -17,7 +17,7 @@ import { buildBook } from './lib/content.mjs'
 import { listContentVersions } from './lib/content-version.mjs'
 import { createMarkdownRenderer } from 'vitepress'
 import { configureMarkdown } from '../site/.vitepress/markdown.mjs'
-import { extractSearchRecords } from '../site/.vitepress/paragraphs.mjs'
+import { extractSearchRecords, resetParagraphIdMap, rewriteParagraphIds } from '../site/.vitepress/paragraphs.mjs'
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const siteRoot = path.join(root, 'site')
@@ -180,6 +180,16 @@ async function main() {
   const searchOut = path.join(siteRoot, 'public', 'search')
   fs.rmSync(searchOut, { recursive: true, force: true })
   fs.mkdirSync(searchOut, { recursive: true })
+  const readerOut = path.join(siteRoot, 'public', 'reader')
+  fs.rmSync(readerOut, { recursive: true, force: true })
+  fs.mkdirSync(readerOut, { recursive: true })
+
+  // 位置编码 paragraphId（{章节键}_{非空白行序号:0000}）由 content.mjs 随稿件溯源算出，
+  // 无注册表、无构建期写入；这里只按页收集并注入渲染插件。
+  const paragraphIdMap = {} // { [version]: { [pageId]: string[] } }
+
+  // 强制 legacy 模式渲染（generated 映射尚未注入），搜索索引随后按序改写。
+  resetParagraphIdMap()
   const md = await createMarkdownRenderer(siteRoot, { html: true, config: configureMarkdown })
   const home = fs.readFileSync(path.join(siteRoot, 'index.md'), 'utf8')
 
@@ -201,13 +211,33 @@ async function main() {
         .replace('link: chapters/', `link: ${prefix}/chapters/`)
         .replace('link: toc.html', `link: ${prefix}/toc.html`))
     manifests[version] = siteManifest(book)
-    const records = book.pages.flatMap((page, index) => extractSearchRecords(
-      md.render(`${frontmatter(page, index, version)}${page.markdown}`, { relativePath: `${prefix ? prefix.slice(1) + '/' : ''}chapters/${page.id}.md` }), page,
-    ))
+
+    // 每页位置 ID 直接来自稿件溯源（copyright 排除）。
+    const relPrefix = prefix ? prefix.slice(1) + '/' : ''
+    const versionIds = {}
+    for (const page of book.pages) {
+      if (page.kind === 'copyright') continue
+      versionIds[page.id] = page.paragraphIds
+    }
+    paragraphIdMap[version] = versionIds
+
+    // 搜索索引：渲染后按序改写 <p> id 为位置 ID，再提取。
+    const records = book.pages.flatMap((page, index) => {
+      const html = md.render(`${frontmatter(page, index, version)}${page.markdown}`, { relativePath: `${relPrefix}chapters/${page.id}.md` })
+      const ids = versionIds[page.id]
+      const rewritten = ids ? rewriteParagraphIds(html, ids) : html
+      return extractSearchRecords(rewritten, page)
+    })
     fs.writeFileSync(path.join(searchOut, `${version}.json`), JSON.stringify({ version, records }))
+
+    // 浏览器端映射（legacy 迁移 + pid→page 路由）；copyright 不含。
+    fs.writeFileSync(path.join(readerOut, `paragraph-ids-${version}.json`), JSON.stringify({ schemaVersion: 1, version, pages: versionIds }))
     console.log(`[site] ${version} → ${book.stats.totalPages} 页 / ${records.length} 条搜索记录`)
     for (const warning of book.warnings) console.warn(`[site] 提示：${warning}`)
   }
+
+  // 渲染插件查表（gitignore）；vitepress build 进程懒加载此文件。
+  fs.writeFileSync(path.join(generatedOut, 'paragraph-ids.json'), JSON.stringify(paragraphIdMap))
   fs.writeFileSync(path.join(generatedOut, 'books.json'), JSON.stringify(manifests))
   fs.writeFileSync(path.join(generatedOut, 'book.json'), JSON.stringify(manifests.dev, null, 2))
 }
