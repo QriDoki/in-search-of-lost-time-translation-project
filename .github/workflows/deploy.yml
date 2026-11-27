@@ -76,6 +76,11 @@ jobs:
       - name: Test site and CI logic
         run: node --test scripts/tests/*.mjs
 
+      # vitest 组件/数据层测试经 book.ts 静态导入构建产物 generated/books.json（gitignore），
+      # 须先生成站点清单，否则 fresh checkout 下导入解析失败。
+      - name: Generate site manifests for tests
+        run: npm run gen
+
       - name: Test storage and components
         run: npx vitest run
 
