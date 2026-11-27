@@ -22,7 +22,8 @@ function fixture(t) {
 }
 
 test('★ EPUB footnote 输出快照：含脚注语法，无永久 ID / data-legacy', (t) => {
-  const book = buildBook({ root: fixture(t), annotationStyle: 'footnote' })
+  // 显式指定 fixture 版本，避免 CI 的 POLISH_VERSION 环境变量泄漏进 resolveContentVersion。
+  const book = buildBook({ root: fixture(t), version: '20260101000000', annotationStyle: 'footnote' })
   const unit = book.pages.find((p) => p.kind === 'unit')
   const md = unit.markdown
   // 脚注语法保留（pandoc 解析依赖）
